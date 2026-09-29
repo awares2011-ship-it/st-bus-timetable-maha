@@ -1,0 +1,29 @@
+division: ahilyanagar
+pdf: अहिल्यानगर_विभाग_वेळापत्रक.pdf
+page: 5
+board: Ahilyanagar | अहिल्यानगर
+depot: Tarakpur
+note: Tarakpur / Swastik bus stand, Ahilyanagar — departures, sheet 5. 'Sindhkhed' read as Sindkhed Raja (Buldhana); Selu = Selu (Parbhani).
+names:
+भोकर = Bhokar
+रोहा = Roha
+अलिबाग = Alibag
+सिंधखेड = Sindkhed Raja
+सोयगाव = Soegaon
+बोधवड = Bodwad
+बेळगाव = Belgaum
+सेलू = Selu
+rows:
+अहिल्यानगर - भोकर 07.45
+अहिल्यानगर - अक्कलकुवा 10.45
+अहिल्यानगर - रोहा 12.45
+अहिल्यानगर - अलिबाग 10.00
+अहिल्यानगर - भुसावळ 08.00 09.30 12.30
+अहिल्यानगर - मुक्ताईनगर 10.15 11.00
+अहिल्यानगर - सिंधखेड 02.00 07.30 08.15 13.15
+अहिल्यानगर - दोंडाईचा 05.30 06.30 14.00
+अहिल्यानगर - सोयगाव 08.30
+अहिल्यानगर - बोधवड 07.45
+अहिल्यानगर - सांगली 08.00 08.45 09.45
+अहिल्यानगर - बेळगाव 19.00
+अहिल्यानगर - सेलू 11.00

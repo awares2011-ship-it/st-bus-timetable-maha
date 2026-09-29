@@ -1,0 +1,1200 @@
+{
+ "division": "kolhapur",
+ "docType": "timetable",
+ "note": "Transcribed from MSRTC Kolhapur Agar printed timetable (updated 14.03.2025), pages 2-3. Departures from Kolhapur. Unverified.",
+ "trips": [
+  {
+   "from": "Kolhapur",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "22:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "22:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "23:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Vita",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Vita",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Vita",
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Indapur",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Vaduj",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Bhum",
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Shirdi",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Shirdi",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Chiplun",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Chiplun",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Chiplun",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Chiplun",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Dapoli",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Dapoli",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Dapoli",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Dapoli",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Dapoli",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Dahiwadi",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Dahiwadi",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Daund",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Daund",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Daund",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Khed",
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Atpadi",
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Atpadi",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Atpadi",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Atpadi",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Atpadi",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Atpadi",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Baramati",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Baramati",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Baramati",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Palus",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Palus",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Palus",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Phaltan",
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Nrusinhwadi",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Nrusinhwadi",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Nrusinhwadi",
+   "service": "Ordinary",
+   "departure": "10:05",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Nrusinhwadi",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Nrusinhwadi",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Nrusinhwadi",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Nrusinhwadi",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Nrusinhwadi",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Panhala",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Panhala",
+   "service": "Ordinary",
+   "departure": "09:05",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Panhala",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Panhala",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Panhala",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Panhala",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Panhala",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Panhala",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Panhala",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Panhala",
+   "service": "Ordinary",
+   "departure": "18:40",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Panhala",
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Panhala",
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Talegaon",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Talegaon",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Murgud",
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Murgud",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Murgud",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Murgud",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Murgud",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Murgud",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Murgud",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Murgud",
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Murgud",
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Murgud",
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Gargoti",
+   "service": "Ordinary",
+   "departure": "04:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Gargoti",
+   "service": "Ordinary",
+   "departure": "05:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Gargoti",
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Gargoti",
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Gargoti",
+   "service": "Express",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Gargoti",
+   "service": "Express",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Gargoti",
+   "service": "Express",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Gargoti",
+   "service": "Express",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Gargoti",
+   "service": "Express",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Gargoti",
+   "service": "Express",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Gargoti",
+   "service": "Express",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Gargoti",
+   "service": "Express",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Bachani",
+   "service": "Ordinary",
+   "departure": "09:05",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Bachani",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Bachani",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "09:50",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  },
+  {
+   "from": "Kolhapur",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Kolhapur"
+  }
+ ],
+ "unverified": true
+}

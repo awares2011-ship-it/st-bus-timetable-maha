@@ -1,0 +1,1248 @@
+{
+ "division": "pune",
+ "docType": "timetable",
+ "sourceDoc": "पुणे विभाग वेळापत्रक (Pune Division) — Shivajinagar depot / Shivajinagar bus stand, page 1",
+ "sourceDate": "2025-03-11",
+ "note": "Departure times hand-transcribed from the scanned MSRTC PDF page 1 (Shivajinagar bus stand). Only rows visible with high confidence on the scan are encoded. Additional pages await OCR (see scraper/ocr).",
+ "trips": [
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Ajra",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Atpadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:45",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Atpadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Atpadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Atpadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Alandi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Ichalkaranji",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Ichalkaranji",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Kavathe Mahankal",
+   "via": [
+    "Phaltan"
+   ],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Kurundwad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "04:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Kurundwad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "04:45",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Kurundwad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Kurundwad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Kurundwad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Kurundwad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Kurundwad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Kurundwad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Khed",
+   "via": [
+    "Mangaon",
+    "Mahad"
+   ],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Khed",
+   "via": [
+    "Bhor"
+   ],
+   "service": "Ordinary",
+   "departure": "22:35",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Khed",
+   "via": [
+    "Mangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Ganpatipule",
+   "via": [
+    "Mahabaleshwar"
+   ],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Gondavale",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Ghatgetalai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Chiplun",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Chiplun",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Chiplun",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Chiplun",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Chiplun",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Chiplun",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Chiplun",
+   "via": [
+    "Koyna"
+   ],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Chorvane",
+   "via": [
+    "Bhor"
+   ],
+   "service": "Ordinary",
+   "departure": "23:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Jat",
+   "via": [
+    "Vita"
+   ],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Jamkhandi",
+   "via": [
+    "Sangli"
+   ],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Jamkhandi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Dapoli",
+   "via": [
+    "Mahad"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Dapoli",
+   "via": [
+    "Khed"
+   ],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Dapoli",
+   "via": [
+    "Mahad"
+   ],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Devgad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Devgad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Dahitne",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Dahiwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mumbai Dadar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mumbai Dadar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mumbai Dadar",
+   "via": [
+    "Chinchwad"
+   ],
+   "service": "Shivneri",
+   "departure": "06:01",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mumbai Dadar",
+   "via": [
+    "Chinchwad"
+   ],
+   "service": "Shivneri",
+   "departure": "07:01",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mumbai Dadar",
+   "via": [
+    "Chinchwad"
+   ],
+   "service": "Shivneri",
+   "departure": "08:01",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mumbai Dadar",
+   "via": [
+    "Chinchwad"
+   ],
+   "service": "Shivneri",
+   "departure": "09:01",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mumbai Dadar",
+   "via": [
+    "Mantralaya"
+   ],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mumbai Dadar",
+   "via": [
+    "Mantralaya"
+   ],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Thane",
+   "via": [],
+   "service": "Shivneri",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Thane",
+   "via": [],
+   "service": "Shivneri",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Thane",
+   "via": [],
+   "service": "Shivneri",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Thane",
+   "via": [],
+   "service": "Shivneri",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Thane",
+   "via": [],
+   "service": "Shivneri",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Thane",
+   "via": [],
+   "service": "Shivneri",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Devrukh",
+   "via": [
+    "Chiplun"
+   ],
+   "service": "Ordinary",
+   "departure": "08:50",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Devrukh",
+   "via": [
+    "Chiplun"
+   ],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Tiware",
+   "via": [
+    "Chiplun"
+   ],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Palashi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Panaji",
+   "via": [],
+   "service": "Hirkani",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Panaji",
+   "via": [],
+   "service": "Hirkani",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Panaji",
+   "via": [
+    "Gaganbawada"
+   ],
+   "service": "Hirkani",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Panaji",
+   "via": [],
+   "service": "Hirkani",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Panaji",
+   "via": [
+    "Fonda"
+   ],
+   "service": "Hirkani",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Panaji",
+   "via": [],
+   "service": "Hirkani",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Panaji",
+   "via": [
+    "Fonda"
+   ],
+   "service": "Hirkani",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Panaji",
+   "via": [],
+   "service": "Hirkani",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Paragaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Paragaon Khandala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Phaltan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:35",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:05",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Baramati",
+   "via": [
+    "Murum"
+   ],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Belgaum",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Bhor",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Malvan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Malvan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Miraj",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mumbai Vashi",
+   "via": [],
+   "service": "Shivneri",
+   "departure": "00:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mumbai Vashi",
+   "via": [],
+   "service": "Shivneri",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mangalvedha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mhaswad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Mhaswad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Walki",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Walki",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Walchandnagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Vijaydurg",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Vijaydurg",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Vita",
+   "via": [
+    "Satara"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Vita",
+   "via": [
+    "Satara"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Vita",
+   "via": [
+    "Satara"
+   ],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Vita",
+   "via": [
+    "Satara"
+   ],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Yadrug",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Yadrug",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Yadrug",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Yadrug",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Vengurla",
+   "via": [
+    "Ajra"
+   ],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Vengurla",
+   "via": [
+    "Gaganbawada"
+   ],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Yelas",
+   "via": [
+    "Mahad"
+   ],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Shirur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Sawantwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "04:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Sawantwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Sawantwadi",
+   "via": [
+    "Ajra",
+    "Amboli"
+   ],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Saswad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Saswad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Saswad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Saswad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:45",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Ratnagiri",
+   "via": [
+    "Malkapur"
+   ],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Ratnagiri",
+   "via": [
+    "Chiplun"
+   ],
+   "service": "Ordinary",
+   "departure": "08:20",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Ratnagiri",
+   "via": [
+    "Kolhapur"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Ratnagiri",
+   "via": [
+    "Chiplun"
+   ],
+   "service": "Ordinary",
+   "departure": "20:05",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  },
+  {
+   "from": "Pune Shivajinagar",
+   "to": "Ratnagiri",
+   "via": [
+    "Malkapur"
+   ],
+   "service": "Ordinary",
+   "departure": "20:45",
+   "days": "DAILY",
+   "depot": "Shivajinagar"
+  }
+ ]
+}

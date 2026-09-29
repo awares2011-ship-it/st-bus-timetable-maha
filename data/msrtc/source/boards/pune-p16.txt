@@ -1,0 +1,30 @@
+division: pune
+pdf: पुणे_विभाग_वेळापत्रक.pdf
+page: 16
+board: Junnar | जुन्नर
+depot: Narayangaon
+note: Junnar bus stand board (Narayangaon depot), departures ('जाणारी वाहने') for the main routes. Many village rows in the lower half (Talmachi, Anjanavale, Ingalun, Devale, Tambe, Ghodegaon/Vikaswadi etc.) omitted — low resolution. Narayangaon every 15 min mini-bus note not expanded.
+names:
+वाशी = Mumbai Vashi
+आलमे = Alme
+पांगरीमाथा = Pangrimatha
+मांढरदेवी = Mandhardevi
+rows:
+जुन्नर - कुर्ला 12.00 15.00 15.30
+जुन्नर - मुंबई सेंट्रल 12.30 22.00
+जुन्नर - वाशी 09.30
+जुन्नर - ठाणे 14.15
+जुन्नर - परळ 16.00
+जुन्नर - भिमाशंकर 10.00
+जुन्नर - पंढरपूर 04.45 05.15 05.45
+जुन्नर - वाई 06.30 12.30
+जुन्नर - बारामती 07.00
+जुन्नर - मांढरदेवी 08.00
+जुन्नर - महाबळेश्वर 08.45
+जुन्नर - छत्रपती संभाजीनगर 07.15
+जुन्नर - शिरूर 08.30
+जुन्नर - पुणे 06.00 08.15 09.30 10.00 12.00 14.00 15.00
+जुन्नर - ओतूर 08.30 09.15 10.00 10.45 11.15 12.00 13.00 14.00 15.00 16.00 17.00
+जुन्नर - अकोले 10.15 14.30
+जुन्नर - आलमे 07.00 09.15 11.15 12.15 15.00 17.30
+जुन्नर - पांगरीमाथा 07.45

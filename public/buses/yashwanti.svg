@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 140">
+  <!-- Yashwanti midi: shorter orange/red bus for rural routes -->
+  <ellipse cx="160" cy="134" rx="110" ry="5" fill="#00000018"/>
+  <path d="M44 32 Q48 18 64 16 L264 16 Q280 16 282 30 L282 112 Q282 116 276 116 L52 116 Q44 116 44 112Z" fill="white" stroke="#d1d5db" stroke-width="0.8"/>
+  <rect x="48" y="16" width="230" height="18" rx="3" fill="#0d1117"/>
+  <text x="163" y="27" font-family="'Noto Sans Devanagari',Arial,sans-serif" font-size="7.5" font-weight="bold" fill="#fbbf24" text-anchor="middle">महाराष्ट्र राज्य मार्ग परिवहन</text>
+  <rect x="44" y="34" width="238" height="9" fill="#d97706"/>
+  <text x="163" y="41" font-family="'Noto Sans Devanagari',Arial,sans-serif" font-size="7" font-weight="bold" fill="white" text-anchor="middle">यशवंती (मिडी)</text>
+  <rect x="52"  y="46" width="36" height="30" rx="3" fill="#1e3a8a" opacity="0.75"/>
+  <rect x="94"  y="46" width="36" height="30" rx="3" fill="#1e3a8a" opacity="0.75"/>
+  <rect x="136" y="46" width="36" height="30" rx="3" fill="#1e3a8a" opacity="0.75"/>
+  <rect x="178" y="46" width="36" height="30" rx="3" fill="#1e3a8a" opacity="0.75"/>
+  <rect x="220" y="46" width="16" height="30" rx="2" fill="#1e3a8a" opacity="0.75"/>
+  <rect x="52"  y="47" width="12" height="5" rx="1" fill="white" opacity="0.2"/>
+  <rect x="94"  y="47" width="12" height="5" rx="1" fill="white" opacity="0.2"/>
+  <rect x="136" y="47" width="12" height="5" rx="1" fill="white" opacity="0.2"/>
+  <rect x="178" y="47" width="12" height="5" rx="1" fill="white" opacity="0.2"/>
+  <circle cx="163" cy="61" r="11" fill="white" stroke="#fbbf24" stroke-width="1.5"/>
+  <circle cx="163" cy="61" r="8" fill="#1e3a8a"/>
+  <text x="163" y="65" font-family="Arial,sans-serif" font-size="5.5" font-weight="bold" fill="white" text-anchor="middle">ST</text>
+  <rect x="44" y="78" width="238" height="3" fill="#fbbf24"/>
+  <path d="M44 81 L282 81 L282 112 Q276 116 268 116 L52 116 Q44 116 44 112Z" fill="#d97706"/>
+  <rect x="50"  y="85" width="40" height="16" rx="2" fill="#b45309" stroke="#92400e" stroke-width="0.5"/>
+  <rect x="96"  y="85" width="40" height="16" rx="2" fill="#b45309" stroke="#92400e" stroke-width="0.5"/>
+  <rect x="142" y="85" width="40" height="16" rx="2" fill="#b45309" stroke="#92400e" stroke-width="0.5"/>
+  <rect x="188" y="85" width="40" height="16" rx="2" fill="#b45309" stroke="#92400e" stroke-width="0.5"/>
+  <rect x="244" y="16" width="38" height="100" rx="4" fill="#f8fafc"/>
+  <rect x="246" y="26" width="34" height="42" rx="3" fill="#93c5fd" opacity="0.7"/>
+  <line x1="248" y1="68" x2="278" y2="48" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <rect x="232" y="44" width="12" height="40" rx="1" fill="#e5e7eb" stroke="#9ca3af" stroke-width="0.5"/>
+  <line x1="238" y1="44" x2="238" y2="84" stroke="#9ca3af" stroke-width="0.8"/>
+  <rect x="246" y="92" width="34" height="12" rx="2" fill="#d97706"/>
+  <circle cx="255" cy="98" r="5" fill="white" stroke="#9ca3af" stroke-width="0.5"/>
+  <circle cx="269" cy="98" r="5" fill="white" stroke="#9ca3af" stroke-width="0.5"/>
+  <circle cx="255" cy="98" r="3" fill="#fef9c3"/>
+  <circle cx="269" cy="98" r="3" fill="#fef9c3"/>
+  <rect x="247" y="107" width="30" height="7" rx="1" fill="#fef08a" stroke="#374151" stroke-width="0.5"/>
+  <text x="262" y="112" font-family="Arial,sans-serif" font-size="4.5" font-weight="bold" fill="#1f2937" text-anchor="middle">MH XX XXXX</text>
+  <circle cx="88"  cy="120" r="16" fill="#111827"/>
+  <circle cx="88"  cy="120" r="10" fill="#374151"/>
+  <circle cx="88"  cy="120" r="5"  fill="#6b7280"/>
+  <circle cx="88"  cy="120" r="2"  fill="#9ca3af"/>
+  <circle cx="238" cy="120" r="16" fill="#111827"/>
+  <circle cx="238" cy="120" r="10" fill="#374151"/>
+  <circle cx="238" cy="120" r="5"  fill="#6b7280"/>
+  <circle cx="238" cy="120" r="2"  fill="#9ca3af"/>
+  <path d="M66 112 Q88 104 110 112"  fill="white" stroke="#e5e7eb" stroke-width="0.5"/>
+  <path d="M216 112 Q238 104 260 112" fill="white" stroke="#e5e7eb" stroke-width="0.5"/>
+  <rect x="282" y="28" width="11" height="7" rx="2" fill="#4b5563" stroke="#374151" stroke-width="0.5"/>
+  <line x1="287" y1="35" x2="287" y2="40" stroke="#4b5563" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,2370 @@
+{
+ "division": "nanded",
+ "docType": "timetable",
+ "sourceDoc": "नांदेड विभाग वेळापत्रक (Nanded Division) — Nanded depot, pages 1-3",
+ "sourceDate": "2025-03-01",
+ "note": "Departure times hand-transcribed from the scanned MSRTC PDF (Nanded depot). Times from pages 1-3 of the Nanded division timetable.",
+ "trips": [
+  {
+   "from": "Nanded",
+   "to": "Hyderabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Hyderabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Hyderabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Hyderabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Hyderabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Hyderabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Hyderabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Hyderabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Hyderabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nizamabad",
+   "via": [
+    "Bodhan"
+   ],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Bodhan",
+   "via": [
+    "Sahuda"
+   ],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [
+    "Narsi",
+    "Nayagaon",
+    "Nandiv",
+    "Basmat",
+    "Pimpri",
+    "Jintur",
+    "Jalna"
+   ],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [
+    "Narsi",
+    "Nayagaon",
+    "Nandiv",
+    "Basmat",
+    "Pimpri",
+    "Jintur",
+    "Jalna"
+   ],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [
+    "Narsi",
+    "Nayagaon",
+    "Nandiv",
+    "Basmat",
+    "Pimpri",
+    "Jintur",
+    "Jalna"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [
+    "Narsi",
+    "Nayagaon",
+    "Nandiv",
+    "Basmat",
+    "Pimpri",
+    "Jintur",
+    "Jalna"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [
+    "Narsi",
+    "Nayagaon",
+    "Nandiv",
+    "Basmat",
+    "Pimpri",
+    "Jintur",
+    "Jalna"
+   ],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [
+    "Narsi",
+    "Nayagaon",
+    "Nandiv",
+    "Basmat",
+    "Pimpri",
+    "Jintur",
+    "Jalna"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [
+    "Narsi",
+    "Nayagaon",
+    "Nandiv",
+    "Basmat",
+    "Pimpri",
+    "Jintur",
+    "Jalna"
+   ],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pandharpur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur",
+    "Solapur"
+   ],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nashik",
+   "via": [
+    "Chikhli"
+   ],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pune",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pune",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pune",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pune",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pune",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pune",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pune",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pune",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pune",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pune",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pune",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pune",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pune",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Pune",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Solapur",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Solapur",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Solapur",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Solapur",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Solapur",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Solapur",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Solapur",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Solapur",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Solapur",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Solapur",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Solapur",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Solapur",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Solapur",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Solapur",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Latur",
+   "via": [
+    "Narsi",
+    "Mukhed"
+   ],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Latur",
+   "via": [
+    "Narsi",
+    "Mukhed"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Latur",
+   "via": [
+    "Narsi",
+    "Mukhed"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Latur",
+   "via": [
+    "Narsi",
+    "Mukhed"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Latur",
+   "via": [
+    "Narsi",
+    "Mukhed"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Latur",
+   "via": [
+    "Narsi",
+    "Mukhed"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Latur",
+   "via": [
+    "Narsi",
+    "Mukhed"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Latur",
+   "via": [
+    "Narsi",
+    "Mukhed"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Latur",
+   "via": [
+    "Narsi",
+    "Mukhed"
+   ],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Latur",
+   "via": [
+    "Narsi",
+    "Mukhed"
+   ],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Latur",
+   "via": [
+    "Narsi",
+    "Mukhed"
+   ],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Latur",
+   "via": [
+    "Narsi",
+    "Mukhed"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Latur",
+   "via": [
+    "Narsi",
+    "Mukhed"
+   ],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Latur",
+   "via": [
+    "Narsi",
+    "Mukhed"
+   ],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mukhed",
+   "via": [
+    "Narsi"
+   ],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mukhed",
+   "via": [
+    "Narsi"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mukhed",
+   "via": [
+    "Narsi"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mukhed",
+   "via": [
+    "Narsi"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mukhed",
+   "via": [
+    "Narsi"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mukhed",
+   "via": [
+    "Narsi"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mukhed",
+   "via": [
+    "Narsi"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mukhed",
+   "via": [
+    "Narsi"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mukhed",
+   "via": [
+    "Narsi"
+   ],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mukhed",
+   "via": [
+    "Narsi"
+   ],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mukhed",
+   "via": [
+    "Narsi"
+   ],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mukhed",
+   "via": [
+    "Narsi"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mukhed",
+   "via": [
+    "Narsi"
+   ],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mukhed",
+   "via": [
+    "Narsi"
+   ],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Kolhapur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Kolhapur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Kolhapur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Kolhapur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Kolhapur",
+   "via": [
+    "Narsi",
+    "Mukhed",
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Nagpur",
+   "via": [
+    "Yavatmal"
+   ],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Shirdi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Shirdi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Shirdi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Shirdi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mumbai",
+   "via": [
+    "Pune"
+   ],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mumbai",
+   "via": [
+    "Pune"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mumbai",
+   "via": [
+    "Pune"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mumbai",
+   "via": [
+    "Pune"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mumbai",
+   "via": [
+    "Pune"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mumbai",
+   "via": [
+    "Pune"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Mumbai",
+   "via": [
+    "Pune"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Nanded"
+  },
+  {
+   "from": "Nanded",
+   "to": "Kolhapur",
+   "via": [
+    "Pandharpur",
+    "Sangli"
+   ],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Nanded"
+  }
+ ]
+}

@@ -1,0 +1,1750 @@
+{
+  "docType": "timetable",
+  "note": "Transcribed from MSRTC Vengurle Agar timetable (Sindhudurg). Departures from Vengurle. Unverified.",
+  "trips": [
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "06:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "07:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "08:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "10:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "15:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "18:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "09:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "13:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Vajrath",
+      "service": "Ordinary",
+      "departure": "18:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "08:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "09:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "09:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "10:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "12:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "14:45",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "16:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "17:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "18:05",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "19:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Hodavada Vajrath",
+      "service": "Ordinary",
+      "departure": "06:55",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Aajivade",
+      "service": "Ordinary",
+      "departure": "07:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "11:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "13:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "05:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "07:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "08:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "08:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "11:05",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "11:45",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "12:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "13:45",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "14:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "15:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "17:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "18:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "08:35",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "10:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "11:35",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "13:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "14:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "14:35",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "15:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "16:55",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "17:45",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Tulsa",
+      "service": "Ordinary",
+      "departure": "20:25",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "06:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "06:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "08:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "08:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "09:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "10:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "10:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "12:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "14:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "14:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "15:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "16:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "18:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "18:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "07:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "07:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "08:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "09:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "11:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "12:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "14:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "14:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "15:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "18:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kudal Math",
+      "service": "Ordinary",
+      "departure": "08:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kudal Math",
+      "service": "Ordinary",
+      "departure": "09:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kudal Math",
+      "service": "Ordinary",
+      "departure": "10:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kudal Math",
+      "service": "Ordinary",
+      "departure": "11:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kudal Math",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kudal Math",
+      "service": "Ordinary",
+      "departure": "12:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kudal Math",
+      "service": "Ordinary",
+      "departure": "14:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kudal Math",
+      "service": "Ordinary",
+      "departure": "14:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kudal Math",
+      "service": "Ordinary",
+      "departure": "18:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kudal Math",
+      "service": "Ordinary",
+      "departure": "19:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kudal Math",
+      "service": "Ordinary",
+      "departure": "15:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kudal Math",
+      "service": "Ordinary",
+      "departure": "17:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kankavli Gaganbawada",
+      "service": "Ordinary",
+      "departure": "07:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kankavli Gaganbawada",
+      "service": "Ordinary",
+      "departure": "08:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kankavli Gaganbawada",
+      "service": "Ordinary",
+      "departure": "09:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kankavli Gaganbawada",
+      "service": "Ordinary",
+      "departure": "11:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kankavli Gaganbawada",
+      "service": "Ordinary",
+      "departure": "13:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Kankavli Gaganbawada",
+      "service": "Ordinary",
+      "departure": "14:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Gaganbawada Math",
+      "service": "Ordinary",
+      "departure": "12:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Gaganbawada Math",
+      "service": "Ordinary",
+      "departure": "13:35",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Gaganbawada Math",
+      "service": "Ordinary",
+      "departure": "18:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Gaganbawada Math",
+      "service": "Ordinary",
+      "departure": "19:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Gaganbawada Math",
+      "service": "Ordinary",
+      "departure": "21:55",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Aarboni Ajara",
+      "service": "Ordinary",
+      "departure": "05:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Aarboni Ajara",
+      "service": "Ordinary",
+      "departure": "08:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Aarboni Ajara",
+      "service": "Ordinary",
+      "departure": "13:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Aarboni Ajara",
+      "service": "Ordinary",
+      "departure": "18:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Aarboni Ajara",
+      "service": "Ordinary",
+      "departure": "20:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Parel",
+      "service": "Ordinary",
+      "departure": "05:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Parel",
+      "service": "Ordinary",
+      "departure": "19:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Vasco",
+      "service": "Ordinary",
+      "departure": "05:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Vasco",
+      "service": "Ordinary",
+      "departure": "06:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Vasco",
+      "service": "Ordinary",
+      "departure": "08:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Vasco",
+      "service": "Ordinary",
+      "departure": "10:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Vasco",
+      "service": "Ordinary",
+      "departure": "11:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Vasco",
+      "service": "Ordinary",
+      "departure": "13:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Vasco",
+      "service": "Ordinary",
+      "departure": "14:45",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Vasco",
+      "service": "Ordinary",
+      "departure": "15:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Vasco Korjai",
+      "service": "Ordinary",
+      "departure": "10:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "11:45",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "13:05",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "14:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "16:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "18:55",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "19:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "06:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "07:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "07:45",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "07:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "08:25",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "09:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "10:45",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "12:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "13:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "14:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "15:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "16:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "16:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "17:25",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "18:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "07:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "09:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "09:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "11:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "11:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "13:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "15:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "17:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "17:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "18:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "19:35",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Devgad Daboli",
+      "service": "Ordinary",
+      "departure": "20:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Pal Bambhar",
+      "service": "Ordinary",
+      "departure": "06:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Pal Bambhar",
+      "service": "Ordinary",
+      "departure": "10:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Pal Bambhar",
+      "service": "Ordinary",
+      "departure": "12:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Pal Bambhar",
+      "service": "Ordinary",
+      "departure": "14:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Pal Bambhar",
+      "service": "Ordinary",
+      "departure": "17:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Pal Bambhar",
+      "service": "Ordinary",
+      "departure": "06:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Pal Bambhar",
+      "service": "Ordinary",
+      "departure": "07:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Pal Bambhar",
+      "service": "Ordinary",
+      "departure": "08:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Pal Bambhar",
+      "service": "Ordinary",
+      "departure": "11:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Pal Bambhar",
+      "service": "Ordinary",
+      "departure": "13:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Pal Bambhar",
+      "service": "Ordinary",
+      "departure": "15:35",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Annasurpal",
+      "service": "Ordinary",
+      "departure": "09:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Annasurpal",
+      "service": "Ordinary",
+      "departure": "10:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "09:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Sawantwadi",
+      "service": "Ordinary",
+      "departure": "17:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Wayangani",
+      "service": "Ordinary",
+      "departure": "06:45",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Wayangani",
+      "service": "Ordinary",
+      "departure": "08:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Wayangani",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Wayangani",
+      "service": "Ordinary",
+      "departure": "13:55",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Wayangani",
+      "service": "Ordinary",
+      "departure": "16:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Wayangani",
+      "service": "Ordinary",
+      "departure": "07:25",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Wayangani",
+      "service": "Ordinary",
+      "departure": "09:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Wayangani",
+      "service": "Ordinary",
+      "departure": "12:45",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Wayangani",
+      "service": "Ordinary",
+      "departure": "14:35",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Wayangani",
+      "service": "Ordinary",
+      "departure": "17:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Belgaum",
+      "service": "Ordinary",
+      "departure": "16:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Belgaum",
+      "service": "Ordinary",
+      "departure": "15:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Harichirangiri",
+      "service": "Ordinary",
+      "departure": "08:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Harichirangiri",
+      "service": "Ordinary",
+      "departure": "09:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Harichirangiri",
+      "service": "Ordinary",
+      "departure": "11:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Harichirangiri",
+      "service": "Ordinary",
+      "departure": "16:25",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Harichirangiri",
+      "service": "Ordinary",
+      "departure": "17:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Harichirangiri",
+      "service": "Ordinary",
+      "departure": "09:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Harichirangiri",
+      "service": "Ordinary",
+      "departure": "10:40",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Harichirangiri",
+      "service": "Ordinary",
+      "departure": "12:35",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Harichirangiri",
+      "service": "Ordinary",
+      "departure": "17:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Harichirangiri",
+      "service": "Ordinary",
+      "departure": "18:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "06:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "06:45",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "07:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "08:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "09:35",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "10:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "10:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "11:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "12:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "13:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "14:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "15:50",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "16:20",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "16:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "16:55",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "17:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "18:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "19:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "19:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "20:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "07:35",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "07:45",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "08:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "08:15",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "08:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "10:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "10:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "11:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "11:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "11:55",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "13:25",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "13:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "14:45",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "16:10",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "16:30",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "17:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "17:55",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    },
+    {
+      "from": "Vengurle",
+      "to": "Shiroda Redi",
+      "service": "Ordinary",
+      "departure": "19:00",
+      "days": "DAILY",
+      "depot": "Vengurle"
+    }
+  ]
+}

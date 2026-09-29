@@ -1,0 +1,2592 @@
+{
+ "division": "sindhudurg",
+ "docType": "timetable",
+ "note": "Transcribed from MSRTC Kankavli Agar timetable (Sindhudurg). Departures from Kankavli. Unverified.",
+ "trips": [
+  {
+   "from": "Kankavli",
+   "to": "Vaibhavwadi",
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vaibhavwadi",
+   "service": "Ordinary",
+   "departure": "07:05",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vaibhavwadi",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vaibhavwadi",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vaibhavwadi",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vaibhavwadi",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vaibhavwadi",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vaibhavwadi",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vaibhavwadi",
+   "service": "Ordinary",
+   "departure": "18:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "05:35",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "05:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "07:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "09:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "14:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sakedi",
+   "service": "Ordinary",
+   "departure": "05:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sakedi",
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sakedi",
+   "service": "Ordinary",
+   "departure": "17:35",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Achara Banda",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Achara Banda",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Achara Banda",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Achara Banda",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Achara Banda",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Bandivade",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Bandivade",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Bandivade",
+   "service": "Ordinary",
+   "departure": "18:25",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Masure",
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Masure",
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Masure",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nirom",
+   "service": "Ordinary",
+   "departure": "07:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nirom",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nirom",
+   "service": "Ordinary",
+   "departure": "18:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Shirgav",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Shirgav",
+   "service": "Ordinary",
+   "departure": "09:40",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Shirgav",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Humberne",
+   "service": "Ordinary",
+   "departure": "07:25",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Humberne",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Humberne",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Humberne",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawdav",
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawdav",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawdav",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawdav",
+   "service": "Ordinary",
+   "departure": "16:40",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Aynal",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Aynal",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Aynal",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Aynal",
+   "service": "Ordinary",
+   "departure": "08:40",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Mitambadeg",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Tarandale",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Tarandale",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Tarandale",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Tarandale",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nardave",
+   "service": "Ordinary",
+   "departure": "07:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nardave",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nardave",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nardave",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nardave",
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nardave",
+   "service": "Ordinary",
+   "departure": "12:20",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nardave",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nardave",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nardave",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nardave",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nardave",
+   "service": "Ordinary",
+   "departure": "09:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nardave",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Digavale",
+   "service": "Ordinary",
+   "departure": "07:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Digavale",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Digavale",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Digavale",
+   "service": "Ordinary",
+   "departure": "18:35",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nadhal",
+   "service": "Ordinary",
+   "departure": "05:20",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nadhal",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nadhal",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kunbhawade",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kunbhawade",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kunbhawade",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Bhirwande",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Bhirwande",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Bhirwande",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Bhirwande",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Karanje",
+   "service": "Ordinary",
+   "departure": "07:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Karanje",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Karanje",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Karanje",
+   "service": "Ordinary",
+   "departure": "14:20",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Karanje",
+   "service": "Ordinary",
+   "departure": "15:55",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Karanje",
+   "service": "Ordinary",
+   "departure": "17:40",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nagve",
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nagve",
+   "service": "Ordinary",
+   "departure": "07:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nagve",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nagve",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Nagve",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Bhatwadi",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Bhatwadi",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Bhatwadi",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Dariste",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Dariste",
+   "service": "Ordinary",
+   "departure": "09:20",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Dariste",
+   "service": "Ordinary",
+   "departure": "09:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Dariste",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Dariste",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Dariste",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Dariste",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kilos",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kilos",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kilos",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ghatage",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ghatage",
+   "service": "Ordinary",
+   "departure": "10:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ghatage",
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ghatage",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ghatage",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Asgani",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Asgani",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Asgani",
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kaswan",
+   "service": "Ordinary",
+   "departure": "07:20",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kaswan",
+   "service": "Ordinary",
+   "departure": "10:20",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ambrad",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ambrad",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pokharan",
+   "service": "Ordinary",
+   "departure": "09:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pokharan",
+   "service": "Ordinary",
+   "departure": "11:40",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pokharan",
+   "service": "Ordinary",
+   "departure": "13:20",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pokharan",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pokharan",
+   "service": "Ordinary",
+   "departure": "19:40",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Shirwal",
+   "service": "Ordinary",
+   "departure": "07:20",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Shirwal",
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kalsuli",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kalsuli",
+   "service": "Ordinary",
+   "departure": "09:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kalsuli",
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kalsuli",
+   "service": "Ordinary",
+   "departure": "12:40",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kalsuli",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kalsuli",
+   "service": "Ordinary",
+   "departure": "17:35",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kalsuli",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kalsuli",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kalsuli",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kalsuli",
+   "service": "Ordinary",
+   "departure": "18:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Mumbai Central",
+   "service": "Ordinary",
+   "departure": "09:25",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Borivali",
+   "service": "Ordinary",
+   "departure": "14:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "07:35",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "08:05",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "12:05",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "13:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "12:05",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "13:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Dapoli",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devrukh",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devrukh",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Rajapur",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Rajapur",
+   "service": "Ordinary",
+   "departure": "19:05",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kharepatan",
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kharepatan",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kharepatan",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kharepatan",
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Tarla",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Tarla",
+   "service": "Ordinary",
+   "departure": "14:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Tarla",
+   "service": "Ordinary",
+   "departure": "09:05",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vijaydurg",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vijaydurg",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vijaydurg",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vijaydurg",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "16:05",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "08:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "11:05",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "15:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "18:05",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Maid",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Maid",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Maid",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Maid",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Bharani Aaynal",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Bharani Aaynal",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Bharani Aaynal",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Bharani Aaynal",
+   "service": "Ordinary",
+   "departure": "18:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "01:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "02:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "03:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "04:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "04:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "05:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "07:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "08:05",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "09:05",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "11:05",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "14:40",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "15:20",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "16:08",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "17:10",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "07:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sindhudurg Nagari",
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sindhudurg Nagari",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sindhudurg Nagari",
+   "service": "Ordinary",
+   "departure": "07:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sindhudurg Nagari",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sindhudurg Nagari",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sindhudurg Nagari",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sindhudurg Nagari",
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sindhudurg Nagari",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Sindhudurg Nagari",
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "02:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "00:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "11:35",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "18:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "08:35",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "17:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "05:05",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "09:20",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "12:35",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "07:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "10:35",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "12:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "18:05",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Latur",
+   "service": "Ordinary",
+   "departure": "05:50",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Latur",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Latur",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Akkalkot",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Akkalkot",
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Dharashiv",
+   "service": "Ordinary",
+   "departure": "21:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vijapur",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Vijapur",
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Mahabaleshwar",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "02:15",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "00:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  },
+  {
+   "from": "Kankavli",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kankavli"
+  }
+ ],
+ "unverified": true
+}

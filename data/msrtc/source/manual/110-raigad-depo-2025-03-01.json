@@ -1,0 +1,2042 @@
+{
+ "division": "raigad",
+ "docType": "timetable",
+ "sourceDoc": "रायगड विभाग वेळापत्रक (Raigad Division) — Alibag depot / Poladpur depot, pages 1-3",
+ "sourceDate": "2025-03-01",
+ "note": "Departure times hand-transcribed from the scanned MSRTC PDF (Alibag & Poladpur depots). Times from pages 1-3 of the Raigad division timetable.",
+ "trips": [
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Pune",
+   "via": [
+    "Panvel",
+    "Mumbai"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Pune",
+   "via": [
+    "Panvel",
+    "Mumbai"
+   ],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Pune",
+   "via": [
+    "Panvel",
+    "Mumbai"
+   ],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Pune",
+   "via": [
+    "Panvel",
+    "Mumbai"
+   ],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Pune",
+   "via": [
+    "Panvel",
+    "Mumbai"
+   ],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Karjat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Karjat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Karjat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Karjat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Karjat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Karjat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Karjat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Karjat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Vashi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:55",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Uran",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Uran",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Panvel",
+   "via": [
+    "Parl"
+   ],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Khar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Borivali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Borivali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Borivali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Borivali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Borivali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Borivali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Kalyan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Kalyan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Nalasopar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Bhayu",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Satara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Shirdi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Shirdi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Shirpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Kihim",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Kihim",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Kihim",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Saswad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Saswad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Saswad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Saswad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Saswad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Manukule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Manukule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Manukule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Manukule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Manukule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Thal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:55",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Navgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Navgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:55",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Dahanukarwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Dahanukarwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:05",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Dahanukarwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:05",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Dahanukarwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:35",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Dahanukarwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:35",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Shendur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Shendur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Shendur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Shendur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Nagotne",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Nagotne",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Nagotne",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Nagotne",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Nagotne",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Shrivardhan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Pali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Pali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Pali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Pali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Kelve",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Kelve",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:35",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Kelve",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mandapeshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mandapeshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mandapeshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mandapeshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mandapeshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Neral",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Neral",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Neral",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Tala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Kashedi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Kashedi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Adivali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Adivali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mhasla",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mhasla",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Mhasla",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Dapoli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Rajapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Rajapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Rajapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Rajapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Rajapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Rajapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:20",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Rajapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:14",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Vavde",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Vavde",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Vavde",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Vavde",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Vavde",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Alibag"
+  },
+  {
+   "from": "Alibag",
+   "to": "Vavde",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Alibag"
+  }
+ ]
+}

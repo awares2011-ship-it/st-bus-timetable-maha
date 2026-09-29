@@ -1,0 +1,54 @@
+{
+ "docType": "timetable-page", "division": "dharashiv", "pdf": "धाराशिव_विभाग_बसस्थानक_वेळापत्रक.pdf", "page": "11-12",
+ "note": "p11: Lohara bus stand (Tuljapur depot); Dharashiv hourly 07:00-19:45 not expanded. p12: Andur bus stand from 1 April 2025. On Andur's Pune/Hyderabad rows each time is tagged with the bus's origin (via Andur) — recorded as Andur→Pune/Hyderabad. 'Tuljapur-Umarga… Chincholi' and 'Latur marge Lohara Makani' rows recorded under the final place. Solapur/Umarga every 30 min not expanded.",
+ "blocks": [
+  {
+   "from": "Lohara", "fromMr": "लोहारा", "depot": "Tuljapur", "page": 11,
+   "rows": [
+    ["Tuljapur", "तुळजापूर", "06:00 08:00 08:30 09:15 10:15 10:30 11:30 12:30 14:15 15:30 16:30 17:00 18:30"],
+    ["Umarga", "उमरगा", "11:00 11:15 12:00 14:15 15:30 16:30 16:45 17:00"],
+    ["Solapur", "सोलापूर", "06:15 09:30"],
+    ["Latur", "लातूर", "06:30 09:30 18:00"],
+    ["Pune", "पुणे", "10:30 20:30"],
+    ["Borivali", "बोरीवली", "16:30"],
+    ["Kanegaon", "कानेगाव", "09:30 11:30 16:00"],
+    ["Sastur", "सास्तुर", "10:15 15:15 19:30"],
+    ["Basavakalyan", "बसवकल्याण", "16:45"],
+    ["Nagur", "नागूर", "08:30 10:15 14:45 15:45"],
+    ["Bhatagali", "भातागळी", "08:30 16:00"],
+    ["Ashta (Mod)", "आष्टा (मोड)", "09:30 11:00 14:00"]
+   ]
+  },
+  {
+   "from": "Andur", "fromMr": "अणदूर", "depot": "Tuljapur", "page": 12,
+   "rows": [
+    ["Pune", "पुणे", "06:45 09:45 10:15 11:30 11:45 12:30 13:00 16:00"],
+    ["Hyderabad", "हैद्राबाद", "14:00 15:00 17:00 15:15"],
+    ["Chincholi (Andur)", "चिंचोली", "07:00 08:45 10:00 16:00 17:30"],
+    ["Makani", "माकणी", "05:30 16:45 15:00"],
+    ["Deglur", "देगलूर", "09:15"],
+    ["Kolhapur", "कोल्हापूर", "07:15"],
+    ["Pandharpur", "पंढरपूर", "10:00 10:45"],
+    ["Jat", "जत", "06:30 07:00 07:45 11:30"],
+    ["Shirala", "शिराळा", "12:35"],
+    ["Sangola", "सांगोला", "13:10"],
+    ["Baramati", "बारामती", "13:45"],
+    ["Akluj", "अकलूज", "14:10 15:00"],
+    ["Dadar", "दादर", "09:50"],
+    ["Thane", "ठाणे", "08:00 10:00 10:45"],
+    ["Bhiwandi", "भिवंडी", "18:00 19:00"],
+    ["Borivali", "बोरीवली", "20:15"],
+    ["Mumbai Central", "मुंबई", "17:10"],
+    ["Murum", "मुरूम", "09:30 12:30"],
+    ["Mumbai Kurla", "मुंबई (कुर्ला)", "15:30"],
+    ["Sarati", "सराटी", "09:00 16:45"],
+    ["Dahitna", "दहिटणा", "10:10"],
+    ["Akkalkot", "अक्कलकोट", "14:45"],
+    ["Naldurg", "नळदुर्ग", "08:30 11:30 12:30 14:00 15:30 17:00 18:30"],
+    ["Solapur", "सोलापूर", "09:00 12:00 13:00 14:30 16:00 17:30 19:10"],
+    ["Udgir", "उदगीर", "14:30"],
+    ["Nilanga", "निलंगा", "10:30 16:15 15:00"]
+   ]
+  }
+ ]
+}

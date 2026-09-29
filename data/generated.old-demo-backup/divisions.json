@@ -1,0 +1,86 @@
+[
+  {
+    "id": "pune",
+    "name": "Pune",
+    "nameMr": "पुणे",
+    "nameHi": "पुणे",
+    "slug": "pune"
+  },
+  {
+    "id": "mumbai",
+    "name": "Mumbai",
+    "nameMr": "मुंबई",
+    "nameHi": "मुंबई",
+    "slug": "mumbai"
+  },
+  {
+    "id": "thane",
+    "name": "Thane",
+    "nameMr": "ठाणे",
+    "nameHi": "ठाणे",
+    "slug": "thane"
+  },
+  {
+    "id": "nashik",
+    "name": "Nashik",
+    "nameMr": "नाशिक",
+    "nameHi": "नासिक",
+    "slug": "nashik"
+  },
+  {
+    "id": "nagpur",
+    "name": "Nagpur",
+    "nameMr": "नागपूर",
+    "nameHi": "नागपुर",
+    "slug": "nagpur"
+  },
+  {
+    "id": "kolhapur",
+    "name": "Kolhapur",
+    "nameMr": "कोल्हापूर",
+    "nameHi": "कोल्हापुर",
+    "slug": "kolhapur"
+  },
+  {
+    "id": "satara",
+    "name": "Satara",
+    "nameMr": "सातारा",
+    "nameHi": "सातारा",
+    "slug": "satara"
+  },
+  {
+    "id": "sangli",
+    "name": "Sangli",
+    "nameMr": "सांगली",
+    "nameHi": "सांगली",
+    "slug": "sangli"
+  },
+  {
+    "id": "solapur",
+    "name": "Solapur",
+    "nameMr": "सोलापूर",
+    "nameHi": "सोलापुर",
+    "slug": "solapur"
+  },
+  {
+    "id": "ahilyanagar",
+    "name": "Ahilyanagar (Ahmednagar)",
+    "nameMr": "अहिल्यानगर (अहमदनगर)",
+    "nameHi": "अहिल्यानगर (अहमदनगर)",
+    "slug": "ahilyanagar"
+  },
+  {
+    "id": "sambhajinagar",
+    "name": "Chhatrapati Sambhajinagar (Aurangabad)",
+    "nameMr": "छत्रपती संभाजीनगर (औरंगाबाद)",
+    "nameHi": "छत्रपति संभाजीनगर (औरंगाबाद)",
+    "slug": "sambhajinagar"
+  },
+  {
+    "id": "ratnagiri",
+    "name": "Ratnagiri",
+    "nameMr": "रत्नागिरी",
+    "nameHi": "रत्नागिरी",
+    "slug": "ratnagiri"
+  }
+]

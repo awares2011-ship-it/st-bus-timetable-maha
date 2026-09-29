@@ -1,0 +1,21 @@
+division: pune
+pdf: पुणे_विभाग_वेळापत्रक.pdf
+page: 45
+board: Pune Shivajinagar | शिवाजीनगर
+depot: Shivajinagar
+note: Shivajinagar (Wakdewadi) bus stand board, last sheet (board total 718 departures). Belgaum Hirkani. Paragaon, Ghadgetale omitted (ambiguous villages).
+names:
+पुसद = Pusad
+बेळगाव = Belgaum
+यवतमाळ = Yavatmal
+राजूर = Rajur (Akole)
+दहिटने = Dahitne
+rows:
+शिवाजीनगर - पारनेर 12.15
+शिवाजीनगर - पुसद 07.45
+शिवाजीनगर - बेळगाव 23.00 @Hirkani
+शिवाजीनगर - यवतमाळ 18.00
+शिवाजीनगर - राजूर 07.00 12.45
+शिवाजीनगर - राहू 12.30
+शिवाजीनगर - दहिटने 18.30
+शिवाजीनगर - वाळकी 13.30

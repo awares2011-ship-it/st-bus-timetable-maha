@@ -1,0 +1,1107 @@
+{
+ "division": "sambhajinagar",
+ "docType": "timetable",
+ "sourceDoc": "छ. संभाजीनगर विभाग वेळापत्रक (Chhatrapati Sambhajinagar Division) — Bus Stand, pages 1-4",
+ "sourceDate": "2025-03-01",
+ "note": "Departure times hand-transcribed from the scanned MSRTC PDF pages 1-4 (Chhatrapati Sambhajinagar Bus Stand + Soygaon depot). Only rows visible with high confidence on the scan are encoded.",
+ "trips": [
+  {
+   "from": "Sambhajinagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:15",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Hingoli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Washim",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Washim",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Buldhana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Buldhana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Satara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Indore",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Amravati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Amravati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Amravati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Shirdi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Shirdi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Shirdi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Shirdi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Shani Shingnapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Shani Shingnapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Shani Shingnapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Shani Shingnapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Gangapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Gangapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Gangapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Gangapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Soygaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Soygaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Soygaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Soygaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Paithan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Paithan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Paithan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Vaijapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Vaijapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Vaijapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Vaijapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Vaijapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Vaijapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Vaijapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Sillod",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Sillod",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Kannad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Kannad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Shevgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Shevgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Karjat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Karjat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Rahata",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Nandgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Nandgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Yeola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Yeola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Pachora",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Pachora",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Junnar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Rajur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Devla",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Ambad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Ambad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Jategaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Ghodegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Anjangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Murtizapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Barshi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Barshi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Osmanabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Osmanabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Pune Shivajinagar",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Pune Shivajinagar",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Mumbai Dadar",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Nashik CBS",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Nashik CBS",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Shirdi",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Shirdi",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Shirdi",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Solapur",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Latur",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  },
+  {
+   "from": "Sambhajinagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Sambhajinagar"
+  }
+ ]
+}

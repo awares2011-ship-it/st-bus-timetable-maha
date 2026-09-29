@@ -1,0 +1,87 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 31,
+ "note": "Indapur depot rural services, sheet 4. Local 'Pimpri' row (15:15) omitted — name clashes with Pimpri-Chinchwad.",
+ "blocks": [
+  {
+   "from": "Indapur",
+   "fromMr": "इंदापूर",
+   "depot": "Indapur",
+   "page": 31,
+   "rows": [
+    [
+     "Kalthan",
+     "कालठण",
+     "10:20 16:40"
+    ],
+    [
+     "Agoti",
+     "आगोती",
+     "05:40"
+    ],
+    [
+     "Pondkulwadi",
+     "पोंदकुलवाडी",
+     "06:30 11:30 13:00"
+    ],
+    [
+     "Padasthal",
+     "पडस्थळ",
+     "06:00 10:00 13:00 16:30"
+    ],
+    [
+     "Sugaon",
+     "सुगाव",
+     "06:00 10:00 19:00"
+    ],
+    [
+     "Ajoti",
+     "आजोती",
+     "10:30 17:45"
+    ],
+    [
+     "Kandalgaon",
+     "कांदलगाव",
+     "07:00 11:00 14:15 16:40 16:45"
+    ],
+    [
+     "Bhandgaon",
+     "भांडगाव",
+     "11:00 12:45 16:15"
+    ],
+    [
+     "Redani",
+     "रेडणी",
+     "08:30 14:00"
+    ],
+    [
+     "Boratwadi",
+     "बोराटवाडी",
+     "19:00"
+    ],
+    [
+     "Palasdev",
+     "पळसदेव",
+     "08:05"
+    ],
+    [
+     "Bhigwan",
+     "भिगवण",
+     "12:40 14:50"
+    ],
+    [
+     "Bhatnimgaon",
+     "भाटनिमगाव",
+     "11:30"
+    ],
+    [
+     "Shetphal",
+     "शेटफल",
+     "07:00"
+    ]
+   ]
+  }
+ ]
+}

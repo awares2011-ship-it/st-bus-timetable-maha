@@ -1,0 +1,51 @@
+# Render Blueprint
+# --------------------------------------------------------------------------
+# The ONLY server-side component of this project: a scheduled job that
+# collects data from official MSRTC sources, parses/normalises/validates it,
+# generates static JSON, and commits it back to the data repository.
+#
+# The PWA itself is a STATIC SITE — no backend, no database, no API.
+#
+# Docs: https://render.com/docs/blueprint-spec  &  https://render.com/docs/cronjobs
+# --------------------------------------------------------------------------
+services:
+  # ---- Static frontend (the PWA) -----------------------------------------
+  - type: web
+    name: st-bus-timetable-web
+    runtime: static
+    buildCommand: npm ci && npm run build
+    staticPublishPath: ./dist
+    headers:
+      - path: /*
+        name: Cache-Control
+        value: public, max-age=0, must-revalidate
+      - path: /assets/*
+        name: Cache-Control
+        value: public, max-age=31536000, immutable
+      - path: /data/*
+        name: Cache-Control
+        value: public, max-age=3600
+    routes:
+      # SPA fallback for client-side routes (SEO pages are also prerendered to
+      # real HTML files, which take precedence over this rewrite).
+      - type: rewrite
+        source: /*
+        destination: /index.html
+
+  # ---- Scheduled data collection (the scraper) ---------------------------
+  - type: cron
+    name: st-bus-data-collector
+    runtime: node
+    # Runs daily at 20:30 UTC = 02:00 IST (low-traffic window for the source).
+    schedule: "30 20 * * *"
+    buildCommand: npm ci
+    startCommand: npm run data:build
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: DATA_SOURCE
+        # 'demo' runs the pipeline against local fixtures. Switch to a real
+        # source id once a source adapter is verified & permitted.
+        value: demo
+      - key: SCRAPER_USER_AGENT
+        value: "STBusTimetableBot/0.1 (+contact: you@example.com; respects robots.txt)"

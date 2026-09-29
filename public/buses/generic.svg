@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 140">
+  <!-- Generic MSRTC bus fallback - white+red standard -->
+  <ellipse cx="160" cy="134" rx="128" ry="5" fill="#00000018"/>
+  <path d="M16 30 Q20 16 38 14 L284 14 Q302 14 304 28 L304 112 Q304 116 298 116 L22 116 Q16 116 16 112Z" fill="white" stroke="#d1d5db" stroke-width="0.8"/>
+  <rect x="20" y="14" width="280" height="20" rx="3" fill="#111827"/>
+  <text x="148" y="27" font-family="'Noto Sans Devanagari',Arial,sans-serif" font-size="8" font-weight="bold" fill="#fbbf24" text-anchor="middle">महाराष्ट्र राज्य मार्ग परिवहन महामंडळ</text>
+  <rect x="16" y="34" width="288" height="8" fill="#dc2626"/>
+  <rect x="24"  y="44" width="38" height="32" rx="3" fill="#1e3a8a" opacity="0.75"/>
+  <rect x="68"  y="44" width="38" height="32" rx="3" fill="#1e3a8a" opacity="0.75"/>
+  <rect x="112" y="44" width="38" height="32" rx="3" fill="#1e3a8a" opacity="0.75"/>
+  <rect x="156" y="44" width="38" height="32" rx="3" fill="#1e3a8a" opacity="0.75"/>
+  <rect x="200" y="44" width="38" height="32" rx="3" fill="#1e3a8a" opacity="0.75"/>
+  <rect x="244" y="44" width="14" height="32" rx="2" fill="#1e3a8a" opacity="0.75"/>
+  <rect x="24"  y="45" width="14" height="5" rx="1" fill="white" opacity="0.2"/>
+  <rect x="68"  y="45" width="14" height="5" rx="1" fill="white" opacity="0.2"/>
+  <rect x="112" y="45" width="14" height="5" rx="1" fill="white" opacity="0.2"/>
+  <rect x="156" y="45" width="14" height="5" rx="1" fill="white" opacity="0.2"/>
+  <rect x="200" y="45" width="14" height="5" rx="1" fill="white" opacity="0.2"/>
+  <circle cx="152" cy="60" r="13" fill="white" stroke="#fbbf24" stroke-width="2"/>
+  <circle cx="152" cy="60" r="10" fill="#1e3a8a"/>
+  <text x="152" y="57" font-family="Arial,sans-serif" font-size="5" font-weight="bold" fill="#fbbf24" text-anchor="middle">MSRTC</text>
+  <text x="152" y="65" font-family="'Noto Sans Devanagari',Arial,sans-serif" font-size="4.5" fill="white" text-anchor="middle">महामंडळ</text>
+  <rect x="16" y="80" width="288" height="3" fill="#fbbf24"/>
+  <path d="M16 83 L304 83 L304 112 Q298 116 290 116 L22 116 Q16 116 16 112Z" fill="#dc2626"/>
+  <rect x="22"  y="87" width="44" height="16" rx="2" fill="#b91c1c" stroke="#991b1b" stroke-width="0.5"/>
+  <rect x="72"  y="87" width="44" height="16" rx="2" fill="#b91c1c" stroke="#991b1b" stroke-width="0.5"/>
+  <rect x="122" y="87" width="44" height="16" rx="2" fill="#b91c1c" stroke="#991b1b" stroke-width="0.5"/>
+  <rect x="172" y="87" width="44" height="16" rx="2" fill="#b91c1c" stroke="#991b1b" stroke-width="0.5"/>
+  <rect x="222" y="87" width="40" height="16" rx="2" fill="#b91c1c" stroke="#991b1b" stroke-width="0.5"/>
+  <rect x="268" y="14" width="36" height="102" rx="4" fill="#f8fafc"/>
+  <rect x="270" y="24" width="32" height="44" rx="3" fill="#93c5fd" opacity="0.72"/>
+  <line x1="272" y1="68" x2="300" y2="46" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <rect x="254" y="42" width="14" height="46" rx="1" fill="#e5e7eb" stroke="#9ca3af" stroke-width="0.5"/>
+  <line x1="261" y1="42" x2="261" y2="88" stroke="#9ca3af" stroke-width="0.8"/>
+  <rect x="270" y="92" width="32" height="14" rx="3" fill="#dc2626"/>
+  <circle cx="279" cy="99" r="5" fill="white" stroke="#9ca3af" stroke-width="0.6"/>
+  <circle cx="293" cy="99" r="5" fill="white" stroke="#9ca3af" stroke-width="0.6"/>
+  <circle cx="279" cy="99" r="3" fill="#fef9c3"/>
+  <circle cx="293" cy="99" r="3" fill="#fef9c3"/>
+  <rect x="271" y="108" width="30" height="7" rx="1" fill="#fef08a" stroke="#374151" stroke-width="0.5"/>
+  <text x="286" y="113" font-family="Arial,sans-serif" font-size="4.5" font-weight="bold" fill="#1f2937" text-anchor="middle">MH XX XXXX</text>
+  <circle cx="66"  cy="120" r="17" fill="#111827"/>
+  <circle cx="66"  cy="120" r="11" fill="#374151"/>
+  <circle cx="66"  cy="120" r="5"  fill="#6b7280"/>
+  <circle cx="66"  cy="120" r="2"  fill="#9ca3af"/>
+  <circle cx="248" cy="120" r="17" fill="#111827"/>
+  <circle cx="248" cy="120" r="11" fill="#374151"/>
+  <circle cx="248" cy="120" r="5"  fill="#6b7280"/>
+  <circle cx="248" cy="120" r="2"  fill="#9ca3af"/>
+  <path d="M42 112 Q66 102 90 112"   fill="white" stroke="#e5e7eb" stroke-width="0.5"/>
+  <path d="M224 112 Q248 102 272 112" fill="white" stroke="#e5e7eb" stroke-width="0.5"/>
+  <rect x="304" y="30" width="11" height="7" rx="2" fill="#4b5563" stroke="#374151" stroke-width="0.5"/>
+  <line x1="309" y1="37" x2="309" y2="42" stroke="#4b5563" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 140">
+  <!-- Real Shivai Electric: white body, GREEN roof, orange शिवाई brand, ZERO EMISSION, FAME, 100% ELECTRIC -->
+  <ellipse cx="160" cy="134" rx="130" ry="5" fill="#00000018"/>
+  <!-- Green roof (very distinctive) -->
+  <path d="M24 10 Q28 6 42 6 L280 6 Q296 6 298 12 L298 36 L24 36Z" fill="#16a34a"/>
+  <rect x="26" y="6" width="268" height="5" rx="2" fill="#15803d"/>
+  <!-- ZERO EMISSION white text on green roof -->
+  <text x="155" y="20" font-family="Arial,sans-serif" font-size="7" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="0.5">ZERO EMISSION</text>
+  <!-- Marathi header below roof line -->
+  <rect x="24" y="36" width="268" height="14" fill="white"/>
+  <text x="170" y="46" font-family="'Noto Sans Devanagari',Arial,sans-serif" font-size="7.5" font-weight="bold" fill="#111827" text-anchor="middle">महाराष्ट्र राज्य मार्ग परिवहन महामंडळ</text>
+  <!-- White body -->
+  <path d="M20 50 L292 50 L292 114 Q292 118 286 118 L26 118 Q20 118 20 114Z" fill="white" stroke="#e5e7eb" stroke-width="0.8"/>
+  <!-- Large windows (panoramic, dark tinted) -->
+  <rect x="26"  y="52" width="44" height="30" rx="3" fill="#1e293b" opacity="0.82"/>
+  <rect x="76"  y="52" width="44" height="30" rx="3" fill="#1e293b" opacity="0.82"/>
+  <rect x="126" y="52" width="44" height="30" rx="3" fill="#1e293b" opacity="0.82"/>
+  <rect x="176" y="52" width="44" height="30" rx="3" fill="#1e293b" opacity="0.82"/>
+  <rect x="226" y="52" width="28" height="30" rx="3" fill="#1e293b" opacity="0.82"/>
+  <!-- Curtain effect in windows -->
+  <rect x="32"  y="52" width="7" height="30" rx="1" fill="#ca8a04" opacity="0.3"/>
+  <rect x="82"  y="52" width="7" height="30" rx="1" fill="#ca8a04" opacity="0.3"/>
+  <rect x="132" y="52" width="7" height="30" rx="1" fill="#ca8a04" opacity="0.3"/>
+  <rect x="182" y="52" width="7" height="30" rx="1" fill="#ca8a04" opacity="0.3"/>
+  <!-- Orange speed stripes (diagonal) -->
+  <path d="M20 85 L85 82 L292 82 L292 87 L85 87 L20 90Z" fill="#ea580c" opacity="0.92"/>
+  <path d="M20 92 L130 90 L292 90 L292 93 L130 93 L20 95Z" fill="#ea580c" opacity="0.5"/>
+  <!-- शिवाई large brand name (orange, Devanagari) -->
+  <text x="154" y="76" font-family="'Noto Sans Devanagari',Arial,sans-serif" font-size="24" font-weight="bold" fill="#ea580c" text-anchor="middle">शिवाई</text>
+  <!-- 100% ELECTRIC badge (green) -->
+  <rect x="26" y="84" width="58" height="13" rx="3" fill="#15803d"/>
+  <text x="55" y="94" font-family="Arial,sans-serif" font-size="6.5" font-weight="bold" fill="white" text-anchor="middle">100% ELECTRIC</text>
+  <!-- FAME India badge (blue) -->
+  <rect x="90" y="84" width="40" height="13" rx="3" fill="#1d4ed8"/>
+  <text x="110" y="91" font-family="Arial,sans-serif" font-size="6" font-weight="bold" fill="white" text-anchor="middle">FAME</text>
+  <text x="110" y="97" font-family="'Noto Sans Devanagari',Arial,sans-serif" font-size="4.5" fill="#bfdbfe" text-anchor="middle">भारत सरकार</text>
+  <!-- MSRTC emblem -->
+  <circle cx="240" cy="70" r="11" fill="white" stroke="#ea580c" stroke-width="1.5"/>
+  <circle cx="240" cy="70" r="8"  fill="#fbbf24"/>
+  <text x="240" y="73" font-family="Arial,sans-serif" font-size="5.5" font-weight="bold" fill="#7f1d1d" text-anchor="middle">ST</text>
+  <!-- White lower section -->
+  <rect x="20" y="98" width="266" height="16" fill="white"/>
+  <!-- Front face (modern EV design) -->
+  <rect x="260" y="22" width="34" height="96" rx="5" fill="#f1f5f9"/>
+  <!-- Dark windscreen -->
+  <rect x="262" y="32" width="30" height="46" rx="3" fill="#1f2937" opacity="0.88"/>
+  <rect x="264" y="33" width="12" height="9" rx="2" fill="white" opacity="0.12"/>
+  <line x1="264" y1="78" x2="290" y2="54" stroke="#6b7280" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- LED DRL strip (green accent for EV) -->
+  <rect x="260" y="80" width="34" height="4"  rx="2" fill="#4ade80" opacity="0.85"/>
+  <rect x="260" y="84" width="34" height="2.5" rx="1" fill="#86efac" opacity="0.6"/>
+  <!-- Minimal grille (EV style) -->
+  <rect x="262" y="90" width="30" height="10" rx="3" fill="#0f172a"/>
+  <rect x="264" y="92" width="26" height="3"  rx="1" fill="#4ade80" opacity="0.6"/>
+  <!-- Charging port indicator -->
+  <rect x="22" y="100" width="12" height="8" rx="2" fill="#374151"/>
+  <rect x="24" y="101" width="8" height="6" rx="1" fill="#4ade80" opacity="0.7"/>
+  <!-- Door -->
+  <rect x="246" y="48" width="14" height="46" rx="2" fill="#e2e8f0" stroke="#9ca3af" stroke-width="0.5"/>
+  <line x1="253" y1="48" x2="253" y2="94" stroke="#cbd5e1" stroke-width="0.8"/>
+  <!-- Number plate -->
+  <rect x="263" y="102" width="28" height="7" rx="1" fill="#fef08a" stroke="#374151" stroke-width="0.5"/>
+  <text x="277" y="107" font-family="Arial,sans-serif" font-size="4.5" font-weight="bold" fill="#1f2937" text-anchor="middle">MH 12 VF 4038</text>
+  <!-- Wheels (larger for EV) -->
+  <circle cx="68"  cy="122" r="17" fill="#111827"/>
+  <circle cx="68"  cy="122" r="11" fill="#374151"/>
+  <circle cx="68"  cy="122" r="6"  fill="#6b7280"/>
+  <circle cx="68"  cy="122" r="2"  fill="#9ca3af"/>
+  <circle cx="242" cy="122" r="17" fill="#111827"/>
+  <circle cx="242" cy="122" r="11" fill="#374151"/>
+  <circle cx="242" cy="122" r="6"  fill="#6b7280"/>
+  <circle cx="242" cy="122" r="2"  fill="#9ca3af"/>
+  <path d="M44 114 Q68 104 92 114"   fill="white" stroke="#e5e7eb" stroke-width="0.5"/>
+  <path d="M218 114 Q242 104 266 114" fill="white" stroke="#e5e7eb" stroke-width="0.5"/>
+  <!-- Side mirror (green, body-colour) -->
+  <rect x="292" y="28" width="12" height="8" rx="3" fill="#16a34a" stroke="#15803d" stroke-width="0.5"/>
+  <line x1="297" y1="36" x2="297" y2="42" stroke="#374151" stroke-width="1.5"/>
+</svg>

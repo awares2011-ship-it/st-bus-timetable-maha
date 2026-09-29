@@ -1,0 +1,189 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 14,
+ "note": "Daund depot board, second sheet (via Swargate, via Shrigonda, Siddhatek via Rashin, Daund–Shrigonda shuttle). Karjat here is Karjat (Ahilyanagar); Ashti is Ashti (Beed). Red 'Shivai' rows = E-Shivai. Update date 01/05/2025.",
+ "blocks": [
+  {
+   "from": "Daund",
+   "fromMr": "दौंड",
+   "depot": "Daund",
+   "page": 14,
+   "rows": [
+    [
+     "Pune Swargate",
+     "स्वारगेट",
+     "06:30 07:15 12:00 13:30 14:45",
+     "",
+     "Shrigonda",
+     "श्रीगोंदा"
+    ],
+    [
+     "Pune Swargate",
+     "स्वारगेट",
+     "06:45 07:30"
+    ],
+    [
+     "Pune Swargate",
+     "स्वारगेट",
+     "08:00 08:45",
+     "",
+     "Karjat (Ahilyanagar)",
+     "कर्जत"
+    ],
+    [
+     "Pune Swargate",
+     "स्वारगेट",
+     "09:15 10:00 10:15 14:15 15:15 16:15 17:00 17:30",
+     "",
+     "Jamkhed",
+     "जामखेड"
+    ],
+    [
+     "Pune Swargate",
+     "स्वारगेट",
+     "09:00 10:00 10:45",
+     "",
+     "Ashti (Beed)",
+     "आष्टी"
+    ],
+    [
+     "Pune (city)",
+     "पुणे",
+     "09:45 18:00",
+     "E-Shivai",
+     "Beed",
+     "बीड"
+    ],
+    [
+     "Pune Swargate",
+     "स्वारगेट",
+     "11:00",
+     "",
+     "Waki (Jamkhed)",
+     "वाकी"
+    ],
+    [
+     "Pune (city)",
+     "पुणे",
+     "12:30 13:15",
+     "",
+     "Beed",
+     "बीड"
+    ],
+    [
+     "Mumbai Central",
+     "मुंबई सेंट्रल",
+     "12:30",
+     "",
+     "Jamkhed",
+     "जामखेड"
+    ],
+    [
+     "Pune (city)",
+     "पुणे",
+     "13:00",
+     "",
+     "Latur",
+     "लातूर"
+    ],
+    [
+     "Beed",
+     "बीड",
+     "06:45"
+    ],
+    [
+     "Jamkhed",
+     "जामखेड",
+     "07:45 08:45 09:30 09:45 10:30 14:15 15:15 16:00",
+     "",
+     "Pune Swargate",
+     "स्वारगेट"
+    ],
+    [
+     "Beed",
+     "बीड",
+     "09:00 18:15",
+     "E-Shivai",
+     "Pune (city)",
+     "पुणे"
+    ],
+    [
+     "Latur",
+     "लातूर",
+     "11:15",
+     "",
+     "Pune Swargate",
+     "स्वारगेट"
+    ],
+    [
+     "Beed",
+     "बीड",
+     "11:15 11:45 12:45",
+     "",
+     "Pune Swargate",
+     "स्वारगेट"
+    ],
+    [
+     "Shrigonda",
+     "श्रीगोंदा",
+     "11:30 12:00 13:30 18:00 20:15",
+     "",
+     "Pune Swargate",
+     "स्वारगेट"
+    ],
+    [
+     "Jamkhed",
+     "जामखेड",
+     "12:30",
+     "",
+     "Mumbai Central",
+     "मुंबई सेंट्रल"
+    ],
+    [
+     "Ashti (Beed)",
+     "आष्टी",
+     "14:30 15:30 16:30",
+     "",
+     "Pune Swargate",
+     "स्वारगेट"
+    ],
+    [
+     "Waki (Jamkhed)",
+     "वाकी",
+     "16:30",
+     "",
+     "Pune Swargate",
+     "स्वारगेट"
+    ],
+    [
+     "Karjat (Ahilyanagar)",
+     "कर्जत",
+     "17:30 19:30",
+     "",
+     "Pune Swargate",
+     "स्वारगेट"
+    ],
+    [
+     "Siddhatek",
+     "सिध्दटेक",
+     "12:15 17:30"
+    ],
+    [
+     "Shrigonda",
+     "श्रीगोंदा",
+     "07:30 09:45 10:15 11:00 12:15 12:45 13:45 15:15 16:15 18:45"
+    ],
+    [
+     "Shrigonda",
+     "श्रीगोंदा",
+     "20:30",
+     "",
+     "Beed",
+     "बीड"
+    ]
+   ]
+  }
+ ]
+}

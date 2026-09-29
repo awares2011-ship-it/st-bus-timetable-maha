@@ -1,0 +1,3489 @@
+{
+ "division": "solapur",
+ "docType": "timetable",
+ "sourceDoc": "सोलापूर विभाग बसस्थानक वेळापत्रक (Solapur Division) — Solapur depot, pages 1-6",
+ "sourceDate": "2025-03-01",
+ "note": "Departure times transcribed from scanned MSRTC Solapur division PDF. Covers Akkalkot, Solapur (Bashi), Karmala depots.",
+ "trips": [
+  {
+   "from": "Solapur",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:35",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Borivali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Borivali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Borivali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Borivali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Borivali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nizamabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nizamabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nizamabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nizamabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nizamabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "01:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chhatrapati Sambhajinagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:20",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chhatrapati Sambhajinagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chhatrapati Sambhajinagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chhatrapati Sambhajinagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chhatrapati Sambhajinagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chhatrapati Sambhajinagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chhatrapati Sambhajinagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chhatrapati Sambhajinagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Veer",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "02:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Veer",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Veer",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Veer",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Veer",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Veer",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Veer",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Veer",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "04:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pathri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "02:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pathri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pathri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pathri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pathri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pathri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pathri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mukhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "02:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mukhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "04:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mukhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mukhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mukhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mukhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mukhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mukhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mukhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ahmedpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ahmedpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ahmedpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ahmedpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ahmedpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ahmedpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ahmedpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "01:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "04:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "02:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "02:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "04:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Khamgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Khamgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Khamgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Khamgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Khamgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Khamgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chumb",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chumb",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chumb",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chumb",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chumb",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chumb",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chumb",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chumb",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chumb",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:08",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Chumb",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Yash Pimpalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Yash Pimpalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Yash Pimpalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Yash Pimpalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Yash Pimpalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Yash Pimpalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ratnagiri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ratnagiri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ratnagiri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ratnagiri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ratnagiri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ichalkaranji",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "01:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ichalkaranji",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ichalkaranji",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ichalkaranji",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ichalkaranji",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ichalkaranji",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ichalkaranji",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ichalkaranji",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Baramati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Baramati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Baramati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Baramati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "02:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "04:50",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kalab",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kalab",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kalab",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kalab",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kalab",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kalab",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kalab",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kalab",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kalab",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kalab",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kalab",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kalab",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kalab",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Kalab",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Mandgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Mandgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Mandgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Mandgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Mandgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Mandgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Mandgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Mandgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Mandgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Mandgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Mandgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Mandgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Koregaon"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Koregaon"
+   ],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Koregaon"
+   ],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Koregaon"
+   ],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Koregaon"
+   ],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Wardwadi"
+   ],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Wardwadi"
+   ],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Wardwadi"
+   ],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bhoom",
+   "via": [
+    "Wardwadi"
+   ],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bangalwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bangalwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bangalwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bangalwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Bangalwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:17",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Karmala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Karmala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Karmala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Karmala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Karmala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Karmala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Karmala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Karmala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Karmala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Karmala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Karmala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Wairag",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Wairag",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Wairag",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Wairag",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Wairag",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Wairag",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "02:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "03:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "04:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "04:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Tukkajpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mohol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mohol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mohol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mohol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mohol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mohol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mohol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mohol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mohol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mohol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Mohol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ajanawad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ajanawad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ajanawad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ajanawad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ajanawad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ajanawad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Jalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Jalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Jalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Udgir",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Udgir",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Udgir",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Udgir",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Udgir",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nilanga",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nilanga",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nilanga",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nilanga",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nilanga",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Nilanga",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:40",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  },
+  {
+   "from": "Solapur",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Solapur"
+  }
+ ]
+}

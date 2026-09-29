@@ -1,0 +1,174 @@
+{
+  "datasetVersion": "2026-09-28-012",
+  "generatedAt": "2026-09-28T08:40:20.567Z",
+  "source": "MSRTC",
+  "containsDemoData": false,
+  "unverifiedTrips": 5816,
+  "counts": {
+    "divisions": 31,
+    "depots": 49,
+    "stations": 399,
+    "stops": 3113,
+    "routes": 8481,
+    "trips": 39993,
+    "serviceTypes": 9
+  },
+  "schedules": [
+    {
+      "division": "dhule",
+      "slug": "dhule",
+      "trips": 468
+    },
+    {
+      "division": "nanded",
+      "slug": "nanded",
+      "trips": 212
+    },
+    {
+      "division": "raigad",
+      "slug": "raigad",
+      "trips": 224
+    },
+    {
+      "division": "mumbai",
+      "slug": "mumbai",
+      "trips": 40
+    },
+    {
+      "division": "nagpur",
+      "slug": "nagpur",
+      "trips": 139
+    },
+    {
+      "division": "sambhajinagar",
+      "slug": "sambhajinagar",
+      "trips": 122
+    },
+    {
+      "division": "amravati",
+      "slug": "amravati",
+      "trips": 298
+    },
+    {
+      "division": "satara",
+      "slug": "satara",
+      "trips": 98
+    },
+    {
+      "division": "ahilyanagar",
+      "slug": "ahilyanagar",
+      "trips": 550
+    },
+    {
+      "division": "kolhapur",
+      "slug": "kolhapur",
+      "trips": 4570
+    },
+    {
+      "division": "solapur",
+      "slug": "solapur",
+      "trips": 382
+    },
+    {
+      "division": "latur",
+      "slug": "latur",
+      "trips": 173
+    },
+    {
+      "division": "jalgaon",
+      "slug": "jalgaon",
+      "trips": 299
+    },
+    {
+      "division": "sindhudurg",
+      "slug": "sindhudurg",
+      "trips": 1513
+    },
+    {
+      "division": "akola",
+      "slug": "akola",
+      "trips": 1322
+    },
+    {
+      "division": "beed",
+      "slug": "beed",
+      "trips": 2494
+    },
+    {
+      "division": "bhandara",
+      "slug": "bhandara",
+      "trips": 858
+    },
+    {
+      "division": "buldhana",
+      "slug": "buldhana",
+      "trips": 1524
+    },
+    {
+      "division": "chandrapur",
+      "slug": "chandrapur",
+      "trips": 1011
+    },
+    {
+      "division": "dharashiv",
+      "slug": "dharashiv",
+      "trips": 1953
+    },
+    {
+      "division": "gadchiroli",
+      "slug": "gadchiroli",
+      "trips": 460
+    },
+    {
+      "division": "jalna",
+      "slug": "jalna",
+      "trips": 1258
+    },
+    {
+      "division": "nashik",
+      "slug": "nashik",
+      "trips": 4320
+    },
+    {
+      "division": "palghar",
+      "slug": "palghar",
+      "trips": 1067
+    },
+    {
+      "division": "parbhani",
+      "slug": "parbhani",
+      "trips": 1839
+    },
+    {
+      "division": "pune",
+      "slug": "pune",
+      "trips": 5314
+    },
+    {
+      "division": "ratnagiri",
+      "slug": "ratnagiri",
+      "trips": 1805
+    },
+    {
+      "division": "sangli",
+      "slug": "sangli",
+      "trips": 2190
+    },
+    {
+      "division": "thane",
+      "slug": "thane",
+      "trips": 1087
+    },
+    {
+      "division": "wardha",
+      "slug": "wardha",
+      "trips": 799
+    },
+    {
+      "division": "yavatmal",
+      "slug": "yavatmal",
+      "trips": 1604
+    }
+  ],
+  "disclaimer": "This is an independent public-transport information service and is not affiliated with or operated by Maharashtra State Road Transport Corporation (MSRTC). Timetables may change. Please verify important travel information with official MSRTC sources."
+}

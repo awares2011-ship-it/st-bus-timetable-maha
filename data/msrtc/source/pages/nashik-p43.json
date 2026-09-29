@@ -1,0 +1,32 @@
+{
+ "docType": "timetable-page",
+ "division": "nashik",
+ "pdf": "नाशिक_विभाग_वेळापत्रक.pdf",
+ "page": 43,
+ "note": "Chandori bus stand (Lasalgaon depot), 01/03/2025, departures (rows read right-to-left). Yeola row has duplicated half-hours (two buses) — stored once.",
+ "blocks": [
+  {
+   "from": "Chandori",
+   "fromMr": "चांदोरी",
+   "depot": "Lasalgaon",
+   "page": 43,
+   "rows": [
+    [
+     "Nashik",
+     "नाशिक",
+     "08:10 08:30 08:45 09:00 09:15 09:30 10:00 10:20 10:30 11:00 11:30 12:00 12:30 13:00 13:30 14:00 14:30 15:00 16:15 16:30"
+    ],
+    [
+     "Yeola",
+     "येवला",
+     "09:30 10:00 11:00 11:30 12:00 12:30 13:00 13:30 14:00 14:30 15:00 15:15 15:30 16:30 17:00 17:30 18:00"
+    ],
+    [
+     "Lasalgaon",
+     "लासलगाव",
+     "08:45 09:30 09:45 11:00 11:15 11:30 12:00 12:45 13:30 14:00 15:00 16:00 16:30 17:00 17:45 18:30 19:00 19:30"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 38,
+ "note": "Pune Station bus stand board (Shivajinagar depot), sheet 3. Khed = Khed (Ratnagiri); 11:30 yellow = sleeper, 22:35 purple = Hirkani, '23000' read as 23:00. Dadar 10:30/11:30/18:30/19:00 purple = Hirkani. Madgaon, Gohe (Ghodegaon), Murum (Baramati), Rahu, Rahu Paragaon, Ghadge Tale, 'Malkapur Pachal' kept only where the place is clear.",
+ "blocks": [
+  {
+   "from": "Pune Station",
+   "fromMr": "पुणे स्टेशन",
+   "depot": "Shivajinagar",
+   "page": 38,
+   "rows": [
+    [
+     "Kurundwad",
+     "कुरुंदवाड",
+     "04:00 04:45 06:00 07:00 08:00 09:00 14:00 15:00 16:00"
+    ],
+    [
+     "Chorvane",
+     "चोरवणे",
+     "23:30"
+    ],
+    [
+     "Tiware",
+     "तिवरे",
+     "20:30"
+    ],
+    [
+     "Gohe",
+     "गोहे",
+     "18:30"
+    ],
+    [
+     "Palashi",
+     "पळशी",
+     "15:15"
+    ],
+    [
+     "Khed",
+     "खेड",
+     "11:30",
+     "Sleeper"
+    ],
+    [
+     "Khed",
+     "खेड",
+     "22:35",
+     "Hirkani"
+    ],
+    [
+     "Khed",
+     "खेड",
+     "23:00"
+    ],
+    [
+     "Paragaon Khandala",
+     "पारगाव खंडाला",
+     "01:00"
+    ],
+    [
+     "Makhjan",
+     "माखजन",
+     "09:15"
+    ],
+    [
+     "Ganpatipule",
+     "गणपतीपुळे",
+     "08:15"
+    ],
+    [
+     "Shirur",
+     "शिरूर",
+     "07:15"
+    ],
+    [
+     "Malkapur",
+     "मलकापूर",
+     "06:15"
+    ],
+    [
+     "Junnar",
+     "जुन्नर",
+     "06:15"
+    ],
+    [
+     "Walki",
+     "वाळकी",
+     "08:15 13:45"
+    ],
+    [
+     "Rahu",
+     "राहू",
+     "10:45 12:45"
+    ],
+    [
+     "Dahitne",
+     "दहीटणे",
+     "17:45"
+    ],
+    [
+     "Miraj",
+     "मिरज",
+     "05:15"
+    ],
+    [
+     "Dadar",
+     "दादर",
+     "08:30 09:00"
+    ],
+    [
+     "Dadar",
+     "दादर",
+     "10:30 11:30 18:30 19:00",
+     "Hirkani"
+    ]
+   ]
+  }
+ ]
+}

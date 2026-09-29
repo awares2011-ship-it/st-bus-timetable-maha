@@ -1,0 +1,47 @@
+division: nashik
+pdf: नाशिक_विभाग_वेळापत्रक.pdf
+page: 12
+board: Igatpuri | इगतपुरी
+depot: Igatpuri
+note: Igatpuri depot bus stand, departures. Pune via Nashik and via Bhandardara both stored as Pune. Trimbak via Mhasurli and via Vaitarna stored as Trimbakeshwar. Bhagur via Sakur stored as Bhagur. Ambiguous 'Nandgaon' (15:15; likely a local Nandgaon, not the taluka) and small villages without a clear match kept only where unique.
+names:
+पुणे = Pune (city)
+आंबेवाडी = Ambewadi
+भंडारदरावाडी = Bhandardarawadi
+शेणितपेहरे = Shenit
+टाकेद = Taked
+भगुर = Bhagur
+त्र्यंबक = Trimbakeshwar
+कुशेगाव = Kushegaon
+मानवेढा = Manvedha
+तळोशी = Taloshi
+झारवड = Zarwad
+समनेरा = Samnera
+काळुस्ते = Kaluste
+धोंडीरोड = Dhondi Road
+वंजारवाडी = Vanjarwadi
+अकोले = Akole
+rows:
+इगतपुरी - पुणे 02.30 03.30 05.15 06.30 05.00 06.00
+इगतपुरी - चोपडा 06.15 06.45 07.15 07.45
+इगतपुरी - शिरपुर 06.00
+इगतपुरी - जळगाव 05.45
+इगतपुरी - कसारा 05.30 12.45 13.15 14.15 15.30 18.45
+इगतपुरी - नाशिक 02.30 03.30 05.15 05.45 06.00 06.15 06.30 06.45 07.15 07.45 09.00 12.00 12.15 13.00 13.30 14.00 14.30 15.30 16.45
+इगतपुरी - आंबेवाडी 08.00 13.00 18.15
+इगतपुरी - भंडारदरावाडी 08.00 13.10 17.30
+इगतपुरी - शेणितपेहरे 13.00 17.15
+इगतपुरी - टाकेद 06.00 08.00 08.30 10.00 12.15 13.00 13.15 15.30
+इगतपुरी - भगुर 08.15
+इगतपुरी - त्र्यंबक 08.30 13.00 17.30
+इगतपुरी - कुशेगाव 08.00 15.15
+इगतपुरी - मानवेढा 10.30 17.45
+इगतपुरी - तळोशी 10.30
+इगतपुरी - झारवड 14.00
+इगतपुरी - समनेरा 05.30
+इगतपुरी - काळुस्ते 06.30
+इगतपुरी - धोंडीरोड 08.10
+इगतपुरी - वंजारवाडी 17.45
+भगुर - टाकेद 15.30
+इगतपुरी - जव्हार 11.00
+इगतपुरी - अकोले 07.45 21.15

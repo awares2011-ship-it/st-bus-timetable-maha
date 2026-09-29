@@ -1,0 +1,29 @@
+# Netlify static deployment.
+# The scraper runs elsewhere (Render Cron); Netlify only serves the built PWA.
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+  # Set your real site URL so canonicals/sitemap are correct:
+  # SITE_URL = "https://your-domain.com"
+  # VITE_SITE_URL = "https://your-domain.com"
+
+# Long-cache immutable hashed assets.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Data JSON: short cache so new datasets are picked up quickly.
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+# SPA fallback — but prerendered SEO pages (real .html files) win over this.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

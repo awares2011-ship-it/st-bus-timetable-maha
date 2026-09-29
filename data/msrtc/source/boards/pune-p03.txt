@@ -1,0 +1,24 @@
+division: pune
+pdf: पुणे_विभाग_वेळापत्रक.pdf
+page: 3
+board: Walchandnagar | वालचंदनगर
+depot: Indapur
+note: Walchandnagar bus stand (Indapur depot). Departures ('going') column; via notes (via Junction / Jamb / Rangaon / Bawda) dropped. Through rows 'Jat–Pune', 'Akluj–Mumbai', 'Akluj–Nashik' use going = listed direction and coming = reverse (Akluj–Nashik 08:45 here matches 10:30 at Daund).
+names:
+खोरोची = Khorochi
+नातेपुते = Natepute
+rows:
+वालचंदनगर - बारामती 08.00 08.20 10.00 11.00 11.40 12.00 13.50 14.00 16.00 17.00 18.00 07.35 09.35 11.45 15.00 17.00 19.00
+वालचंदनगर - इंदापूर 05.45 07.10 11.30 12.30 14.15 14.45 17.05 19.05 10.00
+वालचंदनगर - अकलूज 06.45 09.45 14.25 16.45
+वालचंदनगर - खोरोची 18.55
+वालचंदनगर - नातेपुते 07.15 15.30 17.15 18.45
+वालचंदनगर - सांगली 08.00 11.50
+वालचंदनगर - कोल्हापूर 12.50
+वालचंदनगर - पंढरपूर 08.00 10.00 10.40 14.50 17.00
+जत - पुणे 13.30 14.45
+पुणे - जत 01.30 10.30
+अकलूज - मुंबई 20.45
+मुंबई - अकलूज 05.15
+अकलूज - नाशिक 08.45
+नाशिक - अकलूज 16.45

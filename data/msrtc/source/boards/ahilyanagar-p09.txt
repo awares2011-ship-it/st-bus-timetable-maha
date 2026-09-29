@@ -1,0 +1,41 @@
+division: ahilyanagar
+pdf: अहिल्यानगर_विभाग_वेळापत्रक.pdf
+page: 9
+board: Ahilyanagar Maliwada | माळीवाडा
+depot: Tarakpur
+note: Continuation of the Ahilyanagar city (Maliwada) board, rural/district routes. Pimpla 09:15 and 17:00 via Loni, 18:15 night-halt at Khuntephal — stored as Pimpla. 'Pimpalgaon Ma.' = Pimpalgaon Malvi, 'Pimpalgaon U.' = Pimpalgaon Ujjaini, 'Vadgaon Tan.' = Vadgaon Tandali. Parner '18.00' printed twice stored once; Ghospuri 15:30 twice stored once.
+names:
+पारनेर = Parner
+वांबोरी = Wambori
+आगडगाव = Agadgaon
+घोसपूरी = Ghospuri
+दैठणे गुंजाळ = Daithane Gunjal
+गुणवाडी = Gunwadi
+पिंपळा = Pimpla
+पिंपळगाव मा. = Pimpalgaon Malvi
+दहिगावणे = Dahigavne
+तारकेश्वर मु. = Tarkeshwar
+सांडवा = Sandva
+राळेगण = Ralegan
+भोरवाडी = Bhorwadi
+पिंपळगाव उ. = Pimpalgaon Ujjaini
+वडगाव तां. = Vadgaon Tandali
+rows:
+माळीवाडा - पारनेर 07.45 08.45 09.45 10.45 11.15 11.30 12.15 12.30 13.00 14.00 14.30 15.00 15.15 16.15 16.45 17.30 18.00 18.15 18.30 18.45 19.45 21.00 21.30
+माळीवाडा - कोपरगाव 07.45 10.00 10.45 13.30 14.00 16.00
+माळीवाडा - संगमनेर 08.45 09.00 12.30 13.00 17.00 18.00 19.15
+माळीवाडा - अकोले 11.30 13.30 17.30 20.15
+माळीवाडा - वांबोरी 06.45 07.45 08.00 09.30 10.15 11.00 11.45 12.30 13.30 14.30 15.30 17.00 19.00
+माळीवाडा - आगडगाव 07.30 10.15 11.00 11.30 12.30 14.00 17.00 18.30
+माळीवाडा - घोसपूरी 08.30 10.30 13.30 15.30 19.30
+माळीवाडा - दैठणे गुंजाळ 13.00 19.15
+माळीवाडा - गुणवाडी 13.30 18.30
+माळीवाडा - पिंपळा 07.00 09.15 11.00 12.30 13.30 15.00 17.00 18.15
+माळीवाडा - पिंपळगाव मा. 09.30 16.00
+माळीवाडा - दहिगावणे 07.30
+माळीवाडा - तारकेश्वर मु. 18.15
+माळीवाडा - सांडवा 08.45
+माळीवाडा - राळेगण 15.30
+माळीवाडा - भोरवाडी 08.15 17.15
+माळीवाडा - पिंपळगाव उ. 10.00 16.00
+माळीवाडा - वडगाव तां. 07.45 15.15

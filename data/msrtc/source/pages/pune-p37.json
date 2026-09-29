@@ -1,0 +1,170 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 37,
+ "note": "Pune Station bus stand board (Shivajinagar depot), sheet 2. Colours per time: brown/orange = Shivshahi, purple = Hirkani, yellow = sleeper, red = ordinary. Ratnagiri 07:30, 08:20, 10:00, 20:45 and Dapoli 07:00 are Shivshahi; Dapoli 07:30 Hirkani, 21:00 sleeper; Chiplun 10:00 Hirkani, 14:30/12:00/22:00/23:00 Shivshahi; Sawantwadi 21:30 Shivshahi; Belgaum Hirkani. Kelshi, Velas (Konkan villages) kept.",
+ "blocks": [
+  {
+   "from": "Pune Station",
+   "fromMr": "पुणे स्टेशन",
+   "depot": "Shivajinagar",
+   "page": 37,
+   "rows": [
+    [
+     "Phaltan",
+     "फलटण",
+     "10:15 11:15 12:00 15:45 16:45"
+    ],
+    [
+     "Ratnagiri",
+     "रत्नागिरी",
+     "07:30 08:20 10:00 20:45",
+     "Shivshahi"
+    ],
+    [
+     "Dapoli",
+     "दापोली",
+     "07:00",
+     "Shivshahi"
+    ],
+    [
+     "Dapoli",
+     "दापोली",
+     "07:30",
+     "Hirkani"
+    ],
+    [
+     "Dapoli",
+     "दापोली",
+     "21:00",
+     "Sleeper"
+    ],
+    [
+     "Vita",
+     "विटा",
+     "07:00 08:00 08:30 12:30 18:30"
+    ],
+    [
+     "Vijaydurg",
+     "विजयदुर्ग",
+     "05:30 08:00"
+    ],
+    [
+     "Chiplun",
+     "चिपळूण",
+     "05:30 06:00 07:00"
+    ],
+    [
+     "Chiplun",
+     "चिपळूण",
+     "10:00",
+     "Hirkani"
+    ],
+    [
+     "Chiplun",
+     "चिपळूण",
+     "12:00 14:30 22:00 23:00",
+     "Shivshahi"
+    ],
+    [
+     "Jamkhandi",
+     "जमखंडी",
+     "08:15 08:30 19:00"
+    ],
+    [
+     "Devrukh",
+     "देवरुख",
+     "08:50 21:00"
+    ],
+    [
+     "Devgad",
+     "देवगड",
+     "06:00 20:30"
+    ],
+    [
+     "Dahiwadi",
+     "दहीवडी",
+     "10:30 16:00"
+    ],
+    [
+     "Ichalkaranji",
+     "इचलकरंजी",
+     "05:30 09:00"
+    ],
+    [
+     "Vaduj",
+     "वडूज",
+     "07:00 10:15 12:15 16:00"
+    ],
+    [
+     "Walchandnagar",
+     "वालचंदनगर",
+     "05:30"
+    ],
+    [
+     "Velas",
+     "वेळास",
+     "09:30"
+    ],
+    [
+     "Kelshi",
+     "केळशी",
+     "09:30"
+    ],
+    [
+     "Vengurla",
+     "वेंगुर्ला",
+     "08:15 08:30"
+    ],
+    [
+     "Chhatrapati Sambhajinagar",
+     "छत्रपती संभाजीनगर",
+     "05:15"
+    ],
+    [
+     "Sawantwadi",
+     "सावंतवाडी",
+     "04:00 07:30"
+    ],
+    [
+     "Sawantwadi",
+     "सावंतवाडी",
+     "21:30",
+     "Shivshahi"
+    ],
+    [
+     "Belgaum",
+     "बेळगाव",
+     "23:30",
+     "Hirkani"
+    ],
+    [
+     "Gondavale",
+     "गोंदवले",
+     "07:00 13:45"
+    ],
+    [
+     "Guhagar",
+     "गुहागर",
+     "07:30 21:30"
+    ],
+    [
+     "Saswad",
+     "सासवड",
+     "18:30 19:00 21:00 23:45"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "06:30 08:30 10:30 11:15 11:30 14:00 15:00"
+    ],
+    [
+     "Mhaswad",
+     "म्हसवड",
+     "01:45 12:15"
+    ]
+   ]
+  }
+ ]
+}

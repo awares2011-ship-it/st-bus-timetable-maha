@@ -1,0 +1,1310 @@
+{
+ "division": "nagpur",
+ "docType": "timetable",
+ "sourceDoc": "नागपूर विभाग बसस्थानक वेळापत्रक — Kondhali bus stand, page 1",
+ "sourceDate": "2025-03-12",
+ "note": "Hand-transcribed from the scanned MSRTC PDF (Kondhali depot, Nagpur division). Rows using 'दर N मिनिटांनी' (every N minutes) are unrolled into concrete departures at safe intervals within the operating window; where the source shows only a first time it stays as a single row. Only rows visible with high confidence are encoded.",
+ "trips": [
+  {
+   "from": "Kondhali",
+   "to": "Gondia",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Bramhapuri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "03:10",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Bramhapuri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Bramhapuri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:35",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Ramtek",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Ramtek",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:25",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Ramtek",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:20",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Tiroda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:10",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Sakoli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Sakoli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:50",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Sakoli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Tumsar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:50",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Tumsar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:20",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Umred",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Umred",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Gadchiroli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:35",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:05",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:55",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:35",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:40",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:50",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:40",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:05",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:20",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Indore",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Telhara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:35",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Telhara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Telhara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:10",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:50",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:25",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:25",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:35",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:55",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:50",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:40",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Buldhana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:05",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Buldhana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:20",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Buldhana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Buldhana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Buldhana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:50",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Buldhana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:20",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Buldhana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:40",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Buldhana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:35",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:25",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:10",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:10",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Shegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:35",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Shegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:40",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Shegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:40",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Shegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:25",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Shegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:35",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Shegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Shegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Shegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:40",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Karanja Lad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:05",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Karanja Lad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:40",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:35",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:10",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:35",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:35",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Risod",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:05",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Chikhali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:40",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Jalgaon Jamod",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:50",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Washim",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:05",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Washim",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:20",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Washim",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:55",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Washim",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Washim",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:20",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Lonar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:10",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Bhokardan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Chandurbazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:05",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Chandurbazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Chandurbazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:25",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Chandurbazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Chandur Railway",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:35",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Ajantgaon Surji",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Katol",
+   "via": [
+    "Kavtha Sawanga"
+   ],
+   "service": "Ordinary",
+   "departure": "06:10",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Katol",
+   "via": [
+    "Kavtha Sawanga"
+   ],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Katol",
+   "via": [
+    "Kavtha Sawanga"
+   ],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Katol",
+   "via": [
+    "Kavtha Sawanga"
+   ],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Katol",
+   "via": [
+    "Khutamba"
+   ],
+   "service": "Ordinary",
+   "departure": "09:50",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Katol",
+   "via": [
+    "Khutamba"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Katol",
+   "via": [
+    "Khutamba"
+   ],
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Katol",
+   "via": [
+    "Sonapur"
+   ],
+   "service": "Ordinary",
+   "departure": "11:10",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Katol",
+   "via": [
+    "Sonapur"
+   ],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Savner",
+   "via": [
+    "Tishty"
+   ],
+   "service": "Ordinary",
+   "departure": "08:20",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Savner",
+   "via": [
+    "Tishty"
+   ],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Savner",
+   "via": [
+    "Tishty"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Savner",
+   "via": [
+    "Tishty"
+   ],
+   "service": "Ordinary",
+   "departure": "15:40",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Savner",
+   "via": [
+    "Tishty"
+   ],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Savner",
+   "via": [
+    "Tishty"
+   ],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Khapa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Khapa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Khapa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Khapa Garamsur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Khapa Garamsur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:40",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Kajali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:10",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Kajali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:50",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Wardha",
+   "via": [
+    "Nagpur"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Wardha",
+   "via": [
+    "Nagpur"
+   ],
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Wardha",
+   "via": [
+    "Nagpur"
+   ],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Wardha",
+   "via": [
+    "Nagpur"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Wardha",
+   "via": [
+    "Nagpur"
+   ],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Wardha",
+   "via": [
+    "Nagpur"
+   ],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Wardha",
+   "via": [
+    "Nagpur"
+   ],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Wardha",
+   "via": [
+    "Nagpur"
+   ],
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Wardha",
+   "via": [
+    "Nagpur"
+   ],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Wardha",
+   "via": [
+    "Nagpur"
+   ],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Kalmuda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Kalmuda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:20",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Ahmadnagar Dhamangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Ahmadnagar Dhamangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:10",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Chandanpardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:05",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Chandanpardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Arwi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Arwi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Arwi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Arwi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Arwi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:05",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Arwi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:05",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Arwi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:35",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Arwi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Arwi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Arwi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  },
+  {
+   "from": "Kondhali",
+   "to": "Siddivihiri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Kondhali"
+  }
+ ]
+}

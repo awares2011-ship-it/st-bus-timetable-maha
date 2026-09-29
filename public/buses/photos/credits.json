@@ -1,0 +1,58 @@
+[
+ {
+  "id": "express",
+  "file": "/buses/photos/express.jpg",
+  "title": "Tata ST bus.jpg",
+  "author": "Yann",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Tata_ST_bus.jpg"
+ },
+ {
+  "id": "ashwamedh",
+  "file": "/buses/photos/ashwamedh.jpg",
+  "title": "Scania Metrolink HD 14.5 M Ashwamedh.jpg",
+  "author": "Karthik Nadar",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Scania_Metrolink_HD_14.5_M_Ashwamedh.jpg"
+ },
+ {
+  "id": "shivshahi",
+  "file": "/buses/photos/shivshahi.jpg",
+  "title": "Shivshahi bus.jpg",
+  "author": "तौसिफ शेख",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Shivshahi_bus.jpg"
+ },
+ {
+  "id": "shivneri",
+  "file": "/buses/photos/shivneri.jpg",
+  "title": "MSRTC-Shivneri-Volvo-B7R.jpg",
+  "author": "Rsrikanth05",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:MSRTC-Shivneri-Volvo-B7R.jpg"
+ },
+ {
+  "id": "bus-stand",
+  "file": "/buses/photos/bus-stand.jpg",
+  "title": "Swargate Bus Stand.JPG",
+  "author": "Shrutuja Shirke",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Swargate_Bus_Stand.JPG"
+ },
+ {
+  "id": "ordinary",
+  "file": "/buses/photos/ordinary.jpg",
+  "title": "Maharashtra state rural Tata bus.jpg",
+  "author": "shankar s. from sharjah, united arab emirates",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Maharashtra_state_rural_Tata_bus.jpg"
+ },
+ {
+  "id": "shivneri-2",
+  "file": "/buses/photos/shivneri-2.jpg",
+  "title": "MSRTC-Scania-Shivneri.jpg",
+  "author": "Rsrikanth05",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:MSRTC-Scania-Shivneri.jpg"
+ }
+]

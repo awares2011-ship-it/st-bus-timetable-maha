@@ -1,0 +1,43 @@
+division: nashik
+pdf: नाशिक_विभाग_वेळापत्रक.pdf
+page: 30
+board: Vani (Dindori) | वणी
+depot: Kalwan
+note: Vani bus stand (Kalwan depot), 2025, departures. 'Nashik (Pale)' and 'Nashik (Abhona)' = Nashik-bound via those villages, stored as Nashik; 'Dangsaundane (Abhona)' stored as Dangsaundane; 'Devlik-Had' stored as Devlik. 'Mu. Nagar' read as Muktainagar.
+names:
+मानुर = Manur (Kalwan)
+मांगळीदर = Mangalidar
+शिवभांडणे = Shivbhandane
+धनोली = Dhanoli
+देवळीकहाड = Devlik
+खिराड = Khirad
+बिलवाडी = Bilwadi
+नाशिक(पाळे) = Nashik
+नाशिक(अभोणा) = Nashik
+डांगसौदाणे(अभो) = Dangsaundane
+नादगाव = Nandgaon
+मु.नगर = Muktainagar
+नवापुर = Navapur
+rows:
+वणी - मानुर 09.30 17.30
+वणी - मांगळीदर 09.30 16.15 19.00
+वणी - शिवभांडणे 16.00
+वणी - धनोली 10.15 18.30
+वणी - देवळीकहाड 10.00 20.30
+वणी - खिराड 07.30 11.00 16.45
+वणी - बिलवाडी 09.30 14.30
+वणी - नाशिक(पाळे) 07.30 16.30
+वणी - नाशिक(अभोणा) 13.00
+वणी - कनाशी 14.30
+वणी - डांगसौदाणे(अभो) 07.30 13.45
+वणी - मनमाड 06.45 10.30 17.15
+वणी - सटाणा 12.15
+वणी - मालेगाव 06.00 10.45 15.45
+वणी - नादगाव 13.10
+वणी - जळगाव 13.15
+वणी - पेठ 13.10
+वणी - खामगाव 07.30
+वणी - मु.नगर 08.10
+वणी - नवापुर 09.15
+वणी - धुळे 16.45
+वणी - जव्हार 15.15

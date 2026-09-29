@@ -1,0 +1,4289 @@
+{
+ "divisions": [
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "nameMr": "मुंबई",
+   "nameHi": "मुंबई",
+   "slug": "mumbai",
+   "region": "mumbai",
+   "regionName": "Mumbai",
+   "regionNameMr": "मुंबई",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/मुंबई_विभाग/मुंबई_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "mumbai-city",
+    "mumbai-suburban"
+   ]
+  },
+  {
+   "id": "thane",
+   "name": "Thane",
+   "nameMr": "ठाणे",
+   "nameHi": "ठाणे",
+   "slug": "thane",
+   "region": "mumbai",
+   "regionName": "Mumbai",
+   "regionNameMr": "मुंबई",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/मुंबई_विभाग/ठाणे_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "thane"
+   ]
+  },
+  {
+   "id": "palghar",
+   "name": "Palghar",
+   "nameMr": "पालघर",
+   "nameHi": "पालघर",
+   "slug": "palghar",
+   "region": "mumbai",
+   "regionName": "Mumbai",
+   "regionNameMr": "मुंबई",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/मुंबई_विभाग/पालघर_विभाग_बसस्थानक_वेळापत्रक.pdf",
+   "districts": [
+    "palghar"
+   ]
+  },
+  {
+   "id": "raigad",
+   "name": "Raigad",
+   "nameMr": "रायगड",
+   "nameHi": "रायगढ़",
+   "slug": "raigad",
+   "region": "mumbai",
+   "regionName": "Mumbai",
+   "regionNameMr": "मुंबई",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/मुंबई_विभाग/रायगड_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "raigad"
+   ]
+  },
+  {
+   "id": "ratnagiri",
+   "name": "Ratnagiri",
+   "nameMr": "रत्नागिरी",
+   "nameHi": "रत्नागिरी",
+   "slug": "ratnagiri",
+   "region": "mumbai",
+   "regionName": "Mumbai",
+   "regionNameMr": "मुंबई",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/मुंबई_विभाग/रत्नागिरी_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "ratnagiri"
+   ]
+  },
+  {
+   "id": "sindhudurg",
+   "name": "Sindhudurg",
+   "nameMr": "सिंधुदुर्ग",
+   "nameHi": "सिंधुदुर्ग",
+   "slug": "sindhudurg",
+   "region": "mumbai",
+   "regionName": "Mumbai",
+   "regionNameMr": "मुंबई",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/मुंबई_विभाग/सिंधुदुर्ग_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "sindhudurg"
+   ]
+  },
+  {
+   "id": "pune",
+   "name": "Pune",
+   "nameMr": "पुणे",
+   "nameHi": "पुणे",
+   "slug": "pune",
+   "region": "pune",
+   "regionName": "Pune",
+   "regionNameMr": "पुणे",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/पुणे_विभाग/पुणे_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "pune"
+   ]
+  },
+  {
+   "id": "satara",
+   "name": "Satara",
+   "nameMr": "सातारा",
+   "nameHi": "सातारा",
+   "slug": "satara",
+   "region": "pune",
+   "regionName": "Pune",
+   "regionNameMr": "पुणे",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/पुणे_विभाग/सातारा_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "satara"
+   ]
+  },
+  {
+   "id": "sangli",
+   "name": "Sangli",
+   "nameMr": "सांगली",
+   "nameHi": "सांगली",
+   "slug": "sangli",
+   "region": "pune",
+   "regionName": "Pune",
+   "regionNameMr": "पुणे",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/पुणे_विभाग/सांगली_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "sangli"
+   ]
+  },
+  {
+   "id": "solapur",
+   "name": "Solapur",
+   "nameMr": "सोलापूर",
+   "nameHi": "सोलापुर",
+   "slug": "solapur",
+   "region": "pune",
+   "regionName": "Pune",
+   "regionNameMr": "पुणे",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/पुणे_विभाग/सोलापूर_विभाग_बसस्थानक_वेळापत्रक.pdf",
+   "districts": [
+    "solapur"
+   ]
+  },
+  {
+   "id": "kolhapur",
+   "name": "Kolhapur",
+   "nameMr": "कोल्हापूर",
+   "nameHi": "कोल्हापुर",
+   "slug": "kolhapur",
+   "region": "pune",
+   "regionName": "Pune",
+   "regionNameMr": "पुणे",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/पुणे_विभाग/कोल्हापूर_विभाग_बसस्थानक_वेळापत्रक.pdf",
+   "districts": [
+    "kolhapur"
+   ]
+  },
+  {
+   "id": "nashik",
+   "name": "Nashik",
+   "nameMr": "नाशिक",
+   "nameHi": "नासिक",
+   "slug": "nashik",
+   "region": "nashik",
+   "regionName": "Nashik",
+   "regionNameMr": "नाशिक",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/नाशिक_विभाग/नाशिक_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "nashik"
+   ]
+  },
+  {
+   "id": "dhule",
+   "name": "Dhule",
+   "nameMr": "धुळे",
+   "nameHi": "धुले",
+   "slug": "dhule",
+   "region": "nashik",
+   "regionName": "Nashik",
+   "regionNameMr": "नाशिक",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/नाशिक_विभाग/धुळे_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "dhule",
+    "nandurbar"
+   ]
+  },
+  {
+   "id": "jalgaon",
+   "name": "Jalgaon",
+   "nameMr": "जळगाव",
+   "nameHi": "जलगांव",
+   "slug": "jalgaon",
+   "region": "nashik",
+   "regionName": "Nashik",
+   "regionNameMr": "नाशिक",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/नाशिक_विभाग/जळगाव_विभाग_बस_स्थानक_वेळापत्रक.pdf",
+   "districts": [
+    "jalgaon"
+   ]
+  },
+  {
+   "id": "ahilyanagar",
+   "name": "Ahilyanagar (Ahmednagar)",
+   "nameMr": "अहिल्यानगर (अहमदनगर)",
+   "nameHi": "अहिल्यानगर (अहमदनगर)",
+   "slug": "ahilyanagar",
+   "region": "nashik",
+   "regionName": "Nashik",
+   "regionNameMr": "नाशिक",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/नाशिक_विभाग/अहिल्यानगर_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "ahilyanagar"
+   ]
+  },
+  {
+   "id": "sambhajinagar",
+   "name": "Chhatrapati Sambhajinagar (Aurangabad)",
+   "nameMr": "छत्रपती संभाजीनगर (औरंगाबाद)",
+   "nameHi": "छत्रपति संभाजीनगर (औरंगाबाद)",
+   "slug": "sambhajinagar",
+   "region": "sambhajinagar",
+   "regionName": "Chhatrapati Sambhajinagar",
+   "regionNameMr": "छत्रपती संभाजीनगर",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/छ_संभाजीनगर_विभाग/छ_संभाजीनगर_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "sambhajinagar"
+   ]
+  },
+  {
+   "id": "beed",
+   "name": "Beed",
+   "nameMr": "बीड",
+   "nameHi": "बीड",
+   "slug": "beed",
+   "region": "sambhajinagar",
+   "regionName": "Chhatrapati Sambhajinagar",
+   "regionNameMr": "छत्रपती संभाजीनगर",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/छ_संभाजीनगर_विभाग/बीड_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "beed"
+   ]
+  },
+  {
+   "id": "jalna",
+   "name": "Jalna",
+   "nameMr": "जालना",
+   "nameHi": "जालना",
+   "slug": "jalna",
+   "region": "sambhajinagar",
+   "regionName": "Chhatrapati Sambhajinagar",
+   "regionNameMr": "छत्रपती संभाजीनगर",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/छ_संभाजीनगर_विभाग/जालना_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "jalna"
+   ]
+  },
+  {
+   "id": "latur",
+   "name": "Latur",
+   "nameMr": "लातूर",
+   "nameHi": "लातूर",
+   "slug": "latur",
+   "region": "sambhajinagar",
+   "regionName": "Chhatrapati Sambhajinagar",
+   "regionNameMr": "छत्रपती संभाजीनगर",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/छ_संभाजीनगर_विभाग/लातूर_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "latur"
+   ]
+  },
+  {
+   "id": "nanded",
+   "name": "Nanded",
+   "nameMr": "नांदेड",
+   "nameHi": "नांदेड़",
+   "slug": "nanded",
+   "region": "sambhajinagar",
+   "regionName": "Chhatrapati Sambhajinagar",
+   "regionNameMr": "छत्रपती संभाजीनगर",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/छ_संभाजीनगर_विभाग/नांदेड_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "nanded"
+   ]
+  },
+  {
+   "id": "dharashiv",
+   "name": "Dharashiv (Osmanabad)",
+   "nameMr": "धाराशिव (उस्मानाबाद)",
+   "nameHi": "धाराशिव (उस्मानाबाद)",
+   "slug": "dharashiv",
+   "region": "sambhajinagar",
+   "regionName": "Chhatrapati Sambhajinagar",
+   "regionNameMr": "छत्रपती संभाजीनगर",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/छ_संभाजीनगर_विभाग/धाराशिव_विभाग_बसस्थानक_वेळापत्रक.pdf",
+   "districts": [
+    "dharashiv"
+   ]
+  },
+  {
+   "id": "parbhani",
+   "name": "Parbhani",
+   "nameMr": "परभणी",
+   "nameHi": "परभणी",
+   "slug": "parbhani",
+   "region": "sambhajinagar",
+   "regionName": "Chhatrapati Sambhajinagar",
+   "regionNameMr": "छत्रपती संभाजीनगर",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/छ_संभाजीनगर_विभाग/परभणी_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "parbhani",
+    "hingoli"
+   ]
+  },
+  {
+   "id": "nagpur",
+   "name": "Nagpur",
+   "nameMr": "नागपूर",
+   "nameHi": "नागपुर",
+   "slug": "nagpur",
+   "region": "nagpur",
+   "regionName": "Nagpur",
+   "regionNameMr": "नागपूर",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/नागपूर_विभाग/नागपूर_विभाग_बसस्थानक_वेळापत्रक.pdf",
+   "districts": [
+    "nagpur"
+   ]
+  },
+  {
+   "id": "bhandara",
+   "name": "Bhandara",
+   "nameMr": "भंडारा",
+   "nameHi": "भंडारा",
+   "slug": "bhandara",
+   "region": "nagpur",
+   "regionName": "Nagpur",
+   "regionNameMr": "नागपूर",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/नागपूर_विभाग/भंडारा_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "bhandara",
+    "gondia"
+   ]
+  },
+  {
+   "id": "wardha",
+   "name": "Wardha",
+   "nameMr": "वर्धा",
+   "nameHi": "वर्धा",
+   "slug": "wardha",
+   "region": "nagpur",
+   "regionName": "Nagpur",
+   "regionNameMr": "नागपूर",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/नागपूर_विभाग/वर्धा_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "wardha"
+   ]
+  },
+  {
+   "id": "chandrapur",
+   "name": "Chandrapur",
+   "nameMr": "चंद्रपूर",
+   "nameHi": "चंद्रपुर",
+   "slug": "chandrapur",
+   "region": "nagpur",
+   "regionName": "Nagpur",
+   "regionNameMr": "नागपूर",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/नागपूर_विभाग/चंद्रपूर_बसस्थानक_वेळापत्रक.pdf",
+   "districts": [
+    "chandrapur"
+   ]
+  },
+  {
+   "id": "gadchiroli",
+   "name": "Gadchiroli",
+   "nameMr": "गडचिरोली",
+   "nameHi": "गढ़चिरौली",
+   "slug": "gadchiroli",
+   "region": "nagpur",
+   "regionName": "Nagpur",
+   "regionNameMr": "नागपूर",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/नागपूर_विभाग/गडचिरोली_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "gadchiroli"
+   ]
+  },
+  {
+   "id": "amravati",
+   "name": "Amravati",
+   "nameMr": "अमरावती",
+   "nameHi": "अमरावती",
+   "slug": "amravati",
+   "region": "amravati",
+   "regionName": "Amravati",
+   "regionNameMr": "अमरावती",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/अमरावती_विभाग/अमरावती_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "amravati"
+   ]
+  },
+  {
+   "id": "akola",
+   "name": "Akola",
+   "nameMr": "अकोला",
+   "nameHi": "अकोला",
+   "slug": "akola",
+   "region": "amravati",
+   "regionName": "Amravati",
+   "regionNameMr": "अमरावती",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/अमरावती_विभाग/अकोला_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "akola",
+    "washim"
+   ]
+  },
+  {
+   "id": "yavatmal",
+   "name": "Yavatmal",
+   "nameMr": "यवतमाळ",
+   "nameHi": "यवतमाल",
+   "slug": "yavatmal",
+   "region": "amravati",
+   "regionName": "Amravati",
+   "regionNameMr": "अमरावती",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/अमरावती_विभाग/यवतमाळ_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "yavatmal"
+   ]
+  },
+  {
+   "id": "buldhana",
+   "name": "Buldhana",
+   "nameMr": "बुलढाणा",
+   "nameHi": "बुलढाणा",
+   "slug": "buldhana",
+   "region": "amravati",
+   "regionName": "Amravati",
+   "regionNameMr": "अमरावती",
+   "timetablePdf": "https://msrtc.maharashtra.gov.in/pdf/MSRTC-Timetabel/अमरावती_विभाग/बुलढाणा_विभाग_वेळापत्रक.pdf",
+   "districts": [
+    "buldhana"
+   ]
+  }
+ ],
+ "districts": [
+  {
+   "id": "mumbai-city",
+   "name": "Mumbai City",
+   "nameMr": "मुंबई शहर",
+   "division": "mumbai",
+   "talukas": 1
+  },
+  {
+   "id": "mumbai-suburban",
+   "name": "Mumbai Suburban",
+   "nameMr": "मुंबई उपनगर",
+   "division": "mumbai",
+   "talukas": 3
+  },
+  {
+   "id": "thane",
+   "name": "Thane",
+   "nameMr": "ठाणे",
+   "division": "thane",
+   "talukas": 7
+  },
+  {
+   "id": "palghar",
+   "name": "Palghar",
+   "nameMr": "पालघर",
+   "division": "palghar",
+   "talukas": 8
+  },
+  {
+   "id": "raigad",
+   "name": "Raigad",
+   "nameMr": "रायगड",
+   "division": "raigad",
+   "talukas": 15
+  },
+  {
+   "id": "ratnagiri",
+   "name": "Ratnagiri",
+   "nameMr": "रत्नागिरी",
+   "division": "ratnagiri",
+   "talukas": 9
+  },
+  {
+   "id": "sindhudurg",
+   "name": "Sindhudurg",
+   "nameMr": "सिंधुदुर्ग",
+   "division": "sindhudurg",
+   "talukas": 8
+  },
+  {
+   "id": "pune",
+   "name": "Pune",
+   "nameMr": "पुणे",
+   "division": "pune",
+   "talukas": 14
+  },
+  {
+   "id": "satara",
+   "name": "Satara",
+   "nameMr": "सातारा",
+   "division": "satara",
+   "talukas": 11
+  },
+  {
+   "id": "sangli",
+   "name": "Sangli",
+   "nameMr": "सांगली",
+   "division": "sangli",
+   "talukas": 10
+  },
+  {
+   "id": "solapur",
+   "name": "Solapur",
+   "nameMr": "सोलापूर",
+   "division": "solapur",
+   "talukas": 11
+  },
+  {
+   "id": "kolhapur",
+   "name": "Kolhapur",
+   "nameMr": "कोल्हापूर",
+   "division": "kolhapur",
+   "talukas": 12
+  },
+  {
+   "id": "nashik",
+   "name": "Nashik",
+   "nameMr": "नाशिक",
+   "division": "nashik",
+   "talukas": 15
+  },
+  {
+   "id": "dhule",
+   "name": "Dhule",
+   "nameMr": "धुळे",
+   "division": "dhule",
+   "talukas": 4
+  },
+  {
+   "id": "nandurbar",
+   "name": "Nandurbar",
+   "nameMr": "नंदुरबार",
+   "division": "dhule",
+   "talukas": 6
+  },
+  {
+   "id": "jalgaon",
+   "name": "Jalgaon",
+   "nameMr": "जळगाव",
+   "division": "jalgaon",
+   "talukas": 15
+  },
+  {
+   "id": "ahilyanagar",
+   "name": "Ahilyanagar",
+   "nameMr": "अहिल्यानगर",
+   "division": "ahilyanagar",
+   "talukas": 14
+  },
+  {
+   "id": "sambhajinagar",
+   "name": "Chhatrapati Sambhajinagar",
+   "nameMr": "छत्रपती संभाजीनगर",
+   "division": "sambhajinagar",
+   "talukas": 9
+  },
+  {
+   "id": "jalna",
+   "name": "Jalna",
+   "nameMr": "जालना",
+   "division": "jalna",
+   "talukas": 8
+  },
+  {
+   "id": "beed",
+   "name": "Beed",
+   "nameMr": "बीड",
+   "division": "beed",
+   "talukas": 11
+  },
+  {
+   "id": "latur",
+   "name": "Latur",
+   "nameMr": "लातूर",
+   "division": "latur",
+   "talukas": 10
+  },
+  {
+   "id": "dharashiv",
+   "name": "Dharashiv",
+   "nameMr": "धाराशिव",
+   "division": "dharashiv",
+   "talukas": 8
+  },
+  {
+   "id": "nanded",
+   "name": "Nanded",
+   "nameMr": "नांदेड",
+   "division": "nanded",
+   "talukas": 16
+  },
+  {
+   "id": "parbhani",
+   "name": "Parbhani",
+   "nameMr": "परभणी",
+   "division": "parbhani",
+   "talukas": 9
+  },
+  {
+   "id": "hingoli",
+   "name": "Hingoli",
+   "nameMr": "हिंगोली",
+   "division": "parbhani",
+   "talukas": 5
+  },
+  {
+   "id": "nagpur",
+   "name": "Nagpur",
+   "nameMr": "नागपूर",
+   "division": "nagpur",
+   "talukas": 14
+  },
+  {
+   "id": "wardha",
+   "name": "Wardha",
+   "nameMr": "वर्धा",
+   "division": "wardha",
+   "talukas": 8
+  },
+  {
+   "id": "bhandara",
+   "name": "Bhandara",
+   "nameMr": "भंडारा",
+   "division": "bhandara",
+   "talukas": 7
+  },
+  {
+   "id": "gondia",
+   "name": "Gondia",
+   "nameMr": "गोंदिया",
+   "division": "bhandara",
+   "talukas": 8
+  },
+  {
+   "id": "chandrapur",
+   "name": "Chandrapur",
+   "nameMr": "चंद्रपूर",
+   "division": "chandrapur",
+   "talukas": 15
+  },
+  {
+   "id": "gadchiroli",
+   "name": "Gadchiroli",
+   "nameMr": "गडचिरोली",
+   "division": "gadchiroli",
+   "talukas": 12
+  },
+  {
+   "id": "amravati",
+   "name": "Amravati",
+   "nameMr": "अमरावती",
+   "division": "amravati",
+   "talukas": 14
+  },
+  {
+   "id": "akola",
+   "name": "Akola",
+   "nameMr": "अकोला",
+   "division": "akola",
+   "talukas": 7
+  },
+  {
+   "id": "washim",
+   "name": "Washim",
+   "nameMr": "वाशिम",
+   "division": "akola",
+   "talukas": 6
+  },
+  {
+   "id": "buldhana",
+   "name": "Buldhana",
+   "nameMr": "बुलढाणा",
+   "division": "buldhana",
+   "talukas": 13
+  },
+  {
+   "id": "yavatmal",
+   "name": "Yavatmal",
+   "nameMr": "यवतमाळ",
+   "division": "yavatmal",
+   "talukas": 16
+  }
+ ],
+ "talukas": [
+  {
+   "id": "mumbai-city--mumbai-city",
+   "name": "Mumbai City",
+   "nameMr": "मुंबई शहर",
+   "district": "mumbai-city",
+   "districtName": "Mumbai City",
+   "division": "mumbai",
+   "hq": "Mumbai Central",
+   "hqMr": "मुंबई सेंट्रल"
+  },
+  {
+   "id": "mumbai-suburban--kurla",
+   "name": "Kurla",
+   "nameMr": "कुर्ला",
+   "district": "mumbai-suburban",
+   "districtName": "Mumbai Suburban",
+   "division": "mumbai",
+   "hq": "Kurla",
+   "hqMr": "कुर्ला"
+  },
+  {
+   "id": "mumbai-suburban--andheri",
+   "name": "Andheri",
+   "nameMr": "अंधेरी",
+   "district": "mumbai-suburban",
+   "districtName": "Mumbai Suburban",
+   "division": "mumbai",
+   "hq": "Andheri",
+   "hqMr": "अंधेरी"
+  },
+  {
+   "id": "mumbai-suburban--borivali",
+   "name": "Borivali",
+   "nameMr": "बोरिवली",
+   "district": "mumbai-suburban",
+   "districtName": "Mumbai Suburban",
+   "division": "mumbai",
+   "hq": "Borivali",
+   "hqMr": "बोरिवली"
+  },
+  {
+   "id": "thane--thane",
+   "name": "Thane",
+   "nameMr": "ठाणे",
+   "district": "thane",
+   "districtName": "Thane",
+   "division": "thane",
+   "hq": "Thane",
+   "hqMr": "ठाणे"
+  },
+  {
+   "id": "thane--kalyan",
+   "name": "Kalyan",
+   "nameMr": "कल्याण",
+   "district": "thane",
+   "districtName": "Thane",
+   "division": "thane",
+   "hq": "Kalyan",
+   "hqMr": "कल्याण"
+  },
+  {
+   "id": "thane--murbad",
+   "name": "Murbad",
+   "nameMr": "मुरबाड",
+   "district": "thane",
+   "districtName": "Thane",
+   "division": "thane",
+   "hq": "Murbad",
+   "hqMr": "मुरबाड"
+  },
+  {
+   "id": "thane--bhiwandi",
+   "name": "Bhiwandi",
+   "nameMr": "भिवंडी",
+   "district": "thane",
+   "districtName": "Thane",
+   "division": "thane",
+   "hq": "Bhiwandi",
+   "hqMr": "भिवंडी"
+  },
+  {
+   "id": "thane--shahapur",
+   "name": "Shahapur",
+   "nameMr": "शहापूर",
+   "district": "thane",
+   "districtName": "Thane",
+   "division": "thane",
+   "hq": "Shahapur",
+   "hqMr": "शहापूर"
+  },
+  {
+   "id": "thane--ulhasnagar",
+   "name": "Ulhasnagar",
+   "nameMr": "उल्हासनगर",
+   "district": "thane",
+   "districtName": "Thane",
+   "division": "thane",
+   "hq": "Ulhasnagar",
+   "hqMr": "उल्हासनगर"
+  },
+  {
+   "id": "thane--ambarnath",
+   "name": "Ambarnath",
+   "nameMr": "अंबरनाथ",
+   "district": "thane",
+   "districtName": "Thane",
+   "division": "thane",
+   "hq": "Ambarnath",
+   "hqMr": "अंबरनाथ"
+  },
+  {
+   "id": "palghar--palghar",
+   "name": "Palghar",
+   "nameMr": "पालघर",
+   "district": "palghar",
+   "districtName": "Palghar",
+   "division": "palghar",
+   "hq": "Palghar",
+   "hqMr": "पालघर"
+  },
+  {
+   "id": "palghar--vasai",
+   "name": "Vasai",
+   "nameMr": "वसई",
+   "district": "palghar",
+   "districtName": "Palghar",
+   "division": "palghar",
+   "hq": "Vasai",
+   "hqMr": "वसई"
+  },
+  {
+   "id": "palghar--dahanu",
+   "name": "Dahanu",
+   "nameMr": "डहाणू",
+   "district": "palghar",
+   "districtName": "Palghar",
+   "division": "palghar",
+   "hq": "Dahanu",
+   "hqMr": "डहाणू"
+  },
+  {
+   "id": "palghar--talasari",
+   "name": "Talasari",
+   "nameMr": "तलासरी",
+   "district": "palghar",
+   "districtName": "Palghar",
+   "division": "palghar",
+   "hq": "Talasari",
+   "hqMr": "तलासरी"
+  },
+  {
+   "id": "palghar--jawhar",
+   "name": "Jawhar",
+   "nameMr": "जव्हार",
+   "district": "palghar",
+   "districtName": "Palghar",
+   "division": "palghar",
+   "hq": "Jawhar",
+   "hqMr": "जव्हार"
+  },
+  {
+   "id": "palghar--mokhada",
+   "name": "Mokhada",
+   "nameMr": "मोखाडा",
+   "district": "palghar",
+   "districtName": "Palghar",
+   "division": "palghar",
+   "hq": "Mokhada",
+   "hqMr": "मोखाडा"
+  },
+  {
+   "id": "palghar--vada",
+   "name": "Vada",
+   "nameMr": "वाडा",
+   "district": "palghar",
+   "districtName": "Palghar",
+   "division": "palghar",
+   "hq": "Vada",
+   "hqMr": "वाडा"
+  },
+  {
+   "id": "palghar--vikramgad",
+   "name": "Vikramgad",
+   "nameMr": "विक्रमगड",
+   "district": "palghar",
+   "districtName": "Palghar",
+   "division": "palghar",
+   "hq": "Vikramgad",
+   "hqMr": "विक्रमगड"
+  },
+  {
+   "id": "raigad--alibag",
+   "name": "Alibag",
+   "nameMr": "अलिबाग",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Alibag",
+   "hqMr": "अलिबाग"
+  },
+  {
+   "id": "raigad--pen",
+   "name": "Pen",
+   "nameMr": "पेण",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Pen",
+   "hqMr": "पेण"
+  },
+  {
+   "id": "raigad--murud",
+   "name": "Murud",
+   "nameMr": "मुरुड",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Murud",
+   "hqMr": "मुरुड"
+  },
+  {
+   "id": "raigad--panvel",
+   "name": "Panvel",
+   "nameMr": "पनवेल",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Panvel",
+   "hqMr": "पनवेल"
+  },
+  {
+   "id": "raigad--uran",
+   "name": "Uran",
+   "nameMr": "उरण",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Uran",
+   "hqMr": "उरण"
+  },
+  {
+   "id": "raigad--karjat",
+   "name": "Karjat",
+   "nameMr": "कर्जत",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Karjat",
+   "hqMr": "कर्जत"
+  },
+  {
+   "id": "raigad--khalapur",
+   "name": "Khalapur",
+   "nameMr": "खालापूर",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Khalapur",
+   "hqMr": "खालापूर"
+  },
+  {
+   "id": "raigad--mangaon",
+   "name": "Mangaon",
+   "nameMr": "माणगाव",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Mangaon",
+   "hqMr": "माणगाव"
+  },
+  {
+   "id": "raigad--tala",
+   "name": "Tala",
+   "nameMr": "तळा",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Tala",
+   "hqMr": "तळा"
+  },
+  {
+   "id": "raigad--roha",
+   "name": "Roha",
+   "nameMr": "रोहा",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Roha",
+   "hqMr": "रोहा"
+  },
+  {
+   "id": "raigad--sudhagad",
+   "name": "Sudhagad",
+   "nameMr": "सुधागड",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Pali",
+   "hqMr": "पाली"
+  },
+  {
+   "id": "raigad--mahad",
+   "name": "Mahad",
+   "nameMr": "महाड",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Mahad",
+   "hqMr": "महाड"
+  },
+  {
+   "id": "raigad--poladpur",
+   "name": "Poladpur",
+   "nameMr": "पोलादपूर",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Poladpur",
+   "hqMr": "पोलादपूर"
+  },
+  {
+   "id": "raigad--shrivardhan",
+   "name": "Shrivardhan",
+   "nameMr": "श्रीवर्धन",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Shrivardhan",
+   "hqMr": "श्रीवर्धन"
+  },
+  {
+   "id": "raigad--mhasala",
+   "name": "Mhasala",
+   "nameMr": "म्हसळा",
+   "district": "raigad",
+   "districtName": "Raigad",
+   "division": "raigad",
+   "hq": "Mhasala",
+   "hqMr": "म्हसळा"
+  },
+  {
+   "id": "ratnagiri--ratnagiri",
+   "name": "Ratnagiri",
+   "nameMr": "रत्नागिरी",
+   "district": "ratnagiri",
+   "districtName": "Ratnagiri",
+   "division": "ratnagiri",
+   "hq": "Ratnagiri",
+   "hqMr": "रत्नागिरी"
+  },
+  {
+   "id": "ratnagiri--sangameshwar",
+   "name": "Sangameshwar",
+   "nameMr": "संगमेश्वर",
+   "district": "ratnagiri",
+   "districtName": "Ratnagiri",
+   "division": "ratnagiri",
+   "hq": "Devrukh",
+   "hqMr": "देवरुख"
+  },
+  {
+   "id": "ratnagiri--lanja",
+   "name": "Lanja",
+   "nameMr": "लांजा",
+   "district": "ratnagiri",
+   "districtName": "Ratnagiri",
+   "division": "ratnagiri",
+   "hq": "Lanja",
+   "hqMr": "लांजा"
+  },
+  {
+   "id": "ratnagiri--rajapur",
+   "name": "Rajapur",
+   "nameMr": "राजापूर",
+   "district": "ratnagiri",
+   "districtName": "Ratnagiri",
+   "division": "ratnagiri",
+   "hq": "Rajapur",
+   "hqMr": "राजापूर"
+  },
+  {
+   "id": "ratnagiri--chiplun",
+   "name": "Chiplun",
+   "nameMr": "चिपळूण",
+   "district": "ratnagiri",
+   "districtName": "Ratnagiri",
+   "division": "ratnagiri",
+   "hq": "Chiplun",
+   "hqMr": "चिपळूण"
+  },
+  {
+   "id": "ratnagiri--guhagar",
+   "name": "Guhagar",
+   "nameMr": "गुहागर",
+   "district": "ratnagiri",
+   "districtName": "Ratnagiri",
+   "division": "ratnagiri",
+   "hq": "Guhagar",
+   "hqMr": "गुहागर"
+  },
+  {
+   "id": "ratnagiri--dapoli",
+   "name": "Dapoli",
+   "nameMr": "दापोली",
+   "district": "ratnagiri",
+   "districtName": "Ratnagiri",
+   "division": "ratnagiri",
+   "hq": "Dapoli",
+   "hqMr": "दापोली"
+  },
+  {
+   "id": "ratnagiri--mandangad",
+   "name": "Mandangad",
+   "nameMr": "मंडणगड",
+   "district": "ratnagiri",
+   "districtName": "Ratnagiri",
+   "division": "ratnagiri",
+   "hq": "Mandangad",
+   "hqMr": "मंडणगड"
+  },
+  {
+   "id": "ratnagiri--khed",
+   "name": "Khed",
+   "nameMr": "खेड",
+   "district": "ratnagiri",
+   "districtName": "Ratnagiri",
+   "division": "ratnagiri",
+   "hq": "Khed",
+   "hqMr": "खेड"
+  },
+  {
+   "id": "sindhudurg--kankavli",
+   "name": "Kankavli",
+   "nameMr": "कणकवली",
+   "district": "sindhudurg",
+   "districtName": "Sindhudurg",
+   "division": "sindhudurg",
+   "hq": "Kankavli",
+   "hqMr": "कणकवली"
+  },
+  {
+   "id": "sindhudurg--vaibhavwadi",
+   "name": "Vaibhavwadi",
+   "nameMr": "वैभववाडी",
+   "district": "sindhudurg",
+   "districtName": "Sindhudurg",
+   "division": "sindhudurg",
+   "hq": "Vaibhavwadi",
+   "hqMr": "वैभववाडी"
+  },
+  {
+   "id": "sindhudurg--devgad",
+   "name": "Devgad",
+   "nameMr": "देवगड",
+   "district": "sindhudurg",
+   "districtName": "Sindhudurg",
+   "division": "sindhudurg",
+   "hq": "Devgad",
+   "hqMr": "देवगड"
+  },
+  {
+   "id": "sindhudurg--malvan",
+   "name": "Malvan",
+   "nameMr": "मालवण",
+   "district": "sindhudurg",
+   "districtName": "Sindhudurg",
+   "division": "sindhudurg",
+   "hq": "Malvan",
+   "hqMr": "मालवण"
+  },
+  {
+   "id": "sindhudurg--sawantwadi",
+   "name": "Sawantwadi",
+   "nameMr": "सावंतवाडी",
+   "district": "sindhudurg",
+   "districtName": "Sindhudurg",
+   "division": "sindhudurg",
+   "hq": "Sawantwadi",
+   "hqMr": "सावंतवाडी"
+  },
+  {
+   "id": "sindhudurg--kudal",
+   "name": "Kudal",
+   "nameMr": "कुडाळ",
+   "district": "sindhudurg",
+   "districtName": "Sindhudurg",
+   "division": "sindhudurg",
+   "hq": "Kudal",
+   "hqMr": "कुडाळ"
+  },
+  {
+   "id": "sindhudurg--vengurla",
+   "name": "Vengurla",
+   "nameMr": "वेंगुर्ला",
+   "district": "sindhudurg",
+   "districtName": "Sindhudurg",
+   "division": "sindhudurg",
+   "hq": "Vengurla",
+   "hqMr": "वेंगुर्ला"
+  },
+  {
+   "id": "sindhudurg--dodamarg",
+   "name": "Dodamarg",
+   "nameMr": "दोडामार्ग",
+   "district": "sindhudurg",
+   "districtName": "Sindhudurg",
+   "division": "sindhudurg",
+   "hq": "Dodamarg",
+   "hqMr": "दोडामार्ग"
+  },
+  {
+   "id": "pune--pune-city",
+   "name": "Pune City",
+   "nameMr": "पुणे शहर",
+   "district": "pune",
+   "districtName": "Pune",
+   "division": "pune",
+   "hq": "Pune",
+   "hqMr": "पुणे"
+  },
+  {
+   "id": "pune--haveli",
+   "name": "Haveli",
+   "nameMr": "हवेली",
+   "district": "pune",
+   "districtName": "Pune",
+   "division": "pune",
+   "hq": "Pune",
+   "hqMr": "पुणे"
+  },
+  {
+   "id": "pune--khed",
+   "name": "Khed",
+   "nameMr": "खेड",
+   "district": "pune",
+   "districtName": "Pune",
+   "division": "pune",
+   "hq": "Rajgurunagar",
+   "hqMr": "राजगुरुनगर"
+  },
+  {
+   "id": "pune--junnar",
+   "name": "Junnar",
+   "nameMr": "जुन्नर",
+   "district": "pune",
+   "districtName": "Pune",
+   "division": "pune",
+   "hq": "Junnar",
+   "hqMr": "जुन्नर"
+  },
+  {
+   "id": "pune--ambegaon",
+   "name": "Ambegaon",
+   "nameMr": "आंबेगाव",
+   "district": "pune",
+   "districtName": "Pune",
+   "division": "pune",
+   "hq": "Ghodegaon",
+   "hqMr": "घोडेगाव"
+  },
+  {
+   "id": "pune--maval",
+   "name": "Maval",
+   "nameMr": "मावळ",
+   "district": "pune",
+   "districtName": "Pune",
+   "division": "pune",
+   "hq": "Vadgaon Maval",
+   "hqMr": "वडगाव मावळ"
+  },
+  {
+   "id": "pune--mulshi",
+   "name": "Mulshi",
+   "nameMr": "मुळशी",
+   "district": "pune",
+   "districtName": "Pune",
+   "division": "pune",
+   "hq": "Paud",
+   "hqMr": "पौड"
+  },
+  {
+   "id": "pune--shirur",
+   "name": "Shirur",
+   "nameMr": "शिरूर",
+   "district": "pune",
+   "districtName": "Pune",
+   "division": "pune",
+   "hq": "Shirur",
+   "hqMr": "शिरूर"
+  },
+  {
+   "id": "pune--purandar",
+   "name": "Purandar",
+   "nameMr": "पुरंदर",
+   "district": "pune",
+   "districtName": "Pune",
+   "division": "pune",
+   "hq": "Saswad",
+   "hqMr": "सासवड"
+  },
+  {
+   "id": "pune--velhe-rajgad",
+   "name": "Velhe (Rajgad)",
+   "nameMr": "वेल्हे (राजगड)",
+   "district": "pune",
+   "districtName": "Pune",
+   "division": "pune",
+   "hq": "Velhe",
+   "hqMr": "वेल्हे"
+  },
+  {
+   "id": "pune--bhor",
+   "name": "Bhor",
+   "nameMr": "भोर",
+   "district": "pune",
+   "districtName": "Pune",
+   "division": "pune",
+   "hq": "Bhor",
+   "hqMr": "भोर"
+  },
+  {
+   "id": "pune--baramati",
+   "name": "Baramati",
+   "nameMr": "बारामती",
+   "district": "pune",
+   "districtName": "Pune",
+   "division": "pune",
+   "hq": "Baramati",
+   "hqMr": "बारामती"
+  },
+  {
+   "id": "pune--indapur",
+   "name": "Indapur",
+   "nameMr": "इंदापूर",
+   "district": "pune",
+   "districtName": "Pune",
+   "division": "pune",
+   "hq": "Indapur",
+   "hqMr": "इंदापूर"
+  },
+  {
+   "id": "pune--daund",
+   "name": "Daund",
+   "nameMr": "दौंड",
+   "district": "pune",
+   "districtName": "Pune",
+   "division": "pune",
+   "hq": "Daund",
+   "hqMr": "दौंड"
+  },
+  {
+   "id": "satara--satara",
+   "name": "Satara",
+   "nameMr": "सातारा",
+   "district": "satara",
+   "districtName": "Satara",
+   "division": "satara",
+   "hq": "Satara",
+   "hqMr": "सातारा"
+  },
+  {
+   "id": "satara--jaoli",
+   "name": "Jaoli",
+   "nameMr": "जावळी",
+   "district": "satara",
+   "districtName": "Satara",
+   "division": "satara",
+   "hq": "Medha",
+   "hqMr": "मेढा"
+  },
+  {
+   "id": "satara--koregaon",
+   "name": "Koregaon",
+   "nameMr": "कोरेगाव",
+   "district": "satara",
+   "districtName": "Satara",
+   "division": "satara",
+   "hq": "Koregaon",
+   "hqMr": "कोरेगाव"
+  },
+  {
+   "id": "satara--wai",
+   "name": "Wai",
+   "nameMr": "वाई",
+   "district": "satara",
+   "districtName": "Satara",
+   "division": "satara",
+   "hq": "Wai",
+   "hqMr": "वाई"
+  },
+  {
+   "id": "satara--mahabaleshwar",
+   "name": "Mahabaleshwar",
+   "nameMr": "महाबळेश्वर",
+   "district": "satara",
+   "districtName": "Satara",
+   "division": "satara",
+   "hq": "Mahabaleshwar",
+   "hqMr": "महाबळेश्वर"
+  },
+  {
+   "id": "satara--khandala",
+   "name": "Khandala",
+   "nameMr": "खंडाळा",
+   "district": "satara",
+   "districtName": "Satara",
+   "division": "satara",
+   "hq": "Khandala",
+   "hqMr": "खंडाळा"
+  },
+  {
+   "id": "satara--phaltan",
+   "name": "Phaltan",
+   "nameMr": "फलटण",
+   "district": "satara",
+   "districtName": "Satara",
+   "division": "satara",
+   "hq": "Phaltan",
+   "hqMr": "फलटण"
+  },
+  {
+   "id": "satara--man",
+   "name": "Man",
+   "nameMr": "माण",
+   "district": "satara",
+   "districtName": "Satara",
+   "division": "satara",
+   "hq": "Dahiwadi",
+   "hqMr": "दहिवडी"
+  },
+  {
+   "id": "satara--khatav",
+   "name": "Khatav",
+   "nameMr": "खटाव",
+   "district": "satara",
+   "districtName": "Satara",
+   "division": "satara",
+   "hq": "Vaduj",
+   "hqMr": "वडूज"
+  },
+  {
+   "id": "satara--patan",
+   "name": "Patan",
+   "nameMr": "पाटण",
+   "district": "satara",
+   "districtName": "Satara",
+   "division": "satara",
+   "hq": "Patan",
+   "hqMr": "पाटण"
+  },
+  {
+   "id": "satara--karad",
+   "name": "Karad",
+   "nameMr": "कराड",
+   "district": "satara",
+   "districtName": "Satara",
+   "division": "satara",
+   "hq": "Karad",
+   "hqMr": "कराड"
+  },
+  {
+   "id": "sangli--miraj",
+   "name": "Miraj",
+   "nameMr": "मिरज",
+   "district": "sangli",
+   "districtName": "Sangli",
+   "division": "sangli",
+   "hq": "Miraj",
+   "hqMr": "मिरज"
+  },
+  {
+   "id": "sangli--kavathe-mahankal",
+   "name": "Kavathe Mahankal",
+   "nameMr": "कवठेमहांकाळ",
+   "district": "sangli",
+   "districtName": "Sangli",
+   "division": "sangli",
+   "hq": "Kavathe Mahankal",
+   "hqMr": "कवठेमहांकाळ"
+  },
+  {
+   "id": "sangli--tasgaon",
+   "name": "Tasgaon",
+   "nameMr": "तासगाव",
+   "district": "sangli",
+   "districtName": "Sangli",
+   "division": "sangli",
+   "hq": "Tasgaon",
+   "hqMr": "तासगाव"
+  },
+  {
+   "id": "sangli--jat",
+   "name": "Jat",
+   "nameMr": "जत",
+   "district": "sangli",
+   "districtName": "Sangli",
+   "division": "sangli",
+   "hq": "Jat",
+   "hqMr": "जत"
+  },
+  {
+   "id": "sangli--walwa",
+   "name": "Walwa",
+   "nameMr": "वाळवा",
+   "district": "sangli",
+   "districtName": "Sangli",
+   "division": "sangli",
+   "hq": "Islampur",
+   "hqMr": "इस्लामपूर"
+  },
+  {
+   "id": "sangli--shirala",
+   "name": "Shirala",
+   "nameMr": "शिराळा",
+   "district": "sangli",
+   "districtName": "Sangli",
+   "division": "sangli",
+   "hq": "Shirala",
+   "hqMr": "शिराळा"
+  },
+  {
+   "id": "sangli--khanapur",
+   "name": "Khanapur",
+   "nameMr": "खानापूर",
+   "district": "sangli",
+   "districtName": "Sangli",
+   "division": "sangli",
+   "hq": "Vita",
+   "hqMr": "विटा"
+  },
+  {
+   "id": "sangli--atpadi",
+   "name": "Atpadi",
+   "nameMr": "आटपाडी",
+   "district": "sangli",
+   "districtName": "Sangli",
+   "division": "sangli",
+   "hq": "Atpadi",
+   "hqMr": "आटपाडी"
+  },
+  {
+   "id": "sangli--palus",
+   "name": "Palus",
+   "nameMr": "पलूस",
+   "district": "sangli",
+   "districtName": "Sangli",
+   "division": "sangli",
+   "hq": "Palus",
+   "hqMr": "पलूस"
+  },
+  {
+   "id": "sangli--kadegaon",
+   "name": "Kadegaon",
+   "nameMr": "कडेगाव",
+   "district": "sangli",
+   "districtName": "Sangli",
+   "division": "sangli",
+   "hq": "Kadegaon",
+   "hqMr": "कडेगाव"
+  },
+  {
+   "id": "solapur--solapur-north",
+   "name": "Solapur North",
+   "nameMr": "उत्तर सोलापूर",
+   "district": "solapur",
+   "districtName": "Solapur",
+   "division": "solapur",
+   "hq": "Solapur",
+   "hqMr": "सोलापूर"
+  },
+  {
+   "id": "solapur--solapur-south",
+   "name": "Solapur South",
+   "nameMr": "दक्षिण सोलापूर",
+   "district": "solapur",
+   "districtName": "Solapur",
+   "division": "solapur",
+   "hq": "Solapur",
+   "hqMr": "सोलापूर"
+  },
+  {
+   "id": "solapur--akkalkot",
+   "name": "Akkalkot",
+   "nameMr": "अक्कलकोट",
+   "district": "solapur",
+   "districtName": "Solapur",
+   "division": "solapur",
+   "hq": "Akkalkot",
+   "hqMr": "अक्कलकोट"
+  },
+  {
+   "id": "solapur--barshi",
+   "name": "Barshi",
+   "nameMr": "बार्शी",
+   "district": "solapur",
+   "districtName": "Solapur",
+   "division": "solapur",
+   "hq": "Barshi",
+   "hqMr": "बार्शी"
+  },
+  {
+   "id": "solapur--mangalwedha",
+   "name": "Mangalwedha",
+   "nameMr": "मंगळवेढा",
+   "district": "solapur",
+   "districtName": "Solapur",
+   "division": "solapur",
+   "hq": "Mangalwedha",
+   "hqMr": "मंगळवेढा"
+  },
+  {
+   "id": "solapur--pandharpur",
+   "name": "Pandharpur",
+   "nameMr": "पंढरपूर",
+   "district": "solapur",
+   "districtName": "Solapur",
+   "division": "solapur",
+   "hq": "Pandharpur",
+   "hqMr": "पंढरपूर"
+  },
+  {
+   "id": "solapur--sangola",
+   "name": "Sangola",
+   "nameMr": "सांगोला",
+   "district": "solapur",
+   "districtName": "Solapur",
+   "division": "solapur",
+   "hq": "Sangola",
+   "hqMr": "सांगोला"
+  },
+  {
+   "id": "solapur--malshiras",
+   "name": "Malshiras",
+   "nameMr": "माळशिरस",
+   "district": "solapur",
+   "districtName": "Solapur",
+   "division": "solapur",
+   "hq": "Malshiras",
+   "hqMr": "माळशिरस"
+  },
+  {
+   "id": "solapur--mohol",
+   "name": "Mohol",
+   "nameMr": "मोहोळ",
+   "district": "solapur",
+   "districtName": "Solapur",
+   "division": "solapur",
+   "hq": "Mohol",
+   "hqMr": "मोहोळ"
+  },
+  {
+   "id": "solapur--madha",
+   "name": "Madha",
+   "nameMr": "माढा",
+   "district": "solapur",
+   "districtName": "Solapur",
+   "division": "solapur",
+   "hq": "Madha",
+   "hqMr": "माढा"
+  },
+  {
+   "id": "solapur--karmala",
+   "name": "Karmala",
+   "nameMr": "करमाळा",
+   "district": "solapur",
+   "districtName": "Solapur",
+   "division": "solapur",
+   "hq": "Karmala",
+   "hqMr": "करमाळा"
+  },
+  {
+   "id": "kolhapur--karvir",
+   "name": "Karvir",
+   "nameMr": "करवीर",
+   "district": "kolhapur",
+   "districtName": "Kolhapur",
+   "division": "kolhapur",
+   "hq": "Kolhapur",
+   "hqMr": "कोल्हापूर"
+  },
+  {
+   "id": "kolhapur--panhala",
+   "name": "Panhala",
+   "nameMr": "पन्हाळा",
+   "district": "kolhapur",
+   "districtName": "Kolhapur",
+   "division": "kolhapur",
+   "hq": "Panhala",
+   "hqMr": "पन्हाळा"
+  },
+  {
+   "id": "kolhapur--shahuwadi",
+   "name": "Shahuwadi",
+   "nameMr": "शाहूवाडी",
+   "district": "kolhapur",
+   "districtName": "Kolhapur",
+   "division": "kolhapur",
+   "hq": "Malkapur",
+   "hqMr": "मलकापूर"
+  },
+  {
+   "id": "kolhapur--kagal",
+   "name": "Kagal",
+   "nameMr": "कागल",
+   "district": "kolhapur",
+   "districtName": "Kolhapur",
+   "division": "kolhapur",
+   "hq": "Kagal",
+   "hqMr": "कागल"
+  },
+  {
+   "id": "kolhapur--hatkanangle",
+   "name": "Hatkanangle",
+   "nameMr": "हातकणंगले",
+   "district": "kolhapur",
+   "districtName": "Kolhapur",
+   "division": "kolhapur",
+   "hq": "Hatkanangle",
+   "hqMr": "हातकणंगले"
+  },
+  {
+   "id": "kolhapur--shirol",
+   "name": "Shirol",
+   "nameMr": "शिरोळ",
+   "district": "kolhapur",
+   "districtName": "Kolhapur",
+   "division": "kolhapur",
+   "hq": "Shirol",
+   "hqMr": "शिरोळ"
+  },
+  {
+   "id": "kolhapur--radhanagari",
+   "name": "Radhanagari",
+   "nameMr": "राधानगरी",
+   "district": "kolhapur",
+   "districtName": "Kolhapur",
+   "division": "kolhapur",
+   "hq": "Radhanagari",
+   "hqMr": "राधानगरी"
+  },
+  {
+   "id": "kolhapur--gaganbawada",
+   "name": "Gaganbawada",
+   "nameMr": "गगनबावडा",
+   "district": "kolhapur",
+   "districtName": "Kolhapur",
+   "division": "kolhapur",
+   "hq": "Gaganbawada",
+   "hqMr": "गगनबावडा"
+  },
+  {
+   "id": "kolhapur--bhudargad",
+   "name": "Bhudargad",
+   "nameMr": "भुदरगड",
+   "district": "kolhapur",
+   "districtName": "Kolhapur",
+   "division": "kolhapur",
+   "hq": "Gargoti",
+   "hqMr": "गारगोटी"
+  },
+  {
+   "id": "kolhapur--gadhinglaj",
+   "name": "Gadhinglaj",
+   "nameMr": "गडहिंग्लज",
+   "district": "kolhapur",
+   "districtName": "Kolhapur",
+   "division": "kolhapur",
+   "hq": "Gadhinglaj",
+   "hqMr": "गडहिंग्लज"
+  },
+  {
+   "id": "kolhapur--chandgad",
+   "name": "Chandgad",
+   "nameMr": "चंदगड",
+   "district": "kolhapur",
+   "districtName": "Kolhapur",
+   "division": "kolhapur",
+   "hq": "Chandgad",
+   "hqMr": "चंदगड"
+  },
+  {
+   "id": "kolhapur--ajara",
+   "name": "Ajara",
+   "nameMr": "आजरा",
+   "district": "kolhapur",
+   "districtName": "Kolhapur",
+   "division": "kolhapur",
+   "hq": "Ajara",
+   "hqMr": "आजरा"
+  },
+  {
+   "id": "nashik--nashik",
+   "name": "Nashik",
+   "nameMr": "नाशिक",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Nashik",
+   "hqMr": "नाशिक"
+  },
+  {
+   "id": "nashik--igatpuri",
+   "name": "Igatpuri",
+   "nameMr": "इगतपुरी",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Igatpuri",
+   "hqMr": "इगतपुरी"
+  },
+  {
+   "id": "nashik--dindori",
+   "name": "Dindori",
+   "nameMr": "दिंडोरी",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Dindori",
+   "hqMr": "दिंडोरी"
+  },
+  {
+   "id": "nashik--peth",
+   "name": "Peth",
+   "nameMr": "पेठ",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Peth",
+   "hqMr": "पेठ"
+  },
+  {
+   "id": "nashik--trimbakeshwar",
+   "name": "Trimbakeshwar",
+   "nameMr": "त्र्यंबकेश्वर",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Trimbakeshwar",
+   "hqMr": "त्र्यंबकेश्वर"
+  },
+  {
+   "id": "nashik--kalwan",
+   "name": "Kalwan",
+   "nameMr": "कळवण",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Kalwan",
+   "hqMr": "कळवण"
+  },
+  {
+   "id": "nashik--deola",
+   "name": "Deola",
+   "nameMr": "देवळा",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Deola",
+   "hqMr": "देवळा"
+  },
+  {
+   "id": "nashik--surgana",
+   "name": "Surgana",
+   "nameMr": "सुरगाणा",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Surgana",
+   "hqMr": "सुरगाणा"
+  },
+  {
+   "id": "nashik--baglan",
+   "name": "Baglan",
+   "nameMr": "बागलाण",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Satana",
+   "hqMr": "सटाणा"
+  },
+  {
+   "id": "nashik--malegaon",
+   "name": "Malegaon",
+   "nameMr": "मालेगाव",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Malegaon",
+   "hqMr": "मालेगाव"
+  },
+  {
+   "id": "nashik--nandgaon",
+   "name": "Nandgaon",
+   "nameMr": "नांदगाव",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Nandgaon",
+   "hqMr": "नांदगाव"
+  },
+  {
+   "id": "nashik--chandwad",
+   "name": "Chandwad",
+   "nameMr": "चांदवड",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Chandwad",
+   "hqMr": "चांदवड"
+  },
+  {
+   "id": "nashik--niphad",
+   "name": "Niphad",
+   "nameMr": "निफाड",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Niphad",
+   "hqMr": "निफाड"
+  },
+  {
+   "id": "nashik--sinnar",
+   "name": "Sinnar",
+   "nameMr": "सिन्नर",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Sinnar",
+   "hqMr": "सिन्नर"
+  },
+  {
+   "id": "nashik--yeola",
+   "name": "Yeola",
+   "nameMr": "येवला",
+   "district": "nashik",
+   "districtName": "Nashik",
+   "division": "nashik",
+   "hq": "Yeola",
+   "hqMr": "येवला"
+  },
+  {
+   "id": "dhule--dhule",
+   "name": "Dhule",
+   "nameMr": "धुळे",
+   "district": "dhule",
+   "districtName": "Dhule",
+   "division": "dhule",
+   "hq": "Dhule",
+   "hqMr": "धुळे"
+  },
+  {
+   "id": "dhule--sakri",
+   "name": "Sakri",
+   "nameMr": "साक्री",
+   "district": "dhule",
+   "districtName": "Dhule",
+   "division": "dhule",
+   "hq": "Sakri",
+   "hqMr": "साक्री"
+  },
+  {
+   "id": "dhule--shirpur",
+   "name": "Shirpur",
+   "nameMr": "शिरपूर",
+   "district": "dhule",
+   "districtName": "Dhule",
+   "division": "dhule",
+   "hq": "Shirpur",
+   "hqMr": "शिरपूर"
+  },
+  {
+   "id": "dhule--shindkheda",
+   "name": "Shindkheda",
+   "nameMr": "शिंदखेडा",
+   "district": "dhule",
+   "districtName": "Dhule",
+   "division": "dhule",
+   "hq": "Shindkheda",
+   "hqMr": "शिंदखेडा"
+  },
+  {
+   "id": "nandurbar--nandurbar",
+   "name": "Nandurbar",
+   "nameMr": "नंदुरबार",
+   "district": "nandurbar",
+   "districtName": "Nandurbar",
+   "division": "dhule",
+   "hq": "Nandurbar",
+   "hqMr": "नंदुरबार"
+  },
+  {
+   "id": "nandurbar--navapur",
+   "name": "Navapur",
+   "nameMr": "नवापूर",
+   "district": "nandurbar",
+   "districtName": "Nandurbar",
+   "division": "dhule",
+   "hq": "Navapur",
+   "hqMr": "नवापूर"
+  },
+  {
+   "id": "nandurbar--shahada",
+   "name": "Shahada",
+   "nameMr": "शहादा",
+   "district": "nandurbar",
+   "districtName": "Nandurbar",
+   "division": "dhule",
+   "hq": "Shahada",
+   "hqMr": "शहादा"
+  },
+  {
+   "id": "nandurbar--taloda",
+   "name": "Taloda",
+   "nameMr": "तळोदा",
+   "district": "nandurbar",
+   "districtName": "Nandurbar",
+   "division": "dhule",
+   "hq": "Taloda",
+   "hqMr": "तळोदा"
+  },
+  {
+   "id": "nandurbar--akkalkuwa",
+   "name": "Akkalkuwa",
+   "nameMr": "अक्कलकुवा",
+   "district": "nandurbar",
+   "districtName": "Nandurbar",
+   "division": "dhule",
+   "hq": "Akkalkuwa",
+   "hqMr": "अक्कलकुवा"
+  },
+  {
+   "id": "nandurbar--akrani",
+   "name": "Akrani",
+   "nameMr": "अक्राणी",
+   "district": "nandurbar",
+   "districtName": "Nandurbar",
+   "division": "dhule",
+   "hq": "Dhadgaon",
+   "hqMr": "धडगाव"
+  },
+  {
+   "id": "jalgaon--jalgaon",
+   "name": "Jalgaon",
+   "nameMr": "जळगाव",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Jalgaon",
+   "hqMr": "जळगाव"
+  },
+  {
+   "id": "jalgaon--jamner",
+   "name": "Jamner",
+   "nameMr": "जामनेर",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Jamner",
+   "hqMr": "जामनेर"
+  },
+  {
+   "id": "jalgaon--erandol",
+   "name": "Erandol",
+   "nameMr": "एरंडोल",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Erandol",
+   "hqMr": "एरंडोल"
+  },
+  {
+   "id": "jalgaon--dharangaon",
+   "name": "Dharangaon",
+   "nameMr": "धरणगाव",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Dharangaon",
+   "hqMr": "धरणगाव"
+  },
+  {
+   "id": "jalgaon--bhusawal",
+   "name": "Bhusawal",
+   "nameMr": "भुसावळ",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Bhusawal",
+   "hqMr": "भुसावळ"
+  },
+  {
+   "id": "jalgaon--raver",
+   "name": "Raver",
+   "nameMr": "रावेर",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Raver",
+   "hqMr": "रावेर"
+  },
+  {
+   "id": "jalgaon--muktainagar",
+   "name": "Muktainagar",
+   "nameMr": "मुक्ताईनगर",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Muktainagar",
+   "hqMr": "मुक्ताईनगर"
+  },
+  {
+   "id": "jalgaon--bodwad",
+   "name": "Bodwad",
+   "nameMr": "बोदवड",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Bodwad",
+   "hqMr": "बोदवड"
+  },
+  {
+   "id": "jalgaon--yawal",
+   "name": "Yawal",
+   "nameMr": "यावल",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Yawal",
+   "hqMr": "यावल"
+  },
+  {
+   "id": "jalgaon--amalner",
+   "name": "Amalner",
+   "nameMr": "अमळनेर",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Amalner",
+   "hqMr": "अमळनेर"
+  },
+  {
+   "id": "jalgaon--parola",
+   "name": "Parola",
+   "nameMr": "पारोळा",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Parola",
+   "hqMr": "पारोळा"
+  },
+  {
+   "id": "jalgaon--chopda",
+   "name": "Chopda",
+   "nameMr": "चोपडा",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Chopda",
+   "hqMr": "चोपडा"
+  },
+  {
+   "id": "jalgaon--pachora",
+   "name": "Pachora",
+   "nameMr": "पाचोरा",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Pachora",
+   "hqMr": "पाचोरा"
+  },
+  {
+   "id": "jalgaon--bhadgaon",
+   "name": "Bhadgaon",
+   "nameMr": "भडगाव",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Bhadgaon",
+   "hqMr": "भडगाव"
+  },
+  {
+   "id": "jalgaon--chalisgaon",
+   "name": "Chalisgaon",
+   "nameMr": "चाळीसगाव",
+   "district": "jalgaon",
+   "districtName": "Jalgaon",
+   "division": "jalgaon",
+   "hq": "Chalisgaon",
+   "hqMr": "चाळीसगाव"
+  },
+  {
+   "id": "ahilyanagar--ahilyanagar",
+   "name": "Ahilyanagar",
+   "nameMr": "अहिल्यानगर",
+   "district": "ahilyanagar",
+   "districtName": "Ahilyanagar",
+   "division": "ahilyanagar",
+   "hq": "Ahilyanagar",
+   "hqMr": "अहिल्यानगर"
+  },
+  {
+   "id": "ahilyanagar--shevgaon",
+   "name": "Shevgaon",
+   "nameMr": "शेवगाव",
+   "district": "ahilyanagar",
+   "districtName": "Ahilyanagar",
+   "division": "ahilyanagar",
+   "hq": "Shevgaon",
+   "hqMr": "शेवगाव"
+  },
+  {
+   "id": "ahilyanagar--pathardi",
+   "name": "Pathardi",
+   "nameMr": "पाथर्डी",
+   "district": "ahilyanagar",
+   "districtName": "Ahilyanagar",
+   "division": "ahilyanagar",
+   "hq": "Pathardi",
+   "hqMr": "पाथर्डी"
+  },
+  {
+   "id": "ahilyanagar--parner",
+   "name": "Parner",
+   "nameMr": "पारनेर",
+   "district": "ahilyanagar",
+   "districtName": "Ahilyanagar",
+   "division": "ahilyanagar",
+   "hq": "Parner",
+   "hqMr": "पारनेर"
+  },
+  {
+   "id": "ahilyanagar--sangamner",
+   "name": "Sangamner",
+   "nameMr": "संगमनेर",
+   "district": "ahilyanagar",
+   "districtName": "Ahilyanagar",
+   "division": "ahilyanagar",
+   "hq": "Sangamner",
+   "hqMr": "संगमनेर"
+  },
+  {
+   "id": "ahilyanagar--kopargaon",
+   "name": "Kopargaon",
+   "nameMr": "कोपरगाव",
+   "district": "ahilyanagar",
+   "districtName": "Ahilyanagar",
+   "division": "ahilyanagar",
+   "hq": "Kopargaon",
+   "hqMr": "कोपरगाव"
+  },
+  {
+   "id": "ahilyanagar--akole",
+   "name": "Akole",
+   "nameMr": "अकोले",
+   "district": "ahilyanagar",
+   "districtName": "Ahilyanagar",
+   "division": "ahilyanagar",
+   "hq": "Akole",
+   "hqMr": "अकोले"
+  },
+  {
+   "id": "ahilyanagar--shrirampur",
+   "name": "Shrirampur",
+   "nameMr": "श्रीरामपूर",
+   "district": "ahilyanagar",
+   "districtName": "Ahilyanagar",
+   "division": "ahilyanagar",
+   "hq": "Shrirampur",
+   "hqMr": "श्रीरामपूर"
+  },
+  {
+   "id": "ahilyanagar--nevasa",
+   "name": "Nevasa",
+   "nameMr": "नेवासा",
+   "district": "ahilyanagar",
+   "districtName": "Ahilyanagar",
+   "division": "ahilyanagar",
+   "hq": "Nevasa",
+   "hqMr": "नेवासा"
+  },
+  {
+   "id": "ahilyanagar--rahata",
+   "name": "Rahata",
+   "nameMr": "राहाता",
+   "district": "ahilyanagar",
+   "districtName": "Ahilyanagar",
+   "division": "ahilyanagar",
+   "hq": "Rahata",
+   "hqMr": "राहाता"
+  },
+  {
+   "id": "ahilyanagar--rahuri",
+   "name": "Rahuri",
+   "nameMr": "राहुरी",
+   "district": "ahilyanagar",
+   "districtName": "Ahilyanagar",
+   "division": "ahilyanagar",
+   "hq": "Rahuri",
+   "hqMr": "राहुरी"
+  },
+  {
+   "id": "ahilyanagar--shrigonda",
+   "name": "Shrigonda",
+   "nameMr": "श्रीगोंदा",
+   "district": "ahilyanagar",
+   "districtName": "Ahilyanagar",
+   "division": "ahilyanagar",
+   "hq": "Shrigonda",
+   "hqMr": "श्रीगोंदा"
+  },
+  {
+   "id": "ahilyanagar--karjat",
+   "name": "Karjat",
+   "nameMr": "कर्जत",
+   "district": "ahilyanagar",
+   "districtName": "Ahilyanagar",
+   "division": "ahilyanagar",
+   "hq": "Karjat",
+   "hqMr": "कर्जत"
+  },
+  {
+   "id": "ahilyanagar--jamkhed",
+   "name": "Jamkhed",
+   "nameMr": "जामखेड",
+   "district": "ahilyanagar",
+   "districtName": "Ahilyanagar",
+   "division": "ahilyanagar",
+   "hq": "Jamkhed",
+   "hqMr": "जामखेड"
+  },
+  {
+   "id": "sambhajinagar--chhatrapati-sambhajinagar",
+   "name": "Chhatrapati Sambhajinagar",
+   "nameMr": "छत्रपती संभाजीनगर",
+   "district": "sambhajinagar",
+   "districtName": "Chhatrapati Sambhajinagar",
+   "division": "sambhajinagar",
+   "hq": "Chhatrapati Sambhajinagar",
+   "hqMr": "छत्रपती संभाजीनगर"
+  },
+  {
+   "id": "sambhajinagar--kannad",
+   "name": "Kannad",
+   "nameMr": "कन्नड",
+   "district": "sambhajinagar",
+   "districtName": "Chhatrapati Sambhajinagar",
+   "division": "sambhajinagar",
+   "hq": "Kannad",
+   "hqMr": "कन्नड"
+  },
+  {
+   "id": "sambhajinagar--soegaon",
+   "name": "Soegaon",
+   "nameMr": "सोयगाव",
+   "district": "sambhajinagar",
+   "districtName": "Chhatrapati Sambhajinagar",
+   "division": "sambhajinagar",
+   "hq": "Soegaon",
+   "hqMr": "सोयगाव"
+  },
+  {
+   "id": "sambhajinagar--sillod",
+   "name": "Sillod",
+   "nameMr": "सिल्लोड",
+   "district": "sambhajinagar",
+   "districtName": "Chhatrapati Sambhajinagar",
+   "division": "sambhajinagar",
+   "hq": "Sillod",
+   "hqMr": "सिल्लोड"
+  },
+  {
+   "id": "sambhajinagar--phulambri",
+   "name": "Phulambri",
+   "nameMr": "फुलंब्री",
+   "district": "sambhajinagar",
+   "districtName": "Chhatrapati Sambhajinagar",
+   "division": "sambhajinagar",
+   "hq": "Phulambri",
+   "hqMr": "फुलंब्री"
+  },
+  {
+   "id": "sambhajinagar--khultabad",
+   "name": "Khultabad",
+   "nameMr": "खुलताबाद",
+   "district": "sambhajinagar",
+   "districtName": "Chhatrapati Sambhajinagar",
+   "division": "sambhajinagar",
+   "hq": "Khultabad",
+   "hqMr": "खुलताबाद"
+  },
+  {
+   "id": "sambhajinagar--vaijapur",
+   "name": "Vaijapur",
+   "nameMr": "वैजापूर",
+   "district": "sambhajinagar",
+   "districtName": "Chhatrapati Sambhajinagar",
+   "division": "sambhajinagar",
+   "hq": "Vaijapur",
+   "hqMr": "वैजापूर"
+  },
+  {
+   "id": "sambhajinagar--gangapur",
+   "name": "Gangapur",
+   "nameMr": "गंगापूर",
+   "district": "sambhajinagar",
+   "districtName": "Chhatrapati Sambhajinagar",
+   "division": "sambhajinagar",
+   "hq": "Gangapur",
+   "hqMr": "गंगापूर"
+  },
+  {
+   "id": "sambhajinagar--paithan",
+   "name": "Paithan",
+   "nameMr": "पैठण",
+   "district": "sambhajinagar",
+   "districtName": "Chhatrapati Sambhajinagar",
+   "division": "sambhajinagar",
+   "hq": "Paithan",
+   "hqMr": "पैठण"
+  },
+  {
+   "id": "jalna--jalna",
+   "name": "Jalna",
+   "nameMr": "जालना",
+   "district": "jalna",
+   "districtName": "Jalna",
+   "division": "jalna",
+   "hq": "Jalna",
+   "hqMr": "जालना"
+  },
+  {
+   "id": "jalna--bhokardan",
+   "name": "Bhokardan",
+   "nameMr": "भोकरदन",
+   "district": "jalna",
+   "districtName": "Jalna",
+   "division": "jalna",
+   "hq": "Bhokardan",
+   "hqMr": "भोकरदन"
+  },
+  {
+   "id": "jalna--jafrabad",
+   "name": "Jafrabad",
+   "nameMr": "जाफराबाद",
+   "district": "jalna",
+   "districtName": "Jalna",
+   "division": "jalna",
+   "hq": "Jafrabad",
+   "hqMr": "जाफराबाद"
+  },
+  {
+   "id": "jalna--badnapur",
+   "name": "Badnapur",
+   "nameMr": "बदनापूर",
+   "district": "jalna",
+   "districtName": "Jalna",
+   "division": "jalna",
+   "hq": "Badnapur",
+   "hqMr": "बदनापूर"
+  },
+  {
+   "id": "jalna--ambad",
+   "name": "Ambad",
+   "nameMr": "अंबड",
+   "district": "jalna",
+   "districtName": "Jalna",
+   "division": "jalna",
+   "hq": "Ambad",
+   "hqMr": "अंबड"
+  },
+  {
+   "id": "jalna--ghansawangi",
+   "name": "Ghansawangi",
+   "nameMr": "घनसावंगी",
+   "district": "jalna",
+   "districtName": "Jalna",
+   "division": "jalna",
+   "hq": "Ghansawangi",
+   "hqMr": "घनसावंगी"
+  },
+  {
+   "id": "jalna--partur",
+   "name": "Partur",
+   "nameMr": "परतूर",
+   "district": "jalna",
+   "districtName": "Jalna",
+   "division": "jalna",
+   "hq": "Partur",
+   "hqMr": "परतूर"
+  },
+  {
+   "id": "jalna--mantha",
+   "name": "Mantha",
+   "nameMr": "मंठा",
+   "district": "jalna",
+   "districtName": "Jalna",
+   "division": "jalna",
+   "hq": "Mantha",
+   "hqMr": "मंठा"
+  },
+  {
+   "id": "beed--beed",
+   "name": "Beed",
+   "nameMr": "बीड",
+   "district": "beed",
+   "districtName": "Beed",
+   "division": "beed",
+   "hq": "Beed",
+   "hqMr": "बीड"
+  },
+  {
+   "id": "beed--ashti",
+   "name": "Ashti",
+   "nameMr": "आष्टी",
+   "district": "beed",
+   "districtName": "Beed",
+   "division": "beed",
+   "hq": "Ashti",
+   "hqMr": "आष्टी"
+  },
+  {
+   "id": "beed--patoda",
+   "name": "Patoda",
+   "nameMr": "पाटोदा",
+   "district": "beed",
+   "districtName": "Beed",
+   "division": "beed",
+   "hq": "Patoda",
+   "hqMr": "पाटोदा"
+  },
+  {
+   "id": "beed--shirur-kasar",
+   "name": "Shirur Kasar",
+   "nameMr": "शिरूर कासार",
+   "district": "beed",
+   "districtName": "Beed",
+   "division": "beed",
+   "hq": "Shirur Kasar",
+   "hqMr": "शिरूर कासार"
+  },
+  {
+   "id": "beed--georai",
+   "name": "Georai",
+   "nameMr": "गेवराई",
+   "district": "beed",
+   "districtName": "Beed",
+   "division": "beed",
+   "hq": "Georai",
+   "hqMr": "गेवराई"
+  },
+  {
+   "id": "beed--majalgaon",
+   "name": "Majalgaon",
+   "nameMr": "माजलगाव",
+   "district": "beed",
+   "districtName": "Beed",
+   "division": "beed",
+   "hq": "Majalgaon",
+   "hqMr": "माजलगाव"
+  },
+  {
+   "id": "beed--wadwani",
+   "name": "Wadwani",
+   "nameMr": "वडवणी",
+   "district": "beed",
+   "districtName": "Beed",
+   "division": "beed",
+   "hq": "Wadwani",
+   "hqMr": "वडवणी"
+  },
+  {
+   "id": "beed--kaij",
+   "name": "Kaij",
+   "nameMr": "केज",
+   "district": "beed",
+   "districtName": "Beed",
+   "division": "beed",
+   "hq": "Kaij",
+   "hqMr": "केज"
+  },
+  {
+   "id": "beed--dharur",
+   "name": "Dharur",
+   "nameMr": "धारूर",
+   "district": "beed",
+   "districtName": "Beed",
+   "division": "beed",
+   "hq": "Dharur",
+   "hqMr": "धारूर"
+  },
+  {
+   "id": "beed--parli",
+   "name": "Parli",
+   "nameMr": "परळी",
+   "district": "beed",
+   "districtName": "Beed",
+   "division": "beed",
+   "hq": "Parli Vaijnath",
+   "hqMr": "परळी वैजनाथ"
+  },
+  {
+   "id": "beed--ambajogai",
+   "name": "Ambajogai",
+   "nameMr": "अंबाजोगाई",
+   "district": "beed",
+   "districtName": "Beed",
+   "division": "beed",
+   "hq": "Ambajogai",
+   "hqMr": "अंबाजोगाई"
+  },
+  {
+   "id": "latur--latur",
+   "name": "Latur",
+   "nameMr": "लातूर",
+   "district": "latur",
+   "districtName": "Latur",
+   "division": "latur",
+   "hq": "Latur",
+   "hqMr": "लातूर"
+  },
+  {
+   "id": "latur--renapur",
+   "name": "Renapur",
+   "nameMr": "रेणापूर",
+   "district": "latur",
+   "districtName": "Latur",
+   "division": "latur",
+   "hq": "Renapur",
+   "hqMr": "रेणापूर"
+  },
+  {
+   "id": "latur--ahmedpur",
+   "name": "Ahmedpur",
+   "nameMr": "अहमदपूर",
+   "district": "latur",
+   "districtName": "Latur",
+   "division": "latur",
+   "hq": "Ahmedpur",
+   "hqMr": "अहमदपूर"
+  },
+  {
+   "id": "latur--jalkot",
+   "name": "Jalkot",
+   "nameMr": "जळकोट",
+   "district": "latur",
+   "districtName": "Latur",
+   "division": "latur",
+   "hq": "Jalkot",
+   "hqMr": "जळकोट"
+  },
+  {
+   "id": "latur--chakur",
+   "name": "Chakur",
+   "nameMr": "चाकूर",
+   "district": "latur",
+   "districtName": "Latur",
+   "division": "latur",
+   "hq": "Chakur",
+   "hqMr": "चाकूर"
+  },
+  {
+   "id": "latur--shirur-anantpal",
+   "name": "Shirur Anantpal",
+   "nameMr": "शिरूर अनंतपाळ",
+   "district": "latur",
+   "districtName": "Latur",
+   "division": "latur",
+   "hq": "Shirur Anantpal",
+   "hqMr": "शिरूर अनंतपाळ"
+  },
+  {
+   "id": "latur--ausa",
+   "name": "Ausa",
+   "nameMr": "औसा",
+   "district": "latur",
+   "districtName": "Latur",
+   "division": "latur",
+   "hq": "Ausa",
+   "hqMr": "औसा"
+  },
+  {
+   "id": "latur--nilanga",
+   "name": "Nilanga",
+   "nameMr": "निलंगा",
+   "district": "latur",
+   "districtName": "Latur",
+   "division": "latur",
+   "hq": "Nilanga",
+   "hqMr": "निलंगा"
+  },
+  {
+   "id": "latur--deoni",
+   "name": "Deoni",
+   "nameMr": "देवणी",
+   "district": "latur",
+   "districtName": "Latur",
+   "division": "latur",
+   "hq": "Deoni",
+   "hqMr": "देवणी"
+  },
+  {
+   "id": "latur--udgir",
+   "name": "Udgir",
+   "nameMr": "उदगीर",
+   "district": "latur",
+   "districtName": "Latur",
+   "division": "latur",
+   "hq": "Udgir",
+   "hqMr": "उदगीर"
+  },
+  {
+   "id": "dharashiv--dharashiv",
+   "name": "Dharashiv",
+   "nameMr": "धाराशिव",
+   "district": "dharashiv",
+   "districtName": "Dharashiv",
+   "division": "dharashiv",
+   "hq": "Dharashiv",
+   "hqMr": "धाराशिव"
+  },
+  {
+   "id": "dharashiv--tuljapur",
+   "name": "Tuljapur",
+   "nameMr": "तुळजापूर",
+   "district": "dharashiv",
+   "districtName": "Dharashiv",
+   "division": "dharashiv",
+   "hq": "Tuljapur",
+   "hqMr": "तुळजापूर"
+  },
+  {
+   "id": "dharashiv--bhum",
+   "name": "Bhum",
+   "nameMr": "भूम",
+   "district": "dharashiv",
+   "districtName": "Dharashiv",
+   "division": "dharashiv",
+   "hq": "Bhum",
+   "hqMr": "भूम"
+  },
+  {
+   "id": "dharashiv--paranda",
+   "name": "Paranda",
+   "nameMr": "परंडा",
+   "district": "dharashiv",
+   "districtName": "Dharashiv",
+   "division": "dharashiv",
+   "hq": "Paranda",
+   "hqMr": "परंडा"
+  },
+  {
+   "id": "dharashiv--washi",
+   "name": "Washi",
+   "nameMr": "वाशी",
+   "district": "dharashiv",
+   "districtName": "Dharashiv",
+   "division": "dharashiv",
+   "hq": "Washi",
+   "hqMr": "वाशी"
+  },
+  {
+   "id": "dharashiv--kalamb",
+   "name": "Kalamb",
+   "nameMr": "कळंब",
+   "district": "dharashiv",
+   "districtName": "Dharashiv",
+   "division": "dharashiv",
+   "hq": "Kalamb",
+   "hqMr": "कळंब"
+  },
+  {
+   "id": "dharashiv--lohara",
+   "name": "Lohara",
+   "nameMr": "लोहारा",
+   "district": "dharashiv",
+   "districtName": "Dharashiv",
+   "division": "dharashiv",
+   "hq": "Lohara",
+   "hqMr": "लोहारा"
+  },
+  {
+   "id": "dharashiv--umarga",
+   "name": "Umarga",
+   "nameMr": "उमरगा",
+   "district": "dharashiv",
+   "districtName": "Dharashiv",
+   "division": "dharashiv",
+   "hq": "Umarga",
+   "hqMr": "उमरगा"
+  },
+  {
+   "id": "nanded--nanded",
+   "name": "Nanded",
+   "nameMr": "नांदेड",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Nanded",
+   "hqMr": "नांदेड"
+  },
+  {
+   "id": "nanded--ardhapur",
+   "name": "Ardhapur",
+   "nameMr": "अर्धापूर",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Ardhapur",
+   "hqMr": "अर्धापूर"
+  },
+  {
+   "id": "nanded--bhokar",
+   "name": "Bhokar",
+   "nameMr": "भोकर",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Bhokar",
+   "hqMr": "भोकर"
+  },
+  {
+   "id": "nanded--biloli",
+   "name": "Biloli",
+   "nameMr": "बिलोली",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Biloli",
+   "hqMr": "बिलोली"
+  },
+  {
+   "id": "nanded--deglur",
+   "name": "Deglur",
+   "nameMr": "देगलूर",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Deglur",
+   "hqMr": "देगलूर"
+  },
+  {
+   "id": "nanded--dharmabad",
+   "name": "Dharmabad",
+   "nameMr": "धर्माबाद",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Dharmabad",
+   "hqMr": "धर्माबाद"
+  },
+  {
+   "id": "nanded--hadgaon",
+   "name": "Hadgaon",
+   "nameMr": "हदगाव",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Hadgaon",
+   "hqMr": "हदगाव"
+  },
+  {
+   "id": "nanded--himayatnagar",
+   "name": "Himayatnagar",
+   "nameMr": "हिमायतनगर",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Himayatnagar",
+   "hqMr": "हिमायतनगर"
+  },
+  {
+   "id": "nanded--kandhar",
+   "name": "Kandhar",
+   "nameMr": "कंधार",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Kandhar",
+   "hqMr": "कंधार"
+  },
+  {
+   "id": "nanded--kinwat",
+   "name": "Kinwat",
+   "nameMr": "किनवट",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Kinwat",
+   "hqMr": "किनवट"
+  },
+  {
+   "id": "nanded--loha",
+   "name": "Loha",
+   "nameMr": "लोहा",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Loha",
+   "hqMr": "लोहा"
+  },
+  {
+   "id": "nanded--mahur",
+   "name": "Mahur",
+   "nameMr": "माहूर",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Mahur",
+   "hqMr": "माहूर"
+  },
+  {
+   "id": "nanded--mudkhed",
+   "name": "Mudkhed",
+   "nameMr": "मुदखेड",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Mudkhed",
+   "hqMr": "मुदखेड"
+  },
+  {
+   "id": "nanded--mukhed",
+   "name": "Mukhed",
+   "nameMr": "मुखेड",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Mukhed",
+   "hqMr": "मुखेड"
+  },
+  {
+   "id": "nanded--naigaon",
+   "name": "Naigaon",
+   "nameMr": "नायगाव",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Naigaon",
+   "hqMr": "नायगाव"
+  },
+  {
+   "id": "nanded--umri",
+   "name": "Umri",
+   "nameMr": "उमरी",
+   "district": "nanded",
+   "districtName": "Nanded",
+   "division": "nanded",
+   "hq": "Umri",
+   "hqMr": "उमरी"
+  },
+  {
+   "id": "parbhani--parbhani",
+   "name": "Parbhani",
+   "nameMr": "परभणी",
+   "district": "parbhani",
+   "districtName": "Parbhani",
+   "division": "parbhani",
+   "hq": "Parbhani",
+   "hqMr": "परभणी"
+  },
+  {
+   "id": "parbhani--gangakhed",
+   "name": "Gangakhed",
+   "nameMr": "गंगाखेड",
+   "district": "parbhani",
+   "districtName": "Parbhani",
+   "division": "parbhani",
+   "hq": "Gangakhed",
+   "hqMr": "गंगाखेड"
+  },
+  {
+   "id": "parbhani--sonpeth",
+   "name": "Sonpeth",
+   "nameMr": "सोनपेठ",
+   "district": "parbhani",
+   "districtName": "Parbhani",
+   "division": "parbhani",
+   "hq": "Sonpeth",
+   "hqMr": "सोनपेठ"
+  },
+  {
+   "id": "parbhani--pathri",
+   "name": "Pathri",
+   "nameMr": "पाथरी",
+   "district": "parbhani",
+   "districtName": "Parbhani",
+   "division": "parbhani",
+   "hq": "Pathri",
+   "hqMr": "पाथरी"
+  },
+  {
+   "id": "parbhani--manwat",
+   "name": "Manwat",
+   "nameMr": "मानवत",
+   "district": "parbhani",
+   "districtName": "Parbhani",
+   "division": "parbhani",
+   "hq": "Manwat",
+   "hqMr": "मानवत"
+  },
+  {
+   "id": "parbhani--palam",
+   "name": "Palam",
+   "nameMr": "पालम",
+   "district": "parbhani",
+   "districtName": "Parbhani",
+   "division": "parbhani",
+   "hq": "Palam",
+   "hqMr": "पालम"
+  },
+  {
+   "id": "parbhani--selu",
+   "name": "Selu",
+   "nameMr": "सेलू",
+   "district": "parbhani",
+   "districtName": "Parbhani",
+   "division": "parbhani",
+   "hq": "Selu",
+   "hqMr": "सेलू"
+  },
+  {
+   "id": "parbhani--jintur",
+   "name": "Jintur",
+   "nameMr": "जिंतूर",
+   "district": "parbhani",
+   "districtName": "Parbhani",
+   "division": "parbhani",
+   "hq": "Jintur",
+   "hqMr": "जिंतूर"
+  },
+  {
+   "id": "parbhani--purna",
+   "name": "Purna",
+   "nameMr": "पूर्णा",
+   "district": "parbhani",
+   "districtName": "Parbhani",
+   "division": "parbhani",
+   "hq": "Purna",
+   "hqMr": "पूर्णा"
+  },
+  {
+   "id": "hingoli--hingoli",
+   "name": "Hingoli",
+   "nameMr": "हिंगोली",
+   "district": "hingoli",
+   "districtName": "Hingoli",
+   "division": "parbhani",
+   "hq": "Hingoli",
+   "hqMr": "हिंगोली"
+  },
+  {
+   "id": "hingoli--sengaon",
+   "name": "Sengaon",
+   "nameMr": "सेनगाव",
+   "district": "hingoli",
+   "districtName": "Hingoli",
+   "division": "parbhani",
+   "hq": "Sengaon",
+   "hqMr": "सेनगाव"
+  },
+  {
+   "id": "hingoli--kalamnuri",
+   "name": "Kalamnuri",
+   "nameMr": "कळमनुरी",
+   "district": "hingoli",
+   "districtName": "Hingoli",
+   "division": "parbhani",
+   "hq": "Kalamnuri",
+   "hqMr": "कळमनुरी"
+  },
+  {
+   "id": "hingoli--basmat",
+   "name": "Basmat",
+   "nameMr": "वसमत",
+   "district": "hingoli",
+   "districtName": "Hingoli",
+   "division": "parbhani",
+   "hq": "Basmat",
+   "hqMr": "वसमत"
+  },
+  {
+   "id": "hingoli--aundha-nagnath",
+   "name": "Aundha Nagnath",
+   "nameMr": "औंढा नागनाथ",
+   "district": "hingoli",
+   "districtName": "Hingoli",
+   "division": "parbhani",
+   "hq": "Aundha Nagnath",
+   "hqMr": "औंढा नागनाथ"
+  },
+  {
+   "id": "nagpur--nagpur-urban",
+   "name": "Nagpur Urban",
+   "nameMr": "नागपूर शहर",
+   "district": "nagpur",
+   "districtName": "Nagpur",
+   "division": "nagpur",
+   "hq": "Nagpur",
+   "hqMr": "नागपूर"
+  },
+  {
+   "id": "nagpur--nagpur-rural",
+   "name": "Nagpur Rural",
+   "nameMr": "नागपूर ग्रामीण",
+   "district": "nagpur",
+   "districtName": "Nagpur",
+   "division": "nagpur",
+   "hq": "Nagpur",
+   "hqMr": "नागपूर"
+  },
+  {
+   "id": "nagpur--kamptee",
+   "name": "Kamptee",
+   "nameMr": "कामठी",
+   "district": "nagpur",
+   "districtName": "Nagpur",
+   "division": "nagpur",
+   "hq": "Kamptee",
+   "hqMr": "कामठी"
+  },
+  {
+   "id": "nagpur--hingna",
+   "name": "Hingna",
+   "nameMr": "हिंगणा",
+   "district": "nagpur",
+   "districtName": "Nagpur",
+   "division": "nagpur",
+   "hq": "Hingna",
+   "hqMr": "हिंगणा"
+  },
+  {
+   "id": "nagpur--katol",
+   "name": "Katol",
+   "nameMr": "काटोल",
+   "district": "nagpur",
+   "districtName": "Nagpur",
+   "division": "nagpur",
+   "hq": "Katol",
+   "hqMr": "काटोल"
+  },
+  {
+   "id": "nagpur--narkhed",
+   "name": "Narkhed",
+   "nameMr": "नरखेड",
+   "district": "nagpur",
+   "districtName": "Nagpur",
+   "division": "nagpur",
+   "hq": "Narkhed",
+   "hqMr": "नरखेड"
+  },
+  {
+   "id": "nagpur--savner",
+   "name": "Savner",
+   "nameMr": "सावनेर",
+   "district": "nagpur",
+   "districtName": "Nagpur",
+   "division": "nagpur",
+   "hq": "Savner",
+   "hqMr": "सावनेर"
+  },
+  {
+   "id": "nagpur--kalmeshwar",
+   "name": "Kalmeshwar",
+   "nameMr": "कळमेश्वर",
+   "district": "nagpur",
+   "districtName": "Nagpur",
+   "division": "nagpur",
+   "hq": "Kalmeshwar",
+   "hqMr": "कळमेश्वर"
+  },
+  {
+   "id": "nagpur--ramtek",
+   "name": "Ramtek",
+   "nameMr": "रामटेक",
+   "district": "nagpur",
+   "districtName": "Nagpur",
+   "division": "nagpur",
+   "hq": "Ramtek",
+   "hqMr": "रामटेक"
+  },
+  {
+   "id": "nagpur--mouda",
+   "name": "Mouda",
+   "nameMr": "मौदा",
+   "district": "nagpur",
+   "districtName": "Nagpur",
+   "division": "nagpur",
+   "hq": "Mouda",
+   "hqMr": "मौदा"
+  },
+  {
+   "id": "nagpur--parseoni",
+   "name": "Parseoni",
+   "nameMr": "पारशिवनी",
+   "district": "nagpur",
+   "districtName": "Nagpur",
+   "division": "nagpur",
+   "hq": "Parseoni",
+   "hqMr": "पारशिवनी"
+  },
+  {
+   "id": "nagpur--umred",
+   "name": "Umred",
+   "nameMr": "उमरेड",
+   "district": "nagpur",
+   "districtName": "Nagpur",
+   "division": "nagpur",
+   "hq": "Umred",
+   "hqMr": "उमरेड"
+  },
+  {
+   "id": "nagpur--kuhi",
+   "name": "Kuhi",
+   "nameMr": "कुही",
+   "district": "nagpur",
+   "districtName": "Nagpur",
+   "division": "nagpur",
+   "hq": "Kuhi",
+   "hqMr": "कुही"
+  },
+  {
+   "id": "nagpur--bhiwapur",
+   "name": "Bhiwapur",
+   "nameMr": "भिवापूर",
+   "district": "nagpur",
+   "districtName": "Nagpur",
+   "division": "nagpur",
+   "hq": "Bhiwapur",
+   "hqMr": "भिवापूर"
+  },
+  {
+   "id": "wardha--wardha",
+   "name": "Wardha",
+   "nameMr": "वर्धा",
+   "district": "wardha",
+   "districtName": "Wardha",
+   "division": "wardha",
+   "hq": "Wardha",
+   "hqMr": "वर्धा"
+  },
+  {
+   "id": "wardha--deoli",
+   "name": "Deoli",
+   "nameMr": "देवळी",
+   "district": "wardha",
+   "districtName": "Wardha",
+   "division": "wardha",
+   "hq": "Deoli",
+   "hqMr": "देवळी"
+  },
+  {
+   "id": "wardha--seloo",
+   "name": "Seloo",
+   "nameMr": "सेलू",
+   "district": "wardha",
+   "districtName": "Wardha",
+   "division": "wardha",
+   "hq": "Seloo",
+   "hqMr": "सेलू"
+  },
+  {
+   "id": "wardha--arvi",
+   "name": "Arvi",
+   "nameMr": "आर्वी",
+   "district": "wardha",
+   "districtName": "Wardha",
+   "division": "wardha",
+   "hq": "Arvi",
+   "hqMr": "आर्वी"
+  },
+  {
+   "id": "wardha--ashti",
+   "name": "Ashti",
+   "nameMr": "आष्टी",
+   "district": "wardha",
+   "districtName": "Wardha",
+   "division": "wardha",
+   "hq": "Ashti",
+   "hqMr": "आष्टी"
+  },
+  {
+   "id": "wardha--karanja",
+   "name": "Karanja",
+   "nameMr": "कारंजा (घाडगे)",
+   "district": "wardha",
+   "districtName": "Wardha",
+   "division": "wardha",
+   "hq": "Karanja Ghadge",
+   "hqMr": "कारंजा घाडगे"
+  },
+  {
+   "id": "wardha--hinganghat",
+   "name": "Hinganghat",
+   "nameMr": "हिंगणघाट",
+   "district": "wardha",
+   "districtName": "Wardha",
+   "division": "wardha",
+   "hq": "Hinganghat",
+   "hqMr": "हिंगणघाट"
+  },
+  {
+   "id": "wardha--samudrapur",
+   "name": "Samudrapur",
+   "nameMr": "समुद्रपूर",
+   "district": "wardha",
+   "districtName": "Wardha",
+   "division": "wardha",
+   "hq": "Samudrapur",
+   "hqMr": "समुद्रपूर"
+  },
+  {
+   "id": "bhandara--bhandara",
+   "name": "Bhandara",
+   "nameMr": "भंडारा",
+   "district": "bhandara",
+   "districtName": "Bhandara",
+   "division": "bhandara",
+   "hq": "Bhandara",
+   "hqMr": "भंडारा"
+  },
+  {
+   "id": "bhandara--tumsar",
+   "name": "Tumsar",
+   "nameMr": "तुमसर",
+   "district": "bhandara",
+   "districtName": "Bhandara",
+   "division": "bhandara",
+   "hq": "Tumsar",
+   "hqMr": "तुमसर"
+  },
+  {
+   "id": "bhandara--pauni",
+   "name": "Pauni",
+   "nameMr": "पवनी",
+   "district": "bhandara",
+   "districtName": "Bhandara",
+   "division": "bhandara",
+   "hq": "Pauni",
+   "hqMr": "पवनी"
+  },
+  {
+   "id": "bhandara--mohadi",
+   "name": "Mohadi",
+   "nameMr": "मोहाडी",
+   "district": "bhandara",
+   "districtName": "Bhandara",
+   "division": "bhandara",
+   "hq": "Mohadi",
+   "hqMr": "मोहाडी"
+  },
+  {
+   "id": "bhandara--sakoli",
+   "name": "Sakoli",
+   "nameMr": "साकोली",
+   "district": "bhandara",
+   "districtName": "Bhandara",
+   "division": "bhandara",
+   "hq": "Sakoli",
+   "hqMr": "साकोली"
+  },
+  {
+   "id": "bhandara--lakhani",
+   "name": "Lakhani",
+   "nameMr": "लाखनी",
+   "district": "bhandara",
+   "districtName": "Bhandara",
+   "division": "bhandara",
+   "hq": "Lakhani",
+   "hqMr": "लाखनी"
+  },
+  {
+   "id": "bhandara--lakhandur",
+   "name": "Lakhandur",
+   "nameMr": "लाखांदूर",
+   "district": "bhandara",
+   "districtName": "Bhandara",
+   "division": "bhandara",
+   "hq": "Lakhandur",
+   "hqMr": "लाखांदूर"
+  },
+  {
+   "id": "gondia--gondia",
+   "name": "Gondia",
+   "nameMr": "गोंदिया",
+   "district": "gondia",
+   "districtName": "Gondia",
+   "division": "bhandara",
+   "hq": "Gondia",
+   "hqMr": "गोंदिया"
+  },
+  {
+   "id": "gondia--goregaon",
+   "name": "Goregaon",
+   "nameMr": "गोरेगाव",
+   "district": "gondia",
+   "districtName": "Gondia",
+   "division": "bhandara",
+   "hq": "Goregaon",
+   "hqMr": "गोरेगाव"
+  },
+  {
+   "id": "gondia--salekasa",
+   "name": "Salekasa",
+   "nameMr": "सालेकसा",
+   "district": "gondia",
+   "districtName": "Gondia",
+   "division": "bhandara",
+   "hq": "Salekasa",
+   "hqMr": "सालेकसा"
+  },
+  {
+   "id": "gondia--tirora",
+   "name": "Tirora",
+   "nameMr": "तिरोडा",
+   "district": "gondia",
+   "districtName": "Gondia",
+   "division": "bhandara",
+   "hq": "Tirora",
+   "hqMr": "तिरोडा"
+  },
+  {
+   "id": "gondia--amgaon",
+   "name": "Amgaon",
+   "nameMr": "आमगाव",
+   "district": "gondia",
+   "districtName": "Gondia",
+   "division": "bhandara",
+   "hq": "Amgaon",
+   "hqMr": "आमगाव"
+  },
+  {
+   "id": "gondia--deori",
+   "name": "Deori",
+   "nameMr": "देवरी",
+   "district": "gondia",
+   "districtName": "Gondia",
+   "division": "bhandara",
+   "hq": "Deori",
+   "hqMr": "देवरी"
+  },
+  {
+   "id": "gondia--arjuni-morgaon",
+   "name": "Arjuni Morgaon",
+   "nameMr": "अर्जुनी मोरगाव",
+   "district": "gondia",
+   "districtName": "Gondia",
+   "division": "bhandara",
+   "hq": "Arjuni Morgaon",
+   "hqMr": "अर्जुनी मोरगाव"
+  },
+  {
+   "id": "gondia--sadak-arjuni",
+   "name": "Sadak Arjuni",
+   "nameMr": "सडक अर्जुनी",
+   "district": "gondia",
+   "districtName": "Gondia",
+   "division": "bhandara",
+   "hq": "Sadak Arjuni",
+   "hqMr": "सडक अर्जुनी"
+  },
+  {
+   "id": "chandrapur--chandrapur",
+   "name": "Chandrapur",
+   "nameMr": "चंद्रपूर",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Chandrapur",
+   "hqMr": "चंद्रपूर"
+  },
+  {
+   "id": "chandrapur--saoli",
+   "name": "Saoli",
+   "nameMr": "सावली",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Saoli",
+   "hqMr": "सावली"
+  },
+  {
+   "id": "chandrapur--mul",
+   "name": "Mul",
+   "nameMr": "मूल",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Mul",
+   "hqMr": "मूल"
+  },
+  {
+   "id": "chandrapur--ballarpur",
+   "name": "Ballarpur",
+   "nameMr": "बल्लारपूर",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Ballarpur",
+   "hqMr": "बल्लारपूर"
+  },
+  {
+   "id": "chandrapur--pombhurna",
+   "name": "Pombhurna",
+   "nameMr": "पोंभुर्णा",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Pombhurna",
+   "hqMr": "पोंभुर्णा"
+  },
+  {
+   "id": "chandrapur--gondpipri",
+   "name": "Gondpipri",
+   "nameMr": "गोंडपिपरी",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Gondpipri",
+   "hqMr": "गोंडपिपरी"
+  },
+  {
+   "id": "chandrapur--warora",
+   "name": "Warora",
+   "nameMr": "वरोरा",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Warora",
+   "hqMr": "वरोरा"
+  },
+  {
+   "id": "chandrapur--chimur",
+   "name": "Chimur",
+   "nameMr": "चिमूर",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Chimur",
+   "hqMr": "चिमूर"
+  },
+  {
+   "id": "chandrapur--bhadravati",
+   "name": "Bhadravati",
+   "nameMr": "भद्रावती",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Bhadravati",
+   "hqMr": "भद्रावती"
+  },
+  {
+   "id": "chandrapur--brahmapuri",
+   "name": "Brahmapuri",
+   "nameMr": "ब्रह्मपुरी",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Brahmapuri",
+   "hqMr": "ब्रह्मपुरी"
+  },
+  {
+   "id": "chandrapur--nagbhid",
+   "name": "Nagbhid",
+   "nameMr": "नागभीड",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Nagbhid",
+   "hqMr": "नागभीड"
+  },
+  {
+   "id": "chandrapur--sindewahi",
+   "name": "Sindewahi",
+   "nameMr": "सिंदेवाही",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Sindewahi",
+   "hqMr": "सिंदेवाही"
+  },
+  {
+   "id": "chandrapur--rajura",
+   "name": "Rajura",
+   "nameMr": "राजुरा",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Rajura",
+   "hqMr": "राजुरा"
+  },
+  {
+   "id": "chandrapur--korpana",
+   "name": "Korpana",
+   "nameMr": "कोरपना",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Korpana",
+   "hqMr": "कोरपना"
+  },
+  {
+   "id": "chandrapur--jiwati",
+   "name": "Jiwati",
+   "nameMr": "जिवती",
+   "district": "chandrapur",
+   "districtName": "Chandrapur",
+   "division": "chandrapur",
+   "hq": "Jiwati",
+   "hqMr": "जिवती"
+  },
+  {
+   "id": "gadchiroli--gadchiroli",
+   "name": "Gadchiroli",
+   "nameMr": "गडचिरोली",
+   "district": "gadchiroli",
+   "districtName": "Gadchiroli",
+   "division": "gadchiroli",
+   "hq": "Gadchiroli",
+   "hqMr": "गडचिरोली"
+  },
+  {
+   "id": "gadchiroli--dhanora",
+   "name": "Dhanora",
+   "nameMr": "धानोरा",
+   "district": "gadchiroli",
+   "districtName": "Gadchiroli",
+   "division": "gadchiroli",
+   "hq": "Dhanora",
+   "hqMr": "धानोरा"
+  },
+  {
+   "id": "gadchiroli--chamorshi",
+   "name": "Chamorshi",
+   "nameMr": "चामोर्शी",
+   "district": "gadchiroli",
+   "districtName": "Gadchiroli",
+   "division": "gadchiroli",
+   "hq": "Chamorshi",
+   "hqMr": "चामोर्शी"
+  },
+  {
+   "id": "gadchiroli--mulchera",
+   "name": "Mulchera",
+   "nameMr": "मुलचेरा",
+   "district": "gadchiroli",
+   "districtName": "Gadchiroli",
+   "division": "gadchiroli",
+   "hq": "Mulchera",
+   "hqMr": "मुलचेरा"
+  },
+  {
+   "id": "gadchiroli--desaiganj",
+   "name": "Desaiganj",
+   "nameMr": "देसाईगंज",
+   "district": "gadchiroli",
+   "districtName": "Gadchiroli",
+   "division": "gadchiroli",
+   "hq": "Wadsa",
+   "hqMr": "वडसा"
+  },
+  {
+   "id": "gadchiroli--armori",
+   "name": "Armori",
+   "nameMr": "आरमोरी",
+   "district": "gadchiroli",
+   "districtName": "Gadchiroli",
+   "division": "gadchiroli",
+   "hq": "Armori",
+   "hqMr": "आरमोरी"
+  },
+  {
+   "id": "gadchiroli--kurkheda",
+   "name": "Kurkheda",
+   "nameMr": "कुरखेडा",
+   "district": "gadchiroli",
+   "districtName": "Gadchiroli",
+   "division": "gadchiroli",
+   "hq": "Kurkheda",
+   "hqMr": "कुरखेडा"
+  },
+  {
+   "id": "gadchiroli--korchi",
+   "name": "Korchi",
+   "nameMr": "कोरची",
+   "district": "gadchiroli",
+   "districtName": "Gadchiroli",
+   "division": "gadchiroli",
+   "hq": "Korchi",
+   "hqMr": "कोरची"
+  },
+  {
+   "id": "gadchiroli--aheri",
+   "name": "Aheri",
+   "nameMr": "अहेरी",
+   "district": "gadchiroli",
+   "districtName": "Gadchiroli",
+   "division": "gadchiroli",
+   "hq": "Aheri",
+   "hqMr": "अहेरी"
+  },
+  {
+   "id": "gadchiroli--etapalli",
+   "name": "Etapalli",
+   "nameMr": "एटापल्ली",
+   "district": "gadchiroli",
+   "districtName": "Gadchiroli",
+   "division": "gadchiroli",
+   "hq": "Etapalli",
+   "hqMr": "एटापल्ली"
+  },
+  {
+   "id": "gadchiroli--bhamragad",
+   "name": "Bhamragad",
+   "nameMr": "भामरागड",
+   "district": "gadchiroli",
+   "districtName": "Gadchiroli",
+   "division": "gadchiroli",
+   "hq": "Bhamragad",
+   "hqMr": "भामरागड"
+  },
+  {
+   "id": "gadchiroli--sironcha",
+   "name": "Sironcha",
+   "nameMr": "सिरोंचा",
+   "district": "gadchiroli",
+   "districtName": "Gadchiroli",
+   "division": "gadchiroli",
+   "hq": "Sironcha",
+   "hqMr": "सिरोंचा"
+  },
+  {
+   "id": "amravati--amravati",
+   "name": "Amravati",
+   "nameMr": "अमरावती",
+   "district": "amravati",
+   "districtName": "Amravati",
+   "division": "amravati",
+   "hq": "Amravati",
+   "hqMr": "अमरावती"
+  },
+  {
+   "id": "amravati--bhatkuli",
+   "name": "Bhatkuli",
+   "nameMr": "भातकुली",
+   "district": "amravati",
+   "districtName": "Amravati",
+   "division": "amravati",
+   "hq": "Bhatkuli",
+   "hqMr": "भातकुली"
+  },
+  {
+   "id": "amravati--nandgaon-khandeshwar",
+   "name": "Nandgaon Khandeshwar",
+   "nameMr": "नांदगाव खंडेश्वर",
+   "district": "amravati",
+   "districtName": "Amravati",
+   "division": "amravati",
+   "hq": "Nandgaon Khandeshwar",
+   "hqMr": "नांदगाव खंडेश्वर"
+  },
+  {
+   "id": "amravati--dharni",
+   "name": "Dharni",
+   "nameMr": "धारणी",
+   "district": "amravati",
+   "districtName": "Amravati",
+   "division": "amravati",
+   "hq": "Dharni",
+   "hqMr": "धारणी"
+  },
+  {
+   "id": "amravati--chikhaldara",
+   "name": "Chikhaldara",
+   "nameMr": "चिखलदरा",
+   "district": "amravati",
+   "districtName": "Amravati",
+   "division": "amravati",
+   "hq": "Chikhaldara",
+   "hqMr": "चिखलदरा"
+  },
+  {
+   "id": "amravati--achalpur",
+   "name": "Achalpur",
+   "nameMr": "अचलपूर",
+   "district": "amravati",
+   "districtName": "Amravati",
+   "division": "amravati",
+   "hq": "Paratwada",
+   "hqMr": "परतवाडा"
+  },
+  {
+   "id": "amravati--chandur-bazar",
+   "name": "Chandur Bazar",
+   "nameMr": "चांदूर बाजार",
+   "district": "amravati",
+   "districtName": "Amravati",
+   "division": "amravati",
+   "hq": "Chandur Bazar",
+   "hqMr": "चांदूर बाजार"
+  },
+  {
+   "id": "amravati--morshi",
+   "name": "Morshi",
+   "nameMr": "मोर्शी",
+   "district": "amravati",
+   "districtName": "Amravati",
+   "division": "amravati",
+   "hq": "Morshi",
+   "hqMr": "मोर्शी"
+  },
+  {
+   "id": "amravati--warud",
+   "name": "Warud",
+   "nameMr": "वरूड",
+   "district": "amravati",
+   "districtName": "Amravati",
+   "division": "amravati",
+   "hq": "Warud",
+   "hqMr": "वरूड"
+  },
+  {
+   "id": "amravati--daryapur",
+   "name": "Daryapur",
+   "nameMr": "दर्यापूर",
+   "district": "amravati",
+   "districtName": "Amravati",
+   "division": "amravati",
+   "hq": "Daryapur",
+   "hqMr": "दर्यापूर"
+  },
+  {
+   "id": "amravati--anjangaon-surji",
+   "name": "Anjangaon Surji",
+   "nameMr": "अंजनगाव सुर्जी",
+   "district": "amravati",
+   "districtName": "Amravati",
+   "division": "amravati",
+   "hq": "Anjangaon Surji",
+   "hqMr": "अंजनगाव सुर्जी"
+  },
+  {
+   "id": "amravati--chandur-railway",
+   "name": "Chandur Railway",
+   "nameMr": "चांदूर रेल्वे",
+   "district": "amravati",
+   "districtName": "Amravati",
+   "division": "amravati",
+   "hq": "Chandur Railway",
+   "hqMr": "चांदूर रेल्वे"
+  },
+  {
+   "id": "amravati--dhamangaon-railway",
+   "name": "Dhamangaon Railway",
+   "nameMr": "धामणगाव रेल्वे",
+   "district": "amravati",
+   "districtName": "Amravati",
+   "division": "amravati",
+   "hq": "Dhamangaon Railway",
+   "hqMr": "धामणगाव रेल्वे"
+  },
+  {
+   "id": "amravati--teosa",
+   "name": "Teosa",
+   "nameMr": "तिवसा",
+   "district": "amravati",
+   "districtName": "Amravati",
+   "division": "amravati",
+   "hq": "Teosa",
+   "hqMr": "तिवसा"
+  },
+  {
+   "id": "akola--akola",
+   "name": "Akola",
+   "nameMr": "अकोला",
+   "district": "akola",
+   "districtName": "Akola",
+   "division": "akola",
+   "hq": "Akola",
+   "hqMr": "अकोला"
+  },
+  {
+   "id": "akola--akot",
+   "name": "Akot",
+   "nameMr": "अकोट",
+   "district": "akola",
+   "districtName": "Akola",
+   "division": "akola",
+   "hq": "Akot",
+   "hqMr": "अकोट"
+  },
+  {
+   "id": "akola--telhara",
+   "name": "Telhara",
+   "nameMr": "तेल्हारा",
+   "district": "akola",
+   "districtName": "Akola",
+   "division": "akola",
+   "hq": "Telhara",
+   "hqMr": "तेल्हारा"
+  },
+  {
+   "id": "akola--balapur",
+   "name": "Balapur",
+   "nameMr": "बाळापूर",
+   "district": "akola",
+   "districtName": "Akola",
+   "division": "akola",
+   "hq": "Balapur",
+   "hqMr": "बाळापूर"
+  },
+  {
+   "id": "akola--patur",
+   "name": "Patur",
+   "nameMr": "पातूर",
+   "district": "akola",
+   "districtName": "Akola",
+   "division": "akola",
+   "hq": "Patur",
+   "hqMr": "पातूर"
+  },
+  {
+   "id": "akola--murtijapur",
+   "name": "Murtijapur",
+   "nameMr": "मूर्तिजापूर",
+   "district": "akola",
+   "districtName": "Akola",
+   "division": "akola",
+   "hq": "Murtijapur",
+   "hqMr": "मूर्तिजापूर"
+  },
+  {
+   "id": "akola--barshitakli",
+   "name": "Barshitakli",
+   "nameMr": "बार्शीटाकळी",
+   "district": "akola",
+   "districtName": "Akola",
+   "division": "akola",
+   "hq": "Barshitakli",
+   "hqMr": "बार्शीटाकळी"
+  },
+  {
+   "id": "washim--washim",
+   "name": "Washim",
+   "nameMr": "वाशिम",
+   "district": "washim",
+   "districtName": "Washim",
+   "division": "akola",
+   "hq": "Washim",
+   "hqMr": "वाशिम"
+  },
+  {
+   "id": "washim--malegaon",
+   "name": "Malegaon",
+   "nameMr": "मालेगाव",
+   "district": "washim",
+   "districtName": "Washim",
+   "division": "akola",
+   "hq": "Malegaon",
+   "hqMr": "मालेगाव"
+  },
+  {
+   "id": "washim--risod",
+   "name": "Risod",
+   "nameMr": "रिसोड",
+   "district": "washim",
+   "districtName": "Washim",
+   "division": "akola",
+   "hq": "Risod",
+   "hqMr": "रिसोड"
+  },
+  {
+   "id": "washim--mangrulpir",
+   "name": "Mangrulpir",
+   "nameMr": "मंगरूळपीर",
+   "district": "washim",
+   "districtName": "Washim",
+   "division": "akola",
+   "hq": "Mangrulpir",
+   "hqMr": "मंगरूळपीर"
+  },
+  {
+   "id": "washim--karanja",
+   "name": "Karanja",
+   "nameMr": "कारंजा",
+   "district": "washim",
+   "districtName": "Washim",
+   "division": "akola",
+   "hq": "Karanja Lad",
+   "hqMr": "कारंजा लाड"
+  },
+  {
+   "id": "washim--manora",
+   "name": "Manora",
+   "nameMr": "मानोरा",
+   "district": "washim",
+   "districtName": "Washim",
+   "division": "akola",
+   "hq": "Manora",
+   "hqMr": "मानोरा"
+  },
+  {
+   "id": "buldhana--buldhana",
+   "name": "Buldhana",
+   "nameMr": "बुलढाणा",
+   "district": "buldhana",
+   "districtName": "Buldhana",
+   "division": "buldhana",
+   "hq": "Buldhana",
+   "hqMr": "बुलढाणा"
+  },
+  {
+   "id": "buldhana--chikhli",
+   "name": "Chikhli",
+   "nameMr": "चिखली",
+   "district": "buldhana",
+   "districtName": "Buldhana",
+   "division": "buldhana",
+   "hq": "Chikhli",
+   "hqMr": "चिखली"
+  },
+  {
+   "id": "buldhana--deulgaon-raja",
+   "name": "Deulgaon Raja",
+   "nameMr": "देऊळगाव राजा",
+   "district": "buldhana",
+   "districtName": "Buldhana",
+   "division": "buldhana",
+   "hq": "Deulgaon Raja",
+   "hqMr": "देऊळगाव राजा"
+  },
+  {
+   "id": "buldhana--jalgaon-jamod",
+   "name": "Jalgaon Jamod",
+   "nameMr": "जळगाव जामोद",
+   "district": "buldhana",
+   "districtName": "Buldhana",
+   "division": "buldhana",
+   "hq": "Jalgaon Jamod",
+   "hqMr": "जळगाव जामोद"
+  },
+  {
+   "id": "buldhana--sangrampur",
+   "name": "Sangrampur",
+   "nameMr": "संग्रामपूर",
+   "district": "buldhana",
+   "districtName": "Buldhana",
+   "division": "buldhana",
+   "hq": "Sangrampur",
+   "hqMr": "संग्रामपूर"
+  },
+  {
+   "id": "buldhana--malkapur",
+   "name": "Malkapur",
+   "nameMr": "मलकापूर",
+   "district": "buldhana",
+   "districtName": "Buldhana",
+   "division": "buldhana",
+   "hq": "Malkapur",
+   "hqMr": "मलकापूर"
+  },
+  {
+   "id": "buldhana--motala",
+   "name": "Motala",
+   "nameMr": "मोताळा",
+   "district": "buldhana",
+   "districtName": "Buldhana",
+   "division": "buldhana",
+   "hq": "Motala",
+   "hqMr": "मोताळा"
+  },
+  {
+   "id": "buldhana--nandura",
+   "name": "Nandura",
+   "nameMr": "नांदुरा",
+   "district": "buldhana",
+   "districtName": "Buldhana",
+   "division": "buldhana",
+   "hq": "Nandura",
+   "hqMr": "नांदुरा"
+  },
+  {
+   "id": "buldhana--khamgaon",
+   "name": "Khamgaon",
+   "nameMr": "खामगाव",
+   "district": "buldhana",
+   "districtName": "Buldhana",
+   "division": "buldhana",
+   "hq": "Khamgaon",
+   "hqMr": "खामगाव"
+  },
+  {
+   "id": "buldhana--shegaon",
+   "name": "Shegaon",
+   "nameMr": "शेगाव",
+   "district": "buldhana",
+   "districtName": "Buldhana",
+   "division": "buldhana",
+   "hq": "Shegaon",
+   "hqMr": "शेगाव"
+  },
+  {
+   "id": "buldhana--mehkar",
+   "name": "Mehkar",
+   "nameMr": "मेहकर",
+   "district": "buldhana",
+   "districtName": "Buldhana",
+   "division": "buldhana",
+   "hq": "Mehkar",
+   "hqMr": "मेहकर"
+  },
+  {
+   "id": "buldhana--sindkhed-raja",
+   "name": "Sindkhed Raja",
+   "nameMr": "सिंदखेड राजा",
+   "district": "buldhana",
+   "districtName": "Buldhana",
+   "division": "buldhana",
+   "hq": "Sindkhed Raja",
+   "hqMr": "सिंदखेड राजा"
+  },
+  {
+   "id": "buldhana--lonar",
+   "name": "Lonar",
+   "nameMr": "लोणार",
+   "district": "buldhana",
+   "districtName": "Buldhana",
+   "division": "buldhana",
+   "hq": "Lonar",
+   "hqMr": "लोणार"
+  },
+  {
+   "id": "yavatmal--yavatmal",
+   "name": "Yavatmal",
+   "nameMr": "यवतमाळ",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Yavatmal",
+   "hqMr": "यवतमाळ"
+  },
+  {
+   "id": "yavatmal--arni",
+   "name": "Arni",
+   "nameMr": "आर्णी",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Arni",
+   "hqMr": "आर्णी"
+  },
+  {
+   "id": "yavatmal--babhulgaon",
+   "name": "Babhulgaon",
+   "nameMr": "बाभूळगाव",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Babhulgaon",
+   "hqMr": "बाभूळगाव"
+  },
+  {
+   "id": "yavatmal--kalamb",
+   "name": "Kalamb",
+   "nameMr": "कळंब",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Kalamb",
+   "hqMr": "कळंब"
+  },
+  {
+   "id": "yavatmal--darwha",
+   "name": "Darwha",
+   "nameMr": "दारव्हा",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Darwha",
+   "hqMr": "दारव्हा"
+  },
+  {
+   "id": "yavatmal--digras",
+   "name": "Digras",
+   "nameMr": "दिग्रस",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Digras",
+   "hqMr": "दिग्रस"
+  },
+  {
+   "id": "yavatmal--ner",
+   "name": "Ner",
+   "nameMr": "नेर",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Ner",
+   "hqMr": "नेर"
+  },
+  {
+   "id": "yavatmal--pusad",
+   "name": "Pusad",
+   "nameMr": "पुसद",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Pusad",
+   "hqMr": "पुसद"
+  },
+  {
+   "id": "yavatmal--umarkhed",
+   "name": "Umarkhed",
+   "nameMr": "उमरखेड",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Umarkhed",
+   "hqMr": "उमरखेड"
+  },
+  {
+   "id": "yavatmal--mahagaon",
+   "name": "Mahagaon",
+   "nameMr": "महागाव",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Mahagaon",
+   "hqMr": "महागाव"
+  },
+  {
+   "id": "yavatmal--kelapur",
+   "name": "Kelapur",
+   "nameMr": "केळापूर",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Pandharkawada",
+   "hqMr": "पांढरकवडा"
+  },
+  {
+   "id": "yavatmal--ralegaon",
+   "name": "Ralegaon",
+   "nameMr": "राळेगाव",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Ralegaon",
+   "hqMr": "राळेगाव"
+  },
+  {
+   "id": "yavatmal--ghatanji",
+   "name": "Ghatanji",
+   "nameMr": "घाटंजी",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Ghatanji",
+   "hqMr": "घाटंजी"
+  },
+  {
+   "id": "yavatmal--wani",
+   "name": "Wani",
+   "nameMr": "वणी",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Wani",
+   "hqMr": "वणी"
+  },
+  {
+   "id": "yavatmal--maregaon",
+   "name": "Maregaon",
+   "nameMr": "मारेगाव",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Maregaon",
+   "hqMr": "मारेगाव"
+  },
+  {
+   "id": "yavatmal--zari-jamani",
+   "name": "Zari Jamani",
+   "nameMr": "झरी जामणी",
+   "district": "yavatmal",
+   "districtName": "Yavatmal",
+   "division": "yavatmal",
+   "hq": "Zari Jamani",
+   "hqMr": "झरी जामणी"
+  }
+ ]
+}

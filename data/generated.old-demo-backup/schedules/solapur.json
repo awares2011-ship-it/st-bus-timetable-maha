@@ -1,0 +1,238 @@
+{
+  "division": "solapur",
+  "slug": "solapur",
+  "generatedAt": "2026-09-07T12:12:52.009Z",
+  "trips": [
+    {
+      "id": "solapur-to-pune-swargate-0530-ordinary",
+      "routeId": "solapur-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "05:30",
+      "arrival": "09:30",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "solapur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "pandharpur-to-pune-swargate-0600-ordinary",
+      "routeId": "pandharpur-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "06:00",
+      "arrival": "09:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "pandharpur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "solapur-to-pune-swargate-0800-ordinary",
+      "routeId": "solapur-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "08:00",
+      "arrival": "12:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "solapur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "pandharpur-to-pune-swargate-0900-ordinary",
+      "routeId": "pandharpur-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "09:00",
+      "arrival": "12:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "pandharpur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "solapur-to-pune-swargate-1000-shivshahi",
+      "routeId": "solapur-to-pune-swargate",
+      "serviceType": "shivshahi",
+      "departure": "10:00",
+      "arrival": "14:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "solapur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "pandharpur-to-pune-swargate-1200-ordinary",
+      "routeId": "pandharpur-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "12:00",
+      "arrival": "15:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "pandharpur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "solapur-to-pune-swargate-1300-ordinary",
+      "routeId": "solapur-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "13:00",
+      "arrival": "17:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "solapur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "pandharpur-to-pune-swargate-1500-ordinary",
+      "routeId": "pandharpur-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "15:00",
+      "arrival": "18:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "pandharpur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "solapur-to-pune-swargate-1600-ordinary",
+      "routeId": "solapur-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "16:00",
+      "arrival": "20:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "solapur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "solapur-to-pune-swargate-1900-ordinary",
+      "routeId": "solapur-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "19:00",
+      "arrival": "23:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "solapur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "solapur-to-mumbai-2100-shivshahi",
+      "routeId": "solapur-to-mumbai",
+      "serviceType": "shivshahi",
+      "departure": "21:00",
+      "arrival": "03:00",
+      "durationMin": 360,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "solapur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    }
+  ]
+}

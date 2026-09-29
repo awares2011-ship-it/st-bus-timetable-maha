@@ -1,0 +1,57 @@
+{
+ "docType": "timetable-page",
+ "division": "nashik",
+ "pdf": "नाशिक_विभाग_वेळापत्रक.pdf",
+ "page": 29,
+ "note": "Vinchur bus stand (Lasalgaon depot), 01/03/2025, departures. Surat via Chandwad–Satana–Pimpalner; Tuljapur via Yeola–Shirdi–Nagar–Jamkhed–Dharashiv; Pune via Niphad–Kothure–Sinnar–Sangamner (05:50) and via Kolpewadi–Talegaon–Sangamner (07:05); Newasa via Kolpewadi–Shirdi–Shrirampur; Sinnar via Naitale–Nandurmadhyameshwar–Baragaon Pimpri.",
+ "blocks": [
+  {
+   "from": "Vinchur",
+   "fromMr": "विंचूर",
+   "depot": "Lasalgaon",
+   "page": 29,
+   "rows": [
+    [
+     "Surat",
+     "सुरत",
+     "09:30"
+    ],
+    [
+     "Tuljapur",
+     "तुळजापूर",
+     "08:10"
+    ],
+    [
+     "Pune (city)",
+     "पुणे",
+     "05:50 07:05"
+    ],
+    [
+     "Nevasa",
+     "नेवासा",
+     "07:35"
+    ],
+    [
+     "Sinnar",
+     "सिन्नर",
+     "08:35 12:35 17:45"
+    ],
+    [
+     "Khedla",
+     "खेडला",
+     "07:45 09:45 13:15 15:50 19:45"
+    ],
+    [
+     "Kolpewadi",
+     "कोळपेवाडी",
+     "07:00 07:35 09:40 13:10 15:10 18:35"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "05:10 05:40 06:10 06:40 07:10 07:40 08:10 08:15 08:35 09:05 10:00 10:30 11:10 11:35 12:10 12:35 13:10 13:40 14:10 15:20 16:05 16:35 17:05 17:35 18:35"
+    ]
+   ]
+  }
+ ]
+}

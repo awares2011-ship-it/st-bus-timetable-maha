@@ -1,0 +1,446 @@
+[
+  {
+    "id": "swargate",
+    "name": "Swargate",
+    "nameMr": "स्वारगेट",
+    "division": "pune"
+  },
+  {
+    "id": "shivajinagar",
+    "name": "Shivajinagar",
+    "nameMr": "शिवाजीनगर",
+    "division": "pune"
+  },
+  {
+    "id": "baramati",
+    "name": "Baramati",
+    "nameMr": "बारामती",
+    "division": "pune"
+  },
+  {
+    "id": "mumbai-central",
+    "name": "Mumbai Central",
+    "nameMr": "मुंबई सेंट्रल",
+    "division": "mumbai"
+  },
+  {
+    "id": "parel",
+    "name": "Parel",
+    "nameMr": "परळ",
+    "division": "mumbai"
+  },
+  {
+    "id": "thane",
+    "name": "Thane",
+    "nameMr": "ठाणे",
+    "division": "thane"
+  },
+  {
+    "id": "panvel",
+    "name": "Panvel",
+    "nameMr": "पनवेल",
+    "division": "thane"
+  },
+  {
+    "id": "nashik",
+    "name": "Nashik",
+    "nameMr": "नाशिक",
+    "division": "nashik"
+  },
+  {
+    "id": "nagpur",
+    "name": "Nagpur (Ganeshpeth)",
+    "nameMr": "नागपूर (गणेशपेठ)",
+    "division": "nagpur"
+  },
+  {
+    "id": "kolhapur",
+    "name": "Kolhapur (CBS)",
+    "nameMr": "कोल्हापूर (मध्यवर्ती)",
+    "division": "kolhapur"
+  },
+  {
+    "id": "satara",
+    "name": "Satara",
+    "nameMr": "सातारा",
+    "division": "satara"
+  },
+  {
+    "id": "karad",
+    "name": "Karad",
+    "nameMr": "कराड",
+    "division": "satara"
+  },
+  {
+    "id": "sangli",
+    "name": "Sangli",
+    "nameMr": "सांगली",
+    "division": "sangli"
+  },
+  {
+    "id": "solapur",
+    "name": "Solapur",
+    "nameMr": "सोलापूर",
+    "division": "solapur"
+  },
+  {
+    "id": "pandharpur",
+    "name": "Pandharpur",
+    "nameMr": "पंढरपूर",
+    "division": "solapur"
+  },
+  {
+    "id": "ahilyanagar",
+    "name": "Ahilyanagar",
+    "nameMr": "अहिल्यानगर",
+    "division": "ahilyanagar"
+  },
+  {
+    "id": "shirdi",
+    "name": "Shirdi",
+    "nameMr": "शिर्डी",
+    "division": "ahilyanagar"
+  },
+  {
+    "id": "sambhajinagar",
+    "name": "Chhatrapati Sambhajinagar",
+    "nameMr": "छत्रपती संभाजीनगर",
+    "division": "sambhajinagar"
+  },
+  {
+    "id": "ratnagiri",
+    "name": "Ratnagiri",
+    "nameMr": "रत्नागिरी",
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kagal",
+    "name": "Kagal",
+    "nameMr": "कागल",
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara",
+    "name": "Ajara",
+    "nameMr": "आजरा",
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj",
+    "name": "Gadhinglaj",
+    "nameMr": "गडहिंग्लज",
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad",
+    "name": "Chandgad",
+    "nameMr": "चंदगड",
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti",
+    "name": "Gargoti",
+    "nameMr": "गारगोटी",
+    "division": "kolhapur"
+  },
+  {
+    "id": "kodoli",
+    "name": "Kodoli",
+    "nameMr": "कोडोली",
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon",
+    "name": "Vadgaon",
+    "nameMr": "वडगांव",
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle",
+    "name": "Hatkanangle",
+    "nameMr": "हातकणंगले",
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala",
+    "name": "Rankala",
+    "nameMr": "रंकाळा",
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur",
+    "name": "Malkapur",
+    "nameMr": "मलकापूर",
+    "division": "kolhapur"
+  },
+  {
+    "id": "panhala",
+    "name": "Panhala",
+    "nameMr": "पन्हाळा",
+    "division": "kolhapur"
+  },
+  {
+    "id": "wathar",
+    "name": "Wathar",
+    "nameMr": "वाठार",
+    "division": "kolhapur"
+  },
+  {
+    "id": "nrusinhwadi",
+    "name": "Nrusinhwadi",
+    "nameMr": "नृसिंहवाडी",
+    "division": "kolhapur"
+  },
+  {
+    "id": "radhanagari",
+    "name": "Radhanagari",
+    "nameMr": "राधानगरी",
+    "division": "kolhapur"
+  },
+  {
+    "id": "shirol",
+    "name": "Shirol",
+    "nameMr": "शिरोळ",
+    "division": "kolhapur"
+  },
+  {
+    "id": "jaysingpur",
+    "name": "Jaysingpur",
+    "nameMr": "जयसिंगपूर",
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad",
+    "name": "Kurundwad",
+    "nameMr": "कुरुंदवाड",
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada",
+    "name": "Gaganbawada",
+    "nameMr": "गगनबावडा",
+    "division": "kolhapur"
+  },
+  {
+    "id": "hupari",
+    "name": "Hupari",
+    "nameMr": "हुपरी",
+    "division": "kolhapur"
+  },
+  {
+    "id": "sawantwadi",
+    "name": "Sawantwadi",
+    "nameMr": "सावंतवाडी",
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malwan",
+    "name": "Malwan",
+    "nameMr": "मालवण",
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli",
+    "name": "Kankavli",
+    "nameMr": "कणकवली",
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad",
+    "name": "Devgad",
+    "nameMr": "देवगड",
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg",
+    "name": "Vijaydurg",
+    "nameMr": "विजयदुर्ग",
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal",
+    "name": "Kudal",
+    "nameMr": "कुडाळ",
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vengurle",
+    "name": "Vengurle",
+    "nameMr": "वेंगुर्ला",
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sindhudurg-nagari",
+    "name": "Sindhudurg Nagari",
+    "nameMr": "सिंधुदुर्गनगरी",
+    "division": "ratnagiri"
+  },
+  {
+    "id": "mumbai-busstand",
+    "name": "Mumbai Bus Stand",
+    "nameMr": "मुंबई बसस्थानक",
+    "division": "mumbai"
+  },
+  {
+    "id": "uran",
+    "name": "Uran",
+    "nameMr": "उरण",
+    "division": "mumbai"
+  },
+  {
+    "id": "kunen",
+    "name": "Kunen",
+    "nameMr": "कुनेन",
+    "division": "ratnagiri"
+  },
+  {
+    "id": "pune-station",
+    "name": "Pune Station",
+    "nameMr": "पुणे स्टेशन",
+    "division": "pune"
+  },
+  {
+    "id": "indapur",
+    "name": "Indapur",
+    "nameMr": "इंदापूर",
+    "division": "pune"
+  },
+  {
+    "id": "nirra",
+    "name": "Nirra",
+    "nameMr": "निरा",
+    "division": "pune"
+  },
+  {
+    "id": "bhor",
+    "name": "Bhor",
+    "nameMr": "भोर",
+    "division": "pune"
+  },
+  {
+    "id": "lonavala",
+    "name": "Lonavala",
+    "nameMr": "लोणावळा",
+    "division": "pune"
+  },
+  {
+    "id": "bhimashankhar",
+    "name": "Bhimashankhar",
+    "nameMr": "भीमाशंकर",
+    "division": "pune"
+  },
+  {
+    "id": "supa",
+    "name": "Supa",
+    "nameMr": "सुपा",
+    "division": "pune"
+  },
+  {
+    "id": "nashik-cbs",
+    "name": "Nashik CBS",
+    "nameMr": "नाशिक सी.बी.एस.",
+    "division": "nashik"
+  },
+  {
+    "id": "nashik-mela",
+    "name": "Nashik Mela",
+    "nameMr": "नाशिक मेळा",
+    "division": "nashik"
+  },
+  {
+    "id": "nashik-satapur",
+    "name": "Nashik Satapur",
+    "nameMr": "नाशिक सातपूर",
+    "division": "nashik"
+  },
+  {
+    "id": "trimbak",
+    "name": "Trimbakeshwar",
+    "nameMr": "त्र्यंबकेश्वर",
+    "division": "nashik"
+  },
+  {
+    "id": "igatpuri",
+    "name": "Igatpuri",
+    "nameMr": "इगतपुरी",
+    "division": "nashik"
+  },
+  {
+    "id": "ghoti",
+    "name": "Ghoti",
+    "nameMr": "घोटी",
+    "division": "nashik"
+  },
+  {
+    "id": "malegaon",
+    "name": "Malegaon",
+    "nameMr": "मालेगाव",
+    "division": "nashik"
+  },
+  {
+    "id": "satana",
+    "name": "Satana",
+    "nameMr": "सटाणा",
+    "division": "nashik"
+  },
+  {
+    "id": "manmad",
+    "name": "Manmad",
+    "nameMr": "मनमाड",
+    "division": "nashik"
+  },
+  {
+    "id": "nandgaon",
+    "name": "Nandgaon",
+    "nameMr": "नांदगाव",
+    "division": "nashik"
+  },
+  {
+    "id": "chandwad",
+    "name": "Chandwad",
+    "nameMr": "चांदवड",
+    "division": "nashik"
+  },
+  {
+    "id": "dindori",
+    "name": "Dindori",
+    "nameMr": "दिंडोरी",
+    "division": "nashik"
+  },
+  {
+    "id": "kalvan",
+    "name": "Kalvan",
+    "nameMr": "कळवण",
+    "division": "nashik"
+  },
+  {
+    "id": "lasalgaon",
+    "name": "Lasalgaon",
+    "nameMr": "लासलगाव",
+    "division": "nashik"
+  },
+  {
+    "id": "vinchur",
+    "name": "Vinchur",
+    "nameMr": "विंचूर",
+    "division": "nashik"
+  },
+  {
+    "id": "bhagur",
+    "name": "Bhagur",
+    "nameMr": "भगूर",
+    "division": "nashik"
+  },
+  {
+    "id": "pipalgaon",
+    "name": "Pipalgaon",
+    "nameMr": "पिपळगाव",
+    "division": "nashik"
+  },
+  {
+    "id": "mahad-highway",
+    "name": "Mahad (Mahamarg)",
+    "nameMr": "महाड (महामार्ग)",
+    "division": "ratnagiri"
+  }
+]

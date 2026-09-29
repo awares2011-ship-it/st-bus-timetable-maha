@@ -1,0 +1,160 @@
+{
+ "docType": "timetable-page",
+ "division": "nashik",
+ "pdf": "नाशिक_विभाग_वेळापत्रक.pdf",
+ "page": 37,
+ "note": "Satana bus stand timetable, sheet 5: villages, Mumbai-bound, interstate. Gujarat-state (GSRTC) buses passing Satana stored as through buses with both ends. Local 'Nandgaon mu.', 'Tingri mu.' (night halt) village rows omitted.",
+ "blocks": [
+  {
+   "from": "Satana",
+   "fromMr": "सटाणा",
+   "depot": "Satana",
+   "page": 37,
+   "rows": [
+    [
+     "Satmane",
+     "सातमाने",
+     "17:35"
+    ],
+    [
+     "Umbhare",
+     "उंभरे",
+     "08:15"
+    ],
+    [
+     "Dighave",
+     "दिघावे",
+     "12:30"
+    ],
+    [
+     "Kalyan",
+     "कल्याण",
+     "09:45 11:00"
+    ],
+    [
+     "Vasai",
+     "वसई",
+     "10:35"
+    ],
+    [
+     "Boisar",
+     "बोइसर",
+     "11:00"
+    ],
+    [
+     "Palghar",
+     "पालघर",
+     "11:55"
+    ],
+    [
+     "Shahapur",
+     "शहापूर",
+     "15:45"
+    ],
+    [
+     "Unai",
+     "उनई",
+     "07:15 14:30"
+    ],
+    [
+     "Surat",
+     "सुरत",
+     "09:45 10:45 12:30 13:30"
+    ],
+    [
+     "Ahmedabad",
+     "अहमदाबाद",
+     "09:30"
+    ],
+    [
+     "Shirdi",
+     "शिर्डी",
+     "04:30",
+     "",
+     "Ahmedabad",
+     "अहमदाबाद"
+    ],
+    [
+     "Ahmedabad",
+     "अहमदाबाद",
+     "10:30",
+     "",
+     "Shirdi",
+     "शिर्डी"
+    ],
+    [
+     "Shirdi",
+     "शिर्डी",
+     "05:00",
+     "",
+     "Vadodara",
+     "बडोदा"
+    ],
+    [
+     "Vadodara",
+     "बडोदा",
+     "09:20",
+     "",
+     "Shirdi",
+     "शिर्डी"
+    ],
+    [
+     "Malegaon",
+     "मालेगाव",
+     "05:15",
+     "",
+     "Ahmedabad",
+     "अहमदाबाद"
+    ],
+    [
+     "Ahmedabad",
+     "अहमदाबाद",
+     "19:30",
+     "",
+     "Malegaon",
+     "मालेगाव"
+    ],
+    [
+     "Malegaon",
+     "मालेगाव",
+     "06:00",
+     "",
+     "Patan",
+     "पाटण"
+    ],
+    [
+     "Patan",
+     "पाटण",
+     "17:45",
+     "",
+     "Malegaon",
+     "मालेगाव"
+    ],
+    [
+     "Malegaon",
+     "मालेगाव",
+     "11:30",
+     "",
+     "Surat",
+     "सुरत"
+    ],
+    [
+     "Surat",
+     "सुरत",
+     "05:45",
+     "",
+     "Malegaon",
+     "मालेगाव"
+    ],
+    [
+     "Shirdi",
+     "शिर्डी",
+     "04:30",
+     "",
+     "Bharuch",
+     "भरूच"
+    ]
+   ]
+  }
+ ]
+}

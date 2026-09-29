@@ -1,0 +1,11 @@
+{
+ "docType": "timetable-page", "division": "palghar", "pdf": "पालघर_विभाग_बसस्थानक_वेळापत्रक.pdf", "page": 7,
+ "from": "Arnala", "fromMr": "अर्नाळा", "depot": "Arnala",
+ "note": "Arnala board continued (p8 is the arrivals half of the same table and is not recorded).",
+ "rows": [
+  ["Solapur", "सोलापूर", "06:30"],
+  ["Solapur", "सोलापूर", "08:00", "Shivshahi"],
+  ["Solapur", "सोलापूर", "14:00 15:00", "Sleeper"],
+  ["Tuljapur", "तुळजापूर", "05:30"]
+ ]
+}

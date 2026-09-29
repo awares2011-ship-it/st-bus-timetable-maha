@@ -1,0 +1,142 @@
+{
+ "docType": "timetable-page",
+ "division": "nashik",
+ "pdf": "नाशिक_विभाग_वेळापत्रक.pdf",
+ "page": 36,
+ "note": "Satana bus stand timetable, sheet 4 (rural and Khandesh services). 'Chalisgaon Kannad Aurangabad' stored as Chh. Sambhajinagar; 'Jalgaon via Dhule' and 'Chalisgaon route Jalgaon' as Jalgaon; 'Tilwan route Dangsaundane' as Dangsaundane; village combination rows ('X via Y') stored under the destination village. 'English Medium' (school) omitted.",
+ "blocks": [
+  {
+   "from": "Satana",
+   "fromMr": "सटाणा",
+   "depot": "Satana",
+   "page": 36,
+   "rows": [
+    [
+     "Daregaon",
+     "दरेगाव",
+     "08:30"
+    ],
+    [
+     "Ajmer Saundane",
+     "अजमेर सौंदाणे",
+     "06:00"
+    ],
+    [
+     "Aliyabad",
+     "अलियाबाद",
+     "11:15"
+    ],
+    [
+     "Waghamba",
+     "वाघंबा",
+     "14:15"
+    ],
+    [
+     "Ambasan",
+     "अंबासन",
+     "19:30"
+    ],
+    [
+     "Kajwade",
+     "कजवाडे",
+     "17:30"
+    ],
+    [
+     "Amravatipada",
+     "अमरावतीपाडा",
+     "10:15 17:15"
+    ],
+    [
+     "Chhatrapati Sambhajinagar",
+     "चाळीसगाव कन्नड औरंगाबाद",
+     "07:00 08:00"
+    ],
+    [
+     "Jalgaon",
+     "जळगाव",
+     "06:30 08:30 12:30"
+    ],
+    [
+     "Chalisgaon",
+     "चाळीसगाव",
+     "15:45"
+    ],
+    [
+     "Dhule",
+     "धुळे",
+     "09:00 13:00"
+    ],
+    [
+     "Dangsaundane",
+     "डांगसौंदाणे",
+     "07:00 09:00 10:55 13:30 15:30 17:20 19:05"
+    ],
+    [
+     "Ravalgaon",
+     "रावळगाव",
+     "07:30 09:45 13:00 15:15 19:00"
+    ],
+    [
+     "Wathoda",
+     "वाठोडा",
+     "18:30"
+    ],
+    [
+     "Bilpuri",
+     "बिलपुरी",
+     "07:15 15:30 19:00"
+    ],
+    [
+     "Tilwan",
+     "तिळवण",
+     "10:35 17:35"
+    ],
+    [
+     "Pratappur",
+     "प्रतापपूर",
+     "11:40"
+    ],
+    [
+     "Kandhana",
+     "कंधाणा",
+     "07:30 09:30 11:00 13:00 16:00"
+    ],
+    [
+     "Pathawa",
+     "पठावा",
+     "10:00 15:00"
+    ],
+    [
+     "Pisore",
+     "पिसोरे",
+     "18:30"
+    ],
+    [
+     "Kaparai",
+     "कापराई",
+     "07:15"
+    ],
+    [
+     "Ratir",
+     "रातीर",
+     "10:15"
+    ],
+    [
+     "Karanjad",
+     "करंजाड",
+     "06:30"
+    ],
+    [
+     "Tingri",
+     "टिंगरी",
+     "07:00"
+    ],
+    [
+     "Manur (Kalwan)",
+     "मानूर",
+     "08:00 17:35"
+    ]
+   ]
+  }
+ ]
+}

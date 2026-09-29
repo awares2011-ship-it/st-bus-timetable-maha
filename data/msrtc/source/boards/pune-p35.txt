@@ -1,0 +1,31 @@
+division: pune
+pdf: पुणे_विभाग_वेळापत्रक.pdf
+page: 35
+board: Nira | निरा
+depot: Baramati
+note: Nira bus stand board sheet 2 (Mumbai/Konkan/Nashik side). Truncated times ('11.', '10.3', '22.3', '9.3') read as HH:00 / HH:30. 'Ra. Nagar' = Rajgurunagar; Talegaon = Talegaon Dabhade.
+names:
+शहापूर = Shahapur
+भिवंडी = Bhiwandi
+नालासोपारा = Nalasopara
+बोईसर = Boisar
+रा. नगर = Rajgurunagar
+तळेगाव = Talegaon Dabhade
+आळंदी = Alandi
+बोरिवली = Borivali
+rows:
+निरा - अलिबाग 10.30 12.30
+निरा - अर्नाळा 11.00
+निरा - कल्याण 09.15 10.45
+निरा - शहापूर 10.30
+निरा - भिवंडी 22.30
+निरा - ठाणे 09.30 10.30 11.00 17.00 20.00
+निरा - नालासोपारा 12.30
+निरा - बोईसर 09.30
+निरा - जव्हार 09.15
+निरा - जुन्नर 12.30 13.30 14.30
+निरा - बोरिवली 06.45 07.45 08.45 09.30 10.45 11.15 11.30 13.00 14.45 17.15 21.15
+निरा - नाशिक 07.45 08.15 09.15 12.15
+निरा - रा. नगर 19.30
+निरा - तळेगाव 18.30
+निरा - आळंदी 15.30

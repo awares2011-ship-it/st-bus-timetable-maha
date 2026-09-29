@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Noto+Sans:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  /* Light, calm theme: warm off-white canvas, white cards, one MSRTC red accent. */
+  --bg: #f7f6f3;
+  --surface: #ffffff;
+  --ink: #1f2328;
+  --ink-soft: #57606a;
+  --line: #e7e5e0;
+  --accent: #c8102e;       /* MSRTC red */
+  --accent-soft: #fdecee;
+  --accent-ink: #9b0c23;
+  --st-red: #c8102e;
+  --st-red-dark: #9b0c23;
+  --st-gold: #d97706;
+  --st-orange: #ea580c;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-feature-settings: 'kern';
+  text-rendering: optimizeLegibility;
+  font-family: 'Noto Sans Devanagari', 'Noto Sans', system-ui, sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  -webkit-tap-highlight-color: transparent;
+}
+h1 { font-size: 1.35rem; line-height: 1.3; }
+h2 { font-size: 1.15rem; line-height: 1.4; }
+
+.safe-b {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.safe-t {
+  padding-top: env(safe-area-inset-top);
+}
+
+@layer components {
+  .card {
+    @apply rounded-2xl bg-white;
+    border: 1px solid var(--line);
+  }
+  .card-hover {
+    @apply rounded-2xl bg-white transition-all duration-150;
+    border: 1px solid var(--line);
+    &:hover { border-color: #d6d3cc; box-shadow: 0 2px 10px -4px rgba(0,0,0,.12); }
+    &:active { transform: scale(0.99); }
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-5 py-3 text-[15px] font-semibold transition-colors duration-150 active:scale-[.99] disabled:opacity-50 min-h-[48px];
+  }
+  .btn-primary {
+    @apply btn text-white;
+    background: var(--accent);
+    &:hover { background: var(--accent-ink); }
+    &:disabled { @apply opacity-50; }
+  }
+  .btn-ghost {
+    @apply btn text-slate-700;
+    background: #efeee9;
+    &:hover { background: #e6e4de; }
+  }
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-semibold;
+  }
+  .field {
+    @apply w-full rounded-xl bg-white px-4 py-3 text-[16px] outline-none transition-colors duration-150 min-h-[50px];
+    border: 1.5px solid var(--line);
+    &:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+  }
+  .container-app {
+    @apply mx-auto w-full max-w-2xl px-4;
+  }
+  .hero-gradient { background: var(--surface); }
+  .section-heading { @apply text-base font-bold tracking-tight text-slate-800; }
+  .time-display { @apply text-2xl font-bold tabular-nums leading-none text-slate-900; }
+  .link-accent { color: var(--accent); @apply text-xs font-bold hover:underline; }
+  .tile {
+    @apply flex items-center gap-3 rounded-xl bg-white px-3.5 py-3 transition-colors;
+    border: 1px solid var(--line);
+    &:hover { border-color: #d6d3cc; background: #fcfcfb; }
+  }
+  .muted { color: var(--ink-soft); }
+
+  /* Legacy colour hooks, kept neutral so older pages match the light theme */
+  .div-pune, .div-mumbai, .div-thane, .div-nashik, .div-nagpur, .div-amravati, .div-kolhapur,
+  .div-satara, .div-sangli, .div-solapur, .div-ahilyanagar, .div-sambhajinagar, .div-ratnagiri { background: #fff; }
+  .qa-nearby, .qa-next, .qa-fav, .qa-settings { background: #fff; border-color: var(--line); }
+  .stat-stations, .stat-routes, .stat-trips { background: var(--accent-soft); color: var(--accent-ink); }
+  .tab-active-depot, .tab-active-route { background: var(--accent); }
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: none; }
+}
+.rise {
+  animation: rise 0.3s ease both;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-4px); }
+}
+.float {
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes glow-pulse {
+  0%, 100% { box-shadow: 0 0 8px 2px rgba(220, 38, 38, 0.15); }
+  50% { box-shadow: 0 0 16px 4px rgba(220, 38, 38, 0.25); }
+}
+.glow-pulse {
+  animation: glow-pulse 2.5s ease-in-out infinite;
+}
+
+@keyframes rainbow-border {
+  0% { border-color: #dc2626; }
+  16% { border-color: #ea580c; }
+  33% { border-color: #d97706; }
+  50% { border-color: #059669; }
+  66% { border-color: #0284c7; }
+  83% { border-color: #7c3aed; }
+  100% { border-color: #dc2626; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rise, .float, .glow-pulse {
+    animation: none;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* ── Multicolour accents (light background, colour carries meaning) ──
+   Regions: each MSRTC region gets its own hue, used on district chips,
+   region headers and tiles. Tints: generic soft palette for tiles. */
+:root {
+  --r-mumbai: #0284c7;       --r-mumbai-soft: #e0f2fe;
+  --r-pune: #e11d48;         --r-pune-soft: #ffe4e6;
+  --r-nashik: #059669;       --r-nashik-soft: #d1fae5;
+  --r-sambhajinagar: #7c3aed;--r-sambhajinagar-soft: #ede9fe;
+  --r-nagpur: #ea580c;       --r-nagpur-soft: #ffedd5;
+  --r-amravati: #ca8a04;     --r-amravati-soft: #fef9c3;
+}
+.region-mumbai { --rc: var(--r-mumbai); --rs: var(--r-mumbai-soft); }
+.region-pune { --rc: var(--r-pune); --rs: var(--r-pune-soft); }
+.region-nashik { --rc: var(--r-nashik); --rs: var(--r-nashik-soft); }
+.region-sambhajinagar { --rc: var(--r-sambhajinagar); --rs: var(--r-sambhajinagar-soft); }
+.region-nagpur { --rc: var(--r-nagpur); --rs: var(--r-nagpur-soft); }
+.region-amravati { --rc: var(--r-amravati); --rs: var(--r-amravati-soft); }
+.rc-chip { background: var(--rs); color: var(--rc); border: 1px solid transparent; }
+.rc-chip:hover { border-color: var(--rc); }
+.rc-tile { border-left: 4px solid var(--rc); }
+.rc-dot { background: var(--rc); }
+.rc-text { color: var(--rc); }
+
+.tint-red { background: #fff1f2; color: #be123c; }
+.tint-sky { background: #e0f2fe; color: #0369a1; }
+.tint-green { background: #dcfce7; color: #15803d; }
+.tint-violet { background: #ede9fe; color: #6d28d9; }
+.tint-amber { background: #fef3c7; color: #b45309; }
+.tint-teal { background: #ccfbf1; color: #0f766e; }
+
+/* Maharashtra rainbow bar under the header */
+.rainbow-bar {
+  height: 3px;
+  background: linear-gradient(90deg, #e11d48, #ea580c, #ca8a04, #059669, #0284c7, #7c3aed);
+}
+
+/* ── Multicolour theme ──
+   Vivid Maharashtra palette: rose, orange, amber, green, sky, violet. */
+:root {
+  --mc-1: #e11d48; --mc-2: #ea580c; --mc-3: #ca8a04; --mc-4: #059669; --mc-5: #0284c7; --mc-6: #7c3aed;
+  --mc-gradient: linear-gradient(90deg, var(--mc-1), var(--mc-2), var(--mc-3), var(--mc-4), var(--mc-5), var(--mc-6));
+  --mc-warm: linear-gradient(135deg, #e11d48 0%, #f97316 55%, #f59e0b 100%);
+  --mc-cool: linear-gradient(135deg, #7c3aed 0%, #0284c7 55%, #059669 100%);
+}
+body {
+  background:
+    radial-gradient(900px 420px at -10% -5%, #ffe4e6 0%, transparent 60%),
+    radial-gradient(800px 420px at 110% 10%, #e0f2fe 0%, transparent 60%),
+    radial-gradient(900px 520px at 50% 110%, #ede9fe 0%, transparent 60%),
+    radial-gradient(700px 400px at 100% 70%, #dcfce7 0%, transparent 60%),
+    #fbfaf7;
+  background-attachment: fixed;
+}
+.mc-header { background: var(--mc-warm); color: #fff; }
+.mc-header-sub { color: rgba(255,255,255,.85); }
+.mc-logo { background: #fff; color: var(--mc-1); box-shadow: 0 2px 8px -2px rgba(0,0,0,.25); }
+.mc-hero-overlay {
+  background: linear-gradient(100deg, rgba(225,29,72,.92) 0%, rgba(234,88,12,.82) 35%, rgba(124,58,237,.35) 70%, rgba(2,132,199,0) 100%);
+}
+.mc-top { position: relative; overflow: visible; }
+.mc-top::before {
+  content: ''; position: absolute; left: 0; right: 0; top: 0; height: 5px;
+  border-radius: 16px 16px 0 0; background: var(--mc-gradient);
+}
+.btn-primary { background: var(--mc-warm) !important; box-shadow: 0 6px 16px -8px rgba(225,29,72,.7); }
+.btn-primary:hover { filter: brightness(1.05); }
+.btn-primary:disabled { box-shadow: none; }
+.mc-seg { background: linear-gradient(90deg, #ffe4e6, #ede9fe); }
+.mc-seg-active { background: var(--mc-cool); color: #fff !important; box-shadow: 0 4px 12px -6px rgba(124,58,237,.8); }
+.section-heading, .mc-heading { display: flex; align-items: center; gap: .5rem; }
+.mc-heading::before {
+  content: ''; width: 6px; height: 1.1em; border-radius: 3px; background: linear-gradient(180deg, var(--mc-1), var(--mc-6));
+}
+.mc-cycle > :nth-child(6n+1) { border-left: 4px solid var(--mc-1); }
+.mc-cycle > :nth-child(6n+2) { border-left: 4px solid var(--mc-2); }
+.mc-cycle > :nth-child(6n+3) { border-left: 4px solid var(--mc-3); }
+.mc-cycle > :nth-child(6n+4) { border-left: 4px solid var(--mc-4); }
+.mc-cycle > :nth-child(6n+5) { border-left: 4px solid var(--mc-5); }
+.mc-cycle > :nth-child(6n+6) { border-left: 4px solid var(--mc-6); }
+.mc-nav { background: rgba(255,255,255,.96); border-top: 3px solid transparent; border-image: var(--mc-gradient) 1; }
+.link-accent { background: var(--mc-warm); -webkit-background-clip: text; background-clip: text; color: transparent; }

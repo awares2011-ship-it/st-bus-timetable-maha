@@ -1,0 +1,19 @@
+{
+  "docType": "timetable",
+  "note": "DEMO fixture — Kolhapur/Satara/Sangli origins. Illustrative times.",
+  "trips": [
+    { "from": "Kolhapur", "to": "Pune Swargate", "via": ["Karad", "Satara"], "service": "Shivshahi", "departure": "06:00", "arrival": "11:00", "days": "DAILY", "depot": "Kolhapur" },
+    { "from": "Kolhapur", "to": "Pune Swargate", "via": ["Karad", "Satara"], "service": "Express", "departure": "09:00", "arrival": "15:00", "days": "DAILY", "depot": "Kolhapur" },
+    { "from": "Kolhapur", "to": "Pune Swargate", "via": ["Karad", "Satara"], "service": "Shivshahi", "departure": "13:30", "arrival": "18:30", "days": "DAILY", "depot": "Kolhapur" },
+    { "from": "Kolhapur", "to": "Pune Swargate", "via": ["Karad", "Satara"], "service": "Vithai", "departure": "22:30", "arrival": "04:00", "days": "DAILY", "depot": "Kolhapur" },
+
+    { "from": "Kolhapur", "to": "Mumbai Dadar", "via": ["Satara", "Pune Swargate", "Panvel"], "service": "Shivshahi", "departure": "20:00", "arrival": "04:30", "days": "DAILY", "depot": "Kolhapur" },
+
+    { "from": "Satara", "to": "Kolhapur", "via": ["Karad", "Peth Naka"], "service": "Ordinary", "departure": "07:00", "arrival": "09:30", "days": "DAILY", "depot": "Satara" },
+    { "from": "Satara", "to": "Kolhapur", "via": ["Karad"], "service": "Express", "departure": "11:00", "arrival": "13:00", "days": "DAILY", "depot": "Satara" },
+    { "from": "Satara", "to": "Kolhapur", "via": ["Karad"], "service": "Shivshahi", "departure": "17:30", "arrival": "19:30", "days": "DAILY", "depot": "Satara" },
+
+    { "from": "Sangli", "to": "Pune Swargate", "via": ["Karad", "Satara"], "service": "Shivshahi", "departure": "06:30", "arrival": "11:30", "days": "DAILY", "depot": "Sangli" },
+    { "from": "Sangli", "to": "Pune Swargate", "via": ["Karad", "Satara"], "service": "Vithai", "departure": "23:00", "arrival": "04:30", "days": "DAILY", "depot": "Sangli" }
+  ]
+}

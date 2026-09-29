@@ -1,0 +1,280 @@
+{
+  "division": "sambhajinagar",
+  "slug": "sambhajinagar",
+  "generatedAt": "2026-09-07T12:12:52.009Z",
+  "trips": [
+    {
+      "id": "sambhajinagar-to-pune-swargate-0515-shivshahi",
+      "routeId": "sambhajinagar-to-pune-swargate",
+      "serviceType": "shivshahi",
+      "departure": "05:15",
+      "arrival": "09:00",
+      "durationMin": 225,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sambhajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sambhajinagar-to-nashik-0600-ordinary",
+      "routeId": "sambhajinagar-to-nashik",
+      "serviceType": "ordinary",
+      "departure": "06:00",
+      "arrival": "09:00",
+      "durationMin": 180,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sambhajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sambhajinagar-to-pune-swargate-0700-shivshahi",
+      "routeId": "sambhajinagar-to-pune-swargate",
+      "serviceType": "shivshahi",
+      "departure": "07:00",
+      "arrival": "10:45",
+      "durationMin": 225,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sambhajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sambhajinagar-to-mumbai-0800-shivshahi",
+      "routeId": "sambhajinagar-to-mumbai",
+      "serviceType": "shivshahi",
+      "departure": "08:00",
+      "arrival": "14:00",
+      "durationMin": 360,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sambhajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sambhajinagar-to-pune-swargate-0900-shivshahi",
+      "routeId": "sambhajinagar-to-pune-swargate",
+      "serviceType": "shivshahi",
+      "departure": "09:00",
+      "arrival": "12:45",
+      "durationMin": 225,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sambhajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sambhajinagar-to-nashik-1000-ordinary",
+      "routeId": "sambhajinagar-to-nashik",
+      "serviceType": "ordinary",
+      "departure": "10:00",
+      "arrival": "13:00",
+      "durationMin": 180,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sambhajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sambhajinagar-to-pune-swargate-1100-shivshahi",
+      "routeId": "sambhajinagar-to-pune-swargate",
+      "serviceType": "shivshahi",
+      "departure": "11:00",
+      "arrival": "14:45",
+      "durationMin": 225,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sambhajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sambhajinagar-to-pune-swargate-1300-shivshahi",
+      "routeId": "sambhajinagar-to-pune-swargate",
+      "serviceType": "shivshahi",
+      "departure": "13:00",
+      "arrival": "16:45",
+      "durationMin": 225,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sambhajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sambhajinagar-to-nashik-1400-ordinary",
+      "routeId": "sambhajinagar-to-nashik",
+      "serviceType": "ordinary",
+      "departure": "14:00",
+      "arrival": "17:00",
+      "durationMin": 180,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sambhajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sambhajinagar-to-pune-swargate-1500-shivshahi",
+      "routeId": "sambhajinagar-to-pune-swargate",
+      "serviceType": "shivshahi",
+      "departure": "15:00",
+      "arrival": "18:45",
+      "durationMin": 225,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sambhajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sambhajinagar-to-pune-swargate-1800-shivshahi",
+      "routeId": "sambhajinagar-to-pune-swargate",
+      "serviceType": "shivshahi",
+      "departure": "18:00",
+      "arrival": "21:45",
+      "durationMin": 225,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sambhajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sambhajinagar-to-nashik-1800-ordinary",
+      "routeId": "sambhajinagar-to-nashik",
+      "serviceType": "ordinary",
+      "departure": "18:00",
+      "arrival": "21:00",
+      "durationMin": 180,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sambhajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sambhajinagar-to-mumbai-2000-shivshahi",
+      "routeId": "sambhajinagar-to-mumbai",
+      "serviceType": "shivshahi",
+      "departure": "20:00",
+      "arrival": "02:00",
+      "durationMin": 360,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sambhajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    }
+  ]
+}

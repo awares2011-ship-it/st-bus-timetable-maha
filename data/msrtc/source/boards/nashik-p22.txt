@@ -1,0 +1,24 @@
+division: nashik
+pdf: नाशिक_विभाग_वेळापत्रक.pdf
+page: 22
+board: Deola | देवळा
+depot: Satana
+note: Deola bus stand, sheet 3 — through buses of other depots (Nashik-1, Nashik-2, Pimpalgaon, Sakri) timed at Deola; each row names origin and destination. Sakri depot's plain 'Nashik' row = Sakri → Nashik (sheet 4 lists the reverse as 'Nashik Sakri'). Sakri–Umbarti/Nampur/Sompur/Lonkhedi–Nashik stored as Sakri → Nashik.
+names:
+मुंगबारी = Mungbari
+लोणखेडी = Lonkhedi
+तळवाडे = Talwade
+rows:
+नंदुरबार - नाशिक 15.15 15.45 16.10 10.00 14.00 15.00 18.30 09.15 17.00 17.45
+नाशिक - नंदुरबार 07.40 08.35 06.30 07.30 09.00 09.30 09.45 20.30 09.00 11.15 16.30
+मुंगबारी - नंदुरबार 08.45
+नाशिक - लोणखेडी 16.15
+लोणखेडी - नाशिक 08.30
+नाशिक - सटाणा 09.00 10.00 16.30 17.30 @E-Shivai
+सटाणा - नाशिक 10.30 11.30 17.30 18.30 @E-Shivai
+तळवाडे - नाशिक 07.30
+नाशिक - तळवाडे 18.30
+साक्री - पुणे 08.30 10.30 12.15
+साक्री - नाशिक 09.30 10.00 10.30 10.15
+साक्री - कल्याण 10.15
+साक्री - नाशिक 08.00 08.40 08.45 08.55 11.30 12.30 13.00 13.30 15.00 16.00 17.00 18.00

@@ -1,0 +1,457 @@
+{
+ "division": "mumbai",
+ "docType": "timetable",
+ "sourceDoc": "मुंबई विभाग वेळापत्रक — Mumbai bus stand, page 1",
+ "sourceDate": "2025",
+ "note": "Hand-transcribed from the scanned MSRTC PDF (Mumbai bus stand, page 1). Columns on the source: route/via · service · destination town · division · departure · arrival. Only rows visible clearly on the scan are encoded. Remaining pages await OCR.",
+ "trips": [
+  {
+   "from": "Mumbai",
+   "to": "Tarapur",
+   "via": [
+    "Lonavala"
+   ],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "arrival": "08:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Tarapur",
+   "via": [
+    "Lonavala"
+   ],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "arrival": "23:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Tuljapur",
+   "via": [
+    "Dadar (East)"
+   ],
+   "service": "Semi-Luxury",
+   "departure": "17:15",
+   "arrival": "07:00",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Tuljapur",
+   "via": [
+    "Solapur"
+   ],
+   "service": "Sleeper",
+   "departure": "06:30",
+   "arrival": "19:00",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Aasani Shayanyaan",
+   "departure": "16:00",
+   "arrival": "18:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Atpadi",
+   "via": [
+    "Chinchwad"
+   ],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "arrival": "05:15",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Alibag",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "03:00",
+   "arrival": "06:00",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Alibag",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "04:00",
+   "arrival": "06:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Umarga",
+   "via": [],
+   "service": "Semi-Luxury",
+   "departure": "05:00",
+   "arrival": "16:00",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Udgir",
+   "via": [
+    "Latur"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "arrival": "16:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Dharashiv",
+   "via": [
+    "Sayan"
+   ],
+   "service": "Aasani Shayanyaan",
+   "departure": "05:15",
+   "arrival": "18:00",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "02:15",
+   "arrival": "06:00",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Narayangaon",
+   "via": [
+    "Kalamb"
+   ],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "arrival": "06:15",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Junnar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:15",
+   "arrival": "07:00",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Narayangaon",
+   "via": [
+    "Kalamb"
+   ],
+   "service": "Ordinary",
+   "departure": "04:15",
+   "arrival": "07:01",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Narayangaon",
+   "via": [
+    "Chakan"
+   ],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "arrival": "13:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Narayangaon",
+   "via": [
+    "Kalamb"
+   ],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "arrival": "22:00",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Junnar",
+   "via": [
+    "Manchar"
+   ],
+   "service": "Ordinary",
+   "departure": "20:45",
+   "arrival": "23:00",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Nashik CBS",
+   "via": [],
+   "service": "Shivshahi",
+   "departure": "12:00",
+   "arrival": "13:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Nandurbar",
+   "via": [
+    "Nashik CBS"
+   ],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "arrival": "07:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Karmala",
+   "via": [
+    "Kurla Nehru Nagar"
+   ],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "arrival": "05:00",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Karmala",
+   "via": [
+    "Kurla Nehru Nagar"
+   ],
+   "service": "Ordinary",
+   "departure": "01:30",
+   "arrival": "10:45",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Karmala",
+   "via": [
+    "Kurla Nehru Nagar"
+   ],
+   "service": "Aasani Shayanyaan",
+   "departure": "05:45",
+   "arrival": "21:45",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Karad",
+   "via": [
+    "Satara"
+   ],
+   "service": "Ordinary",
+   "departure": "22:15",
+   "arrival": "08:45",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Karad",
+   "via": [
+    "Satara"
+   ],
+   "service": "Ordinary",
+   "departure": "04:30",
+   "arrival": "14:00",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Karad",
+   "via": [
+    "Satara"
+   ],
+   "service": "Ordinary",
+   "departure": "13:15",
+   "arrival": "22:15",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Hubli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:50",
+   "arrival": "05:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Belgaum",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "arrival": "07:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Bangalore",
+   "via": [],
+   "service": "Hirkani",
+   "departure": "13:30",
+   "arrival": "09:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Aasani Shayanyaan",
+   "departure": "08:00",
+   "arrival": "20:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Kalamb",
+   "via": [],
+   "service": "Sleeper",
+   "departure": "06:00",
+   "arrival": "17:00",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Jamkhed",
+   "via": [
+    "Daund"
+   ],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "arrival": "05:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Jamkhed",
+   "via": [
+    "Konkan Bhavan"
+   ],
+   "service": "Ordinary",
+   "departure": "19:15",
+   "arrival": "07:00",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Jamkhed",
+   "via": [
+    "Konkan Bhavan"
+   ],
+   "service": "Aasani Shayanyaan",
+   "departure": "05:00",
+   "arrival": "21:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Jalgaon",
+   "via": [
+    "Nashik CBS"
+   ],
+   "service": "Aasani Shayanyaan",
+   "departure": "09:00",
+   "arrival": "18:00",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Bhor",
+   "via": [],
+   "service": "Semi-Luxury",
+   "departure": "17:30",
+   "arrival": "00:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Bhum",
+   "via": [
+    "Vashi"
+   ],
+   "service": "Ordinary",
+   "departure": "17:25",
+   "arrival": "09:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Bhum",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "04:40",
+   "arrival": "22:45",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Sade",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "arrival": "00:15",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  },
+  {
+   "from": "Mumbai",
+   "to": "Velas",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "arrival": "00:30",
+   "days": "DAILY",
+   "depot": "Mumbai"
+  }
+ ]
+}

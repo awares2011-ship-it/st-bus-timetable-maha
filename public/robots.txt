@@ -1,0 +1,8 @@
+# Maharashtra ST Bus Timetable (independent service, not affiliated with MSRTC)
+User-agent: *
+Allow: /
+
+# Data JSON is for the app, not for indexing.
+Disallow: /data/
+
+Sitemap: https://example.com/sitemap.xml

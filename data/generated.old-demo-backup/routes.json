@@ -1,0 +1,9712 @@
+[
+  {
+    "id": "mumbai-to-pune-swargate",
+    "from": "mumbai",
+    "to": "pune-swargate",
+    "stops": [
+      "mumbai",
+      "panvel",
+      "lonavala",
+      "pune-swargate"
+    ],
+    "division": "mumbai",
+    "distanceKm": 165
+  },
+  {
+    "id": "mumbai-to-nashik",
+    "from": "mumbai",
+    "to": "nashik",
+    "stops": [
+      "mumbai",
+      "thane",
+      "kasara",
+      "igatpuri",
+      "nashik"
+    ],
+    "division": "mumbai",
+    "distanceKm": 175
+  },
+  {
+    "id": "mumbai-to-satara",
+    "from": "mumbai",
+    "to": "satara",
+    "stops": [
+      "mumbai",
+      "pune-swargate",
+      "shirwal",
+      "satara"
+    ],
+    "division": "mumbai",
+    "distanceKm": 265
+  },
+  {
+    "id": "mumbai-to-kolhapur",
+    "from": "mumbai",
+    "to": "kolhapur",
+    "stops": [
+      "mumbai",
+      "pune-swargate",
+      "satara",
+      "karad",
+      "kolhapur"
+    ],
+    "division": "mumbai",
+    "distanceKm": 385
+  },
+  {
+    "id": "mumbai-to-solapur",
+    "from": "mumbai",
+    "to": "solapur",
+    "stops": [
+      "mumbai",
+      "pune-swargate",
+      "indapur",
+      "solapur"
+    ],
+    "division": "mumbai",
+    "distanceKm": 395
+  },
+  {
+    "id": "mumbai-to-shirdi",
+    "from": "mumbai",
+    "to": "shirdi",
+    "stops": [
+      "mumbai",
+      "thane",
+      "sangamner",
+      "shirdi"
+    ],
+    "division": "mumbai",
+    "distanceKm": 240
+  },
+  {
+    "id": "mumbai-to-tuljapur",
+    "from": "mumbai",
+    "to": "tuljapur",
+    "stops": [
+      "mumbai",
+      "pune-swargate",
+      "solapur",
+      "tuljapur"
+    ],
+    "division": "mumbai",
+    "distanceKm": 450
+  },
+  {
+    "id": "mumbai-to-alibag",
+    "from": "mumbai",
+    "to": "alibag",
+    "stops": [
+      "mumbai",
+      "panvel",
+      "alibag"
+    ],
+    "division": "mumbai",
+    "distanceKm": 100
+  },
+  {
+    "id": "mumbai-to-mahad",
+    "from": "mumbai",
+    "to": "mahad",
+    "stops": [
+      "mumbai",
+      "panvel",
+      "mahad"
+    ],
+    "division": "mumbai",
+    "distanceKm": 155
+  },
+  {
+    "id": "mumbai-to-ratnagiri",
+    "from": "mumbai",
+    "to": "ratnagiri",
+    "stops": [
+      "mumbai",
+      "mahad",
+      "chiplun",
+      "ratnagiri"
+    ],
+    "division": "mumbai",
+    "distanceKm": 340
+  },
+  {
+    "id": "mumbai-to-dhule",
+    "from": "mumbai",
+    "to": "dhule",
+    "stops": [
+      "mumbai",
+      "nashik",
+      "malegaon",
+      "dhule"
+    ],
+    "division": "mumbai",
+    "distanceKm": 360
+  },
+  {
+    "id": "mumbai-to-sambhajinagar",
+    "from": "mumbai",
+    "to": "sambhajinagar",
+    "stops": [
+      "mumbai",
+      "pune-swargate",
+      "sambhajinagar"
+    ],
+    "division": "mumbai",
+    "distanceKm": 340
+  },
+  {
+    "id": "dadar-to-pune-swargate",
+    "from": "dadar",
+    "to": "pune-swargate",
+    "stops": [
+      "dadar",
+      "lonavala",
+      "pune-swargate"
+    ],
+    "division": "mumbai",
+    "distanceKm": 150
+  },
+  {
+    "id": "dadar-to-nashik",
+    "from": "dadar",
+    "to": "nashik",
+    "stops": [
+      "dadar",
+      "kasara",
+      "igatpuri",
+      "nashik"
+    ],
+    "division": "mumbai",
+    "distanceKm": 165
+  },
+  {
+    "id": "panvel-to-mahad",
+    "from": "panvel",
+    "to": "mahad",
+    "stops": [
+      "panvel",
+      "mahad"
+    ],
+    "division": "mumbai",
+    "distanceKm": 100
+  },
+  {
+    "id": "panvel-to-shirdi",
+    "from": "panvel",
+    "to": "shirdi",
+    "stops": [
+      "panvel",
+      "sangamner",
+      "shirdi"
+    ],
+    "division": "mumbai",
+    "distanceKm": 250
+  },
+  {
+    "id": "panvel-to-alibag",
+    "from": "panvel",
+    "to": "alibag",
+    "stops": [
+      "panvel",
+      "alibag"
+    ],
+    "division": "mumbai",
+    "distanceKm": 55
+  },
+  {
+    "id": "pune-swargate-to-satara",
+    "from": "pune-swargate",
+    "to": "satara",
+    "stops": [
+      "pune-swargate",
+      "shirwal",
+      "satara"
+    ],
+    "division": "pune",
+    "distanceKm": 110
+  },
+  {
+    "id": "pune-swargate-to-kolhapur",
+    "from": "pune-swargate",
+    "to": "kolhapur",
+    "stops": [
+      "pune-swargate",
+      "satara",
+      "karad",
+      "peth-naka",
+      "kolhapur"
+    ],
+    "division": "pune",
+    "distanceKm": 230
+  },
+  {
+    "id": "pune-swargate-to-nashik",
+    "from": "pune-swargate",
+    "to": "nashik",
+    "stops": [
+      "pune-swargate",
+      "rajgurunagar",
+      "sangamner",
+      "nashik"
+    ],
+    "division": "pune",
+    "distanceKm": 210
+  },
+  {
+    "id": "pune-swargate-to-solapur",
+    "from": "pune-swargate",
+    "to": "solapur",
+    "stops": [
+      "pune-swargate",
+      "indapur",
+      "tembhurni",
+      "solapur"
+    ],
+    "division": "pune",
+    "distanceKm": 250
+  },
+  {
+    "id": "pune-swargate-to-shirdi",
+    "from": "pune-swargate",
+    "to": "shirdi",
+    "stops": [
+      "pune-swargate",
+      "rajgurunagar",
+      "sangamner",
+      "shirdi"
+    ],
+    "division": "pune",
+    "distanceKm": 185
+  },
+  {
+    "id": "pune-swargate-to-sambhajinagar",
+    "from": "pune-swargate",
+    "to": "sambhajinagar",
+    "stops": [
+      "pune-swargate",
+      "sambhajinagar"
+    ],
+    "division": "pune",
+    "distanceKm": 230
+  },
+  {
+    "id": "pune-swargate-to-pandharpur",
+    "from": "pune-swargate",
+    "to": "pandharpur",
+    "stops": [
+      "pune-swargate",
+      "indapur",
+      "pandharpur"
+    ],
+    "division": "pune",
+    "distanceKm": 200
+  },
+  {
+    "id": "pune-swargate-to-mahabaleshwar",
+    "from": "pune-swargate",
+    "to": "mahabaleshwar",
+    "stops": [
+      "pune-swargate",
+      "satara",
+      "mahabaleshwar"
+    ],
+    "division": "pune",
+    "distanceKm": 120
+  },
+  {
+    "id": "pune-swargate-to-alibag",
+    "from": "pune-swargate",
+    "to": "alibag",
+    "stops": [
+      "pune-swargate",
+      "panvel",
+      "alibag"
+    ],
+    "division": "pune",
+    "distanceKm": 145
+  },
+  {
+    "id": "pune-swargate-to-tuljapur",
+    "from": "pune-swargate",
+    "to": "tuljapur",
+    "stops": [
+      "pune-swargate",
+      "solapur",
+      "tuljapur"
+    ],
+    "division": "pune",
+    "distanceKm": 320
+  },
+  {
+    "id": "pune-shivajinagar-to-nashik",
+    "from": "pune-shivajinagar",
+    "to": "nashik",
+    "stops": [
+      "pune-shivajinagar",
+      "narayangaon",
+      "nashik"
+    ],
+    "division": "pune",
+    "distanceKm": 200
+  },
+  {
+    "id": "pune-shivajinagar-to-mumbai",
+    "from": "pune-shivajinagar",
+    "to": "mumbai",
+    "stops": [
+      "pune-shivajinagar",
+      "lonavala",
+      "panvel",
+      "mumbai"
+    ],
+    "division": "pune",
+    "distanceKm": 165
+  },
+  {
+    "id": "pune-shivajinagar-to-kolhapur",
+    "from": "pune-shivajinagar",
+    "to": "kolhapur",
+    "stops": [
+      "pune-shivajinagar",
+      "satara",
+      "kolhapur"
+    ],
+    "division": "pune",
+    "distanceKm": 230
+  },
+  {
+    "id": "pune-shivajinagar-to-sambhajinagar",
+    "from": "pune-shivajinagar",
+    "to": "sambhajinagar",
+    "stops": [
+      "pune-shivajinagar",
+      "sambhajinagar"
+    ],
+    "division": "pune",
+    "distanceKm": 230
+  },
+  {
+    "id": "indapur-to-mumbai",
+    "from": "indapur",
+    "to": "mumbai",
+    "stops": [
+      "indapur",
+      "pune-swargate",
+      "lonavala",
+      "mumbai"
+    ],
+    "division": "pune",
+    "distanceKm": 285
+  },
+  {
+    "id": "indapur-to-solapur",
+    "from": "indapur",
+    "to": "solapur",
+    "stops": [
+      "indapur",
+      "solapur"
+    ],
+    "division": "pune",
+    "distanceKm": 130
+  },
+  {
+    "id": "indapur-to-tuljapur",
+    "from": "indapur",
+    "to": "tuljapur",
+    "stops": [
+      "indapur",
+      "solapur",
+      "tuljapur"
+    ],
+    "division": "pune",
+    "distanceKm": 200
+  },
+  {
+    "id": "lonavala-to-mumbai",
+    "from": "lonavala",
+    "to": "mumbai",
+    "stops": [
+      "lonavala",
+      "panvel",
+      "mumbai"
+    ],
+    "division": "pune",
+    "distanceKm": 95
+  },
+  {
+    "id": "lonavala-to-pune-swargate",
+    "from": "lonavala",
+    "to": "pune-swargate",
+    "stops": [
+      "lonavala",
+      "pune-swargate"
+    ],
+    "division": "pune",
+    "distanceKm": 65
+  },
+  {
+    "id": "nashik-to-pune-swargate",
+    "from": "nashik",
+    "to": "pune-swargate",
+    "stops": [
+      "nashik",
+      "sangamner",
+      "rajgurunagar",
+      "pune-swargate"
+    ],
+    "division": "nashik",
+    "distanceKm": 210
+  },
+  {
+    "id": "nashik-to-mumbai",
+    "from": "nashik",
+    "to": "mumbai",
+    "stops": [
+      "nashik",
+      "igatpuri",
+      "kasara",
+      "thane",
+      "mumbai"
+    ],
+    "division": "nashik",
+    "distanceKm": 175
+  },
+  {
+    "id": "nashik-to-shirdi",
+    "from": "nashik",
+    "to": "shirdi",
+    "stops": [
+      "nashik",
+      "kopargaon",
+      "shirdi"
+    ],
+    "division": "nashik",
+    "distanceKm": 90
+  },
+  {
+    "id": "nashik-to-sambhajinagar",
+    "from": "nashik",
+    "to": "sambhajinagar",
+    "stops": [
+      "nashik",
+      "sambhajinagar"
+    ],
+    "division": "nashik",
+    "distanceKm": 185
+  },
+  {
+    "id": "nashik-to-dhule",
+    "from": "nashik",
+    "to": "dhule",
+    "stops": [
+      "nashik",
+      "malegaon",
+      "dhule"
+    ],
+    "division": "nashik",
+    "distanceKm": 175
+  },
+  {
+    "id": "nashik-to-nandurbar",
+    "from": "nashik",
+    "to": "nandurbar",
+    "stops": [
+      "nashik",
+      "malegaon",
+      "nandurbar"
+    ],
+    "division": "nashik",
+    "distanceKm": 260
+  },
+  {
+    "id": "nashik-to-jalgaon",
+    "from": "nashik",
+    "to": "jalgaon",
+    "stops": [
+      "nashik",
+      "manmad",
+      "jalgaon"
+    ],
+    "division": "nashik",
+    "distanceKm": 155
+  },
+  {
+    "id": "nashik-to-surat",
+    "from": "nashik",
+    "to": "surat",
+    "stops": [
+      "nashik",
+      "malegaon",
+      "surat"
+    ],
+    "division": "nashik",
+    "distanceKm": 310
+  },
+  {
+    "id": "nashik-to-kolhapur",
+    "from": "nashik",
+    "to": "kolhapur",
+    "stops": [
+      "nashik",
+      "pune-swargate",
+      "satara",
+      "kolhapur"
+    ],
+    "division": "nashik",
+    "distanceKm": 430
+  },
+  {
+    "id": "trimbak-to-nashik",
+    "from": "trimbakeshwar",
+    "to": "nashik",
+    "stops": [
+      "trimbakeshwar",
+      "nashik"
+    ],
+    "division": "nashik",
+    "distanceKm": 28
+  },
+  {
+    "id": "trimbak-to-pune-swargate",
+    "from": "trimbakeshwar",
+    "to": "pune-swargate",
+    "stops": [
+      "trimbakeshwar",
+      "nashik",
+      "rajgurunagar",
+      "pune-swargate"
+    ],
+    "division": "nashik",
+    "distanceKm": 238
+  },
+  {
+    "id": "igatpuri-to-nashik",
+    "from": "igatpuri",
+    "to": "nashik",
+    "stops": [
+      "igatpuri",
+      "nashik"
+    ],
+    "division": "nashik",
+    "distanceKm": 45
+  },
+  {
+    "id": "igatpuri-to-pune-swargate",
+    "from": "igatpuri",
+    "to": "pune-swargate",
+    "stops": [
+      "igatpuri",
+      "nashik",
+      "pune-swargate"
+    ],
+    "division": "nashik",
+    "distanceKm": 250
+  },
+  {
+    "id": "manmad-to-nashik",
+    "from": "manmad",
+    "to": "nashik",
+    "stops": [
+      "manmad",
+      "nashik"
+    ],
+    "division": "nashik",
+    "distanceKm": 100
+  },
+  {
+    "id": "manmad-to-pune-swargate",
+    "from": "manmad",
+    "to": "pune-swargate",
+    "stops": [
+      "manmad",
+      "nashik",
+      "pune-swargate"
+    ],
+    "division": "nashik",
+    "distanceKm": 310
+  },
+  {
+    "id": "manmad-to-sambhajinagar",
+    "from": "manmad",
+    "to": "sambhajinagar",
+    "stops": [
+      "manmad",
+      "sambhajinagar"
+    ],
+    "division": "nashik",
+    "distanceKm": 115
+  },
+  {
+    "id": "malegaon-to-nashik",
+    "from": "malegaon",
+    "to": "nashik",
+    "stops": [
+      "malegaon",
+      "nashik"
+    ],
+    "division": "nashik",
+    "distanceKm": 110
+  },
+  {
+    "id": "malegaon-to-surat",
+    "from": "malegaon",
+    "to": "surat",
+    "stops": [
+      "malegaon",
+      "surat"
+    ],
+    "division": "nashik",
+    "distanceKm": 200
+  },
+  {
+    "id": "satana-to-nashik",
+    "from": "satana",
+    "to": "nashik",
+    "stops": [
+      "satana",
+      "nashik"
+    ],
+    "division": "nashik",
+    "distanceKm": 70
+  },
+  {
+    "id": "satara-to-pune-swargate",
+    "from": "satara",
+    "to": "pune-swargate",
+    "stops": [
+      "satara",
+      "shirwal",
+      "pune-swargate"
+    ],
+    "division": "satara",
+    "distanceKm": 110
+  },
+  {
+    "id": "satara-to-kolhapur",
+    "from": "satara",
+    "to": "kolhapur",
+    "stops": [
+      "satara",
+      "karad",
+      "kolhapur"
+    ],
+    "division": "satara",
+    "distanceKm": 120
+  },
+  {
+    "id": "satara-to-mumbai",
+    "from": "satara",
+    "to": "mumbai",
+    "stops": [
+      "satara",
+      "pune-swargate",
+      "lonavala",
+      "mumbai"
+    ],
+    "division": "satara",
+    "distanceKm": 265
+  },
+  {
+    "id": "kolhapur-to-pune-swargate",
+    "from": "kolhapur",
+    "to": "pune-swargate",
+    "stops": [
+      "kolhapur",
+      "karad",
+      "satara",
+      "pune-swargate"
+    ],
+    "division": "kolhapur",
+    "distanceKm": 230
+  },
+  {
+    "id": "kolhapur-to-mumbai",
+    "from": "kolhapur",
+    "to": "mumbai",
+    "stops": [
+      "kolhapur",
+      "satara",
+      "pune-swargate",
+      "mumbai"
+    ],
+    "division": "kolhapur",
+    "distanceKm": 385
+  },
+  {
+    "id": "sangli-to-pune-swargate",
+    "from": "sangli",
+    "to": "pune-swargate",
+    "stops": [
+      "sangli",
+      "miraj",
+      "vita",
+      "satara",
+      "pune-swargate"
+    ],
+    "division": "sangli",
+    "distanceKm": 215
+  },
+  {
+    "id": "sangli-to-mumbai",
+    "from": "sangli",
+    "to": "mumbai",
+    "stops": [
+      "sangli",
+      "pune-swargate",
+      "lonavala",
+      "mumbai"
+    ],
+    "division": "sangli",
+    "distanceKm": 380
+  },
+  {
+    "id": "solapur-to-pune-swargate",
+    "from": "solapur",
+    "to": "pune-swargate",
+    "stops": [
+      "solapur",
+      "indapur",
+      "pune-swargate"
+    ],
+    "division": "solapur",
+    "distanceKm": 250
+  },
+  {
+    "id": "solapur-to-mumbai",
+    "from": "solapur",
+    "to": "mumbai",
+    "stops": [
+      "solapur",
+      "pune-swargate",
+      "mumbai"
+    ],
+    "division": "solapur",
+    "distanceKm": 420
+  },
+  {
+    "id": "pandharpur-to-pune-swargate",
+    "from": "pandharpur",
+    "to": "pune-swargate",
+    "stops": [
+      "pandharpur",
+      "indapur",
+      "pune-swargate"
+    ],
+    "division": "solapur",
+    "distanceKm": 200
+  },
+  {
+    "id": "shirdi-to-pune-swargate",
+    "from": "shirdi",
+    "to": "pune-swargate",
+    "stops": [
+      "shirdi",
+      "sangamner",
+      "rajgurunagar",
+      "pune-swargate"
+    ],
+    "division": "ahilyanagar",
+    "distanceKm": 185
+  },
+  {
+    "id": "shirdi-to-mumbai",
+    "from": "shirdi",
+    "to": "mumbai",
+    "stops": [
+      "shirdi",
+      "sangamner",
+      "kasara",
+      "thane",
+      "mumbai"
+    ],
+    "division": "ahilyanagar",
+    "distanceKm": 240
+  },
+  {
+    "id": "ahilyanagar-to-pune-swargate",
+    "from": "ahilyanagar",
+    "to": "pune-swargate",
+    "stops": [
+      "ahilyanagar",
+      "sangamner",
+      "pune-swargate"
+    ],
+    "division": "ahilyanagar",
+    "distanceKm": 120
+  },
+  {
+    "id": "sambhajinagar-to-pune-swargate",
+    "from": "sambhajinagar",
+    "to": "pune-swargate",
+    "stops": [
+      "sambhajinagar",
+      "pune-swargate"
+    ],
+    "division": "sambhajinagar",
+    "distanceKm": 230
+  },
+  {
+    "id": "sambhajinagar-to-mumbai",
+    "from": "sambhajinagar",
+    "to": "mumbai",
+    "stops": [
+      "sambhajinagar",
+      "pune-swargate",
+      "mumbai"
+    ],
+    "division": "sambhajinagar",
+    "distanceKm": 340
+  },
+  {
+    "id": "sambhajinagar-to-nashik",
+    "from": "sambhajinagar",
+    "to": "nashik",
+    "stops": [
+      "sambhajinagar",
+      "nashik"
+    ],
+    "division": "sambhajinagar",
+    "distanceKm": 185
+  },
+  {
+    "id": "ratnagiri-to-mumbai",
+    "from": "ratnagiri",
+    "to": "mumbai",
+    "stops": [
+      "ratnagiri",
+      "chiplun",
+      "mahad",
+      "panvel",
+      "mumbai"
+    ],
+    "division": "ratnagiri",
+    "distanceKm": 340
+  },
+  {
+    "id": "ratnagiri-to-pune-swargate",
+    "from": "ratnagiri",
+    "to": "pune-swargate",
+    "stops": [
+      "ratnagiri",
+      "chiplun",
+      "pune-swargate"
+    ],
+    "division": "ratnagiri",
+    "distanceKm": 290
+  },
+  {
+    "id": "alibag-to-pune-swargate",
+    "from": "alibag",
+    "to": "pune-swargate",
+    "stops": [
+      "alibag",
+      "panvel",
+      "pune-swargate"
+    ],
+    "division": "ratnagiri",
+    "distanceKm": 145
+  },
+  {
+    "id": "chiplun-to-mumbai",
+    "from": "chiplun",
+    "to": "mumbai",
+    "stops": [
+      "chiplun",
+      "mahad",
+      "panvel",
+      "mumbai"
+    ],
+    "division": "ratnagiri",
+    "distanceKm": 260
+  },
+  {
+    "id": "mahad-to-mumbai",
+    "from": "mahad",
+    "to": "mumbai",
+    "stops": [
+      "mahad",
+      "panvel",
+      "mumbai"
+    ],
+    "division": "ratnagiri",
+    "distanceKm": 155
+  },
+  {
+    "id": "nagpur-to-mumbai",
+    "from": "nagpur",
+    "to": "mumbai",
+    "stops": [
+      "nagpur",
+      "sambhajinagar",
+      "pune-swargate",
+      "mumbai"
+    ],
+    "division": "nagpur",
+    "distanceKm": 840
+  },
+  {
+    "id": "nagpur-to-pune-swargate",
+    "from": "nagpur",
+    "to": "pune-swargate",
+    "stops": [
+      "nagpur",
+      "sambhajinagar",
+      "pune-swargate"
+    ],
+    "division": "nagpur",
+    "distanceKm": 600
+  },
+  {
+    "id": "pune-swargate-to-dadar",
+    "from": "pune-swargate",
+    "to": "dadar",
+    "stops": [
+      "pune-swargate",
+      "lonavala",
+      "panvel",
+      "dadar"
+    ],
+    "division": "pune",
+    "distanceKm": 150
+  },
+  {
+    "id": "pune-swargate-to-sangli",
+    "from": "pune-swargate",
+    "to": "sangli",
+    "stops": [
+      "pune-swargate",
+      "satara",
+      "karad",
+      "sangli"
+    ],
+    "division": "pune",
+    "distanceKm": 230
+  },
+  {
+    "id": "pune-swargate-to-ratnagiri",
+    "from": "pune-swargate",
+    "to": "ratnagiri",
+    "stops": [
+      "pune-swargate",
+      "satara",
+      "karad",
+      "chiplun",
+      "ratnagiri"
+    ],
+    "division": "pune",
+    "distanceKm": 330
+  },
+  {
+    "id": "mumbai-central-to-pune-swargate",
+    "from": "mumbai-central",
+    "to": "pune-swargate",
+    "stops": [
+      "mumbai-central",
+      "panvel",
+      "lonavala",
+      "pune-swargate"
+    ],
+    "division": "mumbai",
+    "distanceKm": 155
+  },
+  {
+    "id": "mumbai-central-to-nashik",
+    "from": "mumbai-central",
+    "to": "nashik",
+    "stops": [
+      "mumbai-central",
+      "thane",
+      "kasara",
+      "nashik"
+    ],
+    "division": "mumbai",
+    "distanceKm": 170
+  },
+  {
+    "id": "kolhapur-to-dadar",
+    "from": "kolhapur",
+    "to": "dadar",
+    "stops": [
+      "kolhapur",
+      "satara",
+      "pune-swargate",
+      "panvel",
+      "dadar"
+    ],
+    "division": "kolhapur",
+    "distanceKm": 380
+  },
+  {
+    "id": "kolhapur-to-mumbai-central",
+    "from": "kolhapur",
+    "to": "mumbai-central",
+    "stops": [
+      "kolhapur",
+      "mumbai-central"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-thane",
+    "from": "kolhapur",
+    "to": "thane",
+    "stops": [
+      "kolhapur",
+      "thane"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-borivali",
+    "from": "kolhapur",
+    "to": "borivali",
+    "stops": [
+      "kolhapur",
+      "borivali"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-boisar",
+    "from": "kolhapur",
+    "to": "boisar",
+    "stops": [
+      "kolhapur",
+      "boisar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-kalyan",
+    "from": "kolhapur",
+    "to": "kalyan",
+    "stops": [
+      "kolhapur",
+      "kalyan"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-vasai",
+    "from": "kolhapur",
+    "to": "vasai",
+    "stops": [
+      "kolhapur",
+      "vasai"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-arnala",
+    "from": "kolhapur",
+    "to": "arnala",
+    "stops": [
+      "kolhapur",
+      "arnala"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-nalasopara",
+    "from": "kolhapur",
+    "to": "nalasopara",
+    "stops": [
+      "kolhapur",
+      "nalasopara"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-nashik",
+    "from": "kolhapur",
+    "to": "nashik",
+    "stops": [
+      "kolhapur",
+      "nashik"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-sambhajinagar",
+    "from": "kolhapur",
+    "to": "sambhajinagar",
+    "stops": [
+      "kolhapur",
+      "sambhajinagar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-alibag",
+    "from": "kolhapur",
+    "to": "alibag",
+    "stops": [
+      "kolhapur",
+      "alibag"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-mahabaleshwar",
+    "from": "kolhapur",
+    "to": "mahabaleshwar",
+    "stops": [
+      "kolhapur",
+      "mahabaleshwar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-roha",
+    "from": "kolhapur",
+    "to": "roha",
+    "stops": [
+      "kolhapur",
+      "roha"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-pathardi",
+    "from": "kolhapur",
+    "to": "pathardi",
+    "stops": [
+      "kolhapur",
+      "pathardi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-jamkhed",
+    "from": "kolhapur",
+    "to": "jamkhed",
+    "stops": [
+      "kolhapur",
+      "jamkhed"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-nigdi",
+    "from": "kolhapur",
+    "to": "nigdi",
+    "stops": [
+      "kolhapur",
+      "nigdi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-pimpri-chinchwad",
+    "from": "kolhapur",
+    "to": "pimpri-chinchwad",
+    "stops": [
+      "kolhapur",
+      "pimpri-chinchwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-vita",
+    "from": "kolhapur",
+    "to": "vita",
+    "stops": [
+      "kolhapur",
+      "vita"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-indapur",
+    "from": "kolhapur",
+    "to": "indapur",
+    "stops": [
+      "kolhapur",
+      "indapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-vaduj",
+    "from": "kolhapur",
+    "to": "vaduj",
+    "stops": [
+      "kolhapur",
+      "vaduj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-bhum",
+    "from": "kolhapur",
+    "to": "bhum",
+    "stops": [
+      "kolhapur",
+      "bhum"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-shirdi",
+    "from": "kolhapur",
+    "to": "shirdi",
+    "stops": [
+      "kolhapur",
+      "shirdi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-chiplun",
+    "from": "kolhapur",
+    "to": "chiplun",
+    "stops": [
+      "kolhapur",
+      "chiplun"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-dapoli",
+    "from": "kolhapur",
+    "to": "dapoli",
+    "stops": [
+      "kolhapur",
+      "dapoli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-dahiwadi",
+    "from": "kolhapur",
+    "to": "dahiwadi",
+    "stops": [
+      "kolhapur",
+      "dahiwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-daund",
+    "from": "kolhapur",
+    "to": "daund",
+    "stops": [
+      "kolhapur",
+      "daund"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-tasgaon",
+    "from": "kolhapur",
+    "to": "tasgaon",
+    "stops": [
+      "kolhapur",
+      "tasgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-rajgurunagar",
+    "from": "kolhapur",
+    "to": "rajgurunagar",
+    "stops": [
+      "kolhapur",
+      "rajgurunagar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-atpadi",
+    "from": "kolhapur",
+    "to": "atpadi",
+    "stops": [
+      "kolhapur",
+      "atpadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-baramati",
+    "from": "kolhapur",
+    "to": "baramati",
+    "stops": [
+      "kolhapur",
+      "baramati"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-jat",
+    "from": "kolhapur",
+    "to": "jat",
+    "stops": [
+      "kolhapur",
+      "jat"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-palus",
+    "from": "kolhapur",
+    "to": "palus",
+    "stops": [
+      "kolhapur",
+      "palus"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-phaltan",
+    "from": "kolhapur",
+    "to": "phaltan",
+    "stops": [
+      "kolhapur",
+      "phaltan"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-nrusinhwadi",
+    "from": "kolhapur",
+    "to": "nrusinhwadi",
+    "stops": [
+      "kolhapur",
+      "nrusinhwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-panhala",
+    "from": "kolhapur",
+    "to": "panhala",
+    "stops": [
+      "kolhapur",
+      "panhala"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-talegaon",
+    "from": "kolhapur",
+    "to": "talegaon",
+    "stops": [
+      "kolhapur",
+      "talegaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-murgud",
+    "from": "kolhapur",
+    "to": "murgud",
+    "stops": [
+      "kolhapur",
+      "murgud"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-gargoti",
+    "from": "kolhapur",
+    "to": "gargoti",
+    "stops": [
+      "kolhapur",
+      "gargoti"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-bachani",
+    "from": "kolhapur",
+    "to": "bachani",
+    "stops": [
+      "kolhapur",
+      "bachani"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-jotiba",
+    "from": "kolhapur",
+    "to": "jotiba",
+    "stops": [
+      "kolhapur",
+      "jotiba"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-kodoli",
+    "from": "kolhapur",
+    "to": "kodoli",
+    "stops": [
+      "kolhapur",
+      "kodoli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-ghungurwadi",
+    "from": "kolhapur",
+    "to": "ghungurwadi",
+    "stops": [
+      "kolhapur",
+      "ghungurwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-chandgad",
+    "from": "kolhapur",
+    "to": "chandgad",
+    "stops": [
+      "kolhapur",
+      "chandgad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-ajara",
+    "from": "kolhapur",
+    "to": "ajara",
+    "stops": [
+      "kolhapur",
+      "ajara"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-solapur",
+    "from": "kolhapur",
+    "to": "solapur",
+    "stops": [
+      "kolhapur",
+      "solapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-akkalkot",
+    "from": "kolhapur",
+    "to": "akkalkot",
+    "stops": [
+      "kolhapur",
+      "akkalkot"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-hyderabad",
+    "from": "kolhapur",
+    "to": "hyderabad",
+    "stops": [
+      "kolhapur",
+      "hyderabad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-nanded",
+    "from": "kolhapur",
+    "to": "nanded",
+    "stops": [
+      "kolhapur",
+      "nanded"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-beed",
+    "from": "kolhapur",
+    "to": "beed",
+    "stops": [
+      "kolhapur",
+      "beed"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-tuljapur",
+    "from": "kolhapur",
+    "to": "tuljapur",
+    "stops": [
+      "kolhapur",
+      "tuljapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-dharashiv",
+    "from": "kolhapur",
+    "to": "dharashiv",
+    "stops": [
+      "kolhapur",
+      "dharashiv"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-gangapur",
+    "from": "kolhapur",
+    "to": "gangapur",
+    "stops": [
+      "kolhapur",
+      "gangapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-latur",
+    "from": "kolhapur",
+    "to": "latur",
+    "stops": [
+      "kolhapur",
+      "latur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-barshi",
+    "from": "kolhapur",
+    "to": "barshi",
+    "stops": [
+      "kolhapur",
+      "barshi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-jalna",
+    "from": "kolhapur",
+    "to": "jalna",
+    "stops": [
+      "kolhapur",
+      "jalna"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-hingoli",
+    "from": "kolhapur",
+    "to": "hingoli",
+    "stops": [
+      "kolhapur",
+      "hingoli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-majalgaon",
+    "from": "kolhapur",
+    "to": "majalgaon",
+    "stops": [
+      "kolhapur",
+      "majalgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-parbhani",
+    "from": "kolhapur",
+    "to": "parbhani",
+    "stops": [
+      "kolhapur",
+      "parbhani"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-ambajogai",
+    "from": "kolhapur",
+    "to": "ambajogai",
+    "stops": [
+      "kolhapur",
+      "ambajogai"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-akaluj",
+    "from": "kolhapur",
+    "to": "akaluj",
+    "stops": [
+      "kolhapur",
+      "akaluj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-panaji",
+    "from": "kolhapur",
+    "to": "panaji",
+    "stops": [
+      "kolhapur",
+      "panaji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-dodamarg",
+    "from": "kolhapur",
+    "to": "dodamarg",
+    "stops": [
+      "kolhapur",
+      "dodamarg"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-kudal",
+    "from": "kolhapur",
+    "to": "kudal",
+    "stops": [
+      "kolhapur",
+      "kudal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-sawantwadi",
+    "from": "kolhapur",
+    "to": "sawantwadi",
+    "stops": [
+      "kolhapur",
+      "sawantwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-kankavli",
+    "from": "kolhapur",
+    "to": "kankavli",
+    "stops": [
+      "kolhapur",
+      "kankavli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-vengurla",
+    "from": "kolhapur",
+    "to": "vengurla",
+    "stops": [
+      "kolhapur",
+      "vengurla"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-devgad",
+    "from": "kolhapur",
+    "to": "devgad",
+    "stops": [
+      "kolhapur",
+      "devgad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-malvan",
+    "from": "kolhapur",
+    "to": "malvan",
+    "stops": [
+      "kolhapur",
+      "malvan"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-vijaydurg",
+    "from": "kolhapur",
+    "to": "vijaydurg",
+    "stops": [
+      "kolhapur",
+      "vijaydurg"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-ratnagiri",
+    "from": "kolhapur",
+    "to": "ratnagiri",
+    "stops": [
+      "kolhapur",
+      "ratnagiri"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-ganpatipule",
+    "from": "kolhapur",
+    "to": "ganpatipule",
+    "stops": [
+      "kolhapur",
+      "ganpatipule"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-guhagar",
+    "from": "kolhapur",
+    "to": "guhagar",
+    "stops": [
+      "kolhapur",
+      "guhagar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-sangameshwar",
+    "from": "kolhapur",
+    "to": "sangameshwar",
+    "stops": [
+      "kolhapur",
+      "sangameshwar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-vishalgad",
+    "from": "kolhapur",
+    "to": "vishalgad",
+    "stops": [
+      "kolhapur",
+      "vishalgad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-rajapur",
+    "from": "kolhapur",
+    "to": "rajapur",
+    "stops": [
+      "kolhapur",
+      "rajapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-lanja",
+    "from": "kolhapur",
+    "to": "lanja",
+    "stops": [
+      "kolhapur",
+      "lanja"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-bijapur",
+    "from": "kolhapur",
+    "to": "bijapur",
+    "stops": [
+      "kolhapur",
+      "bijapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-bangalore",
+    "from": "kolhapur",
+    "to": "bangalore",
+    "stops": [
+      "kolhapur",
+      "bangalore"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-belgaum",
+    "from": "kolhapur",
+    "to": "belgaum",
+    "stops": [
+      "kolhapur",
+      "belgaum"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-ichalkaranji",
+    "from": "kolhapur",
+    "to": "ichalkaranji",
+    "stops": [
+      "kolhapur",
+      "ichalkaranji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-sangli",
+    "from": "kolhapur",
+    "to": "sangli",
+    "stops": [
+      "kolhapur",
+      "sangli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-gadhinglaj",
+    "from": "kolhapur",
+    "to": "gadhinglaj",
+    "stops": [
+      "kolhapur",
+      "gadhinglaj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-islampur",
+    "from": "kolhapur",
+    "to": "islampur",
+    "stops": [
+      "kolhapur",
+      "islampur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kolhapur-to-malkapur",
+    "from": "kolhapur",
+    "to": "malkapur",
+    "stops": [
+      "kolhapur",
+      "malkapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-panaji",
+    "from": "kagal",
+    "to": "panaji",
+    "stops": [
+      "kagal",
+      "panaji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-vengurla",
+    "from": "kagal",
+    "to": "vengurla",
+    "stops": [
+      "kagal",
+      "vengurla"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-chandgad",
+    "from": "kagal",
+    "to": "chandgad",
+    "stops": [
+      "kagal",
+      "chandgad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-gadhinglaj",
+    "from": "kagal",
+    "to": "gadhinglaj",
+    "stops": [
+      "kagal",
+      "gadhinglaj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-ajara",
+    "from": "kagal",
+    "to": "ajara",
+    "stops": [
+      "kagal",
+      "ajara"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-sawantwadi",
+    "from": "kagal",
+    "to": "sawantwadi",
+    "stops": [
+      "kagal",
+      "sawantwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-dodamarg",
+    "from": "kagal",
+    "to": "dodamarg",
+    "stops": [
+      "kagal",
+      "dodamarg"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-kowad",
+    "from": "kagal",
+    "to": "kowad",
+    "stops": [
+      "kagal",
+      "kowad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-madhavle",
+    "from": "kagal",
+    "to": "madhavle",
+    "stops": [
+      "kagal",
+      "madhavle"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-nipani",
+    "from": "kagal",
+    "to": "nipani",
+    "stops": [
+      "kagal",
+      "nipani"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-rankala",
+    "from": "kagal",
+    "to": "rankala",
+    "stops": [
+      "kagal",
+      "rankala"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-ichalkaranji",
+    "from": "kagal",
+    "to": "ichalkaranji",
+    "stops": [
+      "kagal",
+      "ichalkaranji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-mumbai-central",
+    "from": "kagal",
+    "to": "mumbai-central",
+    "stops": [
+      "kagal",
+      "mumbai-central"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-hubli",
+    "from": "kagal",
+    "to": "hubli",
+    "stops": [
+      "kagal",
+      "hubli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-jamkhandi",
+    "from": "kagal",
+    "to": "jamkhandi",
+    "stops": [
+      "kagal",
+      "ichalkaranji",
+      "miraj",
+      "jamkhandi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-pune-swargate",
+    "from": "kagal",
+    "to": "pune-swargate",
+    "stops": [
+      "kagal",
+      "pune-swargate"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-mhaswad",
+    "from": "kagal",
+    "to": "mhaswad",
+    "stops": [
+      "kagal",
+      "kolhapur",
+      "mhaswad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-kolhapur",
+    "from": "kagal",
+    "to": "kolhapur",
+    "stops": [
+      "kagal",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-murgud",
+    "from": "kagal",
+    "to": "murgud",
+    "stops": [
+      "kagal",
+      "murgud"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-bolavi",
+    "from": "kagal",
+    "to": "bolavi",
+    "stops": [
+      "kagal",
+      "bolavi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-shendur",
+    "from": "kagal",
+    "to": "shendur",
+    "stops": [
+      "kagal",
+      "shendur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-vandur",
+    "from": "kagal",
+    "to": "vandur",
+    "stops": [
+      "kagal",
+      "vandur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-bachani",
+    "from": "kagal",
+    "to": "bachani",
+    "stops": [
+      "kagal",
+      "bachani"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-bidri",
+    "from": "kagal",
+    "to": "bidri",
+    "stops": [
+      "kagal",
+      "bidri"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-bhogavati",
+    "from": "kagal",
+    "to": "bhogavati",
+    "stops": [
+      "kagal",
+      "bhogavati"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-mhakave",
+    "from": "kagal",
+    "to": "mhakave",
+    "stops": [
+      "kagal",
+      "mhakave"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-haldi",
+    "from": "kagal",
+    "to": "haldi",
+    "stops": [
+      "kagal",
+      "haldi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-sulkud",
+    "from": "kagal",
+    "to": "sulkud",
+    "stops": [
+      "kagal",
+      "sulkud"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-hanchinal",
+    "from": "kagal",
+    "to": "hanchinal",
+    "stops": [
+      "kagal",
+      "hanchinal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-kogil",
+    "from": "kagal",
+    "to": "kogil",
+    "stops": [
+      "kagal",
+      "kogil"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-kanerimath",
+    "from": "kagal",
+    "to": "kanerimath",
+    "stops": [
+      "kagal",
+      "kanerimath"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-hadnal",
+    "from": "kagal",
+    "to": "hadnal",
+    "stops": [
+      "kagal",
+      "hadnal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-goshima",
+    "from": "kagal",
+    "to": "goshima",
+    "stops": [
+      "kagal",
+      "goshima"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-kaneri",
+    "from": "kagal",
+    "to": "kaneri",
+    "stops": [
+      "kagal",
+      "kaneri"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-gargoti",
+    "from": "kagal",
+    "to": "gargoti",
+    "stops": [
+      "kagal",
+      "gargoti"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-malage",
+    "from": "kagal",
+    "to": "malage",
+    "stops": [
+      "kagal",
+      "malage"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-kapshi",
+    "from": "kagal",
+    "to": "kapshi",
+    "stops": [
+      "kagal",
+      "kapshi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-isphurli",
+    "from": "kagal",
+    "to": "isphurli",
+    "stops": [
+      "kagal",
+      "isphurli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-kaneriwadi",
+    "from": "kagal",
+    "to": "kaneriwadi",
+    "stops": [
+      "kagal",
+      "kaneriwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-baleghol",
+    "from": "kagal",
+    "to": "baleghol",
+    "stops": [
+      "kagal",
+      "baleghol"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-nandyal",
+    "from": "kagal",
+    "to": "nandyal",
+    "stops": [
+      "kagal",
+      "nandyal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-gorambe",
+    "from": "kagal",
+    "to": "gorambe",
+    "stops": [
+      "kagal",
+      "gorambe"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-koganoli",
+    "from": "kagal",
+    "to": "koganoli",
+    "stops": [
+      "kagal",
+      "koganoli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-halsavade",
+    "from": "kagal",
+    "to": "halsavade",
+    "stops": [
+      "kagal",
+      "halsavade"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-nerli",
+    "from": "kagal",
+    "to": "nerli",
+    "stops": [
+      "kagal",
+      "nerli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-belewadi",
+    "from": "kagal",
+    "to": "belewadi",
+    "stops": [
+      "kagal",
+      "belewadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-arjunwada",
+    "from": "kagal",
+    "to": "arjunwada",
+    "stops": [
+      "kagal",
+      "arjunwada"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-mattiwade",
+    "from": "kagal",
+    "to": "mattiwade",
+    "stops": [
+      "kagal",
+      "mattiwade"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-dudhganganagar",
+    "from": "kagal",
+    "to": "dudhganganagar",
+    "stops": [
+      "kagal",
+      "dudhganganagar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-rendal",
+    "from": "kagal",
+    "to": "rendal",
+    "stops": [
+      "kagal",
+      "rendal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kagal-to-karnur",
+    "from": "kagal",
+    "to": "karnur",
+    "stops": [
+      "kagal",
+      "karnur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-kankavli",
+    "from": "ajara",
+    "to": "kankavli",
+    "stops": [
+      "ajara",
+      "kankavli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-sawantwadi",
+    "from": "ajara",
+    "to": "sawantwadi",
+    "stops": [
+      "ajara",
+      "sawantwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-vengurla",
+    "from": "ajara",
+    "to": "vengurla",
+    "stops": [
+      "ajara",
+      "vengurla"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-panaji",
+    "from": "ajara",
+    "to": "panaji",
+    "stops": [
+      "ajara",
+      "panaji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-kolhapur",
+    "from": "ajara",
+    "to": "kolhapur",
+    "stops": [
+      "ajara",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-pune-swargate",
+    "from": "ajara",
+    "to": "pune-swargate",
+    "stops": [
+      "ajara",
+      "pune-swargate"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-nigdi",
+    "from": "ajara",
+    "to": "nigdi",
+    "stops": [
+      "ajara",
+      "nigdi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-tuljapur",
+    "from": "ajara",
+    "to": "tuljapur",
+    "stops": [
+      "ajara",
+      "tuljapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-pimpri-chinchwad",
+    "from": "ajara",
+    "to": "pimpri-chinchwad",
+    "stops": [
+      "ajara",
+      "pimpri-chinchwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-ichalkaranji",
+    "from": "ajara",
+    "to": "ichalkaranji",
+    "stops": [
+      "ajara",
+      "ichalkaranji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-nrusinhwadi",
+    "from": "ajara",
+    "to": "nrusinhwadi",
+    "stops": [
+      "ajara",
+      "nrusinhwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-tasgaon",
+    "from": "ajara",
+    "to": "tasgaon",
+    "stops": [
+      "ajara",
+      "tasgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-mahagond",
+    "from": "ajara",
+    "to": "mahagond",
+    "stops": [
+      "ajara",
+      "mahagond"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-belgaum",
+    "from": "ajara",
+    "to": "belgaum",
+    "stops": [
+      "ajara",
+      "belgaum"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-gadhinglaj",
+    "from": "ajara",
+    "to": "gadhinglaj",
+    "stops": [
+      "ajara",
+      "gadhinglaj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-gargoti",
+    "from": "ajara",
+    "to": "gargoti",
+    "stops": [
+      "ajara",
+      "gargoti"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-devkadgaon",
+    "from": "ajara",
+    "to": "devkadgaon",
+    "stops": [
+      "ajara",
+      "devkadgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-uchangi",
+    "from": "ajara",
+    "to": "uchangi",
+    "stops": [
+      "ajara",
+      "uchangi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-vite-avandi",
+    "from": "ajara",
+    "to": "vite-avandi",
+    "stops": [
+      "ajara",
+      "vite-avandi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-parel",
+    "from": "ajara",
+    "to": "parel",
+    "stops": [
+      "ajara",
+      "parel"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-morewadi",
+    "from": "ajara",
+    "to": "morewadi",
+    "stops": [
+      "ajara",
+      "morewadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-harpavde",
+    "from": "ajara",
+    "to": "harpavde",
+    "stops": [
+      "ajara",
+      "harpavde"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-chandgad-bhadwadi",
+    "from": "ajara",
+    "to": "chandgad-bhadwadi",
+    "stops": [
+      "ajara",
+      "chandgad-bhadwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "ajara-to-ganoswadi",
+    "from": "ajara",
+    "to": "ganoswadi",
+    "stops": [
+      "ajara",
+      "ganoswadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-kolhapur",
+    "from": "gaganbawada",
+    "to": "kolhapur",
+    "stops": [
+      "gaganbawada",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-rankala",
+    "from": "gaganbawada",
+    "to": "rankala",
+    "stops": [
+      "gaganbawada",
+      "rankala"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-nrusinhwadi",
+    "from": "gaganbawada",
+    "to": "nrusinhwadi",
+    "stops": [
+      "gaganbawada",
+      "nrusinhwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-sawantwadi",
+    "from": "gaganbawada",
+    "to": "sawantwadi",
+    "stops": [
+      "gaganbawada",
+      "sawantwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-murum",
+    "from": "gaganbawada",
+    "to": "murum",
+    "stops": [
+      "gaganbawada",
+      "murum"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-kudal",
+    "from": "gaganbawada",
+    "to": "kudal",
+    "stops": [
+      "gaganbawada",
+      "kudal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-vengurla",
+    "from": "gaganbawada",
+    "to": "vengurla",
+    "stops": [
+      "gaganbawada",
+      "vengurla"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-vijaydurg",
+    "from": "gaganbawada",
+    "to": "vijaydurg",
+    "stops": [
+      "gaganbawada",
+      "vijaydurg"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-sangli",
+    "from": "gaganbawada",
+    "to": "sangli",
+    "stops": [
+      "gaganbawada",
+      "sangli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-satara",
+    "from": "gaganbawada",
+    "to": "satara",
+    "stops": [
+      "gaganbawada",
+      "satara"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-devgad",
+    "from": "gaganbawada",
+    "to": "devgad",
+    "stops": [
+      "gaganbawada",
+      "devgad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-dhuvade",
+    "from": "gaganbawada",
+    "to": "dhuvade",
+    "stops": [
+      "gaganbawada",
+      "dhuvade"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-kankavli",
+    "from": "gaganbawada",
+    "to": "kankavli",
+    "stops": [
+      "gaganbawada",
+      "kankavli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-solapur",
+    "from": "gaganbawada",
+    "to": "solapur",
+    "stops": [
+      "gaganbawada",
+      "solapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-panaji",
+    "from": "gaganbawada",
+    "to": "panaji",
+    "stops": [
+      "gaganbawada",
+      "panaji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-tuljapur",
+    "from": "gaganbawada",
+    "to": "tuljapur",
+    "stops": [
+      "gaganbawada",
+      "tuljapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-akkalkot",
+    "from": "gaganbawada",
+    "to": "akkalkot",
+    "stops": [
+      "gaganbawada",
+      "akkalkot"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-bijapur",
+    "from": "gaganbawada",
+    "to": "bijapur",
+    "stops": [
+      "gaganbawada",
+      "bijapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-mahabaleshwar",
+    "from": "gaganbawada",
+    "to": "mahabaleshwar",
+    "stops": [
+      "gaganbawada",
+      "mahabaleshwar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-pune-swargate",
+    "from": "gaganbawada",
+    "to": "pune-swargate",
+    "stops": [
+      "gaganbawada",
+      "pune-swargate"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-latur",
+    "from": "gaganbawada",
+    "to": "latur",
+    "stops": [
+      "gaganbawada",
+      "latur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-pandharpur",
+    "from": "gaganbawada",
+    "to": "pandharpur",
+    "stops": [
+      "gaganbawada",
+      "pandharpur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-kurundwad",
+    "from": "gaganbawada",
+    "to": "kurundwad",
+    "stops": [
+      "gaganbawada",
+      "kurundwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gaganbawada-to-rajapur",
+    "from": "gaganbawada",
+    "to": "rajapur",
+    "stops": [
+      "gaganbawada",
+      "rajapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hupari-to-kagal",
+    "from": "hupari",
+    "to": "kagal",
+    "stops": [
+      "hupari",
+      "kagal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hupari-to-ichalkaranji",
+    "from": "hupari",
+    "to": "ichalkaranji",
+    "stops": [
+      "hupari",
+      "ichalkaranji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hupari-to-rankala",
+    "from": "hupari",
+    "to": "rankala",
+    "stops": [
+      "hupari",
+      "rankala"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hupari-to-kurundwad",
+    "from": "hupari",
+    "to": "kurundwad",
+    "stops": [
+      "hupari",
+      "kurundwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hupari-to-ratnagiri",
+    "from": "hupari",
+    "to": "ratnagiri",
+    "stops": [
+      "hupari",
+      "ratnagiri"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hupari-to-nrusinhwadi",
+    "from": "hupari",
+    "to": "nrusinhwadi",
+    "stops": [
+      "hupari",
+      "nrusinhwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hupari-to-kolhapur",
+    "from": "hupari",
+    "to": "kolhapur",
+    "stops": [
+      "hupari",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hupari-to-jamkhandi",
+    "from": "hupari",
+    "to": "jamkhandi",
+    "stops": [
+      "hupari",
+      "jamkhandi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hupari-to-sangli",
+    "from": "hupari",
+    "to": "sangli",
+    "stops": [
+      "hupari",
+      "sangli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hupari-to-aundh",
+    "from": "hupari",
+    "to": "aundh",
+    "stops": [
+      "hupari",
+      "aundh"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-ganpatipule",
+    "from": "malkapur",
+    "to": "ganpatipule",
+    "stops": [
+      "malkapur",
+      "ganpatipule"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-latur",
+    "from": "malkapur",
+    "to": "latur",
+    "stops": [
+      "malkapur",
+      "latur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-ratnagiri",
+    "from": "malkapur",
+    "to": "ratnagiri",
+    "stops": [
+      "malkapur",
+      "ratnagiri"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-jat",
+    "from": "malkapur",
+    "to": "jat",
+    "stops": [
+      "malkapur",
+      "jat"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-dharashiv",
+    "from": "malkapur",
+    "to": "dharashiv",
+    "stops": [
+      "malkapur",
+      "dharashiv"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-chiplun",
+    "from": "malkapur",
+    "to": "chiplun",
+    "stops": [
+      "malkapur",
+      "chiplun"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-bijapur",
+    "from": "malkapur",
+    "to": "bijapur",
+    "stops": [
+      "malkapur",
+      "bijapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-belgaum",
+    "from": "malkapur",
+    "to": "belgaum",
+    "stops": [
+      "malkapur",
+      "belgaum"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-malshiras",
+    "from": "malkapur",
+    "to": "malshiras",
+    "stops": [
+      "malkapur",
+      "malshiras"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-akkalkot",
+    "from": "malkapur",
+    "to": "akkalkot",
+    "stops": [
+      "malkapur",
+      "akkalkot"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-nrusinhwadi",
+    "from": "malkapur",
+    "to": "nrusinhwadi",
+    "stops": [
+      "malkapur",
+      "nrusinhwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-ambajogai",
+    "from": "malkapur",
+    "to": "ambajogai",
+    "stops": [
+      "malkapur",
+      "ambajogai"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-bhum",
+    "from": "malkapur",
+    "to": "bhum",
+    "stops": [
+      "malkapur",
+      "bhum"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-tuljapur",
+    "from": "malkapur",
+    "to": "tuljapur",
+    "stops": [
+      "malkapur",
+      "tuljapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-kolhapur",
+    "from": "malkapur",
+    "to": "kolhapur",
+    "stops": [
+      "malkapur",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-pune-swargate",
+    "from": "malkapur",
+    "to": "pune-swargate",
+    "stops": [
+      "malkapur",
+      "pune-swargate"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-lanja",
+    "from": "malkapur",
+    "to": "lanja",
+    "stops": [
+      "malkapur",
+      "lanja"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-sangameshwar",
+    "from": "malkapur",
+    "to": "sangameshwar",
+    "stops": [
+      "malkapur",
+      "sangameshwar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-miraj",
+    "from": "malkapur",
+    "to": "miraj",
+    "stops": [
+      "malkapur",
+      "miraj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-ichalkaranji",
+    "from": "malkapur",
+    "to": "ichalkaranji",
+    "stops": [
+      "malkapur",
+      "ichalkaranji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-sangli",
+    "from": "malkapur",
+    "to": "sangli",
+    "stops": [
+      "malkapur",
+      "sangli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-gargoti",
+    "from": "malkapur",
+    "to": "gargoti",
+    "stops": [
+      "malkapur",
+      "gargoti"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-devrukh",
+    "from": "malkapur",
+    "to": "devrukh",
+    "stops": [
+      "malkapur",
+      "devrukh"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-nashik",
+    "from": "malkapur",
+    "to": "nashik",
+    "stops": [
+      "malkapur",
+      "nashik"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-parel",
+    "from": "malkapur",
+    "to": "parel",
+    "stops": [
+      "malkapur",
+      "parel"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-guhagar",
+    "from": "malkapur",
+    "to": "guhagar",
+    "stops": [
+      "malkapur",
+      "guhagar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-amba",
+    "from": "malkapur",
+    "to": "amba",
+    "stops": [
+      "malkapur",
+      "amba"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-vishalgad",
+    "from": "malkapur",
+    "to": "vishalgad",
+    "stops": [
+      "malkapur",
+      "vishalgad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-kokrud",
+    "from": "malkapur",
+    "to": "kokrud",
+    "stops": [
+      "malkapur",
+      "kokrud"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-kandavan",
+    "from": "malkapur",
+    "to": "kandavan",
+    "stops": [
+      "malkapur",
+      "kandavan"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-dhopeswar",
+    "from": "malkapur",
+    "to": "dhopeswar",
+    "stops": [
+      "malkapur",
+      "dhopeswar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-bhedavde",
+    "from": "malkapur",
+    "to": "bhedavde",
+    "stops": [
+      "malkapur",
+      "bhedavde"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "malkapur-to-gavdi",
+    "from": "malkapur",
+    "to": "gavdi",
+    "stops": [
+      "malkapur",
+      "gavdi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-parel",
+    "from": "gadhinglaj",
+    "to": "parel",
+    "stops": [
+      "gadhinglaj",
+      "parel"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-thane",
+    "from": "gadhinglaj",
+    "to": "thane",
+    "stops": [
+      "gadhinglaj",
+      "thane"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-mumbai-central",
+    "from": "gadhinglaj",
+    "to": "mumbai-central",
+    "stops": [
+      "gadhinglaj",
+      "mumbai-central"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-pune-swargate",
+    "from": "gadhinglaj",
+    "to": "pune-swargate",
+    "stops": [
+      "gadhinglaj",
+      "pune-swargate"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-nigdi",
+    "from": "gadhinglaj",
+    "to": "nigdi",
+    "stops": [
+      "gadhinglaj",
+      "nigdi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-kankavli",
+    "from": "gadhinglaj",
+    "to": "kankavli",
+    "stops": [
+      "gadhinglaj",
+      "kankavli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-panaji",
+    "from": "gadhinglaj",
+    "to": "panaji",
+    "stops": [
+      "gadhinglaj",
+      "panaji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-dodamarg",
+    "from": "gadhinglaj",
+    "to": "dodamarg",
+    "stops": [
+      "gadhinglaj",
+      "dodamarg"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-kolhapur",
+    "from": "gadhinglaj",
+    "to": "kolhapur",
+    "stops": [
+      "gadhinglaj",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-pandharpur",
+    "from": "gadhinglaj",
+    "to": "pandharpur",
+    "stops": [
+      "gadhinglaj",
+      "pandharpur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-beed",
+    "from": "gadhinglaj",
+    "to": "beed",
+    "stops": [
+      "gadhinglaj",
+      "beed"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-gangapur",
+    "from": "gadhinglaj",
+    "to": "gangapur",
+    "stops": [
+      "gadhinglaj",
+      "gangapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-nesari",
+    "from": "gadhinglaj",
+    "to": "nesari",
+    "stops": [
+      "gadhinglaj",
+      "nesari"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-kaginwadi",
+    "from": "gadhinglaj",
+    "to": "kaginwadi",
+    "stops": [
+      "gadhinglaj",
+      "kaginwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-jambhliwadi",
+    "from": "gadhinglaj",
+    "to": "jambhliwadi",
+    "stops": [
+      "gadhinglaj",
+      "jambhliwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-kumari",
+    "from": "gadhinglaj",
+    "to": "kumari",
+    "stops": [
+      "gadhinglaj",
+      "kumari"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-kavlikatti",
+    "from": "gadhinglaj",
+    "to": "kavlikatti",
+    "stops": [
+      "gadhinglaj",
+      "kavlikatti"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-khavenwadi",
+    "from": "gadhinglaj",
+    "to": "khavenwadi",
+    "stops": [
+      "gadhinglaj",
+      "khavenwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-hataragi",
+    "from": "gadhinglaj",
+    "to": "hataragi",
+    "stops": [
+      "gadhinglaj",
+      "hataragi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-daddi",
+    "from": "gadhinglaj",
+    "to": "daddi",
+    "stops": [
+      "gadhinglaj",
+      "daddi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-maligre",
+    "from": "gadhinglaj",
+    "to": "maligre",
+    "stops": [
+      "gadhinglaj",
+      "maligre"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-sonarwadi",
+    "from": "gadhinglaj",
+    "to": "sonarwadi",
+    "stops": [
+      "gadhinglaj",
+      "sonarwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-kot-gadhinglaj",
+    "from": "gadhinglaj",
+    "to": "kot-gadhinglaj",
+    "stops": [
+      "gadhinglaj",
+      "kot-gadhinglaj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-halkarni",
+    "from": "gadhinglaj",
+    "to": "halkarni",
+    "stops": [
+      "gadhinglaj",
+      "halkarni"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-teginhal",
+    "from": "gadhinglaj",
+    "to": "teginhal",
+    "stops": [
+      "gadhinglaj",
+      "teginhal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-terani",
+    "from": "gadhinglaj",
+    "to": "terani",
+    "stops": [
+      "gadhinglaj",
+      "terani"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-sankeshwar",
+    "from": "gadhinglaj",
+    "to": "sankeshwar",
+    "stops": [
+      "gadhinglaj",
+      "sankeshwar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-kadlange",
+    "from": "gadhinglaj",
+    "to": "kadlange",
+    "stops": [
+      "gadhinglaj",
+      "kadlange"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-basarge",
+    "from": "gadhinglaj",
+    "to": "basarge",
+    "stops": [
+      "gadhinglaj",
+      "basarge"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-sawantwadi",
+    "from": "gadhinglaj",
+    "to": "sawantwadi",
+    "stops": [
+      "gadhinglaj",
+      "sawantwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-bugadikatti",
+    "from": "gadhinglaj",
+    "to": "bugadikatti",
+    "stops": [
+      "gadhinglaj",
+      "bugadikatti"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-dudhinge",
+    "from": "gadhinglaj",
+    "to": "dudhinge",
+    "stops": [
+      "gadhinglaj",
+      "dudhinge"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-hitani",
+    "from": "gadhinglaj",
+    "to": "hitani",
+    "stops": [
+      "gadhinglaj",
+      "hitani"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-gargoti",
+    "from": "gadhinglaj",
+    "to": "gargoti",
+    "stops": [
+      "gadhinglaj",
+      "gargoti"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-ajara",
+    "from": "gadhinglaj",
+    "to": "ajara",
+    "stops": [
+      "gadhinglaj",
+      "ajara"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-bhadvanwadi",
+    "from": "gadhinglaj",
+    "to": "bhadvanwadi",
+    "stops": [
+      "gadhinglaj",
+      "bhadvanwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-asalgundi",
+    "from": "gadhinglaj",
+    "to": "asalgundi",
+    "stops": [
+      "gadhinglaj",
+      "asalgundi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-bediv",
+    "from": "gadhinglaj",
+    "to": "bediv",
+    "stops": [
+      "gadhinglaj",
+      "bediv"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-pimpalgaon",
+    "from": "gadhinglaj",
+    "to": "pimpalgaon",
+    "stops": [
+      "gadhinglaj",
+      "pimpalgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-vazare",
+    "from": "gadhinglaj",
+    "to": "vazare",
+    "stops": [
+      "gadhinglaj",
+      "vazare"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-kelewadi",
+    "from": "gadhinglaj",
+    "to": "kelewadi",
+    "stops": [
+      "gadhinglaj",
+      "kelewadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-hanmantwadi",
+    "from": "gadhinglaj",
+    "to": "hanmantwadi",
+    "stops": [
+      "gadhinglaj",
+      "hanmantwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-hajgoli",
+    "from": "gadhinglaj",
+    "to": "hajgoli",
+    "stops": [
+      "gadhinglaj",
+      "hajgoli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-pethwadi",
+    "from": "gadhinglaj",
+    "to": "pethwadi",
+    "stops": [
+      "gadhinglaj",
+      "pethwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-kovade",
+    "from": "gadhinglaj",
+    "to": "kovade",
+    "stops": [
+      "gadhinglaj",
+      "kovade"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-ningudage",
+    "from": "gadhinglaj",
+    "to": "ningudage",
+    "stops": [
+      "gadhinglaj",
+      "ningudage"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-saroli",
+    "from": "gadhinglaj",
+    "to": "saroli",
+    "stops": [
+      "gadhinglaj",
+      "saroli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-gajargaon",
+    "from": "gadhinglaj",
+    "to": "gajargaon",
+    "stops": [
+      "gadhinglaj",
+      "gajargaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-inchalnal",
+    "from": "gadhinglaj",
+    "to": "inchalnal",
+    "stops": [
+      "gadhinglaj",
+      "inchalnal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-hirlage",
+    "from": "gadhinglaj",
+    "to": "hirlage",
+    "stops": [
+      "gadhinglaj",
+      "hirlage"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-kaulage",
+    "from": "gadhinglaj",
+    "to": "kaulage",
+    "stops": [
+      "gadhinglaj",
+      "kaulage"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-karbali",
+    "from": "gadhinglaj",
+    "to": "karbali",
+    "stops": [
+      "gadhinglaj",
+      "karbali"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-hasurchampu",
+    "from": "gadhinglaj",
+    "to": "hasurchampu",
+    "stops": [
+      "gadhinglaj",
+      "hasurchampu"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-murgud",
+    "from": "gadhinglaj",
+    "to": "murgud",
+    "stops": [
+      "gadhinglaj",
+      "murgud"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-kapshi",
+    "from": "gadhinglaj",
+    "to": "kapshi",
+    "stops": [
+      "gadhinglaj",
+      "kapshi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-bahirewadi",
+    "from": "gadhinglaj",
+    "to": "bahirewadi",
+    "stops": [
+      "gadhinglaj",
+      "bahirewadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-belewadi",
+    "from": "gadhinglaj",
+    "to": "belewadi",
+    "stops": [
+      "gadhinglaj",
+      "belewadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-dhamane",
+    "from": "gadhinglaj",
+    "to": "dhamane",
+    "stops": [
+      "gadhinglaj",
+      "dhamane"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-begavde",
+    "from": "gadhinglaj",
+    "to": "begavde",
+    "stops": [
+      "gadhinglaj",
+      "begavde"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-nul-bandhara",
+    "from": "gadhinglaj",
+    "to": "nul-bandhara",
+    "stops": [
+      "gadhinglaj",
+      "nul-bandhara"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-nul-chanekuppi",
+    "from": "gadhinglaj",
+    "to": "nul-chanekuppi",
+    "stops": [
+      "gadhinglaj",
+      "nul-chanekuppi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-mugali",
+    "from": "gadhinglaj",
+    "to": "mugali",
+    "stops": [
+      "gadhinglaj",
+      "mugali"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-khanadal",
+    "from": "gadhinglaj",
+    "to": "khanadal",
+    "stops": [
+      "gadhinglaj",
+      "khanadal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-bhairapur",
+    "from": "gadhinglaj",
+    "to": "bhairapur",
+    "stops": [
+      "gadhinglaj",
+      "bhairapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-hanimnal",
+    "from": "gadhinglaj",
+    "to": "hanimnal",
+    "stops": [
+      "gadhinglaj",
+      "hanimnal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-kadgaon",
+    "from": "gadhinglaj",
+    "to": "kadgaon",
+    "stops": [
+      "gadhinglaj",
+      "kadgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-jadhewadi",
+    "from": "gadhinglaj",
+    "to": "jadhewadi",
+    "stops": [
+      "gadhinglaj",
+      "jadhewadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-beknal",
+    "from": "gadhinglaj",
+    "to": "beknal",
+    "stops": [
+      "gadhinglaj",
+      "beknal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-morwadi",
+    "from": "gadhinglaj",
+    "to": "morwadi",
+    "stops": [
+      "gadhinglaj",
+      "morwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-aurnaal",
+    "from": "gadhinglaj",
+    "to": "aurnaal",
+    "stops": [
+      "gadhinglaj",
+      "aurnaal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-shippur",
+    "from": "gadhinglaj",
+    "to": "shippur",
+    "stops": [
+      "gadhinglaj",
+      "shippur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-radhanagari",
+    "from": "gadhinglaj",
+    "to": "radhanagari",
+    "stops": [
+      "gadhinglaj",
+      "radhanagari"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-kanur",
+    "from": "gadhinglaj",
+    "to": "kanur",
+    "stops": [
+      "gadhinglaj",
+      "kanur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-karanjgaon",
+    "from": "gadhinglaj",
+    "to": "karanjgaon",
+    "stops": [
+      "gadhinglaj",
+      "karanjgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-madhavle",
+    "from": "gadhinglaj",
+    "to": "madhavle",
+    "stops": [
+      "gadhinglaj",
+      "madhavle"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-arjunwada",
+    "from": "gadhinglaj",
+    "to": "arjunwada",
+    "stops": [
+      "gadhinglaj",
+      "arjunwada"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gadhinglaj-to-chandgad",
+    "from": "gadhinglaj",
+    "to": "chandgad",
+    "stops": [
+      "gadhinglaj",
+      "chandgad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-parel",
+    "from": "chandgad",
+    "to": "parel",
+    "stops": [
+      "chandgad",
+      "parel"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-thane",
+    "from": "chandgad",
+    "to": "thane",
+    "stops": [
+      "chandgad",
+      "thane"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-mumbai-central",
+    "from": "chandgad",
+    "to": "mumbai-central",
+    "stops": [
+      "chandgad",
+      "mumbai-central"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-nigdi",
+    "from": "chandgad",
+    "to": "nigdi",
+    "stops": [
+      "chandgad",
+      "nigdi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-satara",
+    "from": "chandgad",
+    "to": "satara",
+    "stops": [
+      "chandgad",
+      "satara"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-akkalkot",
+    "from": "chandgad",
+    "to": "akkalkot",
+    "stops": [
+      "chandgad",
+      "akkalkot"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-sangli",
+    "from": "chandgad",
+    "to": "sangli",
+    "stops": [
+      "chandgad",
+      "sangli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-kolhapur",
+    "from": "chandgad",
+    "to": "kolhapur",
+    "stops": [
+      "chandgad",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-belgaum",
+    "from": "chandgad",
+    "to": "belgaum",
+    "stops": [
+      "chandgad",
+      "belgaum"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-gadhinglaj",
+    "from": "chandgad",
+    "to": "gadhinglaj",
+    "stops": [
+      "chandgad",
+      "gadhinglaj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-kanur",
+    "from": "chandgad",
+    "to": "kanur",
+    "stops": [
+      "chandgad",
+      "kanur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-kowad",
+    "from": "chandgad",
+    "to": "kowad",
+    "stops": [
+      "chandgad",
+      "kowad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-rajgoli",
+    "from": "chandgad",
+    "to": "rajgoli",
+    "stops": [
+      "chandgad",
+      "rajgoli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-kudnur",
+    "from": "chandgad",
+    "to": "kudnur",
+    "stops": [
+      "chandgad",
+      "kudnur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-kalkundri",
+    "from": "chandgad",
+    "to": "kalkundri",
+    "stops": [
+      "chandgad",
+      "kalkundri"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-tudye",
+    "from": "chandgad",
+    "to": "tudye",
+    "stops": [
+      "chandgad",
+      "tudye"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-kolik",
+    "from": "chandgad",
+    "to": "kolik",
+    "stops": [
+      "chandgad",
+      "kolik"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-tilari",
+    "from": "chandgad",
+    "to": "tilari",
+    "stops": [
+      "chandgad",
+      "tilari"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-kodali",
+    "from": "chandgad",
+    "to": "kodali",
+    "stops": [
+      "chandgad",
+      "kodali"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-pargad",
+    "from": "chandgad",
+    "to": "pargad",
+    "stops": [
+      "chandgad",
+      "pargad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-isapur",
+    "from": "chandgad",
+    "to": "isapur",
+    "stops": [
+      "chandgad",
+      "isapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-nadvade",
+    "from": "chandgad",
+    "to": "nadvade",
+    "stops": [
+      "chandgad",
+      "nadvade"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-nagave",
+    "from": "chandgad",
+    "to": "nagave",
+    "stops": [
+      "chandgad",
+      "nagave"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-zambre",
+    "from": "chandgad",
+    "to": "zambre",
+    "stops": [
+      "chandgad",
+      "zambre"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-kurani",
+    "from": "chandgad",
+    "to": "kurani",
+    "stops": [
+      "chandgad",
+      "kurani"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-buzwade",
+    "from": "chandgad",
+    "to": "buzwade",
+    "stops": [
+      "chandgad",
+      "buzwade"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-ibrahimpur",
+    "from": "chandgad",
+    "to": "ibrahimpur",
+    "stops": [
+      "chandgad",
+      "ibrahimpur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-sundi",
+    "from": "chandgad",
+    "to": "sundi",
+    "stops": [
+      "chandgad",
+      "sundi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-malatwadi",
+    "from": "chandgad",
+    "to": "malatwadi",
+    "stops": [
+      "chandgad",
+      "malatwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-karajgaon",
+    "from": "chandgad",
+    "to": "karajgaon",
+    "stops": [
+      "chandgad",
+      "karajgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-dodamarg",
+    "from": "chandgad",
+    "to": "dodamarg",
+    "stops": [
+      "chandgad",
+      "dodamarg"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-panaji",
+    "from": "chandgad",
+    "to": "panaji",
+    "stops": [
+      "chandgad",
+      "panaji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-ajara",
+    "from": "chandgad",
+    "to": "ajara",
+    "stops": [
+      "chandgad",
+      "ajara"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "chandgad-to-radhanagari",
+    "from": "chandgad",
+    "to": "radhanagari",
+    "stops": [
+      "chandgad",
+      "radhanagari"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-mumbai-central",
+    "from": "gargoti",
+    "to": "mumbai-central",
+    "stops": [
+      "gargoti",
+      "mumbai-central"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-pune-swargate",
+    "from": "gargoti",
+    "to": "pune-swargate",
+    "stops": [
+      "gargoti",
+      "pune-swargate"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-murgud",
+    "from": "gargoti",
+    "to": "murgud",
+    "stops": [
+      "gargoti",
+      "murgud"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-satara",
+    "from": "gargoti",
+    "to": "satara",
+    "stops": [
+      "gargoti",
+      "satara"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-nashik",
+    "from": "gargoti",
+    "to": "nashik",
+    "stops": [
+      "gargoti",
+      "nashik"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-nigdi",
+    "from": "gargoti",
+    "to": "nigdi",
+    "stops": [
+      "gargoti",
+      "nigdi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-ratnagiri",
+    "from": "gargoti",
+    "to": "ratnagiri",
+    "stops": [
+      "gargoti",
+      "ratnagiri"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-shrivardhan",
+    "from": "gargoti",
+    "to": "shrivardhan",
+    "stops": [
+      "gargoti",
+      "shrivardhan"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-dapoli",
+    "from": "gargoti",
+    "to": "dapoli",
+    "stops": [
+      "gargoti",
+      "dapoli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-kolhapur",
+    "from": "gargoti",
+    "to": "kolhapur",
+    "stops": [
+      "gargoti",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-gadhinglaj",
+    "from": "gargoti",
+    "to": "gadhinglaj",
+    "stops": [
+      "gargoti",
+      "gadhinglaj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-mhasrang",
+    "from": "gargoti",
+    "to": "mhasrang",
+    "stops": [
+      "gargoti",
+      "mhasrang"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-chivale",
+    "from": "gargoti",
+    "to": "chivale",
+    "stops": [
+      "gargoti",
+      "chivale"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-kadgaon",
+    "from": "gargoti",
+    "to": "kadgaon",
+    "stops": [
+      "gargoti",
+      "kadgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-karivde",
+    "from": "gargoti",
+    "to": "karivde",
+    "stops": [
+      "gargoti",
+      "karivde"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-kondushi",
+    "from": "gargoti",
+    "to": "kondushi",
+    "stops": [
+      "gargoti",
+      "kondushi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-bhatwadi",
+    "from": "gargoti",
+    "to": "bhatwadi",
+    "stops": [
+      "gargoti",
+      "bhatwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-patgaon",
+    "from": "gargoti",
+    "to": "patgaon",
+    "stops": [
+      "gargoti",
+      "patgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-mathgaon",
+    "from": "gargoti",
+    "to": "mathgaon",
+    "stops": [
+      "gargoti",
+      "mathgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-savarde",
+    "from": "gargoti",
+    "to": "savarde",
+    "stops": [
+      "gargoti",
+      "savarde"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-ajara",
+    "from": "gargoti",
+    "to": "ajara",
+    "stops": [
+      "gargoti",
+      "ajara"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-naikwadi",
+    "from": "gargoti",
+    "to": "naikwadi",
+    "stops": [
+      "gargoti",
+      "naikwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-faye",
+    "from": "gargoti",
+    "to": "faye",
+    "stops": [
+      "gargoti",
+      "faye"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-devakwadi",
+    "from": "gargoti",
+    "to": "devakwadi",
+    "stops": [
+      "gargoti",
+      "devakwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-navale",
+    "from": "gargoti",
+    "to": "navale",
+    "stops": [
+      "gargoti",
+      "navale"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-megholi",
+    "from": "gargoti",
+    "to": "megholi",
+    "stops": [
+      "gargoti",
+      "megholi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-vesarde",
+    "from": "gargoti",
+    "to": "vesarde",
+    "stops": [
+      "gargoti",
+      "vesarde"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-vengrul",
+    "from": "gargoti",
+    "to": "vengrul",
+    "stops": [
+      "gargoti",
+      "vengrul"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-varpewadi",
+    "from": "gargoti",
+    "to": "varpewadi",
+    "stops": [
+      "gargoti",
+      "varpewadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-jakinpeth",
+    "from": "gargoti",
+    "to": "jakinpeth",
+    "stops": [
+      "gargoti",
+      "jakinpeth"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-nipani",
+    "from": "gargoti",
+    "to": "nipani",
+    "stops": [
+      "gargoti",
+      "nipani"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-kapshi",
+    "from": "gargoti",
+    "to": "kapshi",
+    "stops": [
+      "gargoti",
+      "kapshi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-hamidwada",
+    "from": "gargoti",
+    "to": "hamidwada",
+    "stops": [
+      "gargoti",
+      "hamidwada"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-palshivane",
+    "from": "gargoti",
+    "to": "palshivane",
+    "stops": [
+      "gargoti",
+      "palshivane"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-bolaviwadi",
+    "from": "gargoti",
+    "to": "bolaviwadi",
+    "stops": [
+      "gargoti",
+      "bolaviwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-bediv",
+    "from": "gargoti",
+    "to": "bediv",
+    "stops": [
+      "gargoti",
+      "bediv"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-sawantwadi",
+    "from": "gargoti",
+    "to": "sawantwadi",
+    "stops": [
+      "gargoti",
+      "sawantwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-bhandibar",
+    "from": "gargoti",
+    "to": "bhandibar",
+    "stops": [
+      "gargoti",
+      "bhandibar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-kelewadi",
+    "from": "gargoti",
+    "to": "kelewadi",
+    "stops": [
+      "gargoti",
+      "kelewadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-dindewadi",
+    "from": "gargoti",
+    "to": "dindewadi",
+    "stops": [
+      "gargoti",
+      "dindewadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-girgaon",
+    "from": "gargoti",
+    "to": "girgaon",
+    "stops": [
+      "gargoti",
+      "girgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-morskarwadi",
+    "from": "gargoti",
+    "to": "morskarwadi",
+    "stops": [
+      "gargoti",
+      "morskarwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-tikewadi",
+    "from": "gargoti",
+    "to": "tikewadi",
+    "stops": [
+      "gargoti",
+      "tikewadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-pandivare",
+    "from": "gargoti",
+    "to": "pandivare",
+    "stops": [
+      "gargoti",
+      "pandivare"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-kagal",
+    "from": "gargoti",
+    "to": "kagal",
+    "stops": [
+      "gargoti",
+      "kagal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-kalyan",
+    "from": "gargoti",
+    "to": "kalyan",
+    "stops": [
+      "gargoti",
+      "kalyan"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-panaji",
+    "from": "gargoti",
+    "to": "panaji",
+    "stops": [
+      "gargoti",
+      "panaji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "gargoti-to-radhanagari",
+    "from": "gargoti",
+    "to": "radhanagari",
+    "stops": [
+      "gargoti",
+      "radhanagari"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kodoli-to-kolhapur",
+    "from": "kodoli",
+    "to": "kolhapur",
+    "stops": [
+      "kodoli",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kodoli-to-giroli",
+    "from": "kodoli",
+    "to": "giroli",
+    "stops": [
+      "kodoli",
+      "giroli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kodoli-to-panhala",
+    "from": "kodoli",
+    "to": "panhala",
+    "stops": [
+      "kodoli",
+      "panhala"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kodoli-to-vadgaon",
+    "from": "kodoli",
+    "to": "vadgaon",
+    "stops": [
+      "kodoli",
+      "vadgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kodoli-to-ichalkaranji",
+    "from": "kodoli",
+    "to": "ichalkaranji",
+    "stops": [
+      "kodoli",
+      "ichalkaranji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kodoli-to-islampur",
+    "from": "kodoli",
+    "to": "islampur",
+    "stops": [
+      "kodoli",
+      "islampur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kodoli-to-shirala",
+    "from": "kodoli",
+    "to": "shirala",
+    "stops": [
+      "kodoli",
+      "shirala"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kodoli-to-malkapur",
+    "from": "kodoli",
+    "to": "malkapur",
+    "stops": [
+      "kodoli",
+      "malkapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kodoli-to-satave-savarde",
+    "from": "kodoli",
+    "to": "satave-savarde",
+    "stops": [
+      "kodoli",
+      "satave-savarde"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-mumbai-central",
+    "from": "vadgaon",
+    "to": "mumbai-central",
+    "stops": [
+      "vadgaon",
+      "mumbai-central"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-pune-swargate",
+    "from": "vadgaon",
+    "to": "pune-swargate",
+    "stops": [
+      "vadgaon",
+      "pune-swargate"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-shirdi",
+    "from": "vadgaon",
+    "to": "shirdi",
+    "stops": [
+      "vadgaon",
+      "shirdi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-nashik",
+    "from": "vadgaon",
+    "to": "nashik",
+    "stops": [
+      "vadgaon",
+      "nashik"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-nigdi",
+    "from": "vadgaon",
+    "to": "nigdi",
+    "stops": [
+      "vadgaon",
+      "nigdi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-chiplun",
+    "from": "vadgaon",
+    "to": "chiplun",
+    "stops": [
+      "vadgaon",
+      "chiplun"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-ichalkaranji",
+    "from": "vadgaon",
+    "to": "ichalkaranji",
+    "stops": [
+      "vadgaon",
+      "ichalkaranji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-kolhapur",
+    "from": "vadgaon",
+    "to": "kolhapur",
+    "stops": [
+      "vadgaon",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-tasgaon",
+    "from": "vadgaon",
+    "to": "tasgaon",
+    "stops": [
+      "vadgaon",
+      "tasgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-ashta",
+    "from": "vadgaon",
+    "to": "ashta",
+    "stops": [
+      "vadgaon",
+      "ashta"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-palus",
+    "from": "vadgaon",
+    "to": "palus",
+    "stops": [
+      "vadgaon",
+      "palus"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-vita",
+    "from": "vadgaon",
+    "to": "vita",
+    "stops": [
+      "vadgaon",
+      "vita"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-malkapur",
+    "from": "vadgaon",
+    "to": "malkapur",
+    "stops": [
+      "vadgaon",
+      "malkapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-boryapadale",
+    "from": "vadgaon",
+    "to": "boryapadale",
+    "stops": [
+      "vadgaon",
+      "boryapadale"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-shirala",
+    "from": "vadgaon",
+    "to": "shirala",
+    "stops": [
+      "vadgaon",
+      "shirala"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-june-pargaon",
+    "from": "vadgaon",
+    "to": "june-pargaon",
+    "stops": [
+      "vadgaon",
+      "june-pargaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-nilewadi",
+    "from": "vadgaon",
+    "to": "nilewadi",
+    "stops": [
+      "vadgaon",
+      "nilewadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-kodoli",
+    "from": "vadgaon",
+    "to": "kodoli",
+    "stops": [
+      "vadgaon",
+      "kodoli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-chavare",
+    "from": "vadgaon",
+    "to": "chavare",
+    "stops": [
+      "vadgaon",
+      "chavare"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-satave-savarde",
+    "from": "vadgaon",
+    "to": "satave-savarde",
+    "stops": [
+      "vadgaon",
+      "satave-savarde"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-bhadole",
+    "from": "vadgaon",
+    "to": "bhadole",
+    "stops": [
+      "vadgaon",
+      "bhadole"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-manpadale",
+    "from": "vadgaon",
+    "to": "manpadale",
+    "stops": [
+      "vadgaon",
+      "manpadale"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-khochi",
+    "from": "vadgaon",
+    "to": "khochi",
+    "stops": [
+      "vadgaon",
+      "khochi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-bhedavde",
+    "from": "vadgaon",
+    "to": "bhedavde",
+    "stops": [
+      "vadgaon",
+      "bhedavde"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-buvache-wathar",
+    "from": "vadgaon",
+    "to": "buvache-wathar",
+    "stops": [
+      "vadgaon",
+      "buvache-wathar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-sangli",
+    "from": "vadgaon",
+    "to": "sangli",
+    "stops": [
+      "vadgaon",
+      "sangli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "vadgaon-to-kavathesar",
+    "from": "vadgaon",
+    "to": "kavathesar",
+    "stops": [
+      "vadgaon",
+      "kavathesar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-pune-swargate",
+    "from": "hatkanangle",
+    "to": "pune-swargate",
+    "stops": [
+      "hatkanangle",
+      "pune-swargate"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-pimpri-chinchwad",
+    "from": "hatkanangle",
+    "to": "pimpri-chinchwad",
+    "stops": [
+      "hatkanangle",
+      "pimpri-chinchwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-shirdi",
+    "from": "hatkanangle",
+    "to": "shirdi",
+    "stops": [
+      "hatkanangle",
+      "shirdi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-nashik",
+    "from": "hatkanangle",
+    "to": "nashik",
+    "stops": [
+      "hatkanangle",
+      "nashik"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-mumbai-central",
+    "from": "hatkanangle",
+    "to": "mumbai-central",
+    "stops": [
+      "hatkanangle",
+      "mumbai-central"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-chiplun",
+    "from": "hatkanangle",
+    "to": "chiplun",
+    "stops": [
+      "hatkanangle",
+      "chiplun"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-kodoli",
+    "from": "hatkanangle",
+    "to": "kodoli",
+    "stops": [
+      "hatkanangle",
+      "kodoli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-narande",
+    "from": "hatkanangle",
+    "to": "narande",
+    "stops": [
+      "hatkanangle",
+      "narande"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-satave-savarde",
+    "from": "hatkanangle",
+    "to": "satave-savarde",
+    "stops": [
+      "hatkanangle",
+      "satave-savarde"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-lakshmiwadi",
+    "from": "hatkanangle",
+    "to": "lakshmiwadi",
+    "stops": [
+      "hatkanangle",
+      "lakshmiwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-tasgaon",
+    "from": "hatkanangle",
+    "to": "tasgaon",
+    "stops": [
+      "hatkanangle",
+      "tasgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-ghunki",
+    "from": "hatkanangle",
+    "to": "ghunki",
+    "stops": [
+      "hatkanangle",
+      "ghunki"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-bhadole",
+    "from": "hatkanangle",
+    "to": "bhadole",
+    "stops": [
+      "hatkanangle",
+      "bhadole"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-kavathesar",
+    "from": "hatkanangle",
+    "to": "kavathesar",
+    "stops": [
+      "hatkanangle",
+      "kavathesar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-kumbhoj",
+    "from": "hatkanangle",
+    "to": "kumbhoj",
+    "stops": [
+      "hatkanangle",
+      "kumbhoj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-jat",
+    "from": "hatkanangle",
+    "to": "jat",
+    "stops": [
+      "hatkanangle",
+      "jat"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-malshiras",
+    "from": "hatkanangle",
+    "to": "malshiras",
+    "stops": [
+      "hatkanangle",
+      "malshiras"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-malkapur",
+    "from": "hatkanangle",
+    "to": "malkapur",
+    "stops": [
+      "hatkanangle",
+      "malkapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-rajapur",
+    "from": "hatkanangle",
+    "to": "rajapur",
+    "stops": [
+      "hatkanangle",
+      "rajapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-devgad",
+    "from": "hatkanangle",
+    "to": "devgad",
+    "stops": [
+      "hatkanangle",
+      "devgad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-sawantwadi",
+    "from": "hatkanangle",
+    "to": "sawantwadi",
+    "stops": [
+      "hatkanangle",
+      "sawantwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-malvan",
+    "from": "hatkanangle",
+    "to": "malvan",
+    "stops": [
+      "hatkanangle",
+      "malvan"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-vengurla",
+    "from": "hatkanangle",
+    "to": "vengurla",
+    "stops": [
+      "hatkanangle",
+      "vengurla"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-lanja",
+    "from": "hatkanangle",
+    "to": "lanja",
+    "stops": [
+      "hatkanangle",
+      "lanja"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-chandgad",
+    "from": "hatkanangle",
+    "to": "chandgad",
+    "stops": [
+      "hatkanangle",
+      "chandgad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-gaganbawada",
+    "from": "hatkanangle",
+    "to": "gaganbawada",
+    "stops": [
+      "hatkanangle",
+      "gaganbawada"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-panaji",
+    "from": "hatkanangle",
+    "to": "panaji",
+    "stops": [
+      "hatkanangle",
+      "panaji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-devrukh",
+    "from": "hatkanangle",
+    "to": "devrukh",
+    "stops": [
+      "hatkanangle",
+      "devrukh"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-vijaydurg",
+    "from": "hatkanangle",
+    "to": "vijaydurg",
+    "stops": [
+      "hatkanangle",
+      "vijaydurg"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-ratnagiri",
+    "from": "hatkanangle",
+    "to": "ratnagiri",
+    "stops": [
+      "hatkanangle",
+      "ratnagiri"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-nanded",
+    "from": "hatkanangle",
+    "to": "nanded",
+    "stops": [
+      "hatkanangle",
+      "nanded"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-barshi",
+    "from": "hatkanangle",
+    "to": "barshi",
+    "stops": [
+      "hatkanangle",
+      "barshi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-beed",
+    "from": "hatkanangle",
+    "to": "beed",
+    "stops": [
+      "hatkanangle",
+      "beed"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-dharashiv",
+    "from": "hatkanangle",
+    "to": "dharashiv",
+    "stops": [
+      "hatkanangle",
+      "dharashiv"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-atpadi",
+    "from": "hatkanangle",
+    "to": "atpadi",
+    "stops": [
+      "hatkanangle",
+      "atpadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-akaluj",
+    "from": "hatkanangle",
+    "to": "akaluj",
+    "stops": [
+      "hatkanangle",
+      "akaluj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-pandharpur",
+    "from": "hatkanangle",
+    "to": "pandharpur",
+    "stops": [
+      "hatkanangle",
+      "pandharpur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-solapur",
+    "from": "hatkanangle",
+    "to": "solapur",
+    "stops": [
+      "hatkanangle",
+      "solapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-kankavli",
+    "from": "hatkanangle",
+    "to": "kankavli",
+    "stops": [
+      "hatkanangle",
+      "kankavli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-latur",
+    "from": "hatkanangle",
+    "to": "latur",
+    "stops": [
+      "hatkanangle",
+      "latur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-kudal",
+    "from": "hatkanangle",
+    "to": "kudal",
+    "stops": [
+      "hatkanangle",
+      "kudal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-sangameshwar",
+    "from": "hatkanangle",
+    "to": "sangameshwar",
+    "stops": [
+      "hatkanangle",
+      "sangameshwar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-ganapur",
+    "from": "hatkanangle",
+    "to": "ganapur",
+    "stops": [
+      "hatkanangle",
+      "ganapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-ambajogai",
+    "from": "hatkanangle",
+    "to": "ambajogai",
+    "stops": [
+      "hatkanangle",
+      "ambajogai"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "hatkanangle-to-akkalkot",
+    "from": "hatkanangle",
+    "to": "akkalkot",
+    "stops": [
+      "hatkanangle",
+      "akkalkot"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "panhala-to-kolhapur",
+    "from": "panhala",
+    "to": "kolhapur",
+    "stops": [
+      "panhala",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "panhala-to-kodoli",
+    "from": "panhala",
+    "to": "kodoli",
+    "stops": [
+      "panhala",
+      "kodoli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "wathar-to-satave-savarde",
+    "from": "wathar",
+    "to": "satave-savarde",
+    "stops": [
+      "wathar",
+      "satave-savarde"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "wathar-to-panaji",
+    "from": "wathar",
+    "to": "panaji",
+    "stops": [
+      "wathar",
+      "panaji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "wathar-to-vita",
+    "from": "wathar",
+    "to": "vita",
+    "stops": [
+      "wathar",
+      "vita"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "wathar-to-jotiba",
+    "from": "wathar",
+    "to": "jotiba",
+    "stops": [
+      "wathar",
+      "jotiba"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "wathar-to-dahiwadi",
+    "from": "wathar",
+    "to": "dahiwadi",
+    "stops": [
+      "wathar",
+      "dahiwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "wathar-to-shirala",
+    "from": "wathar",
+    "to": "shirala",
+    "stops": [
+      "wathar",
+      "shirala"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-kaneri",
+    "from": "rankala",
+    "to": "kaneri",
+    "stops": [
+      "rankala",
+      "kaneri"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-karanjphen",
+    "from": "rankala",
+    "to": "karanjphen",
+    "stops": [
+      "rankala",
+      "karanjphen"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-kalajwade",
+    "from": "rankala",
+    "to": "kalajwade",
+    "stops": [
+      "rankala",
+      "kalajwade"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-bhogaon",
+    "from": "rankala",
+    "to": "bhogaon",
+    "stops": [
+      "rankala",
+      "bhogaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-manwad",
+    "from": "rankala",
+    "to": "manwad",
+    "stops": [
+      "rankala",
+      "manwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-padsali",
+    "from": "rankala",
+    "to": "padsali",
+    "stops": [
+      "rankala",
+      "padsali"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-patpanhala",
+    "from": "rankala",
+    "to": "patpanhala",
+    "stops": [
+      "rankala",
+      "patpanhala"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-vashi-kolhapur",
+    "from": "rankala",
+    "to": "vashi-kolhapur",
+    "stops": [
+      "rankala",
+      "vashi-kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-gavdi",
+    "from": "rankala",
+    "to": "gavdi",
+    "stops": [
+      "rankala",
+      "gavdi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-burambal",
+    "from": "rankala",
+    "to": "burambal",
+    "stops": [
+      "rankala",
+      "burambal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-chaukwadi",
+    "from": "rankala",
+    "to": "chaukwadi",
+    "stops": [
+      "rankala",
+      "chaukwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-kanchanwadi",
+    "from": "rankala",
+    "to": "kanchanwadi",
+    "stops": [
+      "rankala",
+      "kanchanwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-mhalsavade",
+    "from": "rankala",
+    "to": "mhalsavade",
+    "stops": [
+      "rankala",
+      "mhalsavade"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-pungaon",
+    "from": "rankala",
+    "to": "pungaon",
+    "stops": [
+      "rankala",
+      "pungaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-radhanagari",
+    "from": "rankala",
+    "to": "radhanagari",
+    "stops": [
+      "rankala",
+      "radhanagari"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-rashivad",
+    "from": "rankala",
+    "to": "rashivad",
+    "stops": [
+      "rankala",
+      "rashivad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-shirgaon",
+    "from": "rankala",
+    "to": "shirgaon",
+    "stops": [
+      "rankala",
+      "shirgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-chande",
+    "from": "rankala",
+    "to": "chande",
+    "stops": [
+      "rankala",
+      "chande"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-kudal",
+    "from": "rankala",
+    "to": "kudal",
+    "stops": [
+      "rankala",
+      "kudal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-kankavli",
+    "from": "rankala",
+    "to": "kankavli",
+    "stops": [
+      "rankala",
+      "kankavli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-panaji",
+    "from": "rankala",
+    "to": "panaji",
+    "stops": [
+      "rankala",
+      "panaji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-rajapur",
+    "from": "rankala",
+    "to": "rajapur",
+    "stops": [
+      "rankala",
+      "rajapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-vijaydurg",
+    "from": "rankala",
+    "to": "vijaydurg",
+    "stops": [
+      "rankala",
+      "vijaydurg"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-devgad",
+    "from": "rankala",
+    "to": "devgad",
+    "stops": [
+      "rankala",
+      "devgad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-vengurla",
+    "from": "rankala",
+    "to": "vengurla",
+    "stops": [
+      "rankala",
+      "vengurla"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-gaganbawada",
+    "from": "rankala",
+    "to": "gaganbawada",
+    "stops": [
+      "rankala",
+      "gaganbawada"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-satara",
+    "from": "rankala",
+    "to": "satara",
+    "stops": [
+      "rankala",
+      "satara"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-garivde",
+    "from": "rankala",
+    "to": "garivde",
+    "stops": [
+      "rankala",
+      "garivde"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-kolhapur",
+    "from": "rankala",
+    "to": "kolhapur",
+    "stops": [
+      "rankala",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-murum",
+    "from": "rankala",
+    "to": "murum",
+    "stops": [
+      "rankala",
+      "murum"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-nrusinhwadi",
+    "from": "rankala",
+    "to": "nrusinhwadi",
+    "stops": [
+      "rankala",
+      "nrusinhwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-ka-thane",
+    "from": "rankala",
+    "to": "ka-thane",
+    "stops": [
+      "rankala",
+      "ka-thane"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-majnal",
+    "from": "rankala",
+    "to": "majnal",
+    "stops": [
+      "rankala",
+      "majnal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-tirpan",
+    "from": "rankala",
+    "to": "tirpan",
+    "stops": [
+      "rankala",
+      "tirpan"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-devthane",
+    "from": "rankala",
+    "to": "devthane",
+    "stops": [
+      "rankala",
+      "devthane"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-khotwadi",
+    "from": "rankala",
+    "to": "khotwadi",
+    "stops": [
+      "rankala",
+      "khotwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-talgaon",
+    "from": "rankala",
+    "to": "talgaon",
+    "stops": [
+      "rankala",
+      "talgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-aaptal",
+    "from": "rankala",
+    "to": "aaptal",
+    "stops": [
+      "rankala",
+      "aaptal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-karivad",
+    "from": "rankala",
+    "to": "karivad",
+    "stops": [
+      "rankala",
+      "karivad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-durgmanwad",
+    "from": "rankala",
+    "to": "durgmanwad",
+    "stops": [
+      "rankala",
+      "durgmanwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-kode",
+    "from": "rankala",
+    "to": "kode",
+    "stops": [
+      "rankala",
+      "kode"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-upwade",
+    "from": "rankala",
+    "to": "upwade",
+    "stops": [
+      "rankala",
+      "upwade"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-pachaktewadi",
+    "from": "rankala",
+    "to": "pachaktewadi",
+    "stops": [
+      "rankala",
+      "pachaktewadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-sangrul",
+    "from": "rankala",
+    "to": "sangrul",
+    "stops": [
+      "rankala",
+      "sangrul"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-bololi",
+    "from": "rankala",
+    "to": "bololi",
+    "stops": [
+      "rankala",
+      "bololi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-swayambhuwadi",
+    "from": "rankala",
+    "to": "swayambhuwadi",
+    "stops": [
+      "rankala",
+      "swayambhuwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-dhundwade",
+    "from": "rankala",
+    "to": "dhundwade",
+    "stops": [
+      "rankala",
+      "dhundwade"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-manbet",
+    "from": "rankala",
+    "to": "manbet",
+    "stops": [
+      "rankala",
+      "manbet"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-mhasurli",
+    "from": "rankala",
+    "to": "mhasurli",
+    "stops": [
+      "rankala",
+      "mhasurli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-bawali",
+    "from": "rankala",
+    "to": "bawali",
+    "stops": [
+      "rankala",
+      "bawali"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-gawashi",
+    "from": "rankala",
+    "to": "gawashi",
+    "stops": [
+      "rankala",
+      "gawashi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-chauke",
+    "from": "rankala",
+    "to": "chauke",
+    "stops": [
+      "rankala",
+      "chauke"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-arale",
+    "from": "rankala",
+    "to": "arale",
+    "stops": [
+      "rankala",
+      "arale"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-gotewadi",
+    "from": "rankala",
+    "to": "gotewadi",
+    "stops": [
+      "rankala",
+      "gotewadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-ghanwad",
+    "from": "rankala",
+    "to": "ghanwad",
+    "stops": [
+      "rankala",
+      "ghanwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-aare",
+    "from": "rankala",
+    "to": "aare",
+    "stops": [
+      "rankala",
+      "aare"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-solapur",
+    "from": "rankala",
+    "to": "solapur",
+    "stops": [
+      "rankala",
+      "solapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-latur",
+    "from": "rankala",
+    "to": "latur",
+    "stops": [
+      "rankala",
+      "latur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-malvan",
+    "from": "rankala",
+    "to": "malvan",
+    "stops": [
+      "rankala",
+      "malvan"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-sawantwadi",
+    "from": "rankala",
+    "to": "sawantwadi",
+    "stops": [
+      "rankala",
+      "sawantwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-tasgaon",
+    "from": "rankala",
+    "to": "tasgaon",
+    "stops": [
+      "rankala",
+      "tasgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-pune-swargate",
+    "from": "rankala",
+    "to": "pune-swargate",
+    "stops": [
+      "rankala",
+      "pune-swargate"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-nipani",
+    "from": "rankala",
+    "to": "nipani",
+    "stops": [
+      "rankala",
+      "nipani"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "rankala-to-kagal",
+    "from": "rankala",
+    "to": "kagal",
+    "stops": [
+      "rankala",
+      "kagal"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-sambhajinagar",
+    "from": "sambhajinagar-kolhapur",
+    "to": "sambhajinagar",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "sambhajinagar"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-pune-swargate",
+    "from": "sambhajinagar-kolhapur",
+    "to": "pune-swargate",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "pune-swargate"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-akaluj",
+    "from": "sambhajinagar-kolhapur",
+    "to": "akaluj",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "akaluj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-panaji",
+    "from": "sambhajinagar-kolhapur",
+    "to": "panaji",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "panaji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-solapur",
+    "from": "sambhajinagar-kolhapur",
+    "to": "solapur",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "solapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-belgaum",
+    "from": "sambhajinagar-kolhapur",
+    "to": "belgaum",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "belgaum"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-sangli",
+    "from": "sambhajinagar-kolhapur",
+    "to": "sangli",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "sangli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-vadgaon",
+    "from": "sambhajinagar-kolhapur",
+    "to": "vadgaon",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "vadgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-dindanerli",
+    "from": "sambhajinagar-kolhapur",
+    "to": "dindanerli",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "dindanerli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-gargoti",
+    "from": "sambhajinagar-kolhapur",
+    "to": "gargoti",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "gargoti"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-murgud",
+    "from": "sambhajinagar-kolhapur",
+    "to": "murgud",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "murgud"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-bachani",
+    "from": "sambhajinagar-kolhapur",
+    "to": "bachani",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "bachani"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-dhamnavadi",
+    "from": "sambhajinagar-kolhapur",
+    "to": "dhamnavadi",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "dhamnavadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-rajapur",
+    "from": "sambhajinagar-kolhapur",
+    "to": "rajapur",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "rajapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-aini",
+    "from": "sambhajinagar-kolhapur",
+    "to": "aini",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "aini"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-patgaon",
+    "from": "sambhajinagar-kolhapur",
+    "to": "patgaon",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "patgaon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sambhajinagar-kolhapur-to-kalyan",
+    "from": "sambhajinagar-kolhapur",
+    "to": "kalyan",
+    "stops": [
+      "sambhajinagar-kolhapur",
+      "kalyan"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "wathar-to-kolhapur",
+    "from": "wathar",
+    "to": "kolhapur",
+    "stops": [
+      "wathar",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "wathar-to-islampur",
+    "from": "wathar",
+    "to": "islampur",
+    "stops": [
+      "wathar",
+      "islampur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "wathar-to-ichalkaranji",
+    "from": "wathar",
+    "to": "ichalkaranji",
+    "stops": [
+      "wathar",
+      "ichalkaranji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "wathar-to-kodoli",
+    "from": "wathar",
+    "to": "kodoli",
+    "stops": [
+      "wathar",
+      "kodoli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "wathar-to-manpadale",
+    "from": "wathar",
+    "to": "manpadale",
+    "stops": [
+      "wathar",
+      "manpadale"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "shirol-to-pune-swargate",
+    "from": "shirol",
+    "to": "pune-swargate",
+    "stops": [
+      "shirol",
+      "pune-swargate"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "shirol-to-sangli",
+    "from": "shirol",
+    "to": "sangli",
+    "stops": [
+      "shirol",
+      "sangli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "shirol-to-kurundwad",
+    "from": "shirol",
+    "to": "kurundwad",
+    "stops": [
+      "shirol",
+      "kurundwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "shirol-to-jaysingpur",
+    "from": "shirol",
+    "to": "jaysingpur",
+    "stops": [
+      "shirol",
+      "jaysingpur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "shirol-to-kolhapur",
+    "from": "shirol",
+    "to": "kolhapur",
+    "stops": [
+      "shirol",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "shirol-to-aalas",
+    "from": "shirol",
+    "to": "aalas",
+    "stops": [
+      "shirol",
+      "aalas"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "shirol-to-ganeshwadi",
+    "from": "shirol",
+    "to": "ganeshwadi",
+    "stops": [
+      "shirol",
+      "ganeshwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "shirol-to-sainik-takli",
+    "from": "shirol",
+    "to": "sainik-takli",
+    "stops": [
+      "shirol",
+      "sainik-takli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "shirol-to-hasur",
+    "from": "shirol",
+    "to": "hasur",
+    "stops": [
+      "shirol",
+      "hasur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "shirol-to-miraj",
+    "from": "shirol",
+    "to": "miraj",
+    "stops": [
+      "shirol",
+      "miraj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "shirol-to-kanwad",
+    "from": "shirol",
+    "to": "kanwad",
+    "stops": [
+      "shirol",
+      "kanwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "shirol-to-ghalwad",
+    "from": "shirol",
+    "to": "ghalwad",
+    "stops": [
+      "shirol",
+      "ghalwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "shirol-to-kothali",
+    "from": "shirol",
+    "to": "kothali",
+    "stops": [
+      "shirol",
+      "kothali"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "radhanagari-to-kolhapur",
+    "from": "radhanagari",
+    "to": "kolhapur",
+    "stops": [
+      "radhanagari",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "radhanagari-to-rankala",
+    "from": "radhanagari",
+    "to": "rankala",
+    "stops": [
+      "radhanagari",
+      "rankala"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "radhanagari-to-solapur",
+    "from": "radhanagari",
+    "to": "solapur",
+    "stops": [
+      "radhanagari",
+      "solapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "radhanagari-to-parel",
+    "from": "radhanagari",
+    "to": "parel",
+    "stops": [
+      "radhanagari",
+      "parel"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "radhanagari-to-pune-swargate",
+    "from": "radhanagari",
+    "to": "pune-swargate",
+    "stops": [
+      "radhanagari",
+      "pune-swargate"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "radhanagari-to-ichalkaranji",
+    "from": "radhanagari",
+    "to": "ichalkaranji",
+    "stops": [
+      "radhanagari",
+      "ichalkaranji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "radhanagari-to-kalamwadi",
+    "from": "radhanagari",
+    "to": "kalamwadi",
+    "stops": [
+      "radhanagari",
+      "kalamwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "radhanagari-to-mudhal-titta",
+    "from": "radhanagari",
+    "to": "mudhal-titta",
+    "stops": [
+      "radhanagari",
+      "mudhal-titta"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "radhanagari-to-nipani",
+    "from": "radhanagari",
+    "to": "nipani",
+    "stops": [
+      "radhanagari",
+      "nipani"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "radhanagari-to-gargoti",
+    "from": "radhanagari",
+    "to": "gargoti",
+    "stops": [
+      "radhanagari",
+      "gargoti"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "radhanagari-to-karivde",
+    "from": "radhanagari",
+    "to": "karivde",
+    "stops": [
+      "radhanagari",
+      "karivde"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "radhanagari-to-bhiltamwadi",
+    "from": "radhanagari",
+    "to": "bhiltamwadi",
+    "stops": [
+      "radhanagari",
+      "bhiltamwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "jaysingpur-to-kurundwad",
+    "from": "jaysingpur",
+    "to": "kurundwad",
+    "stops": [
+      "jaysingpur",
+      "kurundwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "jaysingpur-to-nrusinhwadi",
+    "from": "jaysingpur",
+    "to": "nrusinhwadi",
+    "stops": [
+      "jaysingpur",
+      "nrusinhwadi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "jaysingpur-to-sangli",
+    "from": "jaysingpur",
+    "to": "sangli",
+    "stops": [
+      "jaysingpur",
+      "sangli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "jaysingpur-to-kolhapur",
+    "from": "jaysingpur",
+    "to": "kolhapur",
+    "stops": [
+      "jaysingpur",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "jaysingpur-to-miraj",
+    "from": "jaysingpur",
+    "to": "miraj",
+    "stops": [
+      "jaysingpur",
+      "miraj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "jaysingpur-to-ichalkaranji",
+    "from": "jaysingpur",
+    "to": "ichalkaranji",
+    "stops": [
+      "jaysingpur",
+      "ichalkaranji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "jaysingpur-to-kothali",
+    "from": "jaysingpur",
+    "to": "kothali",
+    "stops": [
+      "jaysingpur",
+      "kothali"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-pune-swargate",
+    "from": "kurundwad",
+    "to": "pune-swargate",
+    "stops": [
+      "kurundwad",
+      "pune-swargate"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-nashik",
+    "from": "kurundwad",
+    "to": "nashik",
+    "stops": [
+      "kurundwad",
+      "nashik"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-sangli",
+    "from": "kurundwad",
+    "to": "sangli",
+    "stops": [
+      "kurundwad",
+      "sangli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-jaysingpur",
+    "from": "kurundwad",
+    "to": "jaysingpur",
+    "stops": [
+      "kurundwad",
+      "jaysingpur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-hupari",
+    "from": "kurundwad",
+    "to": "hupari",
+    "stops": [
+      "kurundwad",
+      "hupari"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-kolhapur",
+    "from": "kurundwad",
+    "to": "kolhapur",
+    "stops": [
+      "kurundwad",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-ichalkaranji",
+    "from": "kurundwad",
+    "to": "ichalkaranji",
+    "stops": [
+      "kurundwad",
+      "ichalkaranji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-khidrapur",
+    "from": "kurundwad",
+    "to": "khidrapur",
+    "stops": [
+      "kurundwad",
+      "khidrapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-bastwad",
+    "from": "kurundwad",
+    "to": "bastwad",
+    "stops": [
+      "kurundwad",
+      "bastwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-danwad",
+    "from": "kurundwad",
+    "to": "danwad",
+    "stops": [
+      "kurundwad",
+      "danwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-kagwad",
+    "from": "kurundwad",
+    "to": "kagwad",
+    "stops": [
+      "kurundwad",
+      "kagwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-aalas",
+    "from": "kurundwad",
+    "to": "aalas",
+    "stops": [
+      "kurundwad",
+      "aalas"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-miraj",
+    "from": "kurundwad",
+    "to": "miraj",
+    "stops": [
+      "kurundwad",
+      "miraj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-chikodi",
+    "from": "kurundwad",
+    "to": "chikodi",
+    "stops": [
+      "kurundwad",
+      "chikodi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "kurundwad-to-shirdhon",
+    "from": "kurundwad",
+    "to": "shirdhon",
+    "stops": [
+      "kurundwad",
+      "shirdhon"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "nrusinhwadi-to-sangli",
+    "from": "nrusinhwadi",
+    "to": "sangli",
+    "stops": [
+      "nrusinhwadi",
+      "sangli"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "nrusinhwadi-to-jaysingpur",
+    "from": "nrusinhwadi",
+    "to": "jaysingpur",
+    "stops": [
+      "nrusinhwadi",
+      "jaysingpur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "nrusinhwadi-to-miraj",
+    "from": "nrusinhwadi",
+    "to": "miraj",
+    "stops": [
+      "nrusinhwadi",
+      "miraj"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "nrusinhwadi-to-chikodi",
+    "from": "nrusinhwadi",
+    "to": "chikodi",
+    "stops": [
+      "nrusinhwadi",
+      "chikodi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "nrusinhwadi-to-pune-swargate",
+    "from": "nrusinhwadi",
+    "to": "pune-swargate",
+    "stops": [
+      "nrusinhwadi",
+      "pune-swargate"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "nrusinhwadi-to-kurundwad",
+    "from": "nrusinhwadi",
+    "to": "kurundwad",
+    "stops": [
+      "nrusinhwadi",
+      "kurundwad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "nrusinhwadi-to-kolhapur",
+    "from": "nrusinhwadi",
+    "to": "kolhapur",
+    "stops": [
+      "nrusinhwadi",
+      "kolhapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "nrusinhwadi-to-ichalkaranji",
+    "from": "nrusinhwadi",
+    "to": "ichalkaranji",
+    "stops": [
+      "nrusinhwadi",
+      "ichalkaranji"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "nrusinhwadi-to-kothali",
+    "from": "nrusinhwadi",
+    "to": "kothali",
+    "stops": [
+      "nrusinhwadi",
+      "kothali"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "nrusinhwadi-to-shirguppi",
+    "from": "nrusinhwadi",
+    "to": "shirguppi",
+    "stops": [
+      "nrusinhwadi",
+      "shirguppi"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "nrusinhwadi-to-khidrapur",
+    "from": "nrusinhwadi",
+    "to": "khidrapur",
+    "stops": [
+      "nrusinhwadi",
+      "khidrapur"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "nrusinhwadi-to-akiwat",
+    "from": "nrusinhwadi",
+    "to": "akiwat",
+    "stops": [
+      "nrusinhwadi",
+      "akiwat"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "nrusinhwadi-to-dattavad",
+    "from": "nrusinhwadi",
+    "to": "dattavad",
+    "stops": [
+      "nrusinhwadi",
+      "dattavad"
+    ],
+    "division": "kolhapur"
+  },
+  {
+    "id": "sawantwadi-to-pune-swargate",
+    "from": "sawantwadi",
+    "to": "pune-swargate",
+    "stops": [
+      "sawantwadi",
+      "pune-swargate"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-kolhapur",
+    "from": "sawantwadi",
+    "to": "kolhapur",
+    "stops": [
+      "sawantwadi",
+      "kolhapur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-tuljapur",
+    "from": "sawantwadi",
+    "to": "tuljapur",
+    "stops": [
+      "sawantwadi",
+      "tuljapur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-borivali",
+    "from": "sawantwadi",
+    "to": "borivali",
+    "stops": [
+      "sawantwadi",
+      "borivali"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-ratnagiri",
+    "from": "sawantwadi",
+    "to": "ratnagiri",
+    "stops": [
+      "sawantwadi",
+      "ratnagiri"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-devgad",
+    "from": "sawantwadi",
+    "to": "devgad",
+    "stops": [
+      "sawantwadi",
+      "devgad"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-belgaum",
+    "from": "sawantwadi",
+    "to": "belgaum",
+    "stops": [
+      "sawantwadi",
+      "belgaum"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-panaji",
+    "from": "sawantwadi",
+    "to": "panaji",
+    "stops": [
+      "sawantwadi",
+      "panaji"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-kankavli",
+    "from": "sawantwadi",
+    "to": "kankavli",
+    "stops": [
+      "sawantwadi",
+      "kankavli"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-kesari",
+    "from": "sawantwadi",
+    "to": "kesari",
+    "stops": [
+      "sawantwadi",
+      "kesari"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-kalikam",
+    "from": "sawantwadi",
+    "to": "kalikam",
+    "stops": [
+      "sawantwadi",
+      "kalikam"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-shivapur",
+    "from": "sawantwadi",
+    "to": "shivapur",
+    "stops": [
+      "sawantwadi",
+      "shivapur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-malvan",
+    "from": "sawantwadi",
+    "to": "malvan",
+    "stops": [
+      "sawantwadi",
+      "malvan"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-kudal",
+    "from": "sawantwadi",
+    "to": "kudal",
+    "stops": [
+      "sawantwadi",
+      "kudal"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-vengurle",
+    "from": "sawantwadi",
+    "to": "vengurle",
+    "stops": [
+      "sawantwadi",
+      "vengurle"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-kherwadi",
+    "from": "sawantwadi",
+    "to": "kherwadi",
+    "stops": [
+      "sawantwadi",
+      "kherwadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-shiroda",
+    "from": "sawantwadi",
+    "to": "shiroda",
+    "stops": [
+      "sawantwadi",
+      "shiroda"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-redi",
+    "from": "sawantwadi",
+    "to": "redi",
+    "stops": [
+      "sawantwadi",
+      "redi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-aaronda",
+    "from": "sawantwadi",
+    "to": "aaronda",
+    "stops": [
+      "sawantwadi",
+      "aaronda"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-satarda",
+    "from": "sawantwadi",
+    "to": "satarda",
+    "stops": [
+      "sawantwadi",
+      "satarda"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-shirshinge",
+    "from": "sawantwadi",
+    "to": "shirshinge",
+    "stops": [
+      "sawantwadi",
+      "shirshinge"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-velle",
+    "from": "sawantwadi",
+    "to": "velle",
+    "stops": [
+      "sawantwadi",
+      "velle"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-parpole",
+    "from": "sawantwadi",
+    "to": "parpole",
+    "stops": [
+      "sawantwadi",
+      "parpole"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-phutbrij",
+    "from": "sawantwadi",
+    "to": "phutbrij",
+    "stops": [
+      "sawantwadi",
+      "phutbrij"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-dodamarg",
+    "from": "sawantwadi",
+    "to": "dodamarg",
+    "stops": [
+      "sawantwadi",
+      "dodamarg"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-babarwadi",
+    "from": "sawantwadi",
+    "to": "babarwadi",
+    "stops": [
+      "sawantwadi",
+      "babarwadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-ker",
+    "from": "sawantwadi",
+    "to": "ker",
+    "stops": [
+      "sawantwadi",
+      "ker"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-kumbral",
+    "from": "sawantwadi",
+    "to": "kumbral",
+    "stops": [
+      "sawantwadi",
+      "kumbral"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-asaniye",
+    "from": "sawantwadi",
+    "to": "asaniye",
+    "stops": [
+      "sawantwadi",
+      "asaniye"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "sawantwadi-to-ambegao",
+    "from": "sawantwadi",
+    "to": "ambegao",
+    "stops": [
+      "sawantwadi",
+      "ambegao"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-pendur",
+    "from": "malvan",
+    "to": "pendur",
+    "stops": [
+      "malvan",
+      "pendur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-kasal",
+    "from": "malvan",
+    "to": "kasal",
+    "stops": [
+      "malvan",
+      "kasal"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-phonda",
+    "from": "malvan",
+    "to": "phonda",
+    "stops": [
+      "malvan",
+      "phonda"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-gaganbawada",
+    "from": "malvan",
+    "to": "gaganbawada",
+    "stops": [
+      "malvan",
+      "gaganbawada"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-devgad",
+    "from": "malvan",
+    "to": "devgad",
+    "stops": [
+      "malvan",
+      "devgad"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-panaji",
+    "from": "malvan",
+    "to": "panaji",
+    "stops": [
+      "malvan",
+      "panaji"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-achra",
+    "from": "malvan",
+    "to": "achra",
+    "stops": [
+      "malvan",
+      "achra"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-ajganni",
+    "from": "malvan",
+    "to": "ajganni",
+    "stops": [
+      "malvan",
+      "ajganni"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-masare",
+    "from": "malvan",
+    "to": "masare",
+    "stops": [
+      "malvan",
+      "masare"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-anganewadi",
+    "from": "malvan",
+    "to": "anganewadi",
+    "stops": [
+      "malvan",
+      "anganewadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-belane-anganewadi",
+    "from": "malvan",
+    "to": "belane-anganewadi",
+    "stops": [
+      "malvan",
+      "belane-anganewadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-nerurpar",
+    "from": "malvan",
+    "to": "nerurpar",
+    "stops": [
+      "malvan",
+      "nerurpar"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-dhampur",
+    "from": "malvan",
+    "to": "dhampur",
+    "stops": [
+      "malvan",
+      "dhampur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-mhapan",
+    "from": "malvan",
+    "to": "mhapan",
+    "stops": [
+      "malvan",
+      "mhapan"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-ambegaon",
+    "from": "malvan",
+    "to": "ambegaon",
+    "stops": [
+      "malvan",
+      "ambegaon"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-sawantwadi",
+    "from": "malvan",
+    "to": "sawantwadi",
+    "stops": [
+      "malvan",
+      "sawantwadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-kunkeshwar",
+    "from": "malvan",
+    "to": "kunkeshwar",
+    "stops": [
+      "malvan",
+      "kunkeshwar"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-deulwada",
+    "from": "malvan",
+    "to": "deulwada",
+    "stops": [
+      "malvan",
+      "deulwada"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-kasal-chowke",
+    "from": "malvan",
+    "to": "kasal-chowke",
+    "stops": [
+      "malvan",
+      "kasal-chowke"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-deoli",
+    "from": "malvan",
+    "to": "deoli",
+    "stops": [
+      "malvan",
+      "deoli"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-deoli-wayari",
+    "from": "malvan",
+    "to": "deoli-wayari",
+    "stops": [
+      "malvan",
+      "deoli-wayari"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-salel",
+    "from": "malvan",
+    "to": "salel",
+    "stops": [
+      "malvan",
+      "salel"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-microwave",
+    "from": "malvan",
+    "to": "microwave",
+    "stops": [
+      "malvan",
+      "microwave"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-dangmode",
+    "from": "malvan",
+    "to": "dangmode",
+    "stops": [
+      "malvan",
+      "dangmode"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-dangmode-kandalgaon",
+    "from": "malvan",
+    "to": "dangmode-kandalgaon",
+    "stops": [
+      "malvan",
+      "dangmode-kandalgaon"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-bagayat-amdos",
+    "from": "malvan",
+    "to": "bagayat-amdos",
+    "stops": [
+      "malvan",
+      "bagayat-amdos"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-kerwada-mhapan",
+    "from": "malvan",
+    "to": "kerwada-mhapan",
+    "stops": [
+      "malvan",
+      "kerwada-mhapan"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-kudopi",
+    "from": "malvan",
+    "to": "kudopi",
+    "stops": [
+      "malvan",
+      "kudopi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-oros",
+    "from": "malvan",
+    "to": "oros",
+    "stops": [
+      "malvan",
+      "oros"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-belane",
+    "from": "malvan",
+    "to": "belane",
+    "stops": [
+      "malvan",
+      "belane"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "malvan-to-mitbav",
+    "from": "malvan",
+    "to": "mitbav",
+    "stops": [
+      "malvan",
+      "mitbav"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-vaibhavwadi",
+    "from": "kankavli",
+    "to": "vaibhavwadi",
+    "stops": [
+      "kankavli",
+      "vaibhavwadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-phonda",
+    "from": "kankavli",
+    "to": "phonda",
+    "stops": [
+      "kankavli",
+      "phonda"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-sakedi",
+    "from": "kankavli",
+    "to": "sakedi",
+    "stops": [
+      "kankavli",
+      "sakedi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-achara-banda",
+    "from": "kankavli",
+    "to": "achara-banda",
+    "stops": [
+      "kankavli",
+      "achara-banda"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-bandivade",
+    "from": "kankavli",
+    "to": "bandivade",
+    "stops": [
+      "kankavli",
+      "bandivade"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-masure",
+    "from": "kankavli",
+    "to": "masure",
+    "stops": [
+      "kankavli",
+      "masure"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-nirom",
+    "from": "kankavli",
+    "to": "nirom",
+    "stops": [
+      "kankavli",
+      "nirom"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-shirgav",
+    "from": "kankavli",
+    "to": "shirgav",
+    "stops": [
+      "kankavli",
+      "shirgav"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-humberne",
+    "from": "kankavli",
+    "to": "humberne",
+    "stops": [
+      "kankavli",
+      "humberne"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-sawdav",
+    "from": "kankavli",
+    "to": "sawdav",
+    "stops": [
+      "kankavli",
+      "sawdav"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-aynal",
+    "from": "kankavli",
+    "to": "aynal",
+    "stops": [
+      "kankavli",
+      "aynal"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-mitambadeg",
+    "from": "kankavli",
+    "to": "mitambadeg",
+    "stops": [
+      "kankavli",
+      "mitambadeg"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-tarandale",
+    "from": "kankavli",
+    "to": "tarandale",
+    "stops": [
+      "kankavli",
+      "tarandale"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-nardave",
+    "from": "kankavli",
+    "to": "nardave",
+    "stops": [
+      "kankavli",
+      "nardave"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-digavale",
+    "from": "kankavli",
+    "to": "digavale",
+    "stops": [
+      "kankavli",
+      "digavale"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-nadhal",
+    "from": "kankavli",
+    "to": "nadhal",
+    "stops": [
+      "kankavli",
+      "nadhal"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-kunbhawade",
+    "from": "kankavli",
+    "to": "kunbhawade",
+    "stops": [
+      "kankavli",
+      "kunbhawade"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-bhirwande",
+    "from": "kankavli",
+    "to": "bhirwande",
+    "stops": [
+      "kankavli",
+      "bhirwande"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-karanje",
+    "from": "kankavli",
+    "to": "karanje",
+    "stops": [
+      "kankavli",
+      "karanje"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-nagve",
+    "from": "kankavli",
+    "to": "nagve",
+    "stops": [
+      "kankavli",
+      "nagve"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-bhatwadi",
+    "from": "kankavli",
+    "to": "bhatwadi",
+    "stops": [
+      "kankavli",
+      "bhatwadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-dariste",
+    "from": "kankavli",
+    "to": "dariste",
+    "stops": [
+      "kankavli",
+      "dariste"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-kilos",
+    "from": "kankavli",
+    "to": "kilos",
+    "stops": [
+      "kankavli",
+      "kilos"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-ghatage",
+    "from": "kankavli",
+    "to": "ghatage",
+    "stops": [
+      "kankavli",
+      "ghatage"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-asgani",
+    "from": "kankavli",
+    "to": "asgani",
+    "stops": [
+      "kankavli",
+      "asgani"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-kaswan",
+    "from": "kankavli",
+    "to": "kaswan",
+    "stops": [
+      "kankavli",
+      "kaswan"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-ambrad",
+    "from": "kankavli",
+    "to": "ambrad",
+    "stops": [
+      "kankavli",
+      "ambrad"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-pokharan",
+    "from": "kankavli",
+    "to": "pokharan",
+    "stops": [
+      "kankavli",
+      "pokharan"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-shirwal",
+    "from": "kankavli",
+    "to": "shirwal",
+    "stops": [
+      "kankavli",
+      "shirwal"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-kalsuli",
+    "from": "kankavli",
+    "to": "kalsuli",
+    "stops": [
+      "kankavli",
+      "kalsuli"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-mumbai-central",
+    "from": "kankavli",
+    "to": "mumbai-central",
+    "stops": [
+      "kankavli",
+      "mumbai-central"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-borivali",
+    "from": "kankavli",
+    "to": "borivali",
+    "stops": [
+      "kankavli",
+      "borivali"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-ratnagiri",
+    "from": "kankavli",
+    "to": "ratnagiri",
+    "stops": [
+      "kankavli",
+      "ratnagiri"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-panaji",
+    "from": "kankavli",
+    "to": "panaji",
+    "stops": [
+      "kankavli",
+      "panaji"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-dapoli",
+    "from": "kankavli",
+    "to": "dapoli",
+    "stops": [
+      "kankavli",
+      "dapoli"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-devrukh",
+    "from": "kankavli",
+    "to": "devrukh",
+    "stops": [
+      "kankavli",
+      "devrukh"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-rajapur",
+    "from": "kankavli",
+    "to": "rajapur",
+    "stops": [
+      "kankavli",
+      "rajapur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-kharepatan",
+    "from": "kankavli",
+    "to": "kharepatan",
+    "stops": [
+      "kankavli",
+      "kharepatan"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-tarla",
+    "from": "kankavli",
+    "to": "tarla",
+    "stops": [
+      "kankavli",
+      "tarla"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-vijaydurg",
+    "from": "kankavli",
+    "to": "vijaydurg",
+    "stops": [
+      "kankavli",
+      "vijaydurg"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-devgad",
+    "from": "kankavli",
+    "to": "devgad",
+    "stops": [
+      "kankavli",
+      "devgad"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-maid",
+    "from": "kankavli",
+    "to": "maid",
+    "stops": [
+      "kankavli",
+      "maid"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-bharani-aaynal",
+    "from": "kankavli",
+    "to": "bharani-aaynal",
+    "stops": [
+      "kankavli",
+      "bharani-aaynal"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-sawantwadi",
+    "from": "kankavli",
+    "to": "sawantwadi",
+    "stops": [
+      "kankavli",
+      "sawantwadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-sindhudurg-nagari",
+    "from": "kankavli",
+    "to": "sindhudurg-nagari",
+    "stops": [
+      "kankavli",
+      "sindhudurg-nagari"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-kudal",
+    "from": "kankavli",
+    "to": "kudal",
+    "stops": [
+      "kankavli",
+      "kudal"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-vengurle",
+    "from": "kankavli",
+    "to": "vengurle",
+    "stops": [
+      "kankavli",
+      "vengurle"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-malvan",
+    "from": "kankavli",
+    "to": "malvan",
+    "stops": [
+      "kankavli",
+      "malvan"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-kolhapur",
+    "from": "kankavli",
+    "to": "kolhapur",
+    "stops": [
+      "kankavli",
+      "kolhapur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-pune-swargate",
+    "from": "kankavli",
+    "to": "pune-swargate",
+    "stops": [
+      "kankavli",
+      "pune-swargate"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-latur",
+    "from": "kankavli",
+    "to": "latur",
+    "stops": [
+      "kankavli",
+      "latur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-akkalkot",
+    "from": "kankavli",
+    "to": "akkalkot",
+    "stops": [
+      "kankavli",
+      "akkalkot"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-dharashiv",
+    "from": "kankavli",
+    "to": "dharashiv",
+    "stops": [
+      "kankavli",
+      "dharashiv"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-bijapur",
+    "from": "kankavli",
+    "to": "bijapur",
+    "stops": [
+      "kankavli",
+      "bijapur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-tasgaon",
+    "from": "kankavli",
+    "to": "tasgaon",
+    "stops": [
+      "kankavli",
+      "tasgaon"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kankavli-to-mahabaleshwar",
+    "from": "kankavli",
+    "to": "mahabaleshwar",
+    "stops": [
+      "kankavli",
+      "mahabaleshwar"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-borivali",
+    "from": "devgad",
+    "to": "borivali",
+    "stops": [
+      "devgad",
+      "borivali"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-ratnagiri",
+    "from": "devgad",
+    "to": "ratnagiri",
+    "stops": [
+      "devgad",
+      "ratnagiri"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-pune-swargate",
+    "from": "devgad",
+    "to": "pune-swargate",
+    "stops": [
+      "devgad",
+      "pune-swargate"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-kolhapur",
+    "from": "devgad",
+    "to": "kolhapur",
+    "stops": [
+      "devgad",
+      "kolhapur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-panaji",
+    "from": "devgad",
+    "to": "panaji",
+    "stops": [
+      "devgad",
+      "panaji"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-malvan",
+    "from": "devgad",
+    "to": "malvan",
+    "stops": [
+      "devgad",
+      "malvan"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-dabhole",
+    "from": "devgad",
+    "to": "dabhole",
+    "stops": [
+      "devgad",
+      "dabhole"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-tambalddeg",
+    "from": "devgad",
+    "to": "tambalddeg",
+    "stops": [
+      "devgad",
+      "tambalddeg"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-katalvan",
+    "from": "devgad",
+    "to": "katalvan",
+    "stops": [
+      "devgad",
+      "katalvan"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-poyare",
+    "from": "devgad",
+    "to": "poyare",
+    "stops": [
+      "devgad",
+      "poyare"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-talhebajar",
+    "from": "devgad",
+    "to": "talhebajar",
+    "stops": [
+      "devgad",
+      "talhebajar"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-katta",
+    "from": "devgad",
+    "to": "katta",
+    "stops": [
+      "devgad",
+      "katta"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-kunkeshwar",
+    "from": "devgad",
+    "to": "kunkeshwar",
+    "stops": [
+      "devgad",
+      "kunkeshwar"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-mitbav",
+    "from": "devgad",
+    "to": "mitbav",
+    "stops": [
+      "devgad",
+      "mitbav"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-are",
+    "from": "devgad",
+    "to": "are",
+    "stops": [
+      "devgad",
+      "are"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-khudi",
+    "from": "devgad",
+    "to": "khudi",
+    "stops": [
+      "devgad",
+      "khudi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-vijaydurg",
+    "from": "devgad",
+    "to": "vijaydurg",
+    "stops": [
+      "devgad",
+      "vijaydurg"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-padve",
+    "from": "devgad",
+    "to": "padve",
+    "stops": [
+      "devgad",
+      "padve"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-padve-palave",
+    "from": "devgad",
+    "to": "padve-palave",
+    "stops": [
+      "devgad",
+      "padve-palave"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-vanivade",
+    "from": "devgad",
+    "to": "vanivade",
+    "stops": [
+      "devgad",
+      "vanivade"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-talere",
+    "from": "devgad",
+    "to": "talere",
+    "stops": [
+      "devgad",
+      "talere"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-shirgaon",
+    "from": "devgad",
+    "to": "shirgaon",
+    "stops": [
+      "devgad",
+      "shirgaon"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-chirwadi",
+    "from": "devgad",
+    "to": "chirwadi",
+    "stops": [
+      "devgad",
+      "chirwadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "devgad-to-kuwale",
+    "from": "devgad",
+    "to": "kuwale",
+    "stops": [
+      "devgad",
+      "kuwale"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-devgad",
+    "from": "vijaydurg",
+    "to": "devgad",
+    "stops": [
+      "vijaydurg",
+      "devgad"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-chiplun",
+    "from": "vijaydurg",
+    "to": "chiplun",
+    "stops": [
+      "vijaydurg",
+      "chiplun"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-mumbai-central",
+    "from": "vijaydurg",
+    "to": "mumbai-central",
+    "stops": [
+      "vijaydurg",
+      "mumbai-central"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-malvan",
+    "from": "vijaydurg",
+    "to": "malvan",
+    "stops": [
+      "vijaydurg",
+      "malvan"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-pimpri-chinchwad",
+    "from": "vijaydurg",
+    "to": "pimpri-chinchwad",
+    "stops": [
+      "vijaydurg",
+      "pimpri-chinchwad"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-ichalkaranji",
+    "from": "vijaydurg",
+    "to": "ichalkaranji",
+    "stops": [
+      "vijaydurg",
+      "ichalkaranji"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-pandharpur",
+    "from": "vijaydurg",
+    "to": "pandharpur",
+    "stops": [
+      "vijaydurg",
+      "pandharpur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-panaji",
+    "from": "vijaydurg",
+    "to": "panaji",
+    "stops": [
+      "vijaydurg",
+      "panaji"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-pachal",
+    "from": "vijaydurg",
+    "to": "pachal",
+    "stops": [
+      "vijaydurg",
+      "pachal"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-vengurle",
+    "from": "vijaydurg",
+    "to": "vengurle",
+    "stops": [
+      "vijaydurg",
+      "vengurle"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-vaibhavwadi",
+    "from": "vijaydurg",
+    "to": "vaibhavwadi",
+    "stops": [
+      "vijaydurg",
+      "vaibhavwadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-ratnagiri",
+    "from": "vijaydurg",
+    "to": "ratnagiri",
+    "stops": [
+      "vijaydurg",
+      "ratnagiri"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-kankavli",
+    "from": "vijaydurg",
+    "to": "kankavli",
+    "stops": [
+      "vijaydurg",
+      "kankavli"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-kharepatan",
+    "from": "vijaydurg",
+    "to": "kharepatan",
+    "stops": [
+      "vijaydurg",
+      "kharepatan"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-tarla",
+    "from": "vijaydurg",
+    "to": "tarla",
+    "stops": [
+      "vijaydurg",
+      "tarla"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-sawantwadi",
+    "from": "vijaydurg",
+    "to": "sawantwadi",
+    "stops": [
+      "vijaydurg",
+      "sawantwadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-waghotan-bandar",
+    "from": "vijaydurg",
+    "to": "waghotan-bandar",
+    "stops": [
+      "vijaydurg",
+      "waghotan-bandar"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-phonda-tarla",
+    "from": "vijaydurg",
+    "to": "phonda-tarla",
+    "stops": [
+      "vijaydurg",
+      "phonda-tarla"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vijaydurg-to-borivali",
+    "from": "vijaydurg",
+    "to": "borivali",
+    "stops": [
+      "vijaydurg",
+      "borivali"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-pune-swargate",
+    "from": "kudal",
+    "to": "pune-swargate",
+    "stops": [
+      "kudal",
+      "pune-swargate"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-akkalkot",
+    "from": "kudal",
+    "to": "akkalkot",
+    "stops": [
+      "kudal",
+      "akkalkot"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-bijapur",
+    "from": "kudal",
+    "to": "bijapur",
+    "stops": [
+      "kudal",
+      "bijapur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-kolhapur",
+    "from": "kudal",
+    "to": "kolhapur",
+    "stops": [
+      "kudal",
+      "kolhapur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-ratnagiri",
+    "from": "kudal",
+    "to": "ratnagiri",
+    "stops": [
+      "kudal",
+      "ratnagiri"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-belgaum",
+    "from": "kudal",
+    "to": "belgaum",
+    "stops": [
+      "kudal",
+      "belgaum"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-panaji",
+    "from": "kudal",
+    "to": "panaji",
+    "stops": [
+      "kudal",
+      "panaji"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-babu",
+    "from": "kudal",
+    "to": "babu",
+    "stops": [
+      "kudal",
+      "babu"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-parule-bajar",
+    "from": "kudal",
+    "to": "parule-bajar",
+    "stops": [
+      "kudal",
+      "parule-bajar"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-kavathi",
+    "from": "kudal",
+    "to": "kavathi",
+    "stops": [
+      "kudal",
+      "kavathi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-bhoglewadi",
+    "from": "kudal",
+    "to": "bhoglewadi",
+    "stops": [
+      "kudal",
+      "bhoglewadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-sonavadepur",
+    "from": "kudal",
+    "to": "sonavadepur",
+    "stops": [
+      "kudal",
+      "sonavadepur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-sarambal",
+    "from": "kudal",
+    "to": "sarambal",
+    "stops": [
+      "kudal",
+      "sarambal"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-dhadge",
+    "from": "kudal",
+    "to": "dhadge",
+    "stops": [
+      "kudal",
+      "dhadge"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-pangrad",
+    "from": "kudal",
+    "to": "pangrad",
+    "stops": [
+      "kudal",
+      "pangrad"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-kusgaon",
+    "from": "kudal",
+    "to": "kusgaon",
+    "stops": [
+      "kudal",
+      "kusgaon"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-narur",
+    "from": "kudal",
+    "to": "narur",
+    "stops": [
+      "kudal",
+      "narur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-hindewadi",
+    "from": "kudal",
+    "to": "hindewadi",
+    "stops": [
+      "kudal",
+      "hindewadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-hillock",
+    "from": "kudal",
+    "to": "hillock",
+    "stops": [
+      "kudal",
+      "hillock"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-rangana-tulusuli",
+    "from": "kudal",
+    "to": "rangana-tulusuli",
+    "stops": [
+      "kudal",
+      "rangana-tulusuli"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-kerwade",
+    "from": "kudal",
+    "to": "kerwade",
+    "stops": [
+      "kudal",
+      "kerwade"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-sawantwadi",
+    "from": "kudal",
+    "to": "sawantwadi",
+    "stops": [
+      "kudal",
+      "sawantwadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-aajivade",
+    "from": "kudal",
+    "to": "aajivade",
+    "stops": [
+      "kudal",
+      "aajivade"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-ghavanale",
+    "from": "kudal",
+    "to": "ghavanale",
+    "stops": [
+      "kudal",
+      "ghavanale"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-bamnadevi",
+    "from": "kudal",
+    "to": "bamnadevi",
+    "stops": [
+      "kudal",
+      "bamnadevi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-mandkuli",
+    "from": "kudal",
+    "to": "mandkuli",
+    "stops": [
+      "kudal",
+      "mandkuli"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-shivapur",
+    "from": "kudal",
+    "to": "shivapur",
+    "stops": [
+      "kudal",
+      "shivapur"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-phutbrij",
+    "from": "kudal",
+    "to": "phutbrij",
+    "stops": [
+      "kudal",
+      "phutbrij"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-nivaje",
+    "from": "kudal",
+    "to": "nivaje",
+    "stops": [
+      "kudal",
+      "nivaje"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-adoswadi",
+    "from": "kudal",
+    "to": "adoswadi",
+    "stops": [
+      "kudal",
+      "adoswadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-vengurle",
+    "from": "kudal",
+    "to": "vengurle",
+    "stops": [
+      "kudal",
+      "vengurle"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-kelus",
+    "from": "kudal",
+    "to": "kelus",
+    "stops": [
+      "kudal",
+      "kelus"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-kalvi-bandar",
+    "from": "kudal",
+    "to": "kalvi-bandar",
+    "stops": [
+      "kudal",
+      "kalvi-bandar"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-govari",
+    "from": "kudal",
+    "to": "govari",
+    "stops": [
+      "kudal",
+      "govari"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-killenivati",
+    "from": "kudal",
+    "to": "killenivati",
+    "stops": [
+      "kudal",
+      "killenivati"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-nivati",
+    "from": "kudal",
+    "to": "nivati",
+    "stops": [
+      "kudal",
+      "nivati"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-karli",
+    "from": "kudal",
+    "to": "karli",
+    "stops": [
+      "kudal",
+      "karli"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-korjai",
+    "from": "kudal",
+    "to": "korjai",
+    "stops": [
+      "kudal",
+      "korjai"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-khawane",
+    "from": "kudal",
+    "to": "khawane",
+    "stops": [
+      "kudal",
+      "khawane"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-bhagve",
+    "from": "kudal",
+    "to": "bhagve",
+    "stops": [
+      "kudal",
+      "bhagve"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-kochra",
+    "from": "kudal",
+    "to": "kochra",
+    "stops": [
+      "kudal",
+      "kochra"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-malvan",
+    "from": "kudal",
+    "to": "malvan",
+    "stops": [
+      "kudal",
+      "malvan"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-masure",
+    "from": "kudal",
+    "to": "masure",
+    "stops": [
+      "kudal",
+      "masure"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-talgaon",
+    "from": "kudal",
+    "to": "talgaon",
+    "stops": [
+      "kudal",
+      "talgaon"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-sindhudurg-nagari",
+    "from": "kudal",
+    "to": "sindhudurg-nagari",
+    "stops": [
+      "kudal",
+      "sindhudurg-nagari"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-devgad",
+    "from": "kudal",
+    "to": "devgad",
+    "stops": [
+      "kudal",
+      "devgad"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-kharepatan",
+    "from": "kudal",
+    "to": "kharepatan",
+    "stops": [
+      "kudal",
+      "kharepatan"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-kankavli",
+    "from": "kudal",
+    "to": "kankavli",
+    "stops": [
+      "kudal",
+      "kankavli"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-wayangawade",
+    "from": "kudal",
+    "to": "wayangawade",
+    "stops": [
+      "kudal",
+      "wayangawade"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-teresamband",
+    "from": "kudal",
+    "to": "teresamband",
+    "stops": [
+      "kudal",
+      "teresamband"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-parule",
+    "from": "kudal",
+    "to": "parule",
+    "stops": [
+      "kudal",
+      "parule"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-mahadevache-kerwade",
+    "from": "kudal",
+    "to": "mahadevache-kerwade",
+    "stops": [
+      "kudal",
+      "mahadevache-kerwade"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-vetore-hay",
+    "from": "kudal",
+    "to": "vetore-hay",
+    "stops": [
+      "kudal",
+      "vetore-hay"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-malai",
+    "from": "kudal",
+    "to": "malai",
+    "stops": [
+      "kudal",
+      "malai"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-mor",
+    "from": "kudal",
+    "to": "mor",
+    "stops": [
+      "kudal",
+      "mor"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-sukalwad",
+    "from": "kudal",
+    "to": "sukalwad",
+    "stops": [
+      "kudal",
+      "sukalwad"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-humarmala",
+    "from": "kudal",
+    "to": "humarmala",
+    "stops": [
+      "kudal",
+      "humarmala"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-tiwrawadi",
+    "from": "kudal",
+    "to": "tiwrawadi",
+    "stops": [
+      "kudal",
+      "tiwrawadi"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-dutond",
+    "from": "kudal",
+    "to": "dutond",
+    "stops": [
+      "kudal",
+      "dutond"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-ajara",
+    "from": "kudal",
+    "to": "ajara",
+    "stops": [
+      "kudal",
+      "ajara"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-ambegao",
+    "from": "kudal",
+    "to": "ambegao",
+    "stops": [
+      "kudal",
+      "ambegao"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-vasoli",
+    "from": "kudal",
+    "to": "vasoli",
+    "stops": [
+      "kudal",
+      "vasoli"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-gadhinglaj",
+    "from": "kudal",
+    "to": "gadhinglaj",
+    "stops": [
+      "kudal",
+      "gadhinglaj"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-warde",
+    "from": "kudal",
+    "to": "warde",
+    "stops": [
+      "kudal",
+      "warde"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-vijaydurg",
+    "from": "kudal",
+    "to": "vijaydurg",
+    "stops": [
+      "kudal",
+      "vijaydurg"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "kudal-to-karul",
+    "from": "kudal",
+    "to": "karul",
+    "stops": [
+      "kudal",
+      "karul"
+    ],
+    "division": "ratnagiri"
+  },
+  {
+    "id": "vengurle-to-sawantwadi",
+    "from": "vengurle",
+    "to": "sawantwadi",
+    "stops": [
+      "vengurle",
+      "sawantwadi"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-vajrath",
+    "from": "vengurle",
+    "to": "vajrath",
+    "stops": [
+      "vengurle",
+      "vajrath"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-hodavada-vajrath",
+    "from": "vengurle",
+    "to": "hodavada-vajrath",
+    "stops": [
+      "vengurle",
+      "hodavada-vajrath"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-aajivade",
+    "from": "vengurle",
+    "to": "aajivade",
+    "stops": [
+      "vengurle",
+      "aajivade"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-tulsa",
+    "from": "vengurle",
+    "to": "tulsa",
+    "stops": [
+      "vengurle",
+      "tulsa"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-malvan",
+    "from": "vengurle",
+    "to": "malvan",
+    "stops": [
+      "vengurle",
+      "malvan"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-kudal-math",
+    "from": "vengurle",
+    "to": "kudal-math",
+    "stops": [
+      "vengurle",
+      "kudal-math"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-kankavli-gaganbawada",
+    "from": "vengurle",
+    "to": "kankavli-gaganbawada",
+    "stops": [
+      "vengurle",
+      "kankavli-gaganbawada"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-gaganbawada-math",
+    "from": "vengurle",
+    "to": "gaganbawada-math",
+    "stops": [
+      "vengurle",
+      "gaganbawada-math"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-aarboni-ajara",
+    "from": "vengurle",
+    "to": "aarboni-ajara",
+    "stops": [
+      "vengurle",
+      "aarboni-ajara"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-parel",
+    "from": "vengurle",
+    "to": "parel",
+    "stops": [
+      "vengurle",
+      "parel"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-vasco",
+    "from": "vengurle",
+    "to": "vasco",
+    "stops": [
+      "vengurle",
+      "vasco"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-vasco-korjai",
+    "from": "vengurle",
+    "to": "vasco-korjai",
+    "stops": [
+      "vengurle",
+      "vasco-korjai"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-panaji",
+    "from": "vengurle",
+    "to": "panaji",
+    "stops": [
+      "vengurle",
+      "panaji"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-devgad-daboli",
+    "from": "vengurle",
+    "to": "devgad-daboli",
+    "stops": [
+      "vengurle",
+      "devgad-daboli"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-pal-bambhar",
+    "from": "vengurle",
+    "to": "pal-bambhar",
+    "stops": [
+      "vengurle",
+      "pal-bambhar"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-annasurpal",
+    "from": "vengurle",
+    "to": "annasurpal",
+    "stops": [
+      "vengurle",
+      "annasurpal"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-wayangani",
+    "from": "vengurle",
+    "to": "wayangani",
+    "stops": [
+      "vengurle",
+      "wayangani"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-belgaum",
+    "from": "vengurle",
+    "to": "belgaum",
+    "stops": [
+      "vengurle",
+      "belgaum"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-harichirangiri",
+    "from": "vengurle",
+    "to": "harichirangiri",
+    "stops": [
+      "vengurle",
+      "harichirangiri"
+    ],
+    "division": "pune"
+  },
+  {
+    "id": "vengurle-to-shiroda-redi",
+    "from": "vengurle",
+    "to": "shiroda-redi",
+    "stops": [
+      "vengurle",
+      "shiroda-redi"
+    ],
+    "division": "pune"
+  }
+]

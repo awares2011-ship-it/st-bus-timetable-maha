@@ -1,0 +1,2719 @@
+{
+ "division": "amravati",
+ "docType": "timetable",
+ "sourceDoc": "अमरावती विभाग वेळापत्रक (Amravati Division) — Amravati Central Bus Stand, pages 1-2",
+ "sourceDate": "2025-03-01",
+ "note": "Departure times hand-transcribed from the scanned MSRTC PDF pages 1-2 (Amravati Central Bus Stand). Only rows visible with high confidence on the scan are encoded.",
+ "trips": [
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Paratwada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Achalpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Dharni",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Betul",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Betul",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [
+    "Paratwada"
+   ],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chikhaldara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chikhaldara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Anjangaon",
+   "via": [
+    "Asadpur"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Anjangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nirul",
+   "via": [
+    "Gangapur"
+   ],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nirul",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Sakur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Sakur",
+   "via": [
+    "Rama"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Sakur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Sakur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Sakur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Railway",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Railway",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Railway",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Railway",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Dhamangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Dhamangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Dhamangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Dhamangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Dhamangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Dhamangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Dhamangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Dhamangaon",
+   "via": [
+    "Tivsa"
+   ],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Dhamangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Dhamangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Dhamangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Dhamangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Murtizapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Murtizapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Betul",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Bhopal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chhindwara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Morsi",
+   "via": [
+    "Wadner"
+   ],
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Wani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Daryapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [
+    "Borgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [
+    "Borgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Chandur Bazar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "02:45",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "03:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "03:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "04:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "04:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Pune",
+   "via": [
+    "Akkalkot"
+   ],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Washim",
+   "via": [
+    "Pandharpur"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Washim",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Lohar",
+   "via": [
+    "Mehkar"
+   ],
+   "service": "Ordinary",
+   "departure": "14:20",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Lohar",
+   "via": [
+    "Risod"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [
+    "Wani"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Majalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Sindhudurg",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Tivsa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Tivsa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Tivsa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Tivsa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Shirajgaon",
+   "via": [
+    "Morsi"
+   ],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Shirajgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Shirajgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Shirajgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Shirajgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karimabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karimabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  },
+  {
+   "from": "Amravati",
+   "to": "Karimabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Amravati"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "docType": "timetable-page",
+ "division": "nashik",
+ "pdf": "नाशिक_विभाग_वेळापत्रक.pdf",
+ "page": 3,
+ "note": "Mahamarg bus stand, Nashik — departures, sheet 3. Kopargaon '6.3' read as 06:30. Solapur 06:00 via Mhada, 06:30 via Shirdi, 11:00/20:15 via Pimpalgaon — all stored as Solapur.",
+ "blocks": [
+  {
+   "from": "Nashik Mahamarg",
+   "fromMr": "नाशिक महामार्ग",
+   "depot": "Nashik",
+   "page": 3,
+   "rows": [
+    [
+     "Pusad",
+     "पुसद",
+     "20:45"
+    ],
+    [
+     "Shahada",
+     "शहादा",
+     "13:30"
+    ],
+    [
+     "Nandurbar",
+     "नंदुरबार",
+     "10:00 22:30"
+    ],
+    [
+     "Kopargaon",
+     "कोपरगाव",
+     "06:30 08:00 09:00 09:45 10:15 10:45 11:15 11:45 12:15 12:45 13:15 13:45 14:45 15:15 15:45 16:15 16:45 17:15 17:45"
+    ],
+    [
+     "Pandharpur",
+     "पंढरपूर",
+     "05:00 05:15 07:00 09:00 10:15 18:30"
+    ],
+    [
+     "Solapur",
+     "सोलापूर",
+     "04:15 06:00 06:30 08:30 09:30 11:00 20:15"
+    ],
+    [
+     "Raver",
+     "रावेर",
+     "09:20 22:15"
+    ]
+   ]
+  }
+ ]
+}

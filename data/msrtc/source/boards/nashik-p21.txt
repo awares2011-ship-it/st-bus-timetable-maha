@@ -1,0 +1,30 @@
+division: nashik
+pdf: नाशिक_विभाग_वेळापत्रक.pdf
+page: 21
+board: Deola | देवळा
+depot: Satana
+note: Deola bus stand, sheet 2 — buses of other depots passing Deola (time at Deola). 'X – Y' rows are through buses from X to Y. 'Dhule via Kalwan Nashik' = Dhule → Nashik. 'Khamgaon, Muktainagar' stored as Muktainagar. Kolhapur-bound fragment at the page foot omitted.
+names:
+मांगीतुंगी = Mangi Tungi
+नांदुरीगड = Nandurigad
+खामगांव ,मुक्ताईनगर = Muktainagar
+rows:
+देवळा - मालेगाव 05.50 07.00 07.45 08.30 09.45 10.45 12.30 13.00 14.30 16.00 16.30 18.30 19.30 20.30
+मांगीतुंगी - नाशिक 07.45
+नाशिक - मांगीतुंगी 18.45
+नाशिक - धुळे 17.15
+धुळे - नाशिक 09.00
+देवळा - जळगाव 13.45
+देवळा - नांदगाव 13.30
+देवळा - छत्रपती संभाजीनगर 15.00
+देवळा - खामगांव ,मुक्ताईनगर 07.55 08.30
+मनमाड - नांदुरीगड 08.15 15.00 17.50
+नांदुरीगड - मनमाड 07.15 11.00 17.45
+देवळा - चांदवड 16.00
+मनमाड - सुरत 09.00
+सुरत - मनमाड 16.15
+श्रीरामपूर - सुरत 10.15
+अहिल्यानगर - सुरत 14.15
+सुरत - श्रीरामपूर 11.45
+सुरत - अहिल्यानगर 13.35
+सटाणा - लासलगाव 10.15 15.00

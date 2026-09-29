@@ -1,0 +1,82 @@
+{
+ "docType": "timetable-page",
+ "division": "ahilyanagar",
+ "pdf": "अहिल्यानगर_विभाग_वेळापत्रक.pdf",
+ "page": 5,
+ "note": "Tarakpur / Swastik bus stand, Ahilyanagar — departures, sheet 5. 'Sindhkhed' read as Sindkhed Raja (Buldhana); Selu = Selu (Parbhani).",
+ "blocks": [
+  {
+   "from": "Ahilyanagar",
+   "fromMr": "अहिल्यानगर",
+   "depot": "Tarakpur",
+   "page": 5,
+   "rows": [
+    [
+     "Bhokar",
+     "भोकर",
+     "07:45"
+    ],
+    [
+     "Akkalkuwa",
+     "अक्कलकुवा",
+     "10:45"
+    ],
+    [
+     "Roha",
+     "रोहा",
+     "12:45"
+    ],
+    [
+     "Alibag",
+     "अलिबाग",
+     "10:00"
+    ],
+    [
+     "Bhusawal",
+     "भुसावळ",
+     "08:00 09:30 12:30"
+    ],
+    [
+     "Muktainagar",
+     "मुक्ताईनगर",
+     "10:15 11:00"
+    ],
+    [
+     "Sindkhed Raja",
+     "सिंधखेड",
+     "02:00 07:30 08:15 13:15"
+    ],
+    [
+     "Dondaicha",
+     "दोंडाईचा",
+     "05:30 06:30 14:00"
+    ],
+    [
+     "Soegaon",
+     "सोयगाव",
+     "08:30"
+    ],
+    [
+     "Bodwad",
+     "बोधवड",
+     "07:45"
+    ],
+    [
+     "Sangli",
+     "सांगली",
+     "08:00 08:45 09:45"
+    ],
+    [
+     "Belgaum",
+     "बेळगाव",
+     "19:00"
+    ],
+    [
+     "Selu",
+     "सेलू",
+     "11:00"
+    ]
+   ]
+  }
+ ]
+}

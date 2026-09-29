@@ -1,0 +1,16 @@
+# DEMO fixture in pipe-delimited TEXT form, to exercise the text parser
+# (parsers/text-timetable-parser.ts). Columns:
+# FROM | TO | VIA (';' separated) | SERVICE | DEPARTURE | ARRIVAL | DAYS | DEPOT
+# Illustrative times — not official MSRTC data.
+FROM | TO | VIA | SERVICE | DEPARTURE | ARRIVAL | DAYS | DEPOT
+Nashik | Pune Swargate | Sangamner;Rajgurunagar | Express | 06:00 | 10:00 | DAILY | Nashik
+Nashik | Pune Swargate | Sangamner;Rajgurunagar | Shivshahi | 09:00 | 12:30 | DAILY | Nashik
+Nashik | Pune Swargate | Sangamner | Shivshahi | 16:00 | 19:30 | DAILY | Nashik
+Solapur | Pune Swargate | Tembhurni;Indapur | Express | 06:30 | 11:30 | DAILY | Solapur
+Solapur | Pune Swargate | Tembhurni;Indapur | Shivshahi | 14:00 | 18:30 | DAILY | Solapur
+Solapur | Pune Swargate | Tembhurni;Indapur | Vithai | 23:30 | 04:30 | DAILY | Solapur
+Chhatrapati Sambhajinagar | Pune Swargate | Ahilyanagar | Shivshahi | 07:00 | 12:00 | DAILY | Chhatrapati Sambhajinagar
+Chhatrapati Sambhajinagar | Pune Swargate | Ahilyanagar | Express | 22:00 | 03:30 | DAILY | Chhatrapati Sambhajinagar
+Shirdi | Pune Swargate | Sangamner | Shivshahi | 08:00 | 12:00 | DAILY | Shirdi
+Shirdi | Pune Swargate | Sangamner | Ordinary | 15:30 | 20:00 | DAILY | Shirdi
+Nagpur | Pune Swargate | Wardha;Chhatrapati Sambhajinagar;Ahilyanagar | Vithai | 15:00 | 07:00 | DAILY | Nagpur (Ganeshpeth)

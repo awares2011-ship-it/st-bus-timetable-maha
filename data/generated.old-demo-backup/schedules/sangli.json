@@ -1,0 +1,175 @@
+{
+  "division": "sangli",
+  "slug": "sangli",
+  "generatedAt": "2026-09-07T12:12:52.009Z",
+  "trips": [
+    {
+      "id": "sangli-to-pune-swargate-0530-ordinary",
+      "routeId": "sangli-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "05:30",
+      "arrival": "09:00",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sangli",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sangli-to-pune-swargate-0700-ordinary",
+      "routeId": "sangli-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "07:00",
+      "arrival": "10:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sangli",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sangli-to-pune-swargate-0900-shivshahi",
+      "routeId": "sangli-to-pune-swargate",
+      "serviceType": "shivshahi",
+      "departure": "09:00",
+      "arrival": "12:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sangli",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sangli-to-pune-swargate-1100-ordinary",
+      "routeId": "sangli-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "11:00",
+      "arrival": "14:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sangli",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sangli-to-pune-swargate-1400-ordinary",
+      "routeId": "sangli-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "14:00",
+      "arrival": "17:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sangli",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sangli-to-pune-swargate-1700-ordinary",
+      "routeId": "sangli-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "17:00",
+      "arrival": "20:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sangli",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sangli-to-mumbai-1900-shivshahi",
+      "routeId": "sangli-to-mumbai",
+      "serviceType": "shivshahi",
+      "departure": "19:00",
+      "arrival": "01:30",
+      "durationMin": 390,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sangli",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "sangli-to-mumbai-2100-shivshahi",
+      "routeId": "sangli-to-mumbai",
+      "serviceType": "shivshahi",
+      "departure": "21:00",
+      "arrival": "03:30",
+      "durationMin": 390,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "sangli",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    }
+  ]
+}

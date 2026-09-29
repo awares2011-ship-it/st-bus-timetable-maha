@@ -1,0 +1,5868 @@
+{
+  "division": "pune",
+  "slug": "pune",
+  "generatedAt": "2026-09-07T12:12:52.009Z",
+  "trips": [
+    {
+      "id": "lonavala-to-mumbai-0030-ordinary",
+      "routeId": "lonavala-to-mumbai",
+      "serviceType": "ordinary",
+      "departure": "00:05",
+      "arrival": "02:00",
+      "durationMin": 115,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-mumbai-0030-shivneri",
+      "routeId": "pune-shivajinagar-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "00:30",
+      "arrival": "03:45",
+      "durationMin": 195,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-mumbai-0100-ordinary",
+      "routeId": "lonavala-to-mumbai",
+      "serviceType": "ordinary",
+      "departure": "01:00",
+      "arrival": "02:55",
+      "durationMin": 115,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-mumbai-0200-shivneri",
+      "routeId": "pune-shivajinagar-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "02:00",
+      "arrival": "05:15",
+      "durationMin": 195,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-mumbai-0200-ordinary",
+      "routeId": "lonavala-to-mumbai",
+      "serviceType": "ordinary",
+      "departure": "02:30",
+      "arrival": "04:25",
+      "durationMin": 115,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-mumbai-0315-ordinary",
+      "routeId": "lonavala-to-mumbai",
+      "serviceType": "ordinary",
+      "departure": "03:15",
+      "arrival": "05:10",
+      "durationMin": 115,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-mumbai-0430-shivneri",
+      "routeId": "pune-shivajinagar-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "04:30",
+      "arrival": "07:45",
+      "durationMin": 195,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-aarboni-ajara-0500-ordinary",
+      "routeId": "vengurle-to-aarboni-ajara",
+      "serviceType": "ordinary",
+      "departure": "05:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-parel-0500-ordinary",
+      "routeId": "vengurle-to-parel",
+      "serviceType": "ordinary",
+      "departure": "05:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-shivajinagar-to-sambhajinagar-0515-shivshahi",
+      "routeId": "pune-shivajinagar-to-sambhajinagar",
+      "serviceType": "shivshahi",
+      "departure": "05:15",
+      "arrival": "09:00",
+      "durationMin": 225,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-tulsa-0515-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "05:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-satara-0530-ordinary",
+      "routeId": "pune-swargate-to-satara",
+      "serviceType": "ordinary",
+      "departure": "05:30",
+      "arrival": "07:45",
+      "durationMin": 135,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-kolhapur-0530-shivshahi",
+      "routeId": "pune-swargate-to-kolhapur",
+      "serviceType": "shivshahi",
+      "departure": "05:30",
+      "arrival": "09:30",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-solapur-0530-ordinary",
+      "routeId": "pune-swargate-to-solapur",
+      "serviceType": "ordinary",
+      "departure": "05:30",
+      "arrival": "09:30",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-shirdi-0530-ordinary",
+      "routeId": "pune-swargate-to-shirdi",
+      "serviceType": "ordinary",
+      "departure": "05:30",
+      "arrival": "09:00",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-nashik-0530-shivshahi",
+      "routeId": "pune-shivajinagar-to-nashik",
+      "serviceType": "shivshahi",
+      "departure": "05:30",
+      "arrival": "09:30",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-vasco-0550-ordinary",
+      "routeId": "vengurle-to-vasco",
+      "serviceType": "ordinary",
+      "departure": "05:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-nashik-0600-express",
+      "routeId": "pune-swargate-to-nashik",
+      "serviceType": "express",
+      "departure": "06:00",
+      "arrival": "10:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-pandharpur-0600-ordinary",
+      "routeId": "pune-swargate-to-pandharpur",
+      "serviceType": "ordinary",
+      "departure": "06:00",
+      "arrival": "09:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-mumbai-0600-shivneri",
+      "routeId": "pune-shivajinagar-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "06:00",
+      "arrival": "09:15",
+      "durationMin": 195,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-mumbai-0600-shivneri",
+      "routeId": "lonavala-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "06:00",
+      "arrival": "07:55",
+      "durationMin": 115,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-pune-swargate-0600-ordinary",
+      "routeId": "lonavala-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "06:00",
+      "arrival": "07:30",
+      "durationMin": 90,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-sawantwadi-0600-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "06:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-0600-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "06:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-0600-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "06:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-pal-bambhar-0600-ordinary",
+      "routeId": "vengurle-to-pal-bambhar",
+      "serviceType": "ordinary",
+      "departure": "06:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-0615-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "06:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-vasco-0620-ordinary",
+      "routeId": "vengurle-to-vasco",
+      "serviceType": "ordinary",
+      "departure": "06:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-0640-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "06:40",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-wayangani-0645-ordinary",
+      "routeId": "vengurle-to-wayangani",
+      "serviceType": "ordinary",
+      "departure": "06:45",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-0645-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "06:45",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-pal-bambhar-0650-ordinary",
+      "routeId": "vengurle-to-pal-bambhar",
+      "serviceType": "ordinary",
+      "departure": "06:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-hodavada-vajrath-0655-ordinary",
+      "routeId": "vengurle-to-hodavada-vajrath",
+      "serviceType": "ordinary",
+      "departure": "06:55",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-satara-0700-ordinary",
+      "routeId": "pune-swargate-to-satara",
+      "serviceType": "ordinary",
+      "departure": "07:00",
+      "arrival": "09:15",
+      "durationMin": 135,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-kolhapur-0700-shivshahi",
+      "routeId": "pune-swargate-to-kolhapur",
+      "serviceType": "shivshahi",
+      "departure": "07:00",
+      "arrival": "11:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-solapur-0700-ordinary",
+      "routeId": "pune-swargate-to-solapur",
+      "serviceType": "ordinary",
+      "departure": "07:00",
+      "arrival": "11:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-shirdi-0700-ordinary",
+      "routeId": "pune-swargate-to-shirdi",
+      "serviceType": "ordinary",
+      "departure": "07:00",
+      "arrival": "10:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-nashik-0700-shivshahi",
+      "routeId": "pune-shivajinagar-to-nashik",
+      "serviceType": "shivshahi",
+      "departure": "07:00",
+      "arrival": "11:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-mumbai-0700-shivneri",
+      "routeId": "pune-shivajinagar-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "07:00",
+      "arrival": "10:15",
+      "durationMin": 195,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-kankavli-gaganbawada-0700-ordinary",
+      "routeId": "vengurle-to-kankavli-gaganbawada",
+      "serviceType": "ordinary",
+      "departure": "07:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-0710-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "07:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-0710-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "07:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-pal-bambhar-0715-ordinary",
+      "routeId": "vengurle-to-pal-bambhar",
+      "serviceType": "ordinary",
+      "departure": "07:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-wayangani-0725-ordinary",
+      "routeId": "vengurle-to-wayangani",
+      "serviceType": "ordinary",
+      "departure": "07:25",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-shivajinagar-to-sambhajinagar-0730-shivshahi",
+      "routeId": "pune-shivajinagar-to-sambhajinagar",
+      "serviceType": "shivshahi",
+      "departure": "07:30",
+      "arrival": "11:15",
+      "durationMin": 225,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-tulsa-0730-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "07:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-0735-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "07:35",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-aajivade-0740-ordinary",
+      "routeId": "vengurle-to-aajivade",
+      "serviceType": "ordinary",
+      "departure": "07:40",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-0740-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "07:40",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-0745-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "07:45",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-0745-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "07:45",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-0750-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "07:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-0750-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "07:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-0750-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "07:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-nashik-0800-express",
+      "routeId": "pune-swargate-to-nashik",
+      "serviceType": "express",
+      "departure": "08:00",
+      "arrival": "12:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-mahabaleshwar-0800-ordinary",
+      "routeId": "pune-swargate-to-mahabaleshwar",
+      "serviceType": "ordinary",
+      "departure": "08:00",
+      "arrival": "10:30",
+      "durationMin": 150,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-mumbai-0800-shivneri",
+      "routeId": "pune-shivajinagar-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "08:00",
+      "arrival": "11:15",
+      "durationMin": 195,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-mumbai-0800-shivneri",
+      "routeId": "lonavala-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "08:00",
+      "arrival": "09:55",
+      "durationMin": 115,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-pune-swargate-0800-ordinary",
+      "routeId": "lonavala-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "08:00",
+      "arrival": "09:30",
+      "durationMin": 90,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-sawantwadi-0800-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "08:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-0800-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "08:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kankavli-gaganbawada-0800-ordinary",
+      "routeId": "vengurle-to-kankavli-gaganbawada",
+      "serviceType": "ordinary",
+      "departure": "08:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-0800-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "08:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-0810-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "08:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-0810-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "08:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kudal-math-0815-ordinary",
+      "routeId": "vengurle-to-kudal-math",
+      "serviceType": "ordinary",
+      "departure": "08:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-harichirangiri-0815-ordinary",
+      "routeId": "vengurle-to-harichirangiri",
+      "serviceType": "ordinary",
+      "departure": "08:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-0815-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "08:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-0820-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "08:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-0825-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "08:25",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-satara-0830-shivshahi",
+      "routeId": "pune-swargate-to-satara",
+      "serviceType": "shivshahi",
+      "departure": "08:30",
+      "arrival": "10:45",
+      "durationMin": 135,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-malvan-0830-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "08:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-aarboni-ajara-0830-ordinary",
+      "routeId": "vengurle-to-aarboni-ajara",
+      "serviceType": "ordinary",
+      "departure": "08:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-vasco-0830-ordinary",
+      "routeId": "vengurle-to-vasco",
+      "serviceType": "ordinary",
+      "departure": "08:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-wayangani-0830-ordinary",
+      "routeId": "vengurle-to-wayangani",
+      "serviceType": "ordinary",
+      "departure": "08:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-0830-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "08:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-0835-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "08:35",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-0850-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "08:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-0850-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "08:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-pal-bambhar-0850-ordinary",
+      "routeId": "vengurle-to-pal-bambhar",
+      "serviceType": "ordinary",
+      "departure": "08:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-kolhapur-0900-shivshahi",
+      "routeId": "pune-swargate-to-kolhapur",
+      "serviceType": "shivshahi",
+      "departure": "09:00",
+      "arrival": "13:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-solapur-0900-ordinary",
+      "routeId": "pune-swargate-to-solapur",
+      "serviceType": "ordinary",
+      "departure": "09:00",
+      "arrival": "13:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-shirdi-0900-ordinary",
+      "routeId": "pune-swargate-to-shirdi",
+      "serviceType": "ordinary",
+      "departure": "09:00",
+      "arrival": "12:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-pandharpur-0900-ordinary",
+      "routeId": "pune-swargate-to-pandharpur",
+      "serviceType": "ordinary",
+      "departure": "09:00",
+      "arrival": "12:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-nashik-0900-shivshahi",
+      "routeId": "pune-shivajinagar-to-nashik",
+      "serviceType": "shivshahi",
+      "departure": "09:00",
+      "arrival": "13:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-sawantwadi-0900-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "09:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-0900-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "09:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kankavli-gaganbawada-0900-ordinary",
+      "routeId": "vengurle-to-kankavli-gaganbawada",
+      "serviceType": "ordinary",
+      "departure": "09:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-wayangani-0910-ordinary",
+      "routeId": "vengurle-to-wayangani",
+      "serviceType": "ordinary",
+      "departure": "09:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-0920-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "09:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kudal-math-0920-ordinary",
+      "routeId": "vengurle-to-kudal-math",
+      "serviceType": "ordinary",
+      "departure": "09:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-harichirangiri-0920-ordinary",
+      "routeId": "vengurle-to-harichirangiri",
+      "serviceType": "ordinary",
+      "departure": "09:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-0930-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "09:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-annasurpal-0930-ordinary",
+      "routeId": "vengurle-to-annasurpal",
+      "serviceType": "ordinary",
+      "departure": "09:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-harichirangiri-0930-ordinary",
+      "routeId": "vengurle-to-harichirangiri",
+      "serviceType": "ordinary",
+      "departure": "09:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-0935-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "09:35",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-0940-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "09:40",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-0940-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "09:40",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-0950-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "09:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-0950-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "09:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-satara-1000-ordinary",
+      "routeId": "pune-swargate-to-satara",
+      "serviceType": "ordinary",
+      "departure": "10:00",
+      "arrival": "12:15",
+      "durationMin": 135,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-nashik-1000-shivshahi",
+      "routeId": "pune-swargate-to-nashik",
+      "serviceType": "shivshahi",
+      "departure": "10:00",
+      "arrival": "14:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-mahabaleshwar-1000-ordinary",
+      "routeId": "pune-swargate-to-mahabaleshwar",
+      "serviceType": "ordinary",
+      "departure": "10:00",
+      "arrival": "12:30",
+      "durationMin": 150,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-mumbai-1000-shivneri",
+      "routeId": "pune-shivajinagar-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "10:00",
+      "arrival": "13:15",
+      "durationMin": 195,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-sambhajinagar-1000-shivshahi",
+      "routeId": "pune-shivajinagar-to-sambhajinagar",
+      "serviceType": "shivshahi",
+      "departure": "10:00",
+      "arrival": "13:45",
+      "durationMin": 225,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-mumbai-1000-shivneri",
+      "routeId": "lonavala-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "10:00",
+      "arrival": "11:55",
+      "durationMin": 115,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-pune-swargate-1000-ordinary",
+      "routeId": "lonavala-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "10:00",
+      "arrival": "11:30",
+      "durationMin": 90,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-malvan-1000-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "10:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-vasco-1000-ordinary",
+      "routeId": "vengurle-to-vasco",
+      "serviceType": "ordinary",
+      "departure": "10:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1000-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "10:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-1010-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "10:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1010-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "10:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-annasurpal-1015-ordinary",
+      "routeId": "vengurle-to-annasurpal",
+      "serviceType": "ordinary",
+      "departure": "10:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kudal-math-1020-ordinary",
+      "routeId": "vengurle-to-kudal-math",
+      "serviceType": "ordinary",
+      "departure": "10:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-vasco-korjai-1020-ordinary",
+      "routeId": "vengurle-to-vasco-korjai",
+      "serviceType": "ordinary",
+      "departure": "10:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1030-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "10:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-1030-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "10:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-pal-bambhar-1030-ordinary",
+      "routeId": "vengurle-to-pal-bambhar",
+      "serviceType": "ordinary",
+      "departure": "10:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1030-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "10:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1040-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "10:40",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-harichirangiri-1040-ordinary",
+      "routeId": "vengurle-to-harichirangiri",
+      "serviceType": "ordinary",
+      "departure": "10:40",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1045-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "10:45",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-kolhapur-1100-shivshahi",
+      "routeId": "pune-swargate-to-kolhapur",
+      "serviceType": "shivshahi",
+      "departure": "11:00",
+      "arrival": "15:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-solapur-1100-ordinary",
+      "routeId": "pune-swargate-to-solapur",
+      "serviceType": "ordinary",
+      "departure": "11:00",
+      "arrival": "15:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-shirdi-1100-ordinary",
+      "routeId": "pune-swargate-to-shirdi",
+      "serviceType": "ordinary",
+      "departure": "11:00",
+      "arrival": "14:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-nashik-1100-shivshahi",
+      "routeId": "pune-shivajinagar-to-nashik",
+      "serviceType": "shivshahi",
+      "departure": "11:00",
+      "arrival": "15:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-vasco-1100-ordinary",
+      "routeId": "vengurle-to-vasco",
+      "serviceType": "ordinary",
+      "departure": "11:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1100-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "11:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-1105-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "11:05",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1110-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "11:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-pal-bambhar-1110-ordinary",
+      "routeId": "vengurle-to-pal-bambhar",
+      "serviceType": "ordinary",
+      "departure": "11:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kudal-math-1115-ordinary",
+      "routeId": "vengurle-to-kudal-math",
+      "serviceType": "ordinary",
+      "departure": "11:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-1120-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "11:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kankavli-gaganbawada-1130-ordinary",
+      "routeId": "vengurle-to-kankavli-gaganbawada",
+      "serviceType": "ordinary",
+      "departure": "11:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-harichirangiri-1130-ordinary",
+      "routeId": "vengurle-to-harichirangiri",
+      "serviceType": "ordinary",
+      "departure": "11:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1130-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "11:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-1135-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "11:35",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1140-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "11:40",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1140-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "11:40",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-1145-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "11:45",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-panaji-1145-ordinary",
+      "routeId": "vengurle-to-panaji",
+      "serviceType": "ordinary",
+      "departure": "11:45",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1155-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "11:55",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-satara-1200-shivshahi",
+      "routeId": "pune-swargate-to-satara",
+      "serviceType": "shivshahi",
+      "departure": "12:00",
+      "arrival": "14:15",
+      "durationMin": 135,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-nashik-1200-express",
+      "routeId": "pune-swargate-to-nashik",
+      "serviceType": "express",
+      "departure": "12:00",
+      "arrival": "16:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-pandharpur-1200-ordinary",
+      "routeId": "pune-swargate-to-pandharpur",
+      "serviceType": "ordinary",
+      "departure": "12:00",
+      "arrival": "15:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-mahabaleshwar-1200-ordinary",
+      "routeId": "pune-swargate-to-mahabaleshwar",
+      "serviceType": "ordinary",
+      "departure": "12:00",
+      "arrival": "14:30",
+      "durationMin": 150,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-mumbai-1200-shivneri",
+      "routeId": "pune-shivajinagar-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "12:00",
+      "arrival": "15:15",
+      "durationMin": 195,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-mumbai-1200-shivneri",
+      "routeId": "lonavala-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "12:00",
+      "arrival": "13:55",
+      "durationMin": 115,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1200-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "12:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-1200-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "12:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kudal-math-1200-ordinary",
+      "routeId": "vengurle-to-kudal-math",
+      "serviceType": "ordinary",
+      "departure": "12:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-wayangani-1200-ordinary",
+      "routeId": "vengurle-to-wayangani",
+      "serviceType": "ordinary",
+      "departure": "12:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-gaganbawada-math-1210-ordinary",
+      "routeId": "vengurle-to-gaganbawada-math",
+      "serviceType": "ordinary",
+      "departure": "12:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1220-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "12:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-1220-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "12:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1220-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "12:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-1230-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "12:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-1230-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "12:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kudal-math-1230-ordinary",
+      "routeId": "vengurle-to-kudal-math",
+      "serviceType": "ordinary",
+      "departure": "12:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-pal-bambhar-1230-ordinary",
+      "routeId": "vengurle-to-pal-bambhar",
+      "serviceType": "ordinary",
+      "departure": "12:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1230-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "12:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-harichirangiri-1235-ordinary",
+      "routeId": "vengurle-to-harichirangiri",
+      "serviceType": "ordinary",
+      "departure": "12:35",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-wayangani-1245-ordinary",
+      "routeId": "vengurle-to-wayangani",
+      "serviceType": "ordinary",
+      "departure": "12:45",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-kolhapur-1300-shivshahi",
+      "routeId": "pune-swargate-to-kolhapur",
+      "serviceType": "shivshahi",
+      "departure": "13:00",
+      "arrival": "17:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-solapur-1300-ordinary",
+      "routeId": "pune-swargate-to-solapur",
+      "serviceType": "ordinary",
+      "departure": "13:00",
+      "arrival": "17:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-shirdi-1300-ordinary",
+      "routeId": "pune-swargate-to-shirdi",
+      "serviceType": "ordinary",
+      "departure": "13:00",
+      "arrival": "16:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-nashik-1300-shivshahi",
+      "routeId": "pune-shivajinagar-to-nashik",
+      "serviceType": "shivshahi",
+      "departure": "13:00",
+      "arrival": "17:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-sambhajinagar-1300-shivshahi",
+      "routeId": "pune-shivajinagar-to-sambhajinagar",
+      "serviceType": "shivshahi",
+      "departure": "13:00",
+      "arrival": "16:45",
+      "durationMin": 225,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-pune-swargate-1300-ordinary",
+      "routeId": "lonavala-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "13:00",
+      "arrival": "14:30",
+      "durationMin": 90,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1300-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "13:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-aarboni-ajara-1300-ordinary",
+      "routeId": "vengurle-to-aarboni-ajara",
+      "serviceType": "ordinary",
+      "departure": "13:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1300-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "13:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1300-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "13:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-panaji-1305-ordinary",
+      "routeId": "vengurle-to-panaji",
+      "serviceType": "ordinary",
+      "departure": "13:05",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1310-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "13:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kankavli-gaganbawada-1315-ordinary",
+      "routeId": "vengurle-to-kankavli-gaganbawada",
+      "serviceType": "ordinary",
+      "departure": "13:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-vasco-1315-ordinary",
+      "routeId": "vengurle-to-vasco",
+      "serviceType": "ordinary",
+      "departure": "13:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1325-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "13:25",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-1330-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "13:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1330-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "13:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-pal-bambhar-1330-ordinary",
+      "routeId": "vengurle-to-pal-bambhar",
+      "serviceType": "ordinary",
+      "departure": "13:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1330-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "13:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-gaganbawada-math-1335-ordinary",
+      "routeId": "vengurle-to-gaganbawada-math",
+      "serviceType": "ordinary",
+      "departure": "13:35",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-1345-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "13:45",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-wayangani-1355-ordinary",
+      "routeId": "vengurle-to-wayangani",
+      "serviceType": "ordinary",
+      "departure": "13:55",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-satara-1400-ordinary",
+      "routeId": "pune-swargate-to-satara",
+      "serviceType": "ordinary",
+      "departure": "14:00",
+      "arrival": "16:15",
+      "durationMin": 135,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-nashik-1400-shivshahi",
+      "routeId": "pune-swargate-to-nashik",
+      "serviceType": "shivshahi",
+      "departure": "14:00",
+      "arrival": "18:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-mumbai-1400-shivneri",
+      "routeId": "pune-shivajinagar-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "14:00",
+      "arrival": "17:15",
+      "durationMin": 195,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-mumbai-1400-shivneri",
+      "routeId": "lonavala-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "14:00",
+      "arrival": "15:55",
+      "durationMin": 115,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-tulsa-1400-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "14:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-1400-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "14:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kankavli-gaganbawada-1400-ordinary",
+      "routeId": "vengurle-to-kankavli-gaganbawada",
+      "serviceType": "ordinary",
+      "departure": "14:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1400-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "14:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-panaji-1415-ordinary",
+      "routeId": "vengurle-to-panaji",
+      "serviceType": "ordinary",
+      "departure": "14:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kudal-math-1420-ordinary",
+      "routeId": "vengurle-to-kudal-math",
+      "serviceType": "ordinary",
+      "departure": "14:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-1430-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "14:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-1430-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "14:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1430-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "14:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-1435-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "14:35",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-wayangani-1435-ordinary",
+      "routeId": "vengurle-to-wayangani",
+      "serviceType": "ordinary",
+      "departure": "14:35",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-1440-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "14:40",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1445-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "14:45",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-vasco-1445-ordinary",
+      "routeId": "vengurle-to-vasco",
+      "serviceType": "ordinary",
+      "departure": "14:45",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1445-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "14:45",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-1450-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "14:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kudal-math-1450-ordinary",
+      "routeId": "vengurle-to-kudal-math",
+      "serviceType": "ordinary",
+      "departure": "14:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-pal-bambhar-1450-ordinary",
+      "routeId": "vengurle-to-pal-bambhar",
+      "serviceType": "ordinary",
+      "departure": "14:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-kolhapur-1500-shivshahi",
+      "routeId": "pune-swargate-to-kolhapur",
+      "serviceType": "shivshahi",
+      "departure": "15:00",
+      "arrival": "19:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-solapur-1500-ordinary",
+      "routeId": "pune-swargate-to-solapur",
+      "serviceType": "ordinary",
+      "departure": "15:00",
+      "arrival": "19:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-shirdi-1500-ordinary",
+      "routeId": "pune-swargate-to-shirdi",
+      "serviceType": "ordinary",
+      "departure": "15:00",
+      "arrival": "18:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-pandharpur-1500-ordinary",
+      "routeId": "pune-swargate-to-pandharpur",
+      "serviceType": "ordinary",
+      "departure": "15:00",
+      "arrival": "18:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-nashik-1500-shivshahi",
+      "routeId": "pune-shivajinagar-to-nashik",
+      "serviceType": "shivshahi",
+      "departure": "15:00",
+      "arrival": "19:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-malvan-1510-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "15:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1530-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "15:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-1530-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "15:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kudal-math-1530-ordinary",
+      "routeId": "vengurle-to-kudal-math",
+      "serviceType": "ordinary",
+      "departure": "15:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-vasco-1530-ordinary",
+      "routeId": "vengurle-to-vasco",
+      "serviceType": "ordinary",
+      "departure": "15:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1530-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "15:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-belgaum-1530-ordinary",
+      "routeId": "vengurle-to-belgaum",
+      "serviceType": "ordinary",
+      "departure": "15:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-pal-bambhar-1535-ordinary",
+      "routeId": "vengurle-to-pal-bambhar",
+      "serviceType": "ordinary",
+      "departure": "15:35",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1540-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "15:40",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-1550-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "15:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1550-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "15:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-satara-1600-shivshahi",
+      "routeId": "pune-swargate-to-satara",
+      "serviceType": "shivshahi",
+      "departure": "16:00",
+      "arrival": "18:15",
+      "durationMin": 135,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-nashik-1600-express",
+      "routeId": "pune-swargate-to-nashik",
+      "serviceType": "express",
+      "departure": "16:00",
+      "arrival": "20:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-mumbai-1600-shivneri",
+      "routeId": "pune-shivajinagar-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "16:00",
+      "arrival": "19:15",
+      "durationMin": 195,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-sambhajinagar-1600-shivshahi",
+      "routeId": "pune-shivajinagar-to-sambhajinagar",
+      "serviceType": "shivshahi",
+      "departure": "16:00",
+      "arrival": "19:45",
+      "durationMin": 225,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-mumbai-1600-shivneri",
+      "routeId": "lonavala-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "16:00",
+      "arrival": "17:55",
+      "durationMin": 115,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-pune-swargate-1600-ordinary",
+      "routeId": "lonavala-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "16:00",
+      "arrival": "17:30",
+      "durationMin": 90,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1600-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "16:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-1600-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "16:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-belgaum-1600-ordinary",
+      "routeId": "vengurle-to-belgaum",
+      "serviceType": "ordinary",
+      "departure": "16:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1610-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "16:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1610-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "16:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-panaji-1615-ordinary",
+      "routeId": "vengurle-to-panaji",
+      "serviceType": "ordinary",
+      "departure": "16:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1620-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "16:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-harichirangiri-1625-ordinary",
+      "routeId": "vengurle-to-harichirangiri",
+      "serviceType": "ordinary",
+      "departure": "16:25",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1630-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "16:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1640-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "16:40",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-wayangani-1640-ordinary",
+      "routeId": "vengurle-to-wayangani",
+      "serviceType": "ordinary",
+      "departure": "16:40",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-1655-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "16:55",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1655-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "16:55",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-kolhapur-1700-shivshahi",
+      "routeId": "pune-swargate-to-kolhapur",
+      "serviceType": "shivshahi",
+      "departure": "17:00",
+      "arrival": "21:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-solapur-1700-ordinary",
+      "routeId": "pune-swargate-to-solapur",
+      "serviceType": "ordinary",
+      "departure": "17:00",
+      "arrival": "21:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-shirdi-1700-ordinary",
+      "routeId": "pune-swargate-to-shirdi",
+      "serviceType": "ordinary",
+      "departure": "17:00",
+      "arrival": "20:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-nashik-1700-shivshahi",
+      "routeId": "pune-shivajinagar-to-nashik",
+      "serviceType": "shivshahi",
+      "departure": "17:00",
+      "arrival": "21:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-tulsa-1700-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "17:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kudal-math-1700-ordinary",
+      "routeId": "vengurle-to-kudal-math",
+      "serviceType": "ordinary",
+      "departure": "17:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1700-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "17:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-harichirangiri-1700-ordinary",
+      "routeId": "vengurle-to-harichirangiri",
+      "serviceType": "ordinary",
+      "departure": "17:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1700-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "17:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1710-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "17:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1715-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "17:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-wayangani-1715-ordinary",
+      "routeId": "vengurle-to-wayangani",
+      "serviceType": "ordinary",
+      "departure": "17:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1720-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "17:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1725-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "17:25",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-pal-bambhar-1730-ordinary",
+      "routeId": "vengurle-to-pal-bambhar",
+      "serviceType": "ordinary",
+      "departure": "17:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-harichirangiri-1730-ordinary",
+      "routeId": "vengurle-to-harichirangiri",
+      "serviceType": "ordinary",
+      "departure": "17:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-1745-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "17:45",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1755-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "17:55",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-satara-1800-ordinary",
+      "routeId": "pune-swargate-to-satara",
+      "serviceType": "ordinary",
+      "departure": "18:00",
+      "arrival": "20:15",
+      "durationMin": 135,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-swargate-to-nashik-1800-express",
+      "routeId": "pune-swargate-to-nashik",
+      "serviceType": "express",
+      "departure": "18:00",
+      "arrival": "22:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-mumbai-1800-shivneri",
+      "routeId": "pune-shivajinagar-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "18:00",
+      "arrival": "21:15",
+      "durationMin": 195,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-mumbai-1800-shivneri",
+      "routeId": "lonavala-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "18:00",
+      "arrival": "19:55",
+      "durationMin": 115,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-pune-swargate-1800-ordinary",
+      "routeId": "lonavala-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "18:00",
+      "arrival": "19:30",
+      "durationMin": 90,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-malvan-1800-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "18:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1805-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "18:05",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1810-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "18:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-malvan-1810-ordinary",
+      "routeId": "vengurle-to-malvan",
+      "serviceType": "ordinary",
+      "departure": "18:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-gaganbawada-math-1810-ordinary",
+      "routeId": "vengurle-to-gaganbawada-math",
+      "serviceType": "ordinary",
+      "departure": "18:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-harichirangiri-1810-ordinary",
+      "routeId": "vengurle-to-harichirangiri",
+      "serviceType": "ordinary",
+      "departure": "18:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-vajrath-1815-ordinary",
+      "routeId": "vengurle-to-vajrath",
+      "serviceType": "ordinary",
+      "departure": "18:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-aarboni-ajara-1815-ordinary",
+      "routeId": "vengurle-to-aarboni-ajara",
+      "serviceType": "ordinary",
+      "departure": "18:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1815-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "18:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-1820-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "18:20",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kudal-math-1830-ordinary",
+      "routeId": "vengurle-to-kudal-math",
+      "serviceType": "ordinary",
+      "departure": "18:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1830-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "18:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1850-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "18:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-panaji-1855-ordinary",
+      "routeId": "vengurle-to-panaji",
+      "serviceType": "ordinary",
+      "departure": "18:55",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-kolhapur-1900-shivshahi",
+      "routeId": "pune-swargate-to-kolhapur",
+      "serviceType": "shivshahi",
+      "departure": "19:00",
+      "arrival": "23:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-nashik-1900-shivshahi",
+      "routeId": "pune-shivajinagar-to-nashik",
+      "serviceType": "shivshahi",
+      "departure": "19:00",
+      "arrival": "23:00",
+      "durationMin": 240,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-sambhajinagar-1900-shivshahi",
+      "routeId": "pune-shivajinagar-to-sambhajinagar",
+      "serviceType": "shivshahi",
+      "departure": "19:00",
+      "arrival": "22:45",
+      "durationMin": 225,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1900-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "19:00",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-1910-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "19:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-gaganbawada-math-1915-ordinary",
+      "routeId": "vengurle-to-gaganbawada-math",
+      "serviceType": "ordinary",
+      "departure": "19:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-sawantwadi-1930-ordinary",
+      "routeId": "vengurle-to-sawantwadi",
+      "serviceType": "ordinary",
+      "departure": "19:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-kudal-math-1930-ordinary",
+      "routeId": "vengurle-to-kudal-math",
+      "serviceType": "ordinary",
+      "departure": "19:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-panaji-1930-ordinary",
+      "routeId": "vengurle-to-panaji",
+      "serviceType": "ordinary",
+      "departure": "19:30",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-1935-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "19:35",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-parel-1950-ordinary",
+      "routeId": "vengurle-to-parel",
+      "serviceType": "ordinary",
+      "departure": "19:50",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-swargate-to-satara-2000-ordinary",
+      "routeId": "pune-swargate-to-satara",
+      "serviceType": "ordinary",
+      "departure": "20:00",
+      "arrival": "22:15",
+      "durationMin": 135,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "swargate",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "pune-shivajinagar-to-mumbai-2000-shivneri",
+      "routeId": "pune-shivajinagar-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "20:00",
+      "arrival": "23:15",
+      "durationMin": 195,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "lonavala-to-mumbai-2000-shivneri",
+      "routeId": "lonavala-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "20:00",
+      "arrival": "21:55",
+      "durationMin": 115,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "lonavala",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    },
+    {
+      "id": "vengurle-to-shiroda-redi-2010-ordinary",
+      "routeId": "vengurle-to-shiroda-redi",
+      "serviceType": "ordinary",
+      "departure": "20:10",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-aarboni-ajara-2015-ordinary",
+      "routeId": "vengurle-to-aarboni-ajara",
+      "serviceType": "ordinary",
+      "departure": "20:15",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-tulsa-2025-ordinary",
+      "routeId": "vengurle-to-tulsa",
+      "serviceType": "ordinary",
+      "departure": "20:25",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-devgad-daboli-2040-ordinary",
+      "routeId": "vengurle-to-devgad-daboli",
+      "serviceType": "ordinary",
+      "departure": "20:40",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "vengurle-to-gaganbawada-math-2155-ordinary",
+      "routeId": "vengurle-to-gaganbawada-math",
+      "serviceType": "ordinary",
+      "departure": "21:55",
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "vengurle",
+      "source": "DEMO",
+      "lastVerified": "2026-09-07",
+      "verified": false
+    },
+    {
+      "id": "pune-shivajinagar-to-mumbai-2200-shivneri",
+      "routeId": "pune-shivajinagar-to-mumbai",
+      "serviceType": "shivneri",
+      "departure": "22:00",
+      "arrival": "01:15",
+      "durationMin": 195,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shivajinagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-02-25",
+      "verified": true
+    }
+  ]
+}

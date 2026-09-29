@@ -1,0 +1,1568 @@
+{
+ "division": "latur",
+ "docType": "timetable",
+ "sourceDoc": "लातूर विभाग वेळापत्रक (Latur Division) — Latur depot, pages 1-2",
+ "sourceDate": "2025-03-01",
+ "note": "Departure times transcribed from scanned MSRTC Latur division PDF. Covers Latur depot bus stand departures.",
+ "trips": [
+  {
+   "from": "Latur",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Vasai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Kalyan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nalasopara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Borivali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pune Swargate",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Jatni",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Kashi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Kashi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Kurduvadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Jatgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Hingoli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Hingoli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Purnad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Purnad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Anjangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Anjangaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Ambe",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Basnat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded SC",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded SC",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded SC",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded SC",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded SC",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded SC",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded SC",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nanded SC",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Bhalkar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Bhalkar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Bhalkar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Bhalkar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Bhalkar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Bhalkar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Bhalkar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Bhalkar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Hadgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Hadgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Hadgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Hadgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Hadgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Hadgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Hadgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Hadgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Chinchol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Ratnagiri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Ratnagiri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Ichalkaranji",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Sangli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Sangli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nira",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nira",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nira",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Parel",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Lingnapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nagzewadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Satara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Satara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Satara",
+   "via": [
+    "Baramati"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Satara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Satara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Wai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Karad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Karad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Jath",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Jath",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Pardha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Karmala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Bhoom",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Dharashiv",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Udgir",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Nilanga",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Ahmednagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Osmanabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Jalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Jalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Jalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Chakur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Latur"
+  },
+  {
+   "from": "Latur",
+   "to": "Ausa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Latur"
+  }
+ ]
+}

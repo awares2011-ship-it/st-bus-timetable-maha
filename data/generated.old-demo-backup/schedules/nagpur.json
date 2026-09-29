@@ -1,0 +1,91 @@
+{
+  "division": "nagpur",
+  "slug": "nagpur",
+  "generatedAt": "2026-09-07T12:12:52.009Z",
+  "trips": [
+    {
+      "id": "nagpur-to-mumbai-0700-shivshahi",
+      "routeId": "nagpur-to-mumbai",
+      "serviceType": "shivshahi",
+      "departure": "07:00",
+      "arrival": "21:00",
+      "durationMin": 840,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "nagpur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "nagpur-to-pune-swargate-0800-shivshahi",
+      "routeId": "nagpur-to-pune-swargate",
+      "serviceType": "shivshahi",
+      "departure": "08:00",
+      "arrival": "18:00",
+      "durationMin": 600,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "nagpur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "nagpur-to-mumbai-1900-shivshahi",
+      "routeId": "nagpur-to-mumbai",
+      "serviceType": "shivshahi",
+      "departure": "19:00",
+      "arrival": "09:00",
+      "durationMin": 840,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "nagpur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "nagpur-to-pune-swargate-2000-shivshahi",
+      "routeId": "nagpur-to-pune-swargate",
+      "serviceType": "shivshahi",
+      "departure": "20:00",
+      "arrival": "06:00",
+      "durationMin": 600,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "nagpur",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    }
+  ]
+}

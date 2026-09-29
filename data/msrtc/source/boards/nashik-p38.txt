@@ -1,0 +1,10 @@
+division: nashik
+pdf: नाशिक_विभाग_वेळापत्रक.pdf
+page: 38
+board: Satana | सटाणा
+depot: Satana
+note: Satana bus stand timetable, sheet 6 — Gujarat-state buses passing Satana (time at Satana).
+rows:
+शिर्डी - भरूच 11.00
+अंकलेश्वर - शिर्डी 05.30
+शिर्डी - अंकलेश्वर 09.35

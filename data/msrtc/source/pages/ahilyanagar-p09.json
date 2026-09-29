@@ -1,0 +1,107 @@
+{
+ "docType": "timetable-page",
+ "division": "ahilyanagar",
+ "pdf": "अहिल्यानगर_विभाग_वेळापत्रक.pdf",
+ "page": 9,
+ "note": "Continuation of the Ahilyanagar city (Maliwada) board, rural/district routes. Pimpla 09:15 and 17:00 via Loni, 18:15 night-halt at Khuntephal — stored as Pimpla. 'Pimpalgaon Ma.' = Pimpalgaon Malvi, 'Pimpalgaon U.' = Pimpalgaon Ujjaini, 'Vadgaon Tan.' = Vadgaon Tandali. Parner '18.00' printed twice stored once; Ghospuri 15:30 twice stored once.",
+ "blocks": [
+  {
+   "from": "Ahilyanagar Maliwada",
+   "fromMr": "माळीवाडा",
+   "depot": "Tarakpur",
+   "page": 9,
+   "rows": [
+    [
+     "Parner",
+     "पारनेर",
+     "07:45 08:45 09:45 10:45 11:15 11:30 12:15 12:30 13:00 14:00 14:30 15:00 15:15 16:15 16:45 17:30 18:00 18:15 18:30 18:45 19:45 21:00 21:30"
+    ],
+    [
+     "Kopargaon",
+     "कोपरगाव",
+     "07:45 10:00 10:45 13:30 14:00 16:00"
+    ],
+    [
+     "Sangamner",
+     "संगमनेर",
+     "08:45 09:00 12:30 13:00 17:00 18:00 19:15"
+    ],
+    [
+     "Akole",
+     "अकोले",
+     "11:30 13:30 17:30 20:15"
+    ],
+    [
+     "Wambori",
+     "वांबोरी",
+     "06:45 07:45 08:00 09:30 10:15 11:00 11:45 12:30 13:30 14:30 15:30 17:00 19:00"
+    ],
+    [
+     "Agadgaon",
+     "आगडगाव",
+     "07:30 10:15 11:00 11:30 12:30 14:00 17:00 18:30"
+    ],
+    [
+     "Ghospuri",
+     "घोसपूरी",
+     "08:30 10:30 13:30 15:30 19:30"
+    ],
+    [
+     "Daithane Gunjal",
+     "दैठणे गुंजाळ",
+     "13:00 19:15"
+    ],
+    [
+     "Gunwadi",
+     "गुणवाडी",
+     "13:30 18:30"
+    ],
+    [
+     "Pimpla",
+     "पिंपळा",
+     "07:00 09:15 11:00 12:30 13:30 15:00 17:00 18:15"
+    ],
+    [
+     "Pimpalgaon Malvi",
+     "पिंपळगाव मा.",
+     "09:30 16:00"
+    ],
+    [
+     "Dahigavne",
+     "दहिगावणे",
+     "07:30"
+    ],
+    [
+     "Tarkeshwar",
+     "तारकेश्वर मु.",
+     "18:15"
+    ],
+    [
+     "Sandva",
+     "सांडवा",
+     "08:45"
+    ],
+    [
+     "Ralegan",
+     "राळेगण",
+     "15:30"
+    ],
+    [
+     "Bhorwadi",
+     "भोरवाडी",
+     "08:15 17:15"
+    ],
+    [
+     "Pimpalgaon Ujjaini",
+     "पिंपळगाव उ.",
+     "10:00 16:00"
+    ],
+    [
+     "Vadgaon Tandali",
+     "वडगाव तां.",
+     "07:45 15:15"
+    ]
+   ]
+  }
+ ]
+}

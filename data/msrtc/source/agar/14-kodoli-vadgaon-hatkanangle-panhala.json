@@ -1,0 +1,3640 @@
+{
+ "division": "kolhapur",
+ "docType": "timetable",
+ "note": "Transcribed from MSRTC Kodoli, Vadgaon (07.03.2025), Hatkanangle (10.03.2025) and Panhala bus sthanak timetables, Kolhapur division. Departures from each sthanak. Unverified.",
+ "trips": [
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "08:40",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "08:50",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:10",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "11:10",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:25",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "19:50",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Giroli",
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Giroli",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Giroli",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Giroli",
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Panhala",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Panhala",
+   "service": "Ordinary",
+   "departure": "11:50",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Vadgaon",
+   "service": "Ordinary",
+   "departure": "07:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Vadgaon",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Vadgaon",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Vadgaon",
+   "service": "Ordinary",
+   "departure": "07:50",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Vadgaon",
+   "service": "Ordinary",
+   "departure": "09:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Vadgaon",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Vadgaon",
+   "service": "Ordinary",
+   "departure": "09:55",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Vadgaon",
+   "service": "Ordinary",
+   "departure": "10:05",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Vadgaon",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Vadgaon",
+   "service": "Ordinary",
+   "departure": "10:25",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Vadgaon",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Vadgaon",
+   "service": "Ordinary",
+   "departure": "11:10",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Vadgaon",
+   "service": "Ordinary",
+   "departure": "17:50",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Vadgaon",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "07:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "09:40",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "10:10",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "10:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "11:40",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "13:10",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "13:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "13:25",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "14:35",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "15:25",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "15:35",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "16:55",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "18:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "08:25",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "09:40",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "10:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "14:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "14:35",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "15:35",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "16:10",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "16:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "17:10",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "17:35",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "18:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "19:50",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Islampur",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "08:35",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "12:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "16:35",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "16:40",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "16:50",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "18:25",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "10:20",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "10:50",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "13:25",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "15:50",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "16:35",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "18:25",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "00:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "09:50",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "11:35",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "13:55",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "16:55",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "19:35",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Kodoli",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "19:40",
+   "days": "DAILY",
+   "depot": "Kodoli"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Mumbai",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "06:05",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "06:40",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Shirdi",
+   "service": "Ordinary",
+   "departure": "07:10",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Shirdi",
+   "service": "Ordinary",
+   "departure": "08:40",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Nashik",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Nigdi",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Nigdi",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Chiplun",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "06:50",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "08:25",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "09:50",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "11:10",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "11:25",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "12:25",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "12:40",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "14:10",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "16:10",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "17:55",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "18:05",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "10:50",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "11:10",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "12:05",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "13:20",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "14:20",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "17:10",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "17:25",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "19:50",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ashta",
+   "service": "Ordinary",
+   "departure": "07:50",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ashta",
+   "service": "Ordinary",
+   "departure": "08:20",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ashta",
+   "service": "Ordinary",
+   "departure": "09:55",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ashta",
+   "service": "Ordinary",
+   "departure": "10:55",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ashta",
+   "service": "Ordinary",
+   "departure": "11:25",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ashta",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ashta",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ashta",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ashta",
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ashta",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ashta",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ashta",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Ashta",
+   "service": "Ordinary",
+   "departure": "19:10",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Palus",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Palus",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Vita",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "10:20",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "11:10",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "12:55",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "16:05",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Boryapadale",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "June Pargaon",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Nilewadi",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "07:05",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "09:25",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "09:35",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "09:55",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "10:25",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "11:40",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "18:25",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "19:55",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "20:50",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Chavare",
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "16:25",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "19:10",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Bhadole",
+   "service": "Ordinary",
+   "departure": "21:05",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Manpadale",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Manpadale",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Manpadale",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Manpadale",
+   "service": "Ordinary",
+   "departure": "10:20",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Manpadale",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Manpadale",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Manpadale",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Manpadale",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Manpadale",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Manpadale",
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Manpadale",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Khochi",
+   "service": "Ordinary",
+   "departure": "07:10",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Khochi",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Khochi",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Khochi",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Khochi",
+   "service": "Ordinary",
+   "departure": "11:10",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Khochi",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Khochi",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Khochi",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Khochi",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Khochi",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Khochi",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Khochi",
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Khochi",
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Bhedavde",
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Buvache Wathar",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Buvache Wathar",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Buvache Wathar",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Buvache Wathar",
+   "service": "Ordinary",
+   "departure": "18:40",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Buvache Wathar",
+   "service": "Ordinary",
+   "departure": "20:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Sangli",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Sangli",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kavathesar",
+   "service": "Ordinary",
+   "departure": "07:10",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Vadgaon",
+   "to": "Kavathesar",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Vadgaon"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "05:50",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "07:20",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "08:50",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "11:50",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "13:50",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "16:50",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Shirdi",
+   "service": "Ordinary",
+   "departure": "06:50",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Shirdi",
+   "service": "Ordinary",
+   "departure": "08:20",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Nashik",
+   "service": "Ordinary",
+   "departure": "09:20",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Mumbai",
+   "service": "Ordinary",
+   "departure": "09:50",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Chiplun",
+   "service": "Ordinary",
+   "departure": "07:50",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Narande",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Lakshmiwadi",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Ghunki",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Bhadole",
+   "service": "Ordinary",
+   "departure": "20:40",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kavathesar",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kavathesar",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kavathesar",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kavathesar",
+   "service": "Ordinary",
+   "departure": "20:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kumbhoj",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kumbhoj",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kumbhoj",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kumbhoj",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kumbhoj",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kumbhoj",
+   "service": "Ordinary",
+   "departure": "14:50",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kumbhoj",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Jat",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Malshiras",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Malkapur",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Rajapur",
+   "service": "Ordinary",
+   "departure": "06:40",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "07:20",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "16:35",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Malvan",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Malvan",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Vengurla",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Vengurla",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Lanja",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Lanja",
+   "service": "Ordinary",
+   "departure": "16:10",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Chandgad",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Gaganbawada",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "09:20",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Devrukh",
+   "service": "Ordinary",
+   "departure": "17:20",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Vijaydurg",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Nanded",
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Nanded",
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Barshi",
+   "service": "Ordinary",
+   "departure": "05:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Barshi",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Beed",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Beed",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Dharashiv",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Dharashiv",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Atpadi",
+   "service": "Ordinary",
+   "departure": "07:20",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Akaluj",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Akaluj",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Pandharpur",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Solapur",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Solapur",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Latur",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Latur",
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Sangameshwar",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Ganapur",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Ganapur",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Ambajogai",
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Akkalkot",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Rajapur",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Hatkanangle",
+   "to": "Rajapur",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Hatkanangle"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:05",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "13:10",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "18:40",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Panhala",
+   "to": "Kodoli",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Panhala"
+  },
+  {
+   "from": "Wathar",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Satave Savarde",
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Vita",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Vita",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Vita",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Vita",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Vita",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Vita",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Jotiba",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Dahiwadi",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Dahiwadi",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Dahiwadi",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Dahiwadi",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Wathar"
+  },
+  {
+   "from": "Wathar",
+   "to": "Shirala",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Wathar"
+  }
+ ],
+ "unverified": true
+}

@@ -1,0 +1,127 @@
+{
+ "docType": "timetable-page",
+ "division": "nashik",
+ "pdf": "नाशिक_विभाग_वेळापत्रक.pdf",
+ "page": 30,
+ "note": "Vani bus stand (Kalwan depot), 2025, departures. 'Nashik (Pale)' and 'Nashik (Abhona)' = Nashik-bound via those villages, stored as Nashik; 'Dangsaundane (Abhona)' stored as Dangsaundane; 'Devlik-Had' stored as Devlik. 'Mu. Nagar' read as Muktainagar.",
+ "blocks": [
+  {
+   "from": "Vani (Dindori)",
+   "fromMr": "वणी",
+   "depot": "Kalwan",
+   "page": 30,
+   "rows": [
+    [
+     "Manur (Kalwan)",
+     "मानुर",
+     "09:30 17:30"
+    ],
+    [
+     "Mangalidar",
+     "मांगळीदर",
+     "09:30 16:15 19:00"
+    ],
+    [
+     "Shivbhandane",
+     "शिवभांडणे",
+     "16:00"
+    ],
+    [
+     "Dhanoli",
+     "धनोली",
+     "10:15 18:30"
+    ],
+    [
+     "Devlik",
+     "देवळीकहाड",
+     "10:00 20:30"
+    ],
+    [
+     "Khirad",
+     "खिराड",
+     "07:30 11:00 16:45"
+    ],
+    [
+     "Bilwadi",
+     "बिलवाडी",
+     "09:30 14:30"
+    ],
+    [
+     "Nashik",
+     "नाशिक(पाळे)",
+     "07:30 16:30"
+    ],
+    [
+     "Nashik",
+     "नाशिक(अभोणा)",
+     "13:00"
+    ],
+    [
+     "Kanashi",
+     "कनाशी",
+     "14:30"
+    ],
+    [
+     "Dangsaundane",
+     "डांगसौदाणे(अभो)",
+     "07:30 13:45"
+    ],
+    [
+     "Manmad",
+     "मनमाड",
+     "06:45 10:30 17:15"
+    ],
+    [
+     "Satana",
+     "सटाणा",
+     "12:15"
+    ],
+    [
+     "Malegaon",
+     "मालेगाव",
+     "06:00 10:45 15:45"
+    ],
+    [
+     "Nandgaon",
+     "नादगाव",
+     "13:10"
+    ],
+    [
+     "Jalgaon",
+     "जळगाव",
+     "13:15"
+    ],
+    [
+     "Peth",
+     "पेठ",
+     "13:10"
+    ],
+    [
+     "Khamgaon",
+     "खामगाव",
+     "07:30"
+    ],
+    [
+     "Muktainagar",
+     "मु.नगर",
+     "08:10"
+    ],
+    [
+     "Navapur",
+     "नवापुर",
+     "09:15"
+    ],
+    [
+     "Dhule",
+     "धुळे",
+     "16:45"
+    ],
+    [
+     "Jawhar",
+     "जव्हार",
+     "15:15"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "docType": "timetable-page",
+ "division": "nashik",
+ "pdf": "नाशिक_विभाग_वेळापत्रक.pdf",
+ "page": 16,
+ "note": "Lasalgaon depot bus stand, 12/03/2025, departures (read right-to-left in each row). Nashik via Chandori / Ugaon / Sogras / Ranwad all stored as Nashik; Pune via Kolpewadi and via Niphad–Sinnar stored as Pune; Chandwad via Dahivad/Dighvad/Urdhul/Sangvi/Devgaon stored as Chandwad; Amalner via Manmad stored as Amalner.",
+ "blocks": [
+  {
+   "from": "Lasalgaon",
+   "fromMr": "लासलगाव",
+   "depot": "Lasalgaon",
+   "page": 16,
+   "rows": [
+    [
+     "Tuljapur",
+     "तुळजापूर",
+     "08:00"
+    ],
+    [
+     "Pune (city)",
+     "पुणे",
+     "05:45 07:00"
+    ],
+    [
+     "Khobala",
+     "खोबळा",
+     "07:00 08:00"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "05:00 05:30 06:00 06:30 06:45 07:00 07:15 07:30 08:00 08:30 09:00 09:30 10:00 11:00 11:15 12:00 12:30 13:00 13:30 14:00 15:00 15:15 16:00 16:30 17:00 17:30 18:30"
+    ],
+    [
+     "Manmad",
+     "मनमाड",
+     "06:30 07:15 09:00 09:45 11:30 12:15 13:00 14:00 14:45 16:30 17:15 18:35"
+    ],
+    [
+     "Amalner",
+     "अमळनेर",
+     "08:00"
+    ],
+    [
+     "Satana",
+     "सटाणा",
+     "07:30 12:15"
+    ],
+    [
+     "Surat",
+     "सुरत",
+     "09:45"
+    ],
+    [
+     "Chandwad",
+     "चांदवड",
+     "06:00 06:30 08:00 08:20 09:30 10:15 11:00 11:30 12:30 13:00 14:00 14:30 15:30 16:00 16:30 17:30 18:00"
+    ]
+   ]
+  }
+ ]
+}

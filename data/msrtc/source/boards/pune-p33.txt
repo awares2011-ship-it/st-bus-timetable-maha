@@ -1,0 +1,33 @@
+division: pune
+pdf: पुणे_विभाग_वेळापत्रक.pdf
+page: 33
+board: Baramati | बारामती
+depot: Baramati MIDC
+note: Baramati MIDC depot bus stand board; stored under Baramati (same town). Two-name rows: 'Baramati X' = Baramati → X; 'Pune – Jat', 'Satara – Ausa', 'Satara – Nanded', 'Nashik – Akluj' are through buses timed here ('00.30' for Pune–Jat kept). Village shuttles (Sayambachiwadi, Sherewadi, Late, Ghadgewadi, Nirgude, Murti, Asu, Barad) kept where the name is unambiguous; Supa via Barhanpur–Jalgaon kept as Supa.
+names:
+सुपा = Supe (Baramati)
+पाटस = Patas
+शिरूर = Shirur
+हैद्राबाद = Hyderabad
+औसा = Ausa
+आटपाडी = Atpadi
+लाटे = Late
+बरड = Barad
+आसू = Asu
+rows:
+बारामती - सुपा 07.30 09.00 10.00 13.45 16.00 19.00
+बारामती - आसू 07.00 09.00 11.00 13.30 17.30 19.30
+बारामती - बरड 08.00 10.30 11.30 14.00 16.30 19.00
+बारामती - लाटे 08.00 16.30 18.45
+बारामती - तुळजापूर 06.45 12.30
+बारामती - हैद्राबाद 07.15
+बारामती - पाटस 08.00 10.00 13.00 14.00 16.00 19.00
+बारामती - शिरूर 11.30 15.30
+बारामती - पंढरपूर 07.00 13.30
+नाशिक - अकलूज 15.30
+पुणे - जत 09.30 00.30
+बारामती - अक्कलकोट 06.15 14.30
+बारामती - आटपाडी 14.00
+बारामती - लातूर 07.30
+सातारा - औसा 10.30
+सातारा - नांदेड 10.00

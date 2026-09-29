@@ -1,0 +1,147 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 23,
+ "note": "Pimpri-Chinchwad (Vallabhnagar) depot bus stand, departures sheet 1. Two-name rows 'X Y' are 'via X to Y' and stored as destination Y. 'Nandura Kalamb', 'Bhum / It Washi', 'Bhum Chumbali' omitted. 'Dharangaon 5,35,7,20' read as 05:35, 07:20; Dhule '8' as 08:00; Mehkar '4.46' kept.",
+ "blocks": [
+  {
+   "from": "Pimpri Chinchwad",
+   "fromMr": "पिंपरी चिंचवड",
+   "depot": "Pimpri Chinchwad",
+   "page": 23,
+   "rows": [
+    [
+     "Akola",
+     "अकोला",
+     "18:45"
+    ],
+    [
+     "Amalner",
+     "अमळनेर",
+     "06:00"
+    ],
+    [
+     "Ashti (Beed)",
+     "आष्टी",
+     "06:00 07:15"
+    ],
+    [
+     "Ambajogai",
+     "अंबेजोगाई",
+     "08:00 18:00 21:30"
+    ],
+    [
+     "Umarkhed",
+     "उमरखेड",
+     "15:45"
+    ],
+    [
+     "Dharangaon",
+     "धरणगांव",
+     "05:35 07:20"
+    ],
+    [
+     "Dharur",
+     "धारूर",
+     "07:30 08:00"
+    ],
+    [
+     "Dhule",
+     "धुळे",
+     "08:00 09:45 10:15 12:15"
+    ],
+    [
+     "Nanded",
+     "नांदेड",
+     "06:00 07:00 20:00"
+    ],
+    [
+     "Kalamnuri",
+     "कळमनुरी",
+     "06:30 09:00 10:00"
+    ],
+    [
+     "Kalamb (Dharashiv)",
+     "कळंब",
+     "07:30 08:30 09:00"
+    ],
+    [
+     "Muktainagar",
+     "मुक्ताईनगर",
+     "07:35"
+    ],
+    [
+     "Jafrabad",
+     "जाफराबाद",
+     "07:15 08:30"
+    ],
+    [
+     "Jalna",
+     "जालना",
+     "09:30"
+    ],
+    [
+     "Jalgaon",
+     "जळगांव",
+     "05:00 06:00 06:45 07:00 08:00 09:00 17:30 19:00"
+    ],
+    [
+     "Jalgaon Jamod",
+     "जळगांव जामोद",
+     "06:45"
+    ],
+    [
+     "Washi (Dharashiv)",
+     "वाशी",
+     "07:00 07:30"
+    ],
+    [
+     "Jamner",
+     "जामनेर",
+     "05:45 06:30"
+    ],
+    [
+     "Majalgaon",
+     "माजलगाव",
+     "05:45"
+    ],
+    [
+     "Malkapur (Buldhana)",
+     "मलकापूर (बुलढाणा)",
+     "07:30 20:00"
+    ],
+    [
+     "Mehkar",
+     "मेहकर",
+     "04:46 06:00 19:30"
+    ],
+    [
+     "Yawal",
+     "यावल",
+     "05:00 06:00 11:00"
+    ],
+    [
+     "Yavatmal",
+     "यवतमाळ",
+     "17:30"
+    ],
+    [
+     "Partur",
+     "परतूर",
+     "08:00 09:00 10:30"
+    ],
+    [
+     "Latur",
+     "लातूर",
+     "06:00"
+    ],
+    [
+     "Pathardi",
+     "पाथर्डी",
+     "07:15"
+    ]
+   ]
+  }
+ ]
+}

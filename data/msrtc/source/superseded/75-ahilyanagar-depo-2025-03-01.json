@@ -1,0 +1,4977 @@
+{
+ "division": "ahilyanagar",
+ "docType": "timetable",
+ "sourceDoc": "Maharashtra Rajya Marg Parivahan Mahamandal Ahilyanagar Vibhag - Takapur Nagar R.P. Swastik Bus Stand & Salivada Bus Stand (Ahilyanagar Division), pages 1-8",
+ "sourceDate": "2025-03-01",
+ "note": "Departure times hand-transcribed from the scanned MSRTC PDF pages 1-8 (Ahilyanagar division). Only departure times from the main depot encoded. Times use 24-hour format. [Chakan] = via Chakan route, [Baramati] = via Baramati route, [Miri] = via Miri route, [Shiral Chip] = via Shiral Chip route, [Dhorja] = via Dhorja route, [Mandavgaon] = via Mandavgaon route, [Amalner] = via Amalner route, [Rashin] = via Rashin route.",
+ "trips": [
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mumbai",
+   "via": [
+    "Chakan"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Aurangabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Beed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Ambad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Ambad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Ambad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Ambad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Gangakhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Gangakhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Gangakhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Gangakhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jintur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jintur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jintur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jintur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Parbhani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Malkapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Malkapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Malkapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Malkapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Malkapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Malkapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Chikhali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Chikhali",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Chopda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Chopda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Parli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Parli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Parli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Parli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Parli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Parli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mehkar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Mehkar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Buldhana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Buldhana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Buldhana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Hingoli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Hingoli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Hingoli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Umarkhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Amaravati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:10",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Patus",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Patus",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Patus",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Patus",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Paithan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Paithan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Paithan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Paithan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Paithan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Wajapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Wajapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sillod",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sillod",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sillod",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sillod",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sillod",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sillod",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sillod",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sillod",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Bhoom",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Bhoom",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Bhoom",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Bhoom",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Bhoom",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kasad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kasad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kasad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kasad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jafarabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jafarabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jafarabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Majalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Majalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kalam",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kalam",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kalam",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dharur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dharur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dharur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dharur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Tirthpuri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Washim",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Erandol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pachora",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pachora",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pachora",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pachora",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shirpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shirpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shirpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Amalner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Deglur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Bhokar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Akkalkuva",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Roha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Alibag",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Bhusawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Bhusawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Bhusawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Muktainagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Muktainagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sindkhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sindkhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sindkhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sindkhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Soygaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Bodhwad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sangli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sangli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sangli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sangli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sangli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sangli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Belgaum",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Selu",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Solapur",
+   "via": [
+    "Baramati"
+   ],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Gangapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Sangole",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Akkalkot",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Kavatemahankal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Akruj",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Akruj",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Akruj",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nilanga",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Barshi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Tuljapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Tuljapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Tuljapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Tuljapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Tuljapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Tuljapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Tuljapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Tuljapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Tuljapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Tuljapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Tuljapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Usmanabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Usmanabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Satara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Satara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Satara",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Wai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Phaltan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Phaltan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Phaltan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "00:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nashik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Selvas",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "03:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [
+    "Miri"
+   ],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [
+    "Miri"
+   ],
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [
+    "Miri"
+   ],
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shivgaon",
+   "via": [
+    "Miri"
+   ],
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [
+    "Shiral Chip"
+   ],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Pathardi",
+   "via": [
+    "Shiral Chip"
+   ],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrigonda",
+   "via": [
+    "Mandavgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jamkhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jamkhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jamkhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jamkhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jamkhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jamkhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jamkhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jamkhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Jamkhed",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Shrirampur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nevasa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nevasa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nevasa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nevasa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nevasa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nevasa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nevasa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nevasa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nevasa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nevasa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nevasa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nevasa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nevasa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Nevasa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Baramati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Baramati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Baramati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Baramati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Baramati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Baramati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Baramati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Baramati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Govardhan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Govardhan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Govardhan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Govardhan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Govardhan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Govardhan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Govardhan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  },
+  {
+   "from": "Ahmednagar",
+   "to": "Govardhan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Ahmednagar"
+  }
+ ]
+}

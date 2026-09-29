@@ -1,0 +1,22 @@
+division: nashik
+pdf: नाशिक_विभाग_वेळापत्रक.pdf
+page: 45
+board: Bhagur | भगुर
+depot: Igatpuri
+note: Bhagur bus stand, sheet 2. Nashik-depot rows 'X Bhagur Nashik' are through buses from village X to Nashik timed at Bhagur; 'Nashik Vanjarwadi', 'Nashik Sakur Nandgaon' are through buses from Nashik. 'Nandgaon' here is a local village near Sakur — stored as Nandgaon (Sakur).
+names:
+नांदगाव = Nandgaon (Sakur)
+खडकेद = Khadked
+शेंडी डॅम = Shendi Dam
+वासाळी = Vasali
+शिवडा = Shivda
+rows:
+भगुर - शिवडा 17.45
+भगुर - सिन्नर 18.45 19.45 19.30
+वंजारवाडी - नाशिक 06.45
+नांदगाव - नाशिक 07.00
+वासाळी - नाशिक 07.15
+खडकेद - नाशिक 11.00
+शेंडी डॅम - नाशिक 12.25
+नाशिक - वंजारवाडी 17.45
+नाशिक - नांदगाव 19.15

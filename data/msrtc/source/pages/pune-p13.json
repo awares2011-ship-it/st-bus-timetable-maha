@@ -1,0 +1,272 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 13,
+ "note": "Daund depot board (two columns: via Baramati, via Ahilyanagar). Rows name both ends; the time is the departure at Daund. Red rows (unexplained on the board) kept as ordinary. Small via names (e.g. 'Baramati – Sambhajinagar – Jalgaon') dropped.",
+ "blocks": [
+  {
+   "from": "Daund",
+   "fromMr": "दौंड",
+   "depot": "Daund",
+   "page": 13,
+   "rows": [
+    [
+     "Kolhapur",
+     "कोल्हापूर",
+     "05:30 06:30 11:45"
+    ],
+    [
+     "Baramati",
+     "बारामती",
+     "05:45 06:15 07:30 09:15 15:00 18:00"
+    ],
+    [
+     "Satara",
+     "सातारा",
+     "06:45 08:00 14:15 15:15 16:00 17:30",
+     "",
+     "Ahilyanagar",
+     "अहिल्यानगर"
+    ],
+    [
+     "Sangli",
+     "सांगली",
+     "07:30 08:30",
+     "",
+     "Ahilyanagar",
+     "अहिल्यानगर"
+    ],
+    [
+     "Baramati",
+     "बारामती",
+     "09:45 11:15 18:30",
+     "",
+     "Chhatrapati Sambhajinagar",
+     "छत्रपती संभाजीनगर"
+    ],
+    [
+     "Sangli",
+     "सांगली",
+     "10:00 10:45 12:00",
+     "",
+     "Chhatrapati Sambhajinagar",
+     "छत्रपती संभाजीनगर"
+    ],
+    [
+     "Miraj",
+     "मिरज",
+     "11:30",
+     "",
+     "Chhatrapati Sambhajinagar",
+     "छत्रपती संभाजीनगर"
+    ],
+    [
+     "Baramati",
+     "बारामती",
+     "12:15",
+     "",
+     "Shirdi",
+     "शिर्डी"
+    ],
+    [
+     "Vaduj",
+     "वडूज",
+     "13:00",
+     "",
+     "Shirdi",
+     "शिर्डी"
+    ],
+    [
+     "Satara",
+     "सातारा",
+     "13:15",
+     "",
+     "Paithan",
+     "पैठण"
+    ],
+    [
+     "Baramati",
+     "बारामती",
+     "13:30",
+     "",
+     "Nashik",
+     "नाशिक"
+    ],
+    [
+     "Akaluj",
+     "अकलूज",
+     "14:00",
+     "",
+     "Nashik",
+     "नाशिक"
+    ],
+    [
+     "Baramati",
+     "बारामती",
+     "14:15 14:45 16:30 17:15",
+     "",
+     "Jalgaon",
+     "जळगाव"
+    ],
+    [
+     "Phaltan",
+     "फलटण",
+     "14:30 14:45",
+     "",
+     "Malkapur",
+     "मलकापूर"
+    ],
+    [
+     "Phaltan",
+     "फलटण",
+     "17:00",
+     "",
+     "Shirdi",
+     "शिर्डी"
+    ],
+    [
+     "Baramati",
+     "बारामती",
+     "17:30",
+     "",
+     "Raver",
+     "रावेर"
+    ],
+    [
+     "Baramati",
+     "बारामती",
+     "19:30",
+     "",
+     "Shrirampur",
+     "श्रीरामपूर"
+    ],
+    [
+     "Jalgaon",
+     "जळगाव",
+     "06:45 09:00 10:30 11:45",
+     "",
+     "Baramati",
+     "बारामती"
+    ],
+    [
+     "Chhatrapati Sambhajinagar",
+     "छत्रपती संभाजीनगर",
+     "07:15"
+    ],
+    [
+     "Shirdi",
+     "शिर्डी",
+     "07:30",
+     "",
+     "Phaltan",
+     "फलटण"
+    ],
+    [
+     "Raver",
+     "रावेर",
+     "07:45",
+     "",
+     "Baramati",
+     "बारामती"
+    ],
+    [
+     "Chhatrapati Sambhajinagar",
+     "छत्रपती संभाजीनगर",
+     "08:30 14:15 15:00",
+     "",
+     "Baramati",
+     "बारामती"
+    ],
+    [
+     "Shrirampur",
+     "श्रीरामपूर",
+     "09:15",
+     "",
+     "Baramati",
+     "बारामती"
+    ],
+    [
+     "Malkapur",
+     "मलकापूर",
+     "09:45 10:15",
+     "",
+     "Phaltan",
+     "फलटण"
+    ],
+    [
+     "Ahilyanagar",
+     "अहिल्यानगर",
+     "10:00 11:00 12:00 13:00 16:30 17:45",
+     "",
+     "Satara",
+     "सातारा"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "10:30",
+     "",
+     "Akaluj",
+     "अकलूज"
+    ],
+    [
+     "Paithan",
+     "पैठण",
+     "10:45",
+     "",
+     "Satara",
+     "सातारा"
+    ],
+    [
+     "Shirdi",
+     "शिर्डी",
+     "12:00",
+     "",
+     "Vaduj",
+     "वडूज"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "12:30",
+     "",
+     "Baramati",
+     "बारामती"
+    ],
+    [
+     "Chhatrapati Sambhajinagar",
+     "छत्रपती संभाजीनगर",
+     "13:30",
+     "",
+     "Miraj",
+     "मिरज"
+    ],
+    [
+     "Chhatrapati Sambhajinagar",
+     "छत्रपती संभाजीनगर",
+     "14:15 15:15 16:15",
+     "",
+     "Sangli",
+     "सांगली"
+    ],
+    [
+     "Shirdi",
+     "शिर्डी",
+     "15:15",
+     "",
+     "Baramati",
+     "बारामती"
+    ],
+    [
+     "Ahilyanagar",
+     "अहिल्यानगर",
+     "17:00 17:30",
+     "",
+     "Sangli",
+     "सांगली"
+    ]
+   ]
+  }
+ ]
+}

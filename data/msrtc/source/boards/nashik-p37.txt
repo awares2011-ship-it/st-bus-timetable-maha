@@ -1,0 +1,34 @@
+division: nashik
+pdf: नाशिक_विभाग_वेळापत्रक.pdf
+page: 37
+board: Satana | सटाणा
+depot: Satana
+note: Satana bus stand timetable, sheet 5: villages, Mumbai-bound, interstate. Gujarat-state (GSRTC) buses passing Satana stored as through buses with both ends. Local 'Nandgaon mu.', 'Tingri mu.' (night halt) village rows omitted.
+names:
+सातमाने = Satmane
+उंभरे = Umbhare
+दिघावे = Dighave
+बोइसर = Boisar
+rows:
+सटाणा - सातमाने 17.35
+सटाणा - उंभरे 08.15
+सटाणा - दिघावे 12.30
+सटाणा - कल्याण 09.45 11.00
+सटाणा - वसई 10.35
+सटाणा - बोइसर 11.00
+सटाणा - पालघर 11.55
+सटाणा - शहापूर 15.45
+सटाणा - उनई 07.15 14.30
+सटाणा - सुरत 09.45 10.45 12.30 13.30
+सटाणा - अहमदाबाद 09.30
+अहमदाबाद - शिर्डी 04.30
+शिर्डी - अहमदाबाद 10.30
+बडोदा - शिर्डी 05.00
+शिर्डी - बडोदा 09.20
+अहमदाबाद - मालेगाव 05.15
+मालेगाव - अहमदाबाद 19.30
+पाटण - मालेगाव 06.00
+मालेगाव - पाटण 17.45
+सुरत - मालेगाव 11.30
+मालेगाव - सुरत 05.45
+भरूच - शिर्डी 04.30

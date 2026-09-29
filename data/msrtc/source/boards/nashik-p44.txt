@@ -1,0 +1,26 @@
+division: nashik
+pdf: नाशिक_विभाग_वेळापत्रक.pdf
+page: 44
+board: Bhagur | भगुर
+depot: Igatpuri
+note: Bhagur bus stand (Igatpuri and Sinnar depots), departures. Rows run 'Bhagur – S.M.B.T. – destination'; the last place is stored as destination (SMBT hospital is an intermediate stop). 'Bhagur S.M.B.T.' alone stored as SMBT; 'Nashik S.M.B.T. X' rows are through buses from Nashik. 'Pimpalgaon Mor' / 'Pi. Mor' stored as Pimpalgaon Mor.
+names:
+एस.एम.बी.टी. = SMBT Hospital
+पिंपळगाव मोर = Pimpalgaon Mor
+भंडारदरावाडी = Bhandardarawadi
+खडकेत = Khadked
+शेंडी डॅम = Shendi Dam
+वासाळी = Vasali
+शिवडा = Shivda
+rows:
+भगुर - पिंपळगाव मोर 06.30 17.45
+भगुर - इगतपुरी 07.30 10.00 11.45 17.15
+भगुर - खडकेत 08.15
+भगुर - घोटी 08.00 11.00 12.30 14.15 15.30
+भगुर - शेंडी डॅम 09.00
+भगुर - एस.एम.बी.टी. 10.30
+नाशिक - टाकेद 14.45
+भगुर - टाकेद 18.05
+नाशिक - वासाळी 18.45
+भगुर - सिन्नर 06.45 08.00 08.45 09.35 11.45 12.30 13.30 14.30 15.00 16.30 18.00
+भगुर - शिवडा 10.45 12.00

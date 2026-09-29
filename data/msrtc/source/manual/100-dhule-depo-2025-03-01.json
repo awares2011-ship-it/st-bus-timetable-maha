@@ -1,0 +1,4323 @@
+{
+ "division": "dhule",
+ "docType": "timetable",
+ "sourceDoc": "à¤§à¥à¤³à¥‡ à¤µà¤¿à¤­à¤¾à¤— à¤µà¥‡à¤³à¤¾à¤ªà¤¤à¥à¤°à¤• (Dhule Division) â€” Dhule depot, pages 1-3",
+ "sourceDate": "2025-03-01",
+ "note": "Departure times hand-transcribed from the scanned MSRTC PDF (Dhule depot). Times from pages 1-3 of the Dhule division timetable.",
+ "trips": [
+  {
+   "from": "Dhule",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nandurbar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Indore",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Indore",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Indore",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Indore",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Indore",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Indore",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Indore",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Ahmedabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Ahmedabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Ahmedabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Ahmedabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Ahmedabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Malegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Jalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [
+    "Nashik"
+   ],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nagpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Nasik",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Yavatmal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Amravati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Kolhapur",
+   "via": [
+    "Pandharpur"
+   ],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Kolhapur",
+   "via": [
+    "Pandharpur"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Kolhapur",
+   "via": [
+    "Pandharpur"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Kolhapur",
+   "via": [
+    "Pandharpur"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Kolhapur",
+   "via": [
+    "Pandharpur"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Ahmadnagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Ahmadnagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Ahmadnagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Shirdi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pimpri",
+   "via": [
+    "Chinchwad"
+   ],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pandharpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Manmad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  },
+  {
+   "from": "Dhule",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Dhule"
+  }
+ ]
+}

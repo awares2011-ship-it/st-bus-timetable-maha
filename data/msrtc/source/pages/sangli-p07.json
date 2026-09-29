@@ -1,0 +1,53 @@
+{
+ "docType": "timetable-page", "division": "sangli", "pdf": "सांगली_विभाग_वेळापत्रक.pdf", "page": "7-8",
+ "note": "p7: Tasgaon board continued (only rows unambiguously departing Tasgaon; the Atpadi and Mhaswad blocks list buses from other origins passing Tasgaon and are omitted). p8: Atpadi depot revised timetable; left and right column pairs both list departures from Atpadi. Via-annotated Satara/Kharsundi cells recorded under the named destination.",
+ "blocks": [
+  {
+   "from": "Tasgaon", "fromMr": "तासगाव", "depot": "Tasgaon", "page": 7,
+   "rows": [
+    ["Gharniki", "घरनिकी", "09:45"],
+    ["Nandre", "नांद्रे", "06:10 09:00 17:15"],
+    ["Chikhalgothan", "चिखलगोठण", "09:15 15:45 20:30"],
+    ["Palus", "पलूस", "06:35 10:10 12:45 17:50"],
+    ["Dongarsoni", "डोंगरसोनी", "11:15 12:50 17:30"],
+    ["Morale", "मोराळे", "07:50 09:15 12:30 14:00 16:30 18:30 20:45"],
+    ["Lokrewadi", "लोकरेवाडी", "19:30"],
+    ["Meganwadi", "मेगाणवाडी", "07:45 10:30 12:15 19:15"],
+    ["Nimbalak", "निंबळक", "07:15 09:15 12:30 14:00 15:45 17:15 20:30"],
+    ["Vajrachaunde", "वज्रचौंडे", "20:30"]
+   ]
+  },
+  {
+   "from": "Atpadi", "fromMr": "आटपाडी", "depot": "Atpadi", "page": 8,
+   "rows": [
+    ["Kolhapur", "कोल्हापूर", "06:30 08:30 10:30 11:30 17:00"],
+    ["Sangli", "सांगली", "07:00 07:15 07:30 08:00 09:00 09:30 11:00 12:30 13:30 15:00 15:30"],
+    ["Pandharpur", "पंढरपूर", "16:30 17:30 18:30 19:30 12:45 14:00 17:00"],
+    ["Ichalkaranji", "इचलकरंजी", "08:15 10:00 12:00 14:30"],
+    ["Mumbai Central", "मुंबई सेंट्रल", "06:30 17:30"],
+    ["Hyderabad", "हैद्राबाद", "20:00"],
+    ["Solapur", "सोलापूर", "07:00 07:45 13:00"],
+    ["Latur", "लातूर", "06:30"],
+    ["Chinchwad", "चिंचवड", "07:30 11:45 12:30"],
+    ["Chhatrapati Sambhajinagar", "छत्रपती संभाजीनगर", "08:15"],
+    ["Satara", "सातारा", "07:30 08:30 08:00 13:20"],
+    ["Baramati", "बारामती", "08:00"],
+    ["Karad", "कराड", "07:00 07:20 08:30 11:30 13:45 14:00 14:30"],
+    ["Pune Swargate", "पुणे स्वारगेट", "08:30"],
+    ["Patrewadi", "पात्रेवाडी", "07:45 14:00 17:15"],
+    ["Sangola", "सांगोला", "07:30 11:00 12:00 13:00 14:00 15:00 18:10"],
+    ["Rajewadi", "राजेवाडी", "11:30 17:15 19:30 07:00 10:00 12:30 14:40"],
+    ["Kharsundi", "खरसुंडी", "07:00 10:00 12:30 14:40 18:30"],
+    ["Nimbawade", "निंबवडे", "18:30"],
+    ["Mhaswad", "म्हसवड", "10:30"],
+    ["Junoni", "जुनोनी", "07:15"],
+    ["Vibhutwadi", "विभुतवाडी", "11:30"],
+    ["Kola", "कोळा", "19:00"],
+    ["Vita", "विटा", "14:00 08:00 15:30 11:30 19:30"],
+    ["Zare", "झरे", "08:30 15:30"],
+    ["Kavathe Mahankal", "कवठे महांकाळ", "11:30"],
+    ["Bhivghat", "भिवघाट", "19:30"]
+   ]
+  }
+ ]
+}

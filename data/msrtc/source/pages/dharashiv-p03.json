@@ -1,0 +1,22 @@
+{
+ "docType": "timetable-page", "division": "dharashiv", "pdf": "धाराशिव_विभाग_बसस्थानक_वेळापत्रक.pdf", "page": 3,
+ "from": "Ter", "fromMr": "तेर", "depot": "Dharashiv",
+ "note": "Ter bus stand board. Composite 'A–B' names recorded under the final place; micro-print Murud rows omitted.",
+ "rows": [
+  ["Solapur", "सोलापूर", "06:00 14:45"],
+  ["Latur", "लातूर", "08:00 08:30 11:00 16:00 20:30 08:15 13:00 17:30 21:30"],
+  ["Parbhani", "परभणी", "10:30 13:30"],
+  ["Nanded", "नांदेड", "19:45 15:00"],
+  ["Pandharpur", "पंढरपूर", "13:15"],
+  ["Mulewadi", "मुळेवाडी", "06:15 09:45 16:45 20:15"],
+  ["Murud (Latur)", "मुरुड", "08:30 09:15 12:15 15:30 17:30 18:30 08:00 11:15 14:15 17:15"],
+  ["Kalamb (Dharashiv)", "कळंब (धाराशिव)", "07:30 10:15 11:00 11:30"],
+  ["Ambajogai", "अंबाजोगाई", "06:00"],
+  ["Hadgaon", "हदगाव", "09:00"],
+  ["Nagpur", "नागपूर", "11:45"],
+  ["Dhorala", "ढोराळा", "08:30 16:45"],
+  ["Nitli", "नितळी", "20:00"],
+  ["Makani", "माकणी", "06:15 14:00"],
+  ["Kanagra", "कनगरा", "18:15"]
+ ]
+}

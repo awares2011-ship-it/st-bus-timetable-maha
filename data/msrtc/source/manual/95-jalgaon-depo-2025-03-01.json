@@ -1,0 +1,2858 @@
+{
+ "division": "jalgaon",
+ "docType": "timetable",
+ "sourceDoc": "जळगाव विभाग वेळापत्रक (Jalgaon Division) — Jalgaon depot, pages 1-3",
+ "sourceDate": "2025-03-01",
+ "note": "Departure times hand-transcribed from the scanned MSRTC PDF (Jalgaon depot). Times from pages 1-3 of the Jalgaon division timetable.",
+ "trips": [
+  {
+   "from": "Jalgaon",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Thane",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Ankaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Anjangaon Bihire",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Anjangaon Bihire",
+   "via": [
+    "Dharam Marg"
+   ],
+   "service": "Ordinary",
+   "departure": "10:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Anjangaon Bihire",
+   "via": [
+    "Dharam Marg"
+   ],
+   "service": "Ordinary",
+   "departure": "18:40",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Akola",
+   "via": [
+    "Amalner"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:50",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Akola",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Akkalkuwa",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amaravati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Kandari"
+   ],
+   "service": "Ordinary",
+   "departure": "16:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Gandhali"
+   ],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Patonda"
+   ],
+   "service": "Ordinary",
+   "departure": "20:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Takarkheda"
+   ],
+   "service": "Ordinary",
+   "departure": "06:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Takarkheda"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Takarkheda"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Takarkheda"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Takarkheda"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Takarkheda"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Takarkheda"
+   ],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Takarkheda"
+   ],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Takarkheda"
+   ],
+   "service": "Ordinary",
+   "departure": "14:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Takarkheda"
+   ],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Takarkheda"
+   ],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Takarkheda"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Takarkheda"
+   ],
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Takarkheda"
+   ],
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Deku"
+   ],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Deku"
+   ],
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Deku"
+   ],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Deku"
+   ],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Deku"
+   ],
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Amalner",
+   "via": [
+    "Deku"
+   ],
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Ahmedabad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Arni",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Aundha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Erandol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Erandol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Erandol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Erandol",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:50",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dr. Ambedkar Nagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Kalyan",
+   "via": [
+    "Wada"
+   ],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Kalyan",
+   "via": [
+    "Badlapur"
+   ],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Kalyan",
+   "via": [
+    "Nhavi"
+   ],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Kalyan",
+   "via": [
+    "Raver"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Kalyan",
+   "via": [
+    "Raver"
+   ],
+   "service": "Ordinary",
+   "departure": "20:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Kadgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Kadgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Kadgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Kananda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Kananda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Kananda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Kurni",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Kurni",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chalisgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chikhli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chikhli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chikhli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chikhli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chinchwad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "09:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "14:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "16:25",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Dharangaon"
+   ],
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "09:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Chopda",
+   "via": [
+    "Pimpalgaon"
+   ],
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Choragaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Choragaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Choragaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:40",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Choragaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Choragaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Choragaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Choragaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Choragaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Choragaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jalgaon Khurd",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jalgaon Khurd",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jalgaon Khurd",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:35",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:50",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:50",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:40",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:35",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:50",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:50",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:40",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:50",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:50",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:40",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "20:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "21:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Jamner",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "22:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:35",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dondaicha",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Dhule",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Nandgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Nandgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Nandgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Nandgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Nandgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Nandgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Nandgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Nandgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Nandgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:40",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Navapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:40",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Navapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Navapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shahada",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shindkheda",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shevgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shevgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shevgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Satana",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:40",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:50",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:50",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Raver",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Latur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Sakri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Sakri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Sakri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Muktainagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Muktainagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Muktainagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Muktainagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Muktainagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Muktainagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Muktainagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Muktainagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Muktainagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Muktainagar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Meher",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Meher",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Meher",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Meher",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Meher",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Meher",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Yawal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Yaval",
+   "via": [
+    "Bhoslani"
+   ],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Yaval",
+   "via": [
+    "Bhoslani"
+   ],
+   "service": "Ordinary",
+   "departure": "07:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Yaval",
+   "via": [
+    "Bhoslani"
+   ],
+   "service": "Ordinary",
+   "departure": "07:35",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Yaval",
+   "via": [
+    "Bhoslani"
+   ],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Yaval",
+   "via": [
+    "Bhoslani"
+   ],
+   "service": "Ordinary",
+   "departure": "09:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Yaval",
+   "via": [
+    "Bhoslani"
+   ],
+   "service": "Ordinary",
+   "departure": "09:50",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Yaval",
+   "via": [
+    "Bhoslani"
+   ],
+   "service": "Ordinary",
+   "departure": "10:25",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Yaval",
+   "via": [
+    "Bhoslani"
+   ],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Yaval",
+   "via": [
+    "Bhoslani"
+   ],
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Yaval",
+   "via": [
+    "Bhoslani"
+   ],
+   "service": "Ordinary",
+   "departure": "11:35",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Yaval",
+   "via": [
+    "Bhoslani"
+   ],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Yaval",
+   "via": [
+    "Bhoslani"
+   ],
+   "service": "Ordinary",
+   "departure": "12:25",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Yaval",
+   "via": [
+    "Bhoslani"
+   ],
+   "service": "Ordinary",
+   "departure": "12:40",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Ranjani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Ranjani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Ranjani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Ranjani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Ranjani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Lasalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Lasalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Lasalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Lasalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Lasalgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Vadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Vapi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Wani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Washim",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Washim",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shirpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shirpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shirpur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shevgaon",
+   "via": [
+    "Kanadsawad"
+   ],
+   "service": "Ordinary",
+   "departure": "08:40",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Shevgaon",
+   "via": [
+    "Kanadsawad"
+   ],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Surat",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Pombhurna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Pombhurna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Pombhurna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Pombhurna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Pombhurna",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  },
+  {
+   "from": "Jalgaon",
+   "to": "Solapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:10",
+   "days": "DAILY",
+   "depot": "Jalgaon"
+  }
+ ]
+}

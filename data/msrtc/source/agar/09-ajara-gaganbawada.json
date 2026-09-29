@@ -1,0 +1,1608 @@
+{
+ "division": "kolhapur",
+ "docType": "timetable",
+ "note": "Transcribed from MSRTC Ajara bus sthanak timetable (updated 13.03.2025) and Gaganbawada bus sthanak timetable (updated 01.09.2025). Departures from Ajara / Gaganbawada. Unverified.",
+ "trips": [
+  {
+   "from": "Ajara",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "16:20",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Vengurla",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Vengurla",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Vengurla",
+   "service": "Ordinary",
+   "departure": "17:20",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "12:40",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "06:50",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Express",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:20",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:50",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:40",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "13:20",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "16:10",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "16:50",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pune Station",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Nigdi",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Nigdi",
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Tuljapur",
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pimpri Chinchwad",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Ichalkaranji",
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Nrusinhwadi",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Tasgaon",
+   "service": "Ordinary",
+   "departure": "14:55",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Mahagond",
+   "service": "Ordinary",
+   "departure": "09:20",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Mahagond",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Mahagond",
+   "service": "Ordinary",
+   "departure": "20:10",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Gargoti",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Gargoti",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Gargoti",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Gargoti",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Gargoti",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Gargoti",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Devkadgaon",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Devkadgaon",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Uchangi",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Vite Avandi",
+   "service": "Ordinary",
+   "departure": "06:50",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Vite Avandi",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Vite Avandi",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Vite Avandi",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Vite Avandi",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "05:50",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "06:50",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "08:20",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "10:10",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "10:50",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "16:10",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "16:57",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "07:50",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "10:20",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "16:10",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Morewadi",
+   "service": "Ordinary",
+   "departure": "05:50",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Morewadi",
+   "service": "Ordinary",
+   "departure": "08:20",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Morewadi",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Harpavde",
+   "service": "Ordinary",
+   "departure": "06:50",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Chandgad Bhadwadi",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Chandgad Bhadwadi",
+   "service": "Ordinary",
+   "departure": "07:50",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Chandgad Bhadwadi",
+   "service": "Ordinary",
+   "departure": "10:20",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Chandgad Bhadwadi",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Ganoswadi",
+   "service": "Ordinary",
+   "departure": "07:10",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Ganoswadi",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Ganoswadi",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Ganoswadi",
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Ganoswadi",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Ganoswadi",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Ganoswadi",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Ajara",
+   "to": "Ganoswadi",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Ajara"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "06:40",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:20",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "17:20",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "20:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "21:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Rankala",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Rankala",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Rankala",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Rankala",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Nrusinhwadi",
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Nrusinhwadi",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Murum",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kudal",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Vengurla",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Vengurla",
+   "service": "Ordinary",
+   "departure": "10:05",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Vengurla",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Vengurla",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Vijaydurg",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Vijaydurg",
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Vijaydurg",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Sangli",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Sangli",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Satara",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Satara",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Satara",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Satara",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Dhuvade",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Dhuvade",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Dhuvade",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Dhuvade",
+   "service": "Ordinary",
+   "departure": "18:20",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Solapur",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Panaji",
+   "service": "Shivshahi",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Tuljapur",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Tuljapur",
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Akkalkot",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Akkalkot",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Bijapur",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Mahabaleshwar",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Pune",
+   "service": "Shivshahi",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Latur",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Pandharpur",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Kurundwad",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  },
+  {
+   "from": "Gaganbawada",
+   "to": "Rajapur",
+   "service": "Ordinary",
+   "departure": "16:05",
+   "days": "DAILY",
+   "depot": "Gaganbawada"
+  }
+ ],
+ "unverified": true
+}

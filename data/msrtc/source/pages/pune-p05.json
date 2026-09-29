@@ -1,0 +1,117 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 5,
+ "note": "Talegaon (Dabhade) bus stand, sheet 2: Mumbai-side departures and 'via Chakan' departures. Ambiguous village names (Chincholi, Gangapur, Loni) omitted. Repeated times on the board (two buses) are stored once.",
+ "blocks": [
+  {
+   "from": "Talegaon Dabhade",
+   "fromMr": "तळेगाव दाभाडे",
+   "depot": "Talegaon",
+   "page": 5,
+   "rows": [
+    [
+     "Mumbai",
+     "मुंबई",
+     "08:15 10:00 11:45 12:45 14:15"
+    ],
+    [
+     "Thane",
+     "ठाणे",
+     "08:15 09:30 16:00"
+    ],
+    [
+     "Borivali",
+     "बोरीवली",
+     "13:30 14:15"
+    ],
+    [
+     "Kurla",
+     "कुर्ला",
+     "10:30 10:45 12:15 13:00 14:00 15:45 17:45"
+    ],
+    [
+     "Parel",
+     "परळ",
+     "12:45 15:45"
+    ],
+    [
+     "Ghatkopar",
+     "घाटकोपर",
+     "12:30"
+    ],
+    [
+     "Narayangaon",
+     "नारायणगाव",
+     "09:00 10:30 11:30 17:30"
+    ],
+    [
+     "Shevgaon",
+     "शेवगाव",
+     "09:15"
+    ],
+    [
+     "Parner",
+     "पारनेर",
+     "10:30"
+    ],
+    [
+     "Junnar",
+     "जुन्नर",
+     "09:30 10:45 12:30"
+    ],
+    [
+     "Jambut",
+     "जांबुत",
+     "09:00 17:30"
+    ],
+    [
+     "Belha",
+     "बेल्हा",
+     "09:00"
+    ],
+    [
+     "Bhimashankar",
+     "भीमाशंकर",
+     "10:30 11:15 15:15"
+    ],
+    [
+     "Shirur",
+     "शिरूर",
+     "10:45"
+    ],
+    [
+     "Paithan",
+     "पैठण",
+     "09:45"
+    ],
+    [
+     "Manchar",
+     "मंचर",
+     "11:00 18:00"
+    ],
+    [
+     "Bhorgiri",
+     "भोरगिरी",
+     "10:30"
+    ],
+    [
+     "Sakori",
+     "साकोरी",
+     "13:15"
+    ],
+    [
+     "Kuda",
+     "कुडा",
+     "10:30"
+    ],
+    [
+     "Pimpalgaon Rotha",
+     "पिंपळगाव रोठा",
+     "08:30"
+    ]
+   ]
+  }
+ ]
+}

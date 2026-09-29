@@ -1,0 +1,92 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 35,
+ "note": "Nira bus stand board sheet 2 (Mumbai/Konkan/Nashik side). Truncated times ('11.', '10.3', '22.3', '9.3') read as HH:00 / HH:30. 'Ra. Nagar' = Rajgurunagar; Talegaon = Talegaon Dabhade.",
+ "blocks": [
+  {
+   "from": "Nira",
+   "fromMr": "निरा",
+   "depot": "Baramati",
+   "page": 35,
+   "rows": [
+    [
+     "Alibag",
+     "अलिबाग",
+     "10:30 12:30"
+    ],
+    [
+     "Arnala",
+     "अर्नाळा",
+     "11:00"
+    ],
+    [
+     "Kalyan",
+     "कल्याण",
+     "09:15 10:45"
+    ],
+    [
+     "Shahapur",
+     "शहापूर",
+     "10:30"
+    ],
+    [
+     "Bhiwandi",
+     "भिवंडी",
+     "22:30"
+    ],
+    [
+     "Thane",
+     "ठाणे",
+     "09:30 10:30 11:00 17:00 20:00"
+    ],
+    [
+     "Nalasopara",
+     "नालासोपारा",
+     "12:30"
+    ],
+    [
+     "Boisar",
+     "बोईसर",
+     "09:30"
+    ],
+    [
+     "Jawhar",
+     "जव्हार",
+     "09:15"
+    ],
+    [
+     "Junnar",
+     "जुन्नर",
+     "12:30 13:30 14:30"
+    ],
+    [
+     "Borivali",
+     "बोरिवली",
+     "06:45 07:45 08:45 09:30 10:45 11:15 11:30 13:00 14:45 17:15 21:15"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "07:45 08:15 09:15 12:15"
+    ],
+    [
+     "Rajgurunagar",
+     "रा. नगर",
+     "19:30"
+    ],
+    [
+     "Talegaon Dabhade",
+     "तळेगाव",
+     "18:30"
+    ],
+    [
+     "Alandi",
+     "आळंदी",
+     "15:30"
+    ]
+   ]
+  }
+ ]
+}

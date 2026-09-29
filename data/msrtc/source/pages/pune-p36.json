@@ -1,0 +1,96 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 36,
+ "note": "Pune Station bus stand board (Shivajinagar depot) (revised 25/02/2025), sheet 1. Colour key: red = ordinary (Lalpari), light blue = Shivneri, purple = Hirkani, green = E-Shivai, orange = Shivshahi, yellow = sleeper. Colours read per time where visible (Malvan 20:30 yellow → Sleeper; Kolhapur orange → Shivshahi; Panaji purple → Hirkani, bold brown 08:30 → Shivshahi). 'Jotiba' = Jyotiba (Wadi Ratnagiri).",
+ "blocks": [
+  {
+   "from": "Pune Station",
+   "fromMr": "पुणे स्टेशन",
+   "depot": "Shivajinagar",
+   "page": 36,
+   "rows": [
+    [
+     "Atpadi",
+     "आटपाडी",
+     "05:45 06:00 06:30 09:30 14:30"
+    ],
+    [
+     "Ajara",
+     "आजरा",
+     "08:45"
+    ],
+    [
+     "Kudal",
+     "कुडाळ",
+     "06:15 18:15"
+    ],
+    [
+     "Kolhapur",
+     "कोल्हापूर",
+     "14:45 15:45",
+     "Shivshahi"
+    ],
+    [
+     "Kavathe Mahankal",
+     "कवठेमहांकाळ",
+     "08:00 08:15"
+    ],
+    [
+     "Jat",
+     "जत",
+     "06:20"
+    ],
+    [
+     "Jyotiba",
+     "जोतिबा",
+     "07:35 15:30"
+    ],
+    [
+     "Bhor",
+     "भोर",
+     "06:15"
+    ],
+    [
+     "Malvan",
+     "मालवण",
+     "06:00 07:00"
+    ],
+    [
+     "Malvan",
+     "मालवण",
+     "20:30",
+     "Sleeper"
+    ],
+    [
+     "Mangalwedha",
+     "मंगळवेढा",
+     "09:15"
+    ],
+    [
+     "Mumbai",
+     "मुंबई",
+     "12:30 13:00"
+    ],
+    [
+     "Mahabaleshwar",
+     "महाबळेश्वर",
+     "06:00 06:35 08:05 10:00 11:30 12:00 14:00 17:15 17:45 18:30 19:30"
+    ],
+    [
+     "Panaji",
+     "पणजी",
+     "04:00 05:45 16:30 19:00 19:30 20:00 21:00",
+     "Hirkani"
+    ],
+    [
+     "Panaji",
+     "पणजी",
+     "08:30",
+     "Shivshahi"
+    ]
+   ]
+  }
+ ]
+}

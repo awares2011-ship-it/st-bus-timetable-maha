@@ -1,0 +1,26 @@
+division: nashik
+pdf: नाशिक_विभाग_वेळापत्रक.pdf
+page: 20
+board: Deola | देवळा
+depot: Satana
+note: Deola bus stand (Satana and Kalwan depot buses), departures. 'Ashoknagar Nashik', 'Uttamnagar Nashik', 'Satana–Nashik' stored as Nashik; 'Bhaur via Kalwan' as Kalwan. Local village combination rows (Deola–Vakhari–Kaparai, Kapshi/Bhilwad, Deola–Girnare, Vajgaon–Khadi–Kankapur–Sheri–Hanumantpada) stored under their last named place only where it is a single clear village; others omitted.
+names:
+नाशिक = Nashik
+अंबासन = Ambasan
+लखमापूर = Lakhmapur
+नांदुरीगड = Nandurigad
+वडाळी = Vadali
+वडाळा = Vadala (Deola)
+rows:
+देवळा - पुणे 06.30 07.30 09.00 10.30 11.30 12.30
+देवळा - नाशिक 06.00 06.45 07.00 07.15 07.30 07.45 08.00 08.30 08.45 09.00 09.30 10.45 11.15 11.30 12.30 13.00 13.30 14.00 14.15 14.30 15.30 16.00 16.30 17.00 18.15 19.00 20.30
+देवळा - नंदुरबार 10.00 11.00 12.00 16.45
+देवळा - अहिल्यानगर 07.30
+देवळा - मनमाड 08.45 13.30
+देवळा - अंबासन 18.45
+देवळा - लखमापूर 09.00 17.30
+देवळा - कळवण 07.30 07.45 08.45 09.00 09.05 09.10 10.45 11.30 11.45 12.30 12.45 13.45 14.15 14.30 15.00 15.30 15.45 16.15 17.00 17.20 17.45 18.35 19.30 21.00 13.00 16.30
+देवळा - नांदुरीगड 08.15 10.15 15.00 16.30 17.45 18.30
+देवळा - वडाळा 10.00 17.15
+देवळा - पेठ 12.30
+देवळा - शिर्डी 09.30

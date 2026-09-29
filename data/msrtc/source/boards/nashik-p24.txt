@@ -1,0 +1,24 @@
+division: nashik
+pdf: नाशिक_विभाग_वेळापत्रक.pdf
+page: 24
+board: Deola | देवळा
+depot: Satana
+note: Deola bus stand, sheet 5 — through buses of Akkalkuwa, Dondaicha and Mumbai-division depots timed at Deola. Rows with no time (Sakri–Kalyan, Kalyan–Akkalkuwa) omitted.
+names:
+शहापूर = Shahapur
+वसई = Vasai
+rows:
+अक्कलकुवा - नाशिक 11.20 17.00
+नाशिक - अक्कलकुवा 07.05 15.45
+दोंडाईचा - नाशिक 11.45 17.30
+नाशिक - दोंडाईचा 07.30
+अक्कलकुवा - कल्याण 13.00
+नंदुरबार - वसई 11.00
+नंदुरबार - बोईसर 12.15
+नंदुरबार - पालघर 12.45
+साक्री - शहापूर 15.15
+शहापूर - साक्री 10.15
+बोईसर - नंदुरबार 13.15
+पालघर - नंदुरबार 14.30
+वसई - नंदुरबार 12.30
+कल्याण - साक्री 14.40

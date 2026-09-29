@@ -1,0 +1,105 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 3,
+ "note": "Walchandnagar bus stand (Indapur depot). Departures ('going') column; via notes (via Junction / Jamb / Rangaon / Bawda) dropped. Through rows 'Jat–Pune', 'Akluj–Mumbai', 'Akluj–Nashik' use going = listed direction and coming = reverse (Akluj–Nashik 08:45 here matches 10:30 at Daund).",
+ "blocks": [
+  {
+   "from": "Walchandnagar",
+   "fromMr": "वालचंदनगर",
+   "depot": "Indapur",
+   "page": 3,
+   "rows": [
+    [
+     "Baramati",
+     "बारामती",
+     "07:35 08:00 08:20 09:35 10:00 11:00 11:40 11:45 12:00 13:50 14:00 15:00 16:00 17:00 18:00 19:00"
+    ],
+    [
+     "Indapur",
+     "इंदापूर",
+     "05:45 07:10 10:00 11:30 12:30 14:15 14:45 17:05 19:05"
+    ],
+    [
+     "Akaluj",
+     "अकलूज",
+     "06:45 09:45 14:25 16:45"
+    ],
+    [
+     "Khorochi",
+     "खोरोची",
+     "18:55"
+    ],
+    [
+     "Natepute",
+     "नातेपुते",
+     "07:15 15:30 17:15 18:45"
+    ],
+    [
+     "Sangli",
+     "सांगली",
+     "08:00 11:50"
+    ],
+    [
+     "Kolhapur",
+     "कोल्हापूर",
+     "12:50"
+    ],
+    [
+     "Pandharpur",
+     "पंढरपूर",
+     "08:00 10:00 10:40 14:50 17:00"
+    ],
+    [
+     "Pune (city)",
+     "पुणे",
+     "13:30 14:45",
+     "",
+     "Jat",
+     "जत"
+    ],
+    [
+     "Jat",
+     "जत",
+     "01:30 10:30",
+     "",
+     "Pune (city)",
+     "पुणे"
+    ],
+    [
+     "Mumbai",
+     "मुंबई",
+     "20:45",
+     "",
+     "Akaluj",
+     "अकलूज"
+    ],
+    [
+     "Akaluj",
+     "अकलूज",
+     "05:15",
+     "",
+     "Mumbai",
+     "मुंबई"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "08:45",
+     "",
+     "Akaluj",
+     "अकलूज"
+    ],
+    [
+     "Akaluj",
+     "अकलूज",
+     "16:45",
+     "",
+     "Nashik",
+     "नाशिक"
+    ]
+   ]
+  }
+ ]
+}

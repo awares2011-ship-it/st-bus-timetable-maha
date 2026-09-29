@@ -1,0 +1,21 @@
+division: nashik
+pdf: नाशिक_विभाग_वेळापत्रक.pdf
+page: 15
+unverified: true
+board: Yeola | येवला
+depot: Yeola
+note: Yeola bus stand poster, from 01/03/2025 — only the Yeola-depot column (left) is transcribed; the 'other depots' columns list through buses already covered by their own boards. The scan is very low resolution (Devanagari ३/५ hard to tell apart), so the page is published as UNVERIFIED. Village rows omitted.
+names:
+येवला = Yeola
+शेगाव = Shegaon
+लासलगाव = Lasalgaon
+मुखेड = Mukhed (Yeola)
+नांदगाव = Nandgaon
+rows:
+येवला - नाशिक 05.30 06.00 07.00 07.15 07.30 08.00 08.15 08.30 08.45 09.00 09.30 10.00 10.30 11.00 11.30 12.00 12.40 13.30 13.40 13.45 14.45 15.00 16.15 16.30 17.30 17.45
+येवला - शेगाव 10.30
+येवला - पुणे 06.00 07.00 08.30 13.30
+येवला - छत्रपती संभाजीनगर 07.00 08.00 10.50 11.35 12.45 13.35
+येवला - मालेगाव 14.15
+येवला - लासलगाव 07.00 10.20 13.00 15.15 17.15
+येवला - नांदगाव 08.00 11.30 13.45 14.15

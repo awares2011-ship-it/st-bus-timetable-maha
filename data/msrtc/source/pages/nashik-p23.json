@@ -1,0 +1,137 @@
+{
+ "docType": "timetable-page",
+ "division": "nashik",
+ "pdf": "नाशिक_विभाग_वेळापत्रक.pdf",
+ "page": 23,
+ "note": "Deola bus stand, sheet 4 — through buses of Sakri, Nandurbar and Navapur depots timed at Deola. A depot section's plain destination row (e.g. 'Nashik' under Nandurbar depot) = from that depot's town to the destination; 'Nandurbar' under Nandurbar depot = Nashik → Nandurbar. Via names (Umbarti, Nampur, Sompur, Lonkhedi) dropped. 'Mumbai' under Nandurbar depot = Nandurbar → Mumbai.",
+ "blocks": [
+  {
+   "from": "Deola",
+   "fromMr": "देवळा",
+   "depot": "Satana",
+   "page": 23,
+   "rows": [
+    [
+     "Sakri",
+     "साक्री",
+     "11:30 12:00 12:35 13:05 13:30 13:45 14:00 15:15 17:20 17:35 19:05 19:30 20:35 21:05 21:35",
+     "",
+     "Nashik",
+     "नाशिक"
+    ],
+    [
+     "Sakri",
+     "साक्री",
+     "13:30 15:05 17:05",
+     "",
+     "Pune (city)",
+     "पुणे"
+    ],
+    [
+     "Sakri",
+     "साक्री",
+     "13:50",
+     "",
+     "Kalyan",
+     "कल्याण"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "08:45 09:10 09:15 10:00 10:15 10:40 11:15 11:45 12:00 12:15 12:35 13:15 13:45 14:30 15:25 16:30 19:15 20:45",
+     "",
+     "Nandurbar",
+     "नंदुरबार"
+    ],
+    [
+     "Mumbai",
+     "मुंबई",
+     "10:45",
+     "",
+     "Nandurbar",
+     "नंदुरबार"
+    ],
+    [
+     "Nandurbar",
+     "नंदुरबार",
+     "14:30",
+     "",
+     "Mumbai",
+     "मुंबई"
+    ],
+    [
+     "Nandurbar",
+     "नंदुरबार",
+     "08:05 08:20 08:50 09:50 12:35 12:50 13:05 14:05 14:20 14:25 15:05 15:20 15:50 16:50 17:20 17:35 18:35 19:35 20:35",
+     "",
+     "Nashik",
+     "नाशिक"
+    ],
+    [
+     "Pune (city)",
+     "पुणे",
+     "08:15 12:00",
+     "",
+     "Nandurbar",
+     "नंदुरबार"
+    ],
+    [
+     "Nandurbar",
+     "नंदुरबार",
+     "12:50 14:05",
+     "",
+     "Pune (city)",
+     "पुणे"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "09:25 11:10 15:15 17:00 18:25 18:45",
+     "",
+     "Navapur",
+     "नवापूर"
+    ],
+    [
+     "Pune (city)",
+     "पुणे",
+     "08:15 09:45 11:05 13:45 14:45",
+     "",
+     "Navapur",
+     "नवापूर"
+    ],
+    [
+     "Shirdi",
+     "शिडी",
+     "15:15",
+     "",
+     "Navapur",
+     "नवापूर"
+    ],
+    [
+     "Navapur",
+     "नवापूर",
+     "08:30",
+     "",
+     "Shirdi",
+     "शिडी"
+    ],
+    [
+     "Borivali",
+     "बोरिवली",
+     "11:45",
+     "",
+     "Navapur",
+     "नवापूर"
+    ],
+    [
+     "Navapur",
+     "नवापूर",
+     "14:30",
+     "",
+     "Borivali",
+     "बोरिवली"
+    ]
+   ]
+  }
+ ]
+}

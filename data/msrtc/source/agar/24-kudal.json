@@ -1,0 +1,2240 @@
+{
+ "division": "sindhudurg",
+ "docType": "timetable",
+ "note": "Transcribed from MSRTC Kudal Agar timetable (Sindhudurg). Departures from Kudal. Unverified.",
+ "trips": [
+  {
+   "from": "Kudal",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "06:35",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "12:35",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Pune",
+   "service": "Ordinary",
+   "departure": "23:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Akkalkot",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Akkalkot",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vijapur",
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vijapur",
+   "service": "Ordinary",
+   "departure": "19:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "07:25",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "11:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "11:55",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "13:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "06:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "07:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ratnagiri",
+   "service": "Ordinary",
+   "departure": "15:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "08:50",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "06:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "08:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "08:50",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "14:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "16:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Babu",
+   "service": "Ordinary",
+   "departure": "06:50",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Babu",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Babu",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Babu",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Babu",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Babu",
+   "service": "Ordinary",
+   "departure": "18:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Parule Bajar",
+   "service": "Ordinary",
+   "departure": "01:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kavathi",
+   "service": "Ordinary",
+   "departure": "07:25",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kavathi",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kavathi",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kavathi",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kavathi",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kavathi",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kavathi",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Bhoglewadi",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Bhoglewadi",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sonavadepur",
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sonavadepur",
+   "service": "Ordinary",
+   "departure": "09:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sonavadepur",
+   "service": "Ordinary",
+   "departure": "10:50",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sonavadepur",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sonavadepur",
+   "service": "Ordinary",
+   "departure": "13:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sonavadepur",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sarambal",
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sarambal",
+   "service": "Ordinary",
+   "departure": "08:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sarambal",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Dhadge",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Dhadge",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Dhadge",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Dhadge",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Dhadge",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Dhadge",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Pangrad",
+   "service": "Ordinary",
+   "departure": "07:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Pangrad",
+   "service": "Ordinary",
+   "departure": "08:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Pangrad",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Pangrad",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Pangrad",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Pangrad",
+   "service": "Ordinary",
+   "departure": "19:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kusgaon",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kusgaon",
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kusgaon",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kusgaon",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Narur",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Narur",
+   "service": "Ordinary",
+   "departure": "09:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Narur",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Narur",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Narur",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Narur",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Hindewadi",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Hillock",
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Hillock",
+   "service": "Ordinary",
+   "departure": "17:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Rangana Tulusuli",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Rangana Tulusuli",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kerwade",
+   "service": "Ordinary",
+   "departure": "08:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kerwade",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kerwade",
+   "service": "Ordinary",
+   "departure": "12:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kerwade",
+   "service": "Ordinary",
+   "departure": "16:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "10:35",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "11:55",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "12:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "13:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "13:25",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "14:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "15:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "17:55",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "18:05",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "18:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Aajivade",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ghavanale",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ghavanale",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ghavanale",
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ghavanale",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Bamnadevi",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Bamnadevi",
+   "service": "Ordinary",
+   "departure": "09:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Bamnadevi",
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Bamnadevi",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Bamnadevi",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Mandkuli",
+   "service": "Ordinary",
+   "departure": "10:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Mandkuli",
+   "service": "Ordinary",
+   "departure": "14:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Shivapur",
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Shivapur",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Phutbrij",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Phutbrij",
+   "service": "Ordinary",
+   "departure": "18:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Nivaje",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Nivaje",
+   "service": "Ordinary",
+   "departure": "19:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Adoswadi",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "08:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "08:35",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "09:50",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "10:35",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "10:25",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "11:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "13:05",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "16:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "17:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "17:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "18:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "19:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vengurle",
+   "service": "Ordinary",
+   "departure": "19:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kelus",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kelus",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kelus",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kelus",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kalvi Bandar",
+   "service": "Ordinary",
+   "departure": "09:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kalvi Bandar",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Govari",
+   "service": "Ordinary",
+   "departure": "09:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Govari",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Govari",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Govari",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Govari",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Govari",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Killenivati",
+   "service": "Ordinary",
+   "departure": "08:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Killenivati",
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Killenivati",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Killenivati",
+   "service": "Ordinary",
+   "departure": "19:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Nivati",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Nivati",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Nivati",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Nivati",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Nivati",
+   "service": "Ordinary",
+   "departure": "14:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Nivati",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Nivati",
+   "service": "Ordinary",
+   "departure": "20:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Karli",
+   "service": "Ordinary",
+   "departure": "07:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Karli",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Karli",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Karli",
+   "service": "Ordinary",
+   "departure": "18:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Korjai",
+   "service": "Ordinary",
+   "departure": "06:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Khawane",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Khawane",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Bhagve",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Bhagve",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Bhagve",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Bhagve",
+   "service": "Ordinary",
+   "departure": "15:50",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Bhagve",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kochra",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kochra",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kochra",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kochra",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kochra",
+   "service": "Ordinary",
+   "departure": "16:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Malwan",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Masure",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Talgaon",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sindhudurg Nagari",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sindhudurg Nagari",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sindhudurg Nagari",
+   "service": "Ordinary",
+   "departure": "17:25",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sindhudurg Nagari",
+   "service": "Ordinary",
+   "departure": "17:55",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "09:55",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kharepatan",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "07:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "10:10",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "10:55",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "12:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "12:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "14:05",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "14:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "15:05",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "15:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "17:05",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "17:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Kankavli",
+   "service": "Ordinary",
+   "departure": "18:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Wayangawade",
+   "service": "Ordinary",
+   "departure": "18:20",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Teresamband",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Parule",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Parule",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Mahadevache Kerwade",
+   "service": "Ordinary",
+   "departure": "09:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vetore Hay",
+   "service": "Ordinary",
+   "departure": "09:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vetore Hay",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Malai",
+   "service": "Ordinary",
+   "departure": "09:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Mor",
+   "service": "Ordinary",
+   "departure": "10:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sukalwad",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Sukalwad",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Humarmala",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Tiwrawadi",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Dutond",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ajara",
+   "service": "Ordinary",
+   "departure": "17:25",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Ambegao",
+   "service": "Ordinary",
+   "departure": "18:55",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vasoli",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "15:05",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Warde",
+   "service": "Ordinary",
+   "departure": "09:35",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vijaydurg",
+   "service": "Ordinary",
+   "departure": "14:40",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vijaydurg",
+   "service": "Ordinary",
+   "departure": "15:25",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Vijaydurg",
+   "service": "Ordinary",
+   "departure": "16:25",
+   "days": "DAILY",
+   "depot": "Kudal"
+  },
+  {
+   "from": "Kudal",
+   "to": "Karul",
+   "service": "Ordinary",
+   "departure": "15:55",
+   "days": "DAILY",
+   "depot": "Kudal"
+  }
+ ],
+ "unverified": true
+}

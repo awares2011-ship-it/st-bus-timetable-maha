@@ -1,0 +1,53 @@
+division: nashik
+pdf: नाशिक_विभाग_वेळापत्रक.pdf
+page: 36
+board: Satana | सटाणा
+depot: Satana
+note: Satana bus stand timetable, sheet 4 (rural and Khandesh services). 'Chalisgaon Kannad Aurangabad' stored as Chh. Sambhajinagar; 'Jalgaon via Dhule' and 'Chalisgaon route Jalgaon' as Jalgaon; 'Tilwan route Dangsaundane' as Dangsaundane; village combination rows ('X via Y') stored under the destination village. 'English Medium' (school) omitted.
+names:
+दरेगाव = Daregaon
+अजमेर सौंदाणे = Ajmer Saundane
+अलियाबाद = Aliyabad
+वाघंबा = Waghamba
+कजवाडे = Kajwade
+अमरावतीपाडा = Amravatipada
+चाळीसगाव कन्नड औरंगाबाद = Chhatrapati Sambhajinagar
+डांगसौंदाणे = Dangsaundane
+रावळगाव = Ravalgaon
+वाठोडा = Wathoda
+बिलपुरी = Bilpuri
+प्रतापपूर = Pratappur
+कंधाणा = Kandhana
+पठावा = Pathawa
+पिसोरे = Pisore
+कापराई = Kaparai
+रातीर = Ratir
+करंजाड = Karanjad
+टिंगरी = Tingri
+मानूर = Manur (Kalwan)
+rows:
+सटाणा - दरेगाव 08.30
+सटाणा - अजमेर सौंदाणे 06.00
+सटाणा - अलियाबाद 11.15
+सटाणा - वाघंबा 14.15
+सटाणा - अंबासन 19.30
+सटाणा - कजवाडे 17.30
+सटाणा - अमरावतीपाडा 10.15 17.15
+सटाणा - चाळीसगाव कन्नड औरंगाबाद 07.00 08.00
+सटाणा - जळगाव 06.30 08.30 12.30
+सटाणा - चाळीसगाव 15.45
+सटाणा - धुळे 09.00 13.00
+सटाणा - डांगसौंदाणे 07.00 19.05 09.00 10.55 13.30 15.30 17.20
+सटाणा - रावळगाव 07.30 09.45 13.00 15.15 19.00
+सटाणा - वाठोडा 18.30
+सटाणा - बिलपुरी 07.15 15.30 19.00
+सटाणा - तिळवण 10.35 17.35
+सटाणा - प्रतापपूर 11.40
+सटाणा - कंधाणा 07.30 09.30 11.00 13.00 16.00
+सटाणा - पठावा 10.00 15.00
+सटाणा - पिसोरे 18.30
+सटाणा - कापराई 07.15
+सटाणा - रातीर 10.15
+सटाणा - करंजाड 06.30
+सटाणा - टिंगरी 07.00
+सटाणा - मानूर 08.00 17.35

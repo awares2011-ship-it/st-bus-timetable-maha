@@ -1,0 +1,2 @@
+# Netlify SPA fallback. Prerendered SEO pages are real files and take priority.
+/*    /index.html   200

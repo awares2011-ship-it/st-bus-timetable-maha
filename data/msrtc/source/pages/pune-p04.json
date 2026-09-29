@@ -1,0 +1,127 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 4,
+ "note": "Talegaon (Dabhade) bus stand departures. Via notes (via Solapur / Shivajinagar / Chakan / Wakad / Tembhurni / Dehugaon) dropped. 'INS' prefix on Lonavala unexplained. Village rows printed in 12-hour style after noon (02:15, 04:30, 01:15) read as 14:15, 16:30, 13:15.",
+ "blocks": [
+  {
+   "from": "Talegaon Dabhade",
+   "fromMr": "तळेगाव दाभाडे",
+   "depot": "Talegaon",
+   "page": 4,
+   "rows": [
+    [
+     "Akkalkot",
+     "अक्कलकोट",
+     "05:00"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "05:45 06:30 07:00 13:45"
+    ],
+    [
+     "Chopda",
+     "चोपडा",
+     "06:30"
+    ],
+    [
+     "Kolhapur",
+     "कोल्हापूर",
+     "06:15 07:15 08:00"
+    ],
+    [
+     "Beed",
+     "बीड",
+     "06:15 06:50"
+    ],
+    [
+     "Barshi",
+     "बार्शी",
+     "06:00"
+    ],
+    [
+     "Tuljapur",
+     "तुळजापूर",
+     "05:30 06:30"
+    ],
+    [
+     "Pandharpur",
+     "पंढरपूर",
+     "07:00 07:30"
+    ],
+    [
+     "Shirdi",
+     "शिर्डी",
+     "08:15 13:00"
+    ],
+    [
+     "Nilshi",
+     "निळशी",
+     "06:15 08:30 13:00 15:15 17:00"
+    ],
+    [
+     "Gontewadi",
+     "गोंटेवाडी",
+     "07:15 12:30 14:15 16:30"
+    ],
+    [
+     "Ovhale",
+     "ओव्हळे",
+     "08:15 10:15 13:30 16:00"
+    ],
+    [
+     "Paud",
+     "पौड",
+     "09:00 12:00"
+    ],
+    [
+     "Nigade",
+     "निगडे",
+     "07:15 09:15 11:30 14:00 16:00 18:00 19:15"
+    ],
+    [
+     "Shivane Pavana",
+     "शिवणे पवना",
+     "06:30 08:30 09:50 14:15 16:30"
+    ],
+    [
+     "Bebadohol",
+     "बेबडओव्हळ",
+     "13:00"
+    ],
+    [
+     "Lonavala",
+     "लोणावळा",
+     "06:00 06:30 11:00 12:45 13:00"
+    ],
+    [
+     "Morve",
+     "मोर्वे",
+     "13:15"
+    ],
+    [
+     "Pimpalkhute",
+     "पिंपळखुटे",
+     "13:30"
+    ],
+    [
+     "Uksan",
+     "उकसान",
+     "08:00"
+    ],
+    [
+     "Rajpuri (Maval)",
+     "राजपुरी",
+     "15:00"
+    ],
+    [
+     "Adhale",
+     "आढले",
+     "06:45"
+    ]
+   ]
+  }
+ ]
+}

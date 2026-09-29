@@ -1,0 +1,891 @@
+{
+ "division": "satara",
+ "docType": "timetable",
+ "sourceDoc": "M.S.R.T.C. Satara Depo — pages 2-4",
+ "sourceDate": "2025-03-01",
+ "note": "Departures transcribed from scanned MSRTC timetable pages (satara-p002, p003, p004). Only routes with confident Marathi OCR readings are included. Some routes may be partially legible.",
+ "trips": [
+  {
+   "from": "Satara",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Mumbai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Pune",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Kolhapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Karad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Karad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Karad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Karad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Karad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Sangli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Sangli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Sangli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Miraj",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Miraj",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Mahabaleshwar",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Panchgani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Panchgani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Wai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Wai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Wai",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Shirwal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Shirwal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Patan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Patan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Patan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Koregaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Koregaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Koregaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Man",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Man",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Rajapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Rajapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Baramati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Baramati",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Indapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Indapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Phaltan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Phaltan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Phaltan",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Vaibhavwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Vaibhavwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Nanded",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Tasgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Tasgaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Jath",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Jath",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Malkapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Malkapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Khandala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Khandala",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Lonand",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Lonand",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Nivsdung",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Nivsdung",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Khanapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Khanapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Bhairi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Bhairi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Kupwad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Kupwad",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Shirale",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Shirale",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Shivapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Shivapur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Surur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Surur",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Kudal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Kudal",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Kankavli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Kankavli",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Sawantwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Sawantwadi",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Vengurla",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Vengurla",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Ratnagiri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Ratnagiri",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Chiplun",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Chiplun",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Lanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Lanja",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Nipani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Nipani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Bhavani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Bhavani",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Pusegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Pusegaon",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Ashti",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  },
+  {
+   "from": "Satara",
+   "to": "Ashti",
+   "via": [],
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Satara"
+  }
+ ]
+}

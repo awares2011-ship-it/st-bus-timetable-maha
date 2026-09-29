@@ -1,0 +1,364 @@
+{
+  "division": "ahilyanagar",
+  "slug": "ahilyanagar",
+  "generatedAt": "2026-09-07T12:12:52.009Z",
+  "trips": [
+    {
+      "id": "shirdi-to-pune-swargate-0600-ordinary",
+      "routeId": "shirdi-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "06:00",
+      "arrival": "09:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shirdi",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "ahilyanagar-to-pune-swargate-0600-ordinary",
+      "routeId": "ahilyanagar-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "06:00",
+      "arrival": "08:30",
+      "durationMin": 150,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "ahilyanagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "shirdi-to-mumbai-0700-ordinary",
+      "routeId": "shirdi-to-mumbai",
+      "serviceType": "ordinary",
+      "departure": "07:00",
+      "arrival": "12:30",
+      "durationMin": 330,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shirdi",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "shirdi-to-pune-swargate-0800-ordinary",
+      "routeId": "shirdi-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "08:00",
+      "arrival": "11:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shirdi",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "ahilyanagar-to-pune-swargate-0800-ordinary",
+      "routeId": "ahilyanagar-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "08:00",
+      "arrival": "10:30",
+      "durationMin": 150,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "ahilyanagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "shirdi-to-pune-swargate-1000-ordinary",
+      "routeId": "shirdi-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "10:00",
+      "arrival": "13:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shirdi",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "shirdi-to-mumbai-1000-ordinary",
+      "routeId": "shirdi-to-mumbai",
+      "serviceType": "ordinary",
+      "departure": "10:00",
+      "arrival": "15:30",
+      "durationMin": 330,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shirdi",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "ahilyanagar-to-pune-swargate-1000-ordinary",
+      "routeId": "ahilyanagar-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "10:00",
+      "arrival": "12:30",
+      "durationMin": 150,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "ahilyanagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "shirdi-to-pune-swargate-1200-ordinary",
+      "routeId": "shirdi-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "12:00",
+      "arrival": "15:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shirdi",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "ahilyanagar-to-pune-swargate-1200-ordinary",
+      "routeId": "ahilyanagar-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "12:00",
+      "arrival": "14:30",
+      "durationMin": 150,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "ahilyanagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "shirdi-to-mumbai-1300-ordinary",
+      "routeId": "shirdi-to-mumbai",
+      "serviceType": "ordinary",
+      "departure": "13:00",
+      "arrival": "18:30",
+      "durationMin": 330,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shirdi",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "shirdi-to-pune-swargate-1400-ordinary",
+      "routeId": "shirdi-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "14:00",
+      "arrival": "17:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shirdi",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "ahilyanagar-to-pune-swargate-1500-ordinary",
+      "routeId": "ahilyanagar-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "15:00",
+      "arrival": "17:30",
+      "durationMin": 150,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "ahilyanagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "shirdi-to-pune-swargate-1600-ordinary",
+      "routeId": "shirdi-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "16:00",
+      "arrival": "19:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shirdi",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "shirdi-to-mumbai-1600-ordinary",
+      "routeId": "shirdi-to-mumbai",
+      "serviceType": "ordinary",
+      "departure": "16:00",
+      "arrival": "21:30",
+      "durationMin": 330,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shirdi",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "shirdi-to-pune-swargate-1800-ordinary",
+      "routeId": "shirdi-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "18:00",
+      "arrival": "21:30",
+      "durationMin": 210,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "shirdi",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    },
+    {
+      "id": "ahilyanagar-to-pune-swargate-1800-ordinary",
+      "routeId": "ahilyanagar-to-pune-swargate",
+      "serviceType": "ordinary",
+      "departure": "18:00",
+      "arrival": "20:30",
+      "durationMin": 150,
+      "operatingDays": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI",
+        "SAT",
+        "SUN"
+      ],
+      "depot": "ahilyanagar",
+      "source": "MSRTC",
+      "lastVerified": "2025-03-01",
+      "verified": true
+    }
+  ]
+}

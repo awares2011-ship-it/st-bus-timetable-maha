@@ -1,0 +1,42 @@
+{
+ "docType": "timetable-page",
+ "division": "nashik",
+ "pdf": "नाशिक_विभाग_वेळापत्रक.pdf",
+ "page": 34,
+ "note": "Satana bus stand timetable, Pune (other depots), Nandurbar, Navapur, Akkalkuwa and Sakri sections — departures from Satana, merged across depots (same time stored once). Nashik-1 depot's 'Mungbari' Nandurbar buses stored as Nandurbar. 'Umbarti Sakri' stored as Sakri.",
+ "blocks": [
+  {
+   "from": "Satana",
+   "fromMr": "सटाणा",
+   "depot": "Satana",
+   "page": 34,
+   "rows": [
+    [
+     "Pune (city)",
+     "पुणे",
+     "07:00 07:45 08:10 10:00 10:10 11:45 12:40 13:40 14:40 15:40 21:00 21:30 21:35"
+    ],
+    [
+     "Nandurbar",
+     "नंदुरबार",
+     "06:30 07:00 07:15 08:00 08:05 08:35 08:50 09:05 09:20 09:40 10:15 10:20 10:30 11:30 11:45 12:30 13:05 13:20 13:35 13:45 14:35 14:50 14:55 15:15 15:30 15:35 15:50 16:20 17:15 17:20 17:35 17:50 18:05 19:05 20:05 20:30 21:05 21:20 21:35"
+    ],
+    [
+     "Akkalkuwa",
+     "अक्कलकुवा",
+     "07:35 16:35"
+    ],
+    [
+     "Navapur",
+     "नवापूर",
+     "02:05 08:15 11:50 12:15 12:50 14:55 15:35 17:45 19:30"
+    ],
+    [
+     "Sakri",
+     "साक्री",
+     "04:35 11:45 12:05 12:35 13:05 13:35 13:50 14:05 14:20 15:20 17:35 17:50 18:05 19:35 20:05 21:05 21:20 21:35 22:05"
+    ]
+   ]
+  }
+ ]
+}

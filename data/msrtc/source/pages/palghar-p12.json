@@ -1,0 +1,29 @@
+{
+ "docType": "timetable-page", "division": "palghar", "pdf": "पालघर_विभाग_बसस्थानक_वेळापत्रक.pdf", "page": 12,
+ "from": "Jawhar", "fromMr": "जव्हार", "depot": "Jawhar",
+ "note": "Jawhar depot, departures column (p11 is the Dahanu arrivals continuation, not recorded). Cells clipped at the left page edge ('.30', '.05', '16.3') partially omitted. 'Nashik/Nashik Road', 'Kalyan/Vitthalwadi', 'Palghar/Safale' recorded under the first place; Thane rows (via highway / Vikramgad / Malwada) merged.",
+ "rows": [
+  ["Pandharpur", "पंढरपूर", "06:45"],
+  ["Pune Shivajinagar", "पुणे शिवाजीनगर", "13:00"],
+  ["Pune Swargate", "पुणे स्वारगेट", "09:00"],
+  ["Amalner", "अमळनेर", "08:05"],
+  ["Shirdi", "शिर्डी", "06:00 09:45 15:00 16:00"],
+  ["Shahada", "शहादा", "08:20"],
+  ["Chhatrapati Sambhajinagar", "छत्रपती संभाजीनगर", "09:15 10:30 10:50"],
+  ["Ozar", "ओझर", "09:35 18:15"],
+  ["Chopda", "चोपडा", "09:45"],
+  ["Chalisgaon", "चाळीसगाव", "09:45 11:45"],
+  ["Shirpur", "शिरपूर", "09:30 12:15"],
+  ["Bhusawal", "भुसावळ", "08:45 10:15"],
+  ["Dahanu", "डहाणू", "07:00 09:45 11:45 13:00 14:30 16:00 16:45 17:15 17:45"],
+  ["Nashik", "नाशिक", "10:00 11:50 14:00 14:30 16:30 15:30 16:00 17:45 19:30"],
+  ["Thane", "ठाणे", "07:30 14:00 06:00 08:00 10:00 16:15 16:45 10:00 11:30 13:00 17:15"],
+  ["Kalyan", "कल्याण", "09:45 14:00 16:30 18:15"],
+  ["Vasai", "वसई", "10:30 11:30 13:30"],
+  ["Palghar", "पालघर", "05:45 07:20 08:00 08:30 09:00 09:45 11:00 11:30 12:30 13:30 14:00 14:45 15:45 15:00 17:30 18:15 19:00"],
+  ["Boisar", "बोईसर", "11:00 13:45 16:45 15:20 16:20 18:45"],
+  ["Silvassa", "सेलवास", "08:00 11:00 13:30 14:00 16:00"],
+  ["Kasara", "कसारा", "12:30 14:30"],
+  ["Ghoti", "घोटी", "07:30"]
+ ]
+}

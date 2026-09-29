@@ -1,0 +1,83 @@
+{
+ "docType": "timetable-page",
+ "division": "nashik",
+ "pdf": "नाशिक_विभाग_वेळापत्रक.pdf",
+ "page": 45,
+ "note": "Bhagur bus stand, sheet 2. Nashik-depot rows 'X Bhagur Nashik' are through buses from village X to Nashik timed at Bhagur; 'Nashik Vanjarwadi', 'Nashik Sakur Nandgaon' are through buses from Nashik. 'Nandgaon' here is a local village near Sakur — stored as Nandgaon (Sakur).",
+ "blocks": [
+  {
+   "from": "Bhagur",
+   "fromMr": "भगुर",
+   "depot": "Igatpuri",
+   "page": 45,
+   "rows": [
+    [
+     "Shivda",
+     "शिवडा",
+     "17:45"
+    ],
+    [
+     "Sinnar",
+     "सिन्नर",
+     "18:45 19:30 19:45"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "06:45",
+     "",
+     "Vanjarwadi",
+     "वंजारवाडी"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "07:00",
+     "",
+     "Nandgaon (Sakur)",
+     "नांदगाव"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "07:15",
+     "",
+     "Vasali",
+     "वासाळी"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "11:00",
+     "",
+     "Khadked",
+     "खडकेद"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "12:25",
+     "",
+     "Shendi Dam",
+     "शेंडी डॅम"
+    ],
+    [
+     "Vanjarwadi",
+     "वंजारवाडी",
+     "17:45",
+     "",
+     "Nashik",
+     "नाशिक"
+    ],
+    [
+     "Nandgaon (Sakur)",
+     "नांदगाव",
+     "19:15",
+     "",
+     "Nashik",
+     "नाशिक"
+    ]
+   ]
+  }
+ ]
+}

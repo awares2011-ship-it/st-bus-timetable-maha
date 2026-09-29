@@ -1,0 +1,37 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 11,
+ "note": "Bhimashankar bus stand (Manchar depot, 01/03/2025), departures. Pune via Manchar–Rajgurunagar, Kurla via Lonavala, Kalyan via Malshej, Rajgurunagar via Wada.",
+ "blocks": [
+  {
+   "from": "Bhimashankar",
+   "fromMr": "भिमाशंकर",
+   "depot": "Manchar",
+   "page": 11,
+   "rows": [
+    [
+     "Pune (city)",
+     "पुणे",
+     "06:30 08:00 08:30 09:00 09:30 10:00 11:00 12:00 13:00 14:00 15:00 16:00 17:00 18:00"
+    ],
+    [
+     "Kurla",
+     "कुर्ला",
+     "07:00 10:30 15:00"
+    ],
+    [
+     "Kalyan",
+     "कल्याण",
+     "07:30"
+    ],
+    [
+     "Rajgurunagar",
+     "राजगुरुनगर",
+     "10:30"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "routeId": "pune-swargate-to-satara",
+    "from": "pune-swargate",
+    "to": "satara"
+  },
+  {
+    "routeId": "pune-swargate-to-kolhapur",
+    "from": "pune-swargate",
+    "to": "kolhapur"
+  },
+  {
+    "routeId": "pune-swargate-to-dadar",
+    "from": "pune-swargate",
+    "to": "dadar"
+  },
+  {
+    "routeId": "mumbai-central-to-pune-swargate",
+    "from": "mumbai-central",
+    "to": "pune-swargate"
+  },
+  {
+    "routeId": "pune-swargate-to-shirdi",
+    "from": "pune-swargate",
+    "to": "shirdi"
+  },
+  {
+    "routeId": "pune-swargate-to-nashik",
+    "from": "pune-swargate",
+    "to": "nashik"
+  },
+  {
+    "routeId": "kolhapur-to-pune-swargate",
+    "from": "kolhapur",
+    "to": "pune-swargate"
+  },
+  {
+    "routeId": "pune-swargate-to-solapur",
+    "from": "pune-swargate",
+    "to": "solapur"
+  }
+]

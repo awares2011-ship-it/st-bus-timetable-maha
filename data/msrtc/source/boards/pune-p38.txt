@@ -1,0 +1,31 @@
+division: pune
+pdf: पुणे_विभाग_वेळापत्रक.pdf
+page: 38
+board: Pune Station | पुणे स्टेशन
+depot: Shivajinagar
+note: Pune Station bus stand board (Shivajinagar depot), sheet 3. Khed = Khed (Ratnagiri); 11:30 yellow = sleeper, 22:35 purple = Hirkani, '23000' read as 23:00. Dadar 10:30/11:30/18:30/19:00 purple = Hirkani. Madgaon, Gohe (Ghodegaon), Murum (Baramati), Rahu, Rahu Paragaon, Ghadge Tale, 'Malkapur Pachal' kept only where the place is clear.
+names:
+गोहे = Gohe
+राहू = Rahu
+मलकापूर = Malkapur
+rows:
+पुणे स्टेशन - कुरुंदवाड 04.00 04.45 06.00 07.00 08.00 09.00 14.00 15.00 16.00
+पुणे स्टेशन - चोरवणे 23.30
+पुणे स्टेशन - तिवरे 20.30
+पुणे स्टेशन - गोहे 18.30
+पुणे स्टेशन - पळशी 15.15
+पुणे स्टेशन - खेड 11.30 @Sleeper
+पुणे स्टेशन - खेड 22.35 @Hirkani
+पुणे स्टेशन - खेड 23.00
+पुणे स्टेशन - पारगाव खंडाला 01.00
+पुणे स्टेशन - माखजन 09.15
+पुणे स्टेशन - गणपतीपुळे 08.15
+पुणे स्टेशन - शिरूर 07.15
+पुणे स्टेशन - मलकापूर 06.15
+पुणे स्टेशन - जुन्नर 06.15
+पुणे स्टेशन - वाळकी 08.15 13.45
+पुणे स्टेशन - राहू 12.45 10.45
+पुणे स्टेशन - दहीटणे 17.45
+पुणे स्टेशन - मिरज 05.15
+पुणे स्टेशन - दादर 08.30 09.00
+पुणे स्टेशन - दादर 10.30 11.30 18.30 19.00 @Hirkani

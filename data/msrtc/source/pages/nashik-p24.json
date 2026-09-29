@@ -1,0 +1,129 @@
+{
+ "docType": "timetable-page",
+ "division": "nashik",
+ "pdf": "नाशिक_विभाग_वेळापत्रक.pdf",
+ "page": 24,
+ "note": "Deola bus stand, sheet 5 — through buses of Akkalkuwa, Dondaicha and Mumbai-division depots timed at Deola. Rows with no time (Sakri–Kalyan, Kalyan–Akkalkuwa) omitted.",
+ "blocks": [
+  {
+   "from": "Deola",
+   "fromMr": "देवळा",
+   "depot": "Satana",
+   "page": 24,
+   "rows": [
+    [
+     "Nashik",
+     "नाशिक",
+     "11:20 17:00",
+     "",
+     "Akkalkuwa",
+     "अक्कलकुवा"
+    ],
+    [
+     "Akkalkuwa",
+     "अक्कलकुवा",
+     "07:05 15:45",
+     "",
+     "Nashik",
+     "नाशिक"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "11:45 17:30",
+     "",
+     "Dondaicha",
+     "दोंडाईचा"
+    ],
+    [
+     "Dondaicha",
+     "दोंडाईचा",
+     "07:30",
+     "",
+     "Nashik",
+     "नाशिक"
+    ],
+    [
+     "Kalyan",
+     "कल्याण",
+     "13:00",
+     "",
+     "Akkalkuwa",
+     "अक्कलकुवा"
+    ],
+    [
+     "Vasai",
+     "वसई",
+     "11:00",
+     "",
+     "Nandurbar",
+     "नंदुरबार"
+    ],
+    [
+     "Boisar",
+     "बोईसर",
+     "12:15",
+     "",
+     "Nandurbar",
+     "नंदुरबार"
+    ],
+    [
+     "Palghar",
+     "पालघर",
+     "12:45",
+     "",
+     "Nandurbar",
+     "नंदुरबार"
+    ],
+    [
+     "Shahapur",
+     "शहापूर",
+     "15:15",
+     "",
+     "Sakri",
+     "साक्री"
+    ],
+    [
+     "Sakri",
+     "साक्री",
+     "10:15",
+     "",
+     "Shahapur",
+     "शहापूर"
+    ],
+    [
+     "Nandurbar",
+     "नंदुरबार",
+     "13:15",
+     "",
+     "Boisar",
+     "बोईसर"
+    ],
+    [
+     "Nandurbar",
+     "नंदुरबार",
+     "14:30",
+     "",
+     "Palghar",
+     "पालघर"
+    ],
+    [
+     "Nandurbar",
+     "नंदुरबार",
+     "12:30",
+     "",
+     "Vasai",
+     "वसई"
+    ],
+    [
+     "Sakri",
+     "साक्री",
+     "14:40",
+     "",
+     "Kalyan",
+     "कल्याण"
+    ]
+   ]
+  }
+ ]
+}

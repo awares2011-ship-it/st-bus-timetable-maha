@@ -1,0 +1,41 @@
+{
+ "docType": "timetable-page",
+ "division": "nashik",
+ "pdf": "नाशिक_विभाग_वेळापत्रक.pdf",
+ "page": 38,
+ "note": "Satana bus stand timetable, sheet 6 — Gujarat-state buses passing Satana (time at Satana).",
+ "blocks": [
+  {
+   "from": "Satana",
+   "fromMr": "सटाणा",
+   "depot": "Satana",
+   "page": 38,
+   "rows": [
+    [
+     "Bharuch",
+     "भरूच",
+     "11:00",
+     "",
+     "Shirdi",
+     "शिर्डी"
+    ],
+    [
+     "Shirdi",
+     "शिर्डी",
+     "05:30",
+     "",
+     "Ankleshwar",
+     "अंकलेश्वर"
+    ],
+    [
+     "Ankleshwar",
+     "अंकलेश्वर",
+     "09:35",
+     "",
+     "Shirdi",
+     "शिर्डी"
+    ]
+   ]
+  }
+ ]
+}

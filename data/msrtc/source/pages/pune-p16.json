@@ -1,0 +1,107 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 16,
+ "note": "Junnar bus stand board (Narayangaon depot), departures ('जाणारी वाहने') for the main routes. Many village rows in the lower half (Talmachi, Anjanavale, Ingalun, Devale, Tambe, Ghodegaon/Vikaswadi etc.) omitted — low resolution. Narayangaon every 15 min mini-bus note not expanded.",
+ "blocks": [
+  {
+   "from": "Junnar",
+   "fromMr": "जुन्नर",
+   "depot": "Narayangaon",
+   "page": 16,
+   "rows": [
+    [
+     "Kurla",
+     "कुर्ला",
+     "12:00 15:00 15:30"
+    ],
+    [
+     "Mumbai Central",
+     "मुंबई सेंट्रल",
+     "12:30 22:00"
+    ],
+    [
+     "Mumbai Vashi",
+     "वाशी",
+     "09:30"
+    ],
+    [
+     "Thane",
+     "ठाणे",
+     "14:15"
+    ],
+    [
+     "Parel",
+     "परळ",
+     "16:00"
+    ],
+    [
+     "Bhimashankar",
+     "भिमाशंकर",
+     "10:00"
+    ],
+    [
+     "Pandharpur",
+     "पंढरपूर",
+     "04:45 05:15 05:45"
+    ],
+    [
+     "Wai",
+     "वाई",
+     "06:30 12:30"
+    ],
+    [
+     "Baramati",
+     "बारामती",
+     "07:00"
+    ],
+    [
+     "Mandhardevi",
+     "मांढरदेवी",
+     "08:00"
+    ],
+    [
+     "Mahabaleshwar",
+     "महाबळेश्वर",
+     "08:45"
+    ],
+    [
+     "Chhatrapati Sambhajinagar",
+     "छत्रपती संभाजीनगर",
+     "07:15"
+    ],
+    [
+     "Shirur",
+     "शिरूर",
+     "08:30"
+    ],
+    [
+     "Pune (city)",
+     "पुणे",
+     "06:00 08:15 09:30 10:00 12:00 14:00 15:00"
+    ],
+    [
+     "Otur",
+     "ओतूर",
+     "08:30 09:15 10:00 10:45 11:15 12:00 13:00 14:00 15:00 16:00 17:00"
+    ],
+    [
+     "Akole",
+     "अकोले",
+     "10:15 14:30"
+    ],
+    [
+     "Alme",
+     "आलमे",
+     "07:00 09:15 11:15 12:15 15:00 17:30"
+    ],
+    [
+     "Pangrimatha",
+     "पांगरीमाथा",
+     "07:45"
+    ]
+   ]
+  }
+ ]
+}

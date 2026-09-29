@@ -1,0 +1,51 @@
+{
+  "docType": "timetable",
+  "note": "DEMO fixture — real corridors, illustrative times. Not official MSRTC data.",
+  "trips": [
+    { "from": "Pune Swargate", "to": "Satara", "via": ["Shirwal", "Surur"], "service": "Ordinary", "departure": "06:00", "arrival": "08:15", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Satara", "via": ["Shirwal", "Surur"], "service": "Express", "departure": "07:30", "arrival": "09:30", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Satara", "via": ["Shirwal"], "service": "Shivshahi", "departure": "09:00", "arrival": "11:00", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Satara", "via": ["Shirwal"], "service": "E-Shivai", "departure": "10:30", "arrival": "12:45", "days": "MON-SAT", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Satara", "via": ["Shirwal", "Surur"], "service": "Hirkani", "departure": "12:30", "arrival": "14:45", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Satara", "via": ["Shirwal"], "service": "Shivshahi", "departure": "16:00", "arrival": "18:00", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Satara", "via": ["Shirwal", "Surur"], "service": "Ordinary", "departure": "19:30", "arrival": "21:50", "days": "DAILY", "depot": "Swargate" },
+
+    { "from": "Pune Swargate", "to": "Kolhapur", "via": ["Satara", "Karad"], "service": "Express", "departure": "05:30", "arrival": "10:30", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Kolhapur", "via": ["Satara", "Karad"], "service": "Shivshahi", "departure": "08:00", "arrival": "13:00", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Kolhapur", "via": ["Satara", "Karad"], "service": "Ordinary", "departure": "11:00", "arrival": "17:00", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Kolhapur", "via": ["Satara", "Karad"], "service": "Shivshahi", "departure": "14:00", "arrival": "19:00", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Kolhapur", "via": ["Satara", "Karad"], "service": "Vithai", "departure": "22:00", "arrival": "03:30", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Kolhapur", "via": ["Satara", "Karad"], "service": "Shivshahi", "departure": "23:30", "arrival": "04:30", "days": "DAILY", "depot": "Swargate" },
+
+    { "from": "Pune Swargate", "to": "Mumbai Dadar", "via": ["Lonavala", "Panvel"], "service": "Shivneri", "departure": "05:00", "arrival": "08:00", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Mumbai Dadar", "via": ["Lonavala", "Panvel"], "service": "Shivneri", "departure": "06:30", "arrival": "09:30", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Mumbai Dadar", "via": ["Lonavala", "Panvel"], "service": "Shivshahi", "departure": "08:00", "arrival": "11:30", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Mumbai Dadar", "via": ["Lonavala", "Panvel"], "service": "Shivneri", "departure": "10:00", "arrival": "13:00", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Mumbai Dadar", "via": ["Lonavala", "Panvel"], "service": "Shivneri", "departure": "14:00", "arrival": "17:00", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Mumbai Dadar", "via": ["Lonavala", "Panvel"], "service": "Shivneri", "departure": "18:00", "arrival": "21:00", "days": "DAILY", "depot": "Swargate" },
+
+    { "from": "Pune Swargate", "to": "Nashik", "via": ["Rajgurunagar", "Sangamner"], "service": "Express", "departure": "06:00", "arrival": "10:00", "days": "DAILY", "depot": "Shivajinagar" },
+    { "from": "Pune Swargate", "to": "Nashik", "via": ["Rajgurunagar", "Sangamner"], "service": "Shivshahi", "departure": "09:30", "arrival": "13:00", "days": "DAILY", "depot": "Shivajinagar" },
+    { "from": "Pune Swargate", "to": "Nashik", "via": ["Rajgurunagar", "Sangamner"], "service": "Ordinary", "departure": "13:00", "arrival": "17:30", "days": "DAILY", "depot": "Shivajinagar" },
+    { "from": "Pune Swargate", "to": "Nashik", "via": ["Rajgurunagar", "Sangamner"], "service": "Shivshahi", "departure": "17:00", "arrival": "20:30", "days": "DAILY", "depot": "Shivajinagar" },
+
+    { "from": "Pune Swargate", "to": "Solapur", "via": ["Indapur", "Tembhurni"], "service": "Express", "departure": "06:00", "arrival": "11:00", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Solapur", "via": ["Indapur", "Tembhurni"], "service": "Ordinary", "departure": "12:00", "arrival": "17:30", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Solapur", "via": ["Indapur", "Tembhurni"], "service": "Shivshahi", "departure": "15:30", "arrival": "20:00", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Solapur", "via": ["Indapur", "Tembhurni"], "service": "Vithai", "departure": "23:00", "arrival": "04:00", "days": "DAILY", "depot": "Swargate" },
+
+    { "from": "Pune Swargate", "to": "Shirdi", "via": ["Rajgurunagar", "Sangamner"], "service": "Express", "departure": "05:30", "arrival": "09:30", "days": "DAILY", "depot": "Shivajinagar" },
+    { "from": "Pune Swargate", "to": "Shirdi", "via": ["Sangamner"], "service": "Shivshahi", "departure": "08:30", "arrival": "12:30", "days": "DAILY", "depot": "Shivajinagar" },
+    { "from": "Pune Swargate", "to": "Shirdi", "via": ["Sangamner"], "service": "Ashwamedh", "departure": "13:00", "arrival": "17:00", "days": "DAILY", "depot": "Shivajinagar" },
+    { "from": "Pune Swargate", "to": "Shirdi", "via": ["Sangamner"], "service": "Ordinary", "departure": "22:30", "arrival": "03:00", "days": "DAILY", "depot": "Shivajinagar" },
+
+    { "from": "Pune Swargate", "to": "Pandharpur", "via": ["Indapur", "Tembhurni"], "service": "Express", "departure": "06:30", "arrival": "11:30", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Pandharpur", "via": ["Indapur", "Tembhurni"], "service": "Ordinary", "departure": "14:00", "arrival": "19:30", "days": "DAILY", "depot": "Swargate" },
+
+    { "from": "Pune Swargate", "to": "Sangli", "via": ["Satara", "Karad"], "service": "Express", "departure": "07:00", "arrival": "12:00", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Sangli", "via": ["Satara", "Karad"], "service": "Shivshahi", "departure": "16:00", "arrival": "21:00", "days": "DAILY", "depot": "Swargate" },
+
+    { "from": "Pune Swargate", "to": "Ratnagiri", "via": ["Satara", "Karad", "Chiplun"], "service": "Hirkani", "departure": "07:00", "arrival": "14:00", "days": "DAILY", "depot": "Swargate" },
+    { "from": "Pune Swargate", "to": "Ratnagiri", "via": ["Satara", "Karad", "Chiplun"], "service": "Vithai", "departure": "21:00", "arrival": "05:00", "days": "DAILY", "depot": "Swargate" }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "datasetVersion": "2026-09-07-003",
+  "generatedAt": "2026-09-07T12:12:52.009Z",
+  "source": "MSRTC + Kolhapur Agar printed timetables (unverified DEMO blended)",
+  "containsDemoData": true,
+  "counts": {
+    "divisions": 12,
+    "depots": 74,
+    "stations": 149,
+    "stops": 562,
+    "routes": 951,
+    "trips": 5803,
+    "serviceTypes": 9
+  },
+  "schedules": [
+    {
+      "division": "ahilyanagar",
+      "slug": "ahilyanagar",
+      "trips": 17
+    },
+    {
+      "division": "kolhapur",
+      "slug": "kolhapur",
+      "trips": 3984
+    },
+    {
+      "division": "mumbai",
+      "slug": "mumbai",
+      "trips": 71
+    },
+    {
+      "division": "nagpur",
+      "slug": "nagpur",
+      "trips": 4
+    },
+    {
+      "division": "nashik",
+      "slug": "nashik",
+      "trips": 94
+    },
+    {
+      "division": "pune",
+      "slug": "pune",
+      "trips": 299
+    },
+    {
+      "division": "ratnagiri",
+      "slug": "ratnagiri",
+      "trips": 1287
+    },
+    {
+      "division": "sambhajinagar",
+      "slug": "sambhajinagar",
+      "trips": 13
+    },
+    {
+      "division": "sangli",
+      "slug": "sangli",
+      "trips": 8
+    },
+    {
+      "division": "satara",
+      "slug": "satara",
+      "trips": 15
+    },
+    {
+      "division": "solapur",
+      "slug": "solapur",
+      "trips": 11
+    }
+  ],
+  "disclaimer": "This is an independent public-transport information service and is not affiliated with or operated by Maharashtra State Road Transport Corporation (MSRTC). Timetables may change. Please verify important travel information with official MSRTC sources."
+}

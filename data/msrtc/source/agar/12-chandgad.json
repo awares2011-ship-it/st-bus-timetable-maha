@@ -1,0 +1,1920 @@
+{
+ "division": "kolhapur",
+ "docType": "timetable",
+ "note": "Transcribed from MSRTC Ra.P. Chandgad Agar timetable (dated 09.03.2025). Departures from Chandgad (outgoing + incoming pooled). Unverified.",
+ "trips": [
+  {
+   "from": "Chandgad",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Parel",
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Thane",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Thane",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Mumbai Central",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Mumbai Central",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nigdi",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nigdi",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Satara",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Satara",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Akkalkot",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Akkalkot",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Sangli",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Sangli",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "11:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "21:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolhapur",
+   "service": "Ordinary",
+   "departure": "22:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "09:25",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "15:35",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "20:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Belgaum",
+   "service": "Ordinary",
+   "departure": "21:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Gadhinglaj",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kanur",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kanur",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kanur",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kanur",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kanur",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kanur",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kanur",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kowad",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kowad",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kowad",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kowad",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kowad",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Rajgoli",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Rajgoli",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Rajgoli",
+   "service": "Ordinary",
+   "departure": "08:40",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Rajgoli",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Rajgoli",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Rajgoli",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Rajgoli",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Rajgoli",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Rajgoli",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kudnur",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kalkundri",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Tudye",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Tudye",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Tudye",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Tudye",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Tudye",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Tudye",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Tudye",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolik",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolik",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolik",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolik",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolik",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolik",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kolik",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Tilari",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Tilari",
+   "service": "Ordinary",
+   "departure": "10:20",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Tilari",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Tilari",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Tilari",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Tilari",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Tilari",
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kodali",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kodali",
+   "service": "Ordinary",
+   "departure": "10:20",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kodali",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kodali",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kodali",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kodali",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kodali",
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Pargad",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Pargad",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Pargad",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Pargad",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Pargad",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Pargad",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Isapur",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Isapur",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Isapur",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Isapur",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Isapur",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Isapur",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nadvade",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nadvade",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nadvade",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nadvade",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nadvade",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nadvade",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nadvade",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nadvade",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nagave",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nagave",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nagave",
+   "service": "Ordinary",
+   "departure": "09:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nagave",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nagave",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nagave",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Nagave",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Zambre",
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Zambre",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Zambre",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Zambre",
+   "service": "Ordinary",
+   "departure": "09:25",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Zambre",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Zambre",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Zambre",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Zambre",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Zambre",
+   "service": "Ordinary",
+   "departure": "13:10",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Zambre",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Zambre",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Zambre",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Zambre",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kurani",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kurani",
+   "service": "Ordinary",
+   "departure": "07:35",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kurani",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kurani",
+   "service": "Ordinary",
+   "departure": "10:10",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kurani",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kurani",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kurani",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kurani",
+   "service": "Ordinary",
+   "departure": "12:50",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kurani",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kurani",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kurani",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kurani",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Kurani",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Buzwade",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Buzwade",
+   "service": "Ordinary",
+   "departure": "07:35",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Buzwade",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Buzwade",
+   "service": "Ordinary",
+   "departure": "10:10",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Buzwade",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Buzwade",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Buzwade",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Buzwade",
+   "service": "Ordinary",
+   "departure": "12:50",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Buzwade",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Buzwade",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Buzwade",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Buzwade",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Buzwade",
+   "service": "Ordinary",
+   "departure": "18:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Ibrahimpur",
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Ibrahimpur",
+   "service": "Ordinary",
+   "departure": "06:50",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Ibrahimpur",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Ibrahimpur",
+   "service": "Ordinary",
+   "departure": "12:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Sundi",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Sundi",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Malatwadi",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Malatwadi",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Karajgaon",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Karajgaon",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Dodamarg",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Dodamarg",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Dodamarg",
+   "service": "Ordinary",
+   "departure": "12:50",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Dodamarg",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Dodamarg",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Dodamarg",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "10:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Ajara",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Ajara",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Ajara",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Ajara",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Ajara",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Ajara",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Radhanagari",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  },
+  {
+   "from": "Chandgad",
+   "to": "Radhanagari",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Chandgad"
+  }
+ ],
+ "unverified": true
+}

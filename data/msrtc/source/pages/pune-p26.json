@@ -1,0 +1,175 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 26,
+ "note": "Pimpri-Chinchwad depot bus stand, departures sheet 4 (Solapur/Karnataka/Konkan). 'Barshi Kalamb', 'Barshi Dharur' = via Barshi; 'Mumbai Solapur' = through bus from Mumbai. 'Karwar 5.3' read as 05:30; 'Mudde Vihal' = Muddebihal. Ghердi, Chausala (01:15, ambiguous) omitted; Narangwadi Umarga stored as Umarga.",
+ "blocks": [
+  {
+   "from": "Pimpri Chinchwad",
+   "fromMr": "पिंपरी चिंचवड",
+   "depot": "Pimpri Chinchwad",
+   "page": 26,
+   "rows": [
+    [
+     "Ganagapur",
+     "गाणगापुर",
+     "20:00 20:30"
+    ],
+    [
+     "Barshi",
+     "बार्शी",
+     "03:30 12:00 13:30 23:00"
+    ],
+    [
+     "Kalamb (Dharashiv)",
+     "कळंब",
+     "07:00 07:45 08:30 21:00"
+    ],
+    [
+     "Dharur",
+     "धारूर",
+     "08:30 21:30"
+    ],
+    [
+     "Solapur",
+     "सोलापूर",
+     "01:10 09:15 10:45 13:00 22:00",
+     "",
+     "Mumbai",
+     "मुंबई"
+    ],
+    [
+     "Omerga",
+     "उमरगा",
+     "06:00 22:00"
+    ],
+    [
+     "Hyderabad",
+     "हैद्राबाद",
+     "07:30"
+    ],
+    [
+     "Malvan",
+     "मालवण",
+     "04:45 18:45"
+    ],
+    [
+     "Vengurla",
+     "वेगुंर्ला",
+     "07:00"
+    ],
+    [
+     "Sawantwadi",
+     "सावंतवाडी",
+     "06:30 20:30"
+    ],
+    [
+     "Chandgad",
+     "चंदगड",
+     "07:15"
+    ],
+    [
+     "Jat",
+     "जत",
+     "06:00 21:30"
+    ],
+    [
+     "Atpadi",
+     "आटपाटी",
+     "06:00"
+    ],
+    [
+     "Gondavale",
+     "गोंदवले",
+     "06:15"
+    ],
+    [
+     "Vita",
+     "विटा",
+     "06:30"
+    ],
+    [
+     "Kavathe Mahankal",
+     "क.महांकाळ",
+     "07:30"
+    ],
+    [
+     "Pandharpur",
+     "पंढरपूर",
+     "05:30 13:30 14:30"
+    ],
+    [
+     "Vijayapura",
+     "विजापूर",
+     "07:00 08:45"
+    ],
+    [
+     "Karwar",
+     "कारवार",
+     "05:30"
+    ],
+    [
+     "Koppal",
+     "कोपळ",
+     "19:00"
+    ],
+    [
+     "Muddebihal",
+     "मुददेविहाळ",
+     "05:00 08:00"
+    ],
+    [
+     "Sindagi",
+     "सिंधगी",
+     "05:00 20:15 21:15 22:00"
+    ],
+    [
+     "Ilkal",
+     "इरकल",
+     "21:00"
+    ],
+    [
+     "Surpur",
+     "सुरपुर",
+     "19:00"
+    ],
+    [
+     "Kalaburagi",
+     "गुलबर्गा",
+     "17:30"
+    ],
+    [
+     "Hospet",
+     "हॉस्पेट",
+     "18:30"
+    ],
+    [
+     "Hubballi",
+     "हुबळी",
+     "22:15"
+    ],
+    [
+     "Alibag",
+     "अलिबाग",
+     "02:15 06:00 07:00 08:00 12:30 13:30 14:30 15:15 20:00"
+    ],
+    [
+     "Kurla",
+     "कुर्ला",
+     "00:05 00:15 03:00 03:30 04:00 13:30 14:15 15:30"
+    ],
+    [
+     "Jawhar",
+     "जव्हार",
+     "07:30"
+    ],
+    [
+     "Murud",
+     "मुरुड",
+     "07:30 08:30 14:45 15:30"
+    ]
+   ]
+  }
+ ]
+}

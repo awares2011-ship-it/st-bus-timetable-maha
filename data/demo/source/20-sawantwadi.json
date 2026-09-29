@@ -1,0 +1,2110 @@
+{
+  "docType": "timetable",
+  "note": "Transcribed from MSRTC Sindhudurg Vibhag Sawantwadi bus sthanak timetable (Jaanarya gadyan). Departures from Sawantwadi. Times read from scanned table; unverified.",
+  "trips": [
+    {
+      "from": "Sawantwadi",
+      "to": "Pune",
+      "service": "Ordinary",
+      "departure": "07:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Pune",
+      "service": "Ordinary",
+      "departure": "08:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Pune",
+      "service": "Ordinary",
+      "departure": "09:05",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Pune",
+      "service": "Ordinary",
+      "departure": "09:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Pune",
+      "service": "Ordinary",
+      "departure": "11:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Pune",
+      "service": "Ordinary",
+      "departure": "18:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Pune",
+      "service": "Ordinary",
+      "departure": "18:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Pune",
+      "service": "Ordinary",
+      "departure": "19:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Pune",
+      "service": "Ordinary",
+      "departure": "22:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Pune",
+      "service": "Ordinary",
+      "departure": "18:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "06:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "08:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "08:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "10:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "07:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "10:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "11:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "11:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "10:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "14:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "15:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "17:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "15:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "15:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kolhapur",
+      "service": "Ordinary",
+      "departure": "19:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Tuljapur",
+      "service": "Ordinary",
+      "departure": "09:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Tuljapur",
+      "service": "Ordinary",
+      "departure": "12:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Tuljapur",
+      "service": "Ordinary",
+      "departure": "13:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Tuljapur",
+      "service": "Ordinary",
+      "departure": "16:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Tuljapur",
+      "service": "Ordinary",
+      "departure": "18:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Borivali",
+      "service": "Ordinary",
+      "departure": "15:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Borivali",
+      "service": "Ordinary",
+      "departure": "08:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Borivali",
+      "service": "Ordinary",
+      "departure": "12:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Borivali",
+      "service": "Ordinary",
+      "departure": "19:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ratnagiri",
+      "service": "Ordinary",
+      "departure": "07:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ratnagiri",
+      "service": "Ordinary",
+      "departure": "10:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ratnagiri",
+      "service": "Ordinary",
+      "departure": "13:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ratnagiri",
+      "service": "Ordinary",
+      "departure": "14:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Devgad",
+      "service": "Ordinary",
+      "departure": "08:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Devgad",
+      "service": "Ordinary",
+      "departure": "09:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Devgad",
+      "service": "Ordinary",
+      "departure": "11:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Devgad",
+      "service": "Ordinary",
+      "departure": "13:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Devgad",
+      "service": "Ordinary",
+      "departure": "16:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Devgad",
+      "service": "Ordinary",
+      "departure": "17:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Devgad",
+      "service": "Ordinary",
+      "departure": "14:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Devgad",
+      "service": "Ordinary",
+      "departure": "15:50",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Belgaum",
+      "service": "Ordinary",
+      "departure": "06:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Belgaum",
+      "service": "Ordinary",
+      "departure": "08:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Belgaum",
+      "service": "Ordinary",
+      "departure": "08:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Belgaum",
+      "service": "Ordinary",
+      "departure": "09:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Belgaum",
+      "service": "Ordinary",
+      "departure": "10:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Belgaum",
+      "service": "Ordinary",
+      "departure": "11:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Belgaum",
+      "service": "Ordinary",
+      "departure": "13:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Belgaum",
+      "service": "Ordinary",
+      "departure": "15:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Belgaum",
+      "service": "Ordinary",
+      "departure": "16:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Belgaum",
+      "service": "Ordinary",
+      "departure": "16:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "02:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "04:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "05:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "06:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "06:20",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "07:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "07:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "07:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "06:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "08:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "09:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "09:40",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "10:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "10:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "10:20",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "11:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "14:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "14:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "12:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "13:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "19:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "14:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "12:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "14:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "16:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "16:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "17:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Panaji",
+      "service": "Ordinary",
+      "departure": "17:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "06:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "08:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "09:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "10:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "10:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "10:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "11:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "13:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "13:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "15:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "15:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "16:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "17:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kankavli",
+      "service": "Ordinary",
+      "departure": "18:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kesari",
+      "service": "Ordinary",
+      "departure": "06:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kesari",
+      "service": "Ordinary",
+      "departure": "09:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kesari",
+      "service": "Ordinary",
+      "departure": "13:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kesari",
+      "service": "Ordinary",
+      "departure": "18:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kesari",
+      "service": "Ordinary",
+      "departure": "09:20",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kesari",
+      "service": "Ordinary",
+      "departure": "06:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kalikam",
+      "service": "Ordinary",
+      "departure": "06:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kalikam",
+      "service": "Ordinary",
+      "departure": "07:20",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kalikam",
+      "service": "Ordinary",
+      "departure": "09:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kalikam",
+      "service": "Ordinary",
+      "departure": "10:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kalikam",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kalikam",
+      "service": "Ordinary",
+      "departure": "13:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kalikam",
+      "service": "Ordinary",
+      "departure": "18:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kalikam",
+      "service": "Ordinary",
+      "departure": "11:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shivapur",
+      "service": "Ordinary",
+      "departure": "09:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shivapur",
+      "service": "Ordinary",
+      "departure": "13:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shivapur",
+      "service": "Ordinary",
+      "departure": "17:40",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shivapur",
+      "service": "Ordinary",
+      "departure": "08:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shivapur",
+      "service": "Ordinary",
+      "departure": "12:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shivapur",
+      "service": "Ordinary",
+      "departure": "18:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shivapur",
+      "service": "Ordinary",
+      "departure": "11:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "06:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "09:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "10:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "14:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "15:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "15:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "09:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Malwan",
+      "service": "Ordinary",
+      "departure": "16:20",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kudal",
+      "service": "Ordinary",
+      "departure": "13:20",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kudal",
+      "service": "Ordinary",
+      "departure": "15:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kudal",
+      "service": "Ordinary",
+      "departure": "19:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kudal",
+      "service": "Ordinary",
+      "departure": "19:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kudal",
+      "service": "Ordinary",
+      "departure": "21:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "05:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "06:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "07:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "07:25",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "08:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "09:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "09:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "09:50",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "10:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "11:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "13:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "14:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "14:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "15:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "15:50",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "16:25",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "16:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "17:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "17:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "18:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "18:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Vengurle",
+      "service": "Ordinary",
+      "departure": "19:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kherwadi",
+      "service": "Ordinary",
+      "departure": "06:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kherwadi",
+      "service": "Ordinary",
+      "departure": "11:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shiroda",
+      "service": "Ordinary",
+      "departure": "07:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shiroda",
+      "service": "Ordinary",
+      "departure": "07:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shiroda",
+      "service": "Ordinary",
+      "departure": "09:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shiroda",
+      "service": "Ordinary",
+      "departure": "09:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shiroda",
+      "service": "Ordinary",
+      "departure": "10:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shiroda",
+      "service": "Ordinary",
+      "departure": "11:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shiroda",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shiroda",
+      "service": "Ordinary",
+      "departure": "12:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shiroda",
+      "service": "Ordinary",
+      "departure": "13:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shiroda",
+      "service": "Ordinary",
+      "departure": "14:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shiroda",
+      "service": "Ordinary",
+      "departure": "15:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shiroda",
+      "service": "Ordinary",
+      "departure": "16:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shiroda",
+      "service": "Ordinary",
+      "departure": "17:20",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shiroda",
+      "service": "Ordinary",
+      "departure": "20:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Redi",
+      "service": "Ordinary",
+      "departure": "06:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Redi",
+      "service": "Ordinary",
+      "departure": "12:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Redi",
+      "service": "Ordinary",
+      "departure": "15:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Redi",
+      "service": "Ordinary",
+      "departure": "18:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Aaronda",
+      "service": "Ordinary",
+      "departure": "09:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Aaronda",
+      "service": "Ordinary",
+      "departure": "10:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Aaronda",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Aaronda",
+      "service": "Ordinary",
+      "departure": "16:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Aaronda",
+      "service": "Ordinary",
+      "departure": "18:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Aaronda",
+      "service": "Ordinary",
+      "departure": "09:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Satarda",
+      "service": "Ordinary",
+      "departure": "07:40",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Satarda",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Satarda",
+      "service": "Ordinary",
+      "departure": "06:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Satarda",
+      "service": "Ordinary",
+      "departure": "16:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Satarda",
+      "service": "Ordinary",
+      "departure": "18:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Satarda",
+      "service": "Ordinary",
+      "departure": "09:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Satarda",
+      "service": "Ordinary",
+      "departure": "12:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shirshinge",
+      "service": "Ordinary",
+      "departure": "08:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shirshinge",
+      "service": "Ordinary",
+      "departure": "08:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shirshinge",
+      "service": "Ordinary",
+      "departure": "10:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shirshinge",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shirshinge",
+      "service": "Ordinary",
+      "departure": "13:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shirshinge",
+      "service": "Ordinary",
+      "departure": "16:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Shirshinge",
+      "service": "Ordinary",
+      "departure": "19:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Velle",
+      "service": "Ordinary",
+      "departure": "07:20",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Velle",
+      "service": "Ordinary",
+      "departure": "09:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Velle",
+      "service": "Ordinary",
+      "departure": "10:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Velle",
+      "service": "Ordinary",
+      "departure": "11:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Velle",
+      "service": "Ordinary",
+      "departure": "12:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Velle",
+      "service": "Ordinary",
+      "departure": "14:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Velle",
+      "service": "Ordinary",
+      "departure": "16:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Velle",
+      "service": "Ordinary",
+      "departure": "18:50",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Parpole",
+      "service": "Ordinary",
+      "departure": "07:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Parpole",
+      "service": "Ordinary",
+      "departure": "09:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Parpole",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Parpole",
+      "service": "Ordinary",
+      "departure": "14:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Parpole",
+      "service": "Ordinary",
+      "departure": "09:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Phutbrij",
+      "service": "Ordinary",
+      "departure": "07:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Phutbrij",
+      "service": "Ordinary",
+      "departure": "15:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Phutbrij",
+      "service": "Ordinary",
+      "departure": "07:40",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Phutbrij",
+      "service": "Ordinary",
+      "departure": "09:40",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Phutbrij",
+      "service": "Ordinary",
+      "departure": "11:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Phutbrij",
+      "service": "Ordinary",
+      "departure": "17:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Phutbrij",
+      "service": "Ordinary",
+      "departure": "08:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Phutbrij",
+      "service": "Ordinary",
+      "departure": "11:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Dodamarg",
+      "service": "Ordinary",
+      "departure": "07:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Dodamarg",
+      "service": "Ordinary",
+      "departure": "08:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Dodamarg",
+      "service": "Ordinary",
+      "departure": "08:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Dodamarg",
+      "service": "Ordinary",
+      "departure": "10:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Dodamarg",
+      "service": "Ordinary",
+      "departure": "10:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Dodamarg",
+      "service": "Ordinary",
+      "departure": "11:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Dodamarg",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Dodamarg",
+      "service": "Ordinary",
+      "departure": "14:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Dodamarg",
+      "service": "Ordinary",
+      "departure": "15:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Dodamarg",
+      "service": "Ordinary",
+      "departure": "18:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Dodamarg",
+      "service": "Ordinary",
+      "departure": "19:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Babarwadi",
+      "service": "Ordinary",
+      "departure": "07:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Babarwadi",
+      "service": "Ordinary",
+      "departure": "09:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Babarwadi",
+      "service": "Ordinary",
+      "departure": "11:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Babarwadi",
+      "service": "Ordinary",
+      "departure": "16:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Babarwadi",
+      "service": "Ordinary",
+      "departure": "13:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Babarwadi",
+      "service": "Ordinary",
+      "departure": "17:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ker",
+      "service": "Ordinary",
+      "departure": "10:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ker",
+      "service": "Ordinary",
+      "departure": "16:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ker",
+      "service": "Ordinary",
+      "departure": "13:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ker",
+      "service": "Ordinary",
+      "departure": "15:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ker",
+      "service": "Ordinary",
+      "departure": "08:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ker",
+      "service": "Ordinary",
+      "departure": "12:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ker",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kumbral",
+      "service": "Ordinary",
+      "departure": "19:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kumbral",
+      "service": "Ordinary",
+      "departure": "06:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kumbral",
+      "service": "Ordinary",
+      "departure": "08:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kumbral",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kumbral",
+      "service": "Ordinary",
+      "departure": "11:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Kumbral",
+      "service": "Ordinary",
+      "departure": "12:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Asaniye",
+      "service": "Ordinary",
+      "departure": "12:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Asaniye",
+      "service": "Ordinary",
+      "departure": "20:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Asaniye",
+      "service": "Ordinary",
+      "departure": "06:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Asaniye",
+      "service": "Ordinary",
+      "departure": "08:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Asaniye",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ambegao",
+      "service": "Ordinary",
+      "departure": "07:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ambegao",
+      "service": "Ordinary",
+      "departure": "08:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ambegao",
+      "service": "Ordinary",
+      "departure": "09:15",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ambegao",
+      "service": "Ordinary",
+      "departure": "11:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ambegao",
+      "service": "Ordinary",
+      "departure": "12:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ambegao",
+      "service": "Ordinary",
+      "departure": "13:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ambegao",
+      "service": "Ordinary",
+      "departure": "14:00",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ambegao",
+      "service": "Ordinary",
+      "departure": "15:30",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ambegao",
+      "service": "Ordinary",
+      "departure": "16:45",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    },
+    {
+      "from": "Sawantwadi",
+      "to": "Ambegao",
+      "service": "Ordinary",
+      "departure": "18:10",
+      "days": "DAILY",
+      "depot": "Sawantwadi"
+    }
+  ]
+}

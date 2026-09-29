@@ -1,0 +1,151 @@
+{
+ "docType": "timetable-page",
+ "division": "nashik",
+ "pdf": "नाशिक_विभाग_वेळापत्रक.pdf",
+ "page": 21,
+ "note": "Deola bus stand, sheet 2 — buses of other depots passing Deola (time at Deola). 'X – Y' rows are through buses from X to Y. 'Dhule via Kalwan Nashik' = Dhule → Nashik. 'Khamgaon, Muktainagar' stored as Muktainagar. Kolhapur-bound fragment at the page foot omitted.",
+ "blocks": [
+  {
+   "from": "Deola",
+   "fromMr": "देवळा",
+   "depot": "Satana",
+   "page": 21,
+   "rows": [
+    [
+     "Malegaon",
+     "मालेगाव",
+     "05:50 07:00 07:45 08:30 09:45 10:45 12:30 13:00 14:30 16:00 16:30 18:30 19:30 20:30"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "07:45",
+     "",
+     "Mangi Tungi",
+     "मांगीतुंगी"
+    ],
+    [
+     "Mangi Tungi",
+     "मांगीतुंगी",
+     "18:45",
+     "",
+     "Nashik",
+     "नाशिक"
+    ],
+    [
+     "Dhule",
+     "धुळे",
+     "17:15",
+     "",
+     "Nashik",
+     "नाशिक"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "09:00",
+     "",
+     "Dhule",
+     "धुळे"
+    ],
+    [
+     "Jalgaon",
+     "जळगाव",
+     "13:45"
+    ],
+    [
+     "Nandgaon",
+     "नांदगाव",
+     "13:30"
+    ],
+    [
+     "Chhatrapati Sambhajinagar",
+     "छत्रपती संभाजीनगर",
+     "15:00"
+    ],
+    [
+     "Muktainagar",
+     "खामगांव ,मुक्ताईनगर",
+     "07:55 08:30"
+    ],
+    [
+     "Nandurigad",
+     "नांदुरीगड",
+     "08:15 15:00 17:50",
+     "",
+     "Manmad",
+     "मनमाड"
+    ],
+    [
+     "Manmad",
+     "मनमाड",
+     "07:15 11:00 17:45",
+     "",
+     "Nandurigad",
+     "नांदुरीगड"
+    ],
+    [
+     "Chandwad",
+     "चांदवड",
+     "16:00"
+    ],
+    [
+     "Surat",
+     "सुरत",
+     "09:00",
+     "",
+     "Manmad",
+     "मनमाड"
+    ],
+    [
+     "Manmad",
+     "मनमाड",
+     "16:15",
+     "",
+     "Surat",
+     "सुरत"
+    ],
+    [
+     "Surat",
+     "सुरत",
+     "10:15",
+     "",
+     "Shrirampur",
+     "श्रीरामपूर"
+    ],
+    [
+     "Surat",
+     "सुरत",
+     "14:15",
+     "",
+     "Ahilyanagar",
+     "अहिल्यानगर"
+    ],
+    [
+     "Shrirampur",
+     "श्रीरामपूर",
+     "11:45",
+     "",
+     "Surat",
+     "सुरत"
+    ],
+    [
+     "Ahilyanagar",
+     "अहिल्यानगर",
+     "13:35",
+     "",
+     "Surat",
+     "सुरत"
+    ],
+    [
+     "Lasalgaon",
+     "लासलगाव",
+     "10:15 15:00",
+     "",
+     "Satana",
+     "सटाणा"
+    ]
+   ]
+  }
+ ]
+}

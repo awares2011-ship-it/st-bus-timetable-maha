@@ -1,0 +1,58 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 45,
+ "note": "Shivajinagar (Wakdewadi) bus stand board, last sheet (board total 718 departures). Belgaum Hirkani. Paragaon, Ghadgetale omitted (ambiguous villages).",
+ "blocks": [
+  {
+   "from": "Pune Shivajinagar",
+   "fromMr": "शिवाजीनगर",
+   "depot": "Shivajinagar",
+   "page": 45,
+   "rows": [
+    [
+     "Parner",
+     "पारनेर",
+     "12:15"
+    ],
+    [
+     "Pusad",
+     "पुसद",
+     "07:45"
+    ],
+    [
+     "Belgaum",
+     "बेळगाव",
+     "23:00",
+     "Hirkani"
+    ],
+    [
+     "Yavatmal",
+     "यवतमाळ",
+     "18:00"
+    ],
+    [
+     "Rajur (Akole)",
+     "राजूर",
+     "07:00 12:45"
+    ],
+    [
+     "Rahu",
+     "राहू",
+     "12:30"
+    ],
+    [
+     "Dahitne",
+     "दहिटने",
+     "18:30"
+    ],
+    [
+     "Walki",
+     "वाळकी",
+     "13:30"
+    ]
+   ]
+  }
+ ]
+}

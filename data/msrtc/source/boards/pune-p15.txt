@@ -1,0 +1,14 @@
+division: pune
+pdf: पुणे_विभाग_वेळापत्रक.pdf
+page: 15
+board: Ghodegaon | घोडेगाव
+depot: Manchar
+note: Ghodegaon bus stand (Manchar depot, 01/03/2025), departures. Low-resolution scan: small village rows (Ramwadi, Gadekarwadi, Dhakale, Asane, Ahupe, Chas, Ugalewadi, Gohe, Jambhori, Rajgurunagar, Wada) and 'Dimbha'/'Gangapur' Mumbai rows omitted. Mumbai-bound rows run via Junnar–Malshej (Kalyan) or Panvel–Vashi–Ghatkopar (Kurla).
+rows:
+घोडेगाव - भिमाशंकर 06.30 07.15 07.45 08.15 09.00 09.45 10.15 10.45 11.45 12.45 13.15 14.45 15.15 16.45 18.45
+घोडेगाव - पुणे 07.00 07.30 08.00 09.30 10.00 10.30 11.00 11.30 12.30 13.30 14.30 15.30 16.30 17.30 18.30 19.30
+घोडेगाव - मंचर 07.00 08.45 09.30 10.00 10.30 11.15 12.00 12.15 13.00 14.30 15.15 15.30 17.15 17.45 19.15
+घोडेगाव - जुन्नर 07.00 09.00 10.15 11.30 13.00 14.00 16.00 18.00
+घोडेगाव - कुर्ला 08.00 11.00
+भिमाशंकर - कुर्ला 08.15 11.45
+भिमाशंकर - कल्याण 09.00

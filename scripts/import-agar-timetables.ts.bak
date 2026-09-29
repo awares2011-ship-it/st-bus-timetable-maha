@@ -1,0 +1,255 @@
+/**
+ * Merge Kolhapur Agar printed timetables into the published dataset.
+ *
+ * Reads new fixtures 05-* .. 19-* from data/demo/source, normalises them
+ * against the updated reference geography (data/demo/reference), and MERGES
+ * the resulting trips/routes/stops into the existing data/generated without
+ * losing the already-published verified trips.
+ *
+ * Usage: npx tsx scripts/import-agar-timetables.ts
+ */
+import fs from 'node:fs';
+import path from 'node:path';
+import { loadReference, type ReferenceData } from '../scraper/pipeline';
+import { normalizeDataset } from '../scraper/normalizers/normalize-dataset';
+import type { ParsedTrip } from '../scraper/types';
+import { loadPreviousGenerated, writeDataset } from '../scraper/generate-data';
+import { PATHS } from '../scraper/util/paths';
+import { log } from '../scraper/util/log';
+import { readJson } from '../scraper/util/fs';
+import { validateDataset } from '../scraper/validators';
+import { diffDatasets } from '../scraper/diff/diff';
+import type { StagedDataset } from '../scraper/pipeline';
+
+function loadNewParsedTrips(): ParsedTrip[] {
+  const srcDir = PATHS.demoSource;
+  const files = fs.readdirSync(srcDir).filter((f) => /^0[5-9]-|^[12]\d-/.test(f) && f.endsWith('.json')).sort();
+  log.info(`new fixtures: ${files.join(', ')}`);
+  const parsed: ParsedTrip[] = [];
+  for (const file of files) {
+    const raw = fs.readFileSync(path.join(srcDir, file), 'utf8');
+    const fixture = JSON.parse(raw) as { trips: Array<{ from: string; to: string; via?: string[]; service: string; departure: string; arrival?: string; days?: string; depot?: string }> };
+    for (const t of fixture.trips ?? []) {
+      // normalise departure to HH:MM via time-normalizer logic inline (fixture already HH:MM)
+      parsed.push({
+        fromRaw: t.from,
+        toRaw: t.to,
+        viaRaw: t.via ?? [],
+        serviceRaw: t.service,
+        departure: t.departure,
+        arrival: t.arrival,
+        operatingDays: undefined, // will be parsed via parseOperatingDays inside normalize? we pass raw DAYS string via service?
+        // operatingDays from fixture days string - use helper
+        // We'll let normalizeDataset handle string via parseOperatingDays - but we already pass departure normalized
+        // Need to convert days string to Weekday[] here
+        depotRaw: t.depot,
+        sourceDocId: file,
+      });
+    }
+  }
+  // Fix operatingDays: re-read with proper parsing
+  const { parseOperatingDays } = awaitImportSync();
+  for (let i = 0, idx = 0; i < files.length; i++) {
+    const fixture = JSON.parse(fs.readFileSync(path.join(srcDir, files[i]), 'utf8')) as { trips: Array<{ days?: string }> };
+    for (const t of fixture.trips ?? []) {
+      parsed[idx].operatingDays = parseOperatingDays(t.days);
+      idx++;
+    }
+  }
+  return parsed;
+}
+
+function awaitImportSync() {
+  // eslint-disable-next-line @typescript-eslint/no-var-requires
+  const mod = require('../scraper/normalizers/time-normalizer');
+  return { parseOperatingDays: mod.parseOperatingDays as (s?: string) => import('../src/types/domain').Weekday[] };
+}
+
+async function main() {
+  log.step(1, 3, 'Import Agar timetables — merge into data/generated');
+
+  const ref = loadReference();
+  const previous = loadPreviousGenerated();
+  if (!previous) {
+    log.error('No previous generated dataset found — run data:build first');
+    process.exit(1);
+  }
+  log.info(`previous: ${previous.trips.length} trips, ${previous.routes.length} routes, ${previous.metadata?.datasetVersion}`);
+
+  // Parse new fixtures
+  const srcDir = PATHS.demoSource;
+  const newFiles = fs.readdirSync(srcDir).filter((f) => /^0[5-9]-|^[12]\d-/.test(f) && f.endsWith('.json')).sort();
+  const { parseOperatingDays } = (await import('../scraper/normalizers/time-normalizer.js')) as unknown as { parseOperatingDays: (s?: string) => import('../src/types/domain').Weekday[] };
+  const parsed: ParsedTrip[] = [];
+  for (const file of newFiles) {
+    const fixture = JSON.parse(fs.readFileSync(path.join(srcDir, file), 'utf8')) as { trips: Array<{ from: string; to: string; via?: string[]; service: string; departure: string; arrival?: string; days?: string; depot?: string }> };
+    for (const t of fixture.trips ?? []) {
+      parsed.push({
+        fromRaw: t.from,
+        toRaw: t.to,
+        viaRaw: t.via ?? [],
+        serviceRaw: t.service,
+        departure: t.departure,
+        arrival: t.arrival,
+        operatingDays: parseOperatingDays(t.days),
+        depotRaw: t.depot,
+        sourceDocId: file,
+      });
+    }
+  }
+  log.info(`parsed ${parsed.length} new raw trips from ${newFiles.length} fixture(s)`);
+
+  const today = new Date().toISOString().slice(0, 10);
+  const normalized = normalizeDataset(parsed, ref, { source: 'DEMO', lastVerified: today });
+  log.info(`normalised new: ${normalized.trips.length} trips, ${normalized.routes.length} routes, warnings=${normalized.warnings.length}`);
+  for (const w of normalized.warnings.slice(0, 20)) log.warn(w);
+
+  // Merge: keep all previous trips (verified), add new DEMO trips that don't already exist
+  const existingKeys = new Set(previous.trips.map((t) => `${t.routeId}|${t.departure}|${t.serviceType}|${[...t.operatingDays].sort().join(',')}`));
+  let added = 0, dup = 0;
+  const mergedTrips = [...previous.trips];
+  for (const t of normalized.trips) {
+    const key = `${t.routeId}|${t.departure}|${t.serviceType}|${[...t.operatingDays].sort().join(',')}`;
+    if (existingKeys.has(key)) { dup++; continue; }
+    existingKeys.add(key);
+    mergedTrips.push(t);
+    added++;
+  }
+  log.ok(`merge: +${added} new trips, ${dup} duplicates skipped, total ${mergedTrips.length}`);
+
+  // Merge routes: union by id
+  const routeById = new Map(previous.routes.map((r) => [r.id, r]));
+  let newRoutes = 0;
+  for (const r of normalized.routes) {
+    if (!routeById.has(r.id)) { routeById.set(r.id, r); newRoutes++; }
+  }
+  const mergedRoutes = [...routeById.values()];
+  log.ok(`routes: previous ${previous.routes.length} +${newRoutes} = ${mergedRoutes.length}`);
+
+  // Stops: union of reference + previous generated + auto-discovered normalized (covers "mumbai" vs "mumbai-central" etc)
+  const stopById = new Map<string, typeof ref.stops[0]>();
+  for (const s of ref.stops) stopById.set(s.id, s);
+  for (const s of (previous as unknown as { stops?: typeof ref.stops }).stops ?? []) {
+    if (!stopById.has(s.id)) stopById.set(s.id, s);
+  }
+  // Also pull stops from data/generated/stops.json directly (authoritative previous published stops)
+  try {
+    const genStops = readJson<typeof ref.stops>(path.join(PATHS.generated, 'stops.json'));
+    for (const s of genStops) if (!stopById.has(s.id)) stopById.set(s.id, s);
+  } catch {}
+  for (const s of normalized.stops) if (!stopById.has(s.id)) stopById.set(s.id, s);
+  const mergedStops = [...stopById.values()];
+  const mergedStations = mergedStops.filter((s) => s.type === 'station');
+  // Depots: union reference + previous
+  const depotById = new Map(ref.depots.map((d) => [d.id, d]));
+  try {
+    const genDepots = readJson<typeof ref.depots>(path.join(PATHS.generated, 'depots.json'));
+    for (const d of genDepots) if (!depotById.has(d.id)) depotById.set(d.id, d);
+  } catch {}
+  for (const d of normalized.depots) if (!depotById.has(d.id)) depotById.set(d.id, d);
+  const mergedDepots = [...depotById.values()];
+
+  // Build schedules per division from mergedTrips + mergedRoutes
+  const byDivision = new Map<string, typeof mergedTrips>();
+  const routeDiv = new Map(mergedRoutes.map((r) => [r.id, r.division]));
+  const defaultDiv = ref.divisions[0]?.id ?? 'kolhapur';
+  const divById = new Map(ref.divisions.map((d) => [d.id, d]));
+  for (const t of mergedTrips) {
+    const div = routeDiv.get(t.routeId) ?? defaultDiv;
+    if (!byDivision.has(div)) byDivision.set(div, []);
+    byDivision.get(div)!.push(t);
+  }
+  const generatedAt = new Date().toISOString();
+  const schedules = [...byDivision.entries()].map(([division, dtrips]) => ({
+    division,
+    slug: divById.get(division)?.slug ?? division,
+    generatedAt,
+    trips: dtrips.sort((a, b) => a.departure.localeCompare(b.departure)),
+  }));
+
+  const mergedNormalized = {
+    divisions: ref.divisions,
+    depots: mergedDepots,
+    stops: mergedStops,
+    stations: mergedStations,
+    routes: mergedRoutes,
+    serviceTypes: ref.serviceTypes,
+    popularRoutes: (ref.popularRoutes ?? []).filter((p) => routeById.has(p.routeId)),
+    schedules,
+    trips: mergedTrips,
+    warnings: normalized.warnings,
+  };
+
+  // Validate before publishing
+  const report = validateDataset({ trips: mergedTrips as any, routes: mergedRoutes, stops: mergedStops }, { previousTripCount: previous.trips.length, minRetainFraction: 0.4 });
+  log.info(report.summary);
+  for (const w of report.warnings.slice(0, 20)) log.warn(`${w.code}: ${w.message}`);
+  for (const e of report.errors) log.error(`${e.code}: ${e.message}`);
+  if (!report.ok) {
+    log.error('Validation failed — not publishing');
+    process.exit(1);
+  }
+
+  const staged: StagedDataset = {
+    meta: { sourceId: 'demo+agar', sourceLabel: 'DEMO', fetchedAt: new Date().toISOString(), warnings: normalized.warnings, imageOnlyDocs: [] },
+    normalized: mergedNormalized,
+  };
+  // Write staged for generate's re-validation
+  const { ensureDir, writeJson } = await import('../scraper/util/fs.js');
+  ensureDir(PATHS.tmp);
+  writeJson(PATHS.staged, staged);
+  log.info('staged.json written');
+
+  // Diff + publish
+  log.info('computing diff...');
+  const changes = diffDatasets({ trips: previous.trips, routes: previous.routes }, { trips: mergedTrips as any, routes: mergedRoutes });
+  log.info(`diff: ${changes.length} changes`);
+
+  // Direct write without backup recursion risk (manual publish)
+  const { writeJson: wj, ensureDir: ed } = await import('../scraper/util/fs.js');
+  ed(PATHS.generated);
+  ed(PATHS.generatedSchedules);
+  const version = (() => {
+    const today = new Date().toISOString().slice(0, 10);
+    const prev = previous.metadata?.datasetVersion;
+    if (prev?.startsWith(today)) return `${today}-${String(Number(prev.slice(-3)) + 1).padStart(3, '0')}`;
+    return `${today}-001`;
+  })();
+  const containsDemoData = mergedTrips.some((t: any) => !t.verified);
+  const metadata = {
+    datasetVersion: version,
+    generatedAt,
+    source: containsDemoData ? 'MSRTC + Kolhapur Agar printed timetables (unverified DEMO blended)' : 'MSRTC',
+    containsDemoData,
+    counts: {
+      divisions: mergedNormalized.divisions.length,
+      depots: mergedDepots.length,
+      stations: mergedStations.length,
+      stops: mergedStops.length,
+      routes: mergedRoutes.length,
+      trips: mergedTrips.length,
+      serviceTypes: mergedNormalized.serviceTypes.length,
+    },
+    schedules: schedules.map((s) => ({ division: s.division, slug: s.slug, trips: s.trips.length })),
+    disclaimer: 'This is an independent public-transport information service and is not affiliated with or operated by Maharashtra State Road Transport Corporation (MSRTC). Timetables may change. Please verify important travel information with official MSRTC sources.',
+  };
+  // Remove stale schedule files
+  const { listFiles: lf, rmrf: rf } = await import('../scraper/util/fs.js');
+  const wanted = new Set(schedules.map((s) => `${s.slug}.json`));
+  for (const f of lf(PATHS.generatedSchedules, '.json')) {
+    if (!wanted.has(path.basename(f))) rf(f);
+  }
+  wj(path.join(PATHS.generated, 'divisions.json'), mergedNormalized.divisions);
+  wj(path.join(PATHS.generated, 'depots.json'), mergedDepots);
+  wj(path.join(PATHS.generated, 'stations.json'), mergedStations);
+  wj(path.join(PATHS.generated, 'stops.json'), mergedStops);
+  wj(path.join(PATHS.generated, 'routes.json'), mergedRoutes);
+  wj(path.join(PATHS.generated, 'service-types.json'), mergedNormalized.serviceTypes);
+  wj(path.join(PATHS.generated, 'popular-routes.json'), mergedNormalized.popularRoutes);
+  for (const sched of schedules) wj(path.join(PATHS.generatedSchedules, `${sched.slug}.json`), sched);
+  wj(path.join(PATHS.generated, 'changes.json'), { datasetVersion: version, generatedAt, previousVersion: previous.metadata?.datasetVersion, changes });
+  wj(path.join(PATHS.generated, 'metadata.json'), metadata);
+  log.ok(`Published ${metadata.datasetVersion}: ${metadata.counts.trips} trips, ${metadata.counts.routes} routes, ${metadata.counts.stops} stops`);
+}
+
+main().catch((e) => { console.error(e); process.exit(1); });

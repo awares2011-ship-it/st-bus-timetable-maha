@@ -1,0 +1,113 @@
+{
+ "docType": "timetable-page",
+ "division": "nashik",
+ "pdf": "नाशिक_विभाग_वेळापत्रक.pdf",
+ "page": 22,
+ "note": "Deola bus stand, sheet 3 — through buses of other depots (Nashik-1, Nashik-2, Pimpalgaon, Sakri) timed at Deola; each row names origin and destination. Sakri depot's plain 'Nashik' row = Sakri → Nashik (sheet 4 lists the reverse as 'Nashik Sakri'). Sakri–Umbarti/Nampur/Sompur/Lonkhedi–Nashik stored as Sakri → Nashik.",
+ "blocks": [
+  {
+   "from": "Deola",
+   "fromMr": "देवळा",
+   "depot": "Satana",
+   "page": 22,
+   "rows": [
+    [
+     "Nashik",
+     "नाशिक",
+     "09:15 10:00 14:00 15:00 15:15 15:45 16:10 17:00 17:45 18:30",
+     "",
+     "Nandurbar",
+     "नंदुरबार"
+    ],
+    [
+     "Nandurbar",
+     "नंदुरबार",
+     "06:30 07:30 07:40 08:35 09:00 09:30 09:45 11:15 16:30 20:30",
+     "",
+     "Nashik",
+     "नाशिक"
+    ],
+    [
+     "Nandurbar",
+     "नंदुरबार",
+     "08:45",
+     "",
+     "Mungbari",
+     "मुंगबारी"
+    ],
+    [
+     "Lonkhedi",
+     "लोणखेडी",
+     "16:15",
+     "",
+     "Nashik",
+     "नाशिक"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "08:30",
+     "",
+     "Lonkhedi",
+     "लोणखेडी"
+    ],
+    [
+     "Satana",
+     "सटाणा",
+     "09:00 10:00 16:30 17:30",
+     "E-Shivai",
+     "Nashik",
+     "नाशिक"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "10:30 11:30 17:30 18:30",
+     "E-Shivai",
+     "Satana",
+     "सटाणा"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "07:30",
+     "",
+     "Talwade",
+     "तळवाडे"
+    ],
+    [
+     "Talwade",
+     "तळवाडे",
+     "18:30",
+     "",
+     "Nashik",
+     "नाशिक"
+    ],
+    [
+     "Pune (city)",
+     "पुणे",
+     "08:30 10:30 12:15",
+     "",
+     "Sakri",
+     "साक्री"
+    ],
+    [
+     "Nashik",
+     "नाशिक",
+     "08:00 08:40 08:45 08:55 09:30 10:00 10:15 10:30 11:30 12:30 13:00 13:30 15:00 16:00 17:00 18:00",
+     "",
+     "Sakri",
+     "साक्री"
+    ],
+    [
+     "Kalyan",
+     "कल्याण",
+     "10:15",
+     "",
+     "Sakri",
+     "साक्री"
+    ]
+   ]
+  }
+ ]
+}

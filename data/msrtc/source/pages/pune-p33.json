@@ -1,0 +1,109 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 33,
+ "note": "Baramati MIDC depot bus stand board; stored under Baramati (same town). Two-name rows: 'Baramati X' = Baramati → X; 'Pune – Jat', 'Satara – Ausa', 'Satara – Nanded', 'Nashik – Akluj' are through buses timed here ('00.30' for Pune–Jat kept). Village shuttles (Sayambachiwadi, Sherewadi, Late, Ghadgewadi, Nirgude, Murti, Asu, Barad) kept where the name is unambiguous; Supa via Barhanpur–Jalgaon kept as Supa.",
+ "blocks": [
+  {
+   "from": "Baramati",
+   "fromMr": "बारामती",
+   "depot": "Baramati MIDC",
+   "page": 33,
+   "rows": [
+    [
+     "Supe (Baramati)",
+     "सुपा",
+     "07:30 09:00 10:00 13:45 16:00 19:00"
+    ],
+    [
+     "Asu",
+     "आसू",
+     "07:00 09:00 11:00 13:30 17:30 19:30"
+    ],
+    [
+     "Barad",
+     "बरड",
+     "08:00 10:30 11:30 14:00 16:30 19:00"
+    ],
+    [
+     "Late",
+     "लाटे",
+     "08:00 16:30 18:45"
+    ],
+    [
+     "Tuljapur",
+     "तुळजापूर",
+     "06:45 12:30"
+    ],
+    [
+     "Hyderabad",
+     "हैद्राबाद",
+     "07:15"
+    ],
+    [
+     "Patas",
+     "पाटस",
+     "08:00 10:00 13:00 14:00 16:00 19:00"
+    ],
+    [
+     "Shirur",
+     "शिरूर",
+     "11:30 15:30"
+    ],
+    [
+     "Pandharpur",
+     "पंढरपूर",
+     "07:00 13:30"
+    ],
+    [
+     "Akaluj",
+     "अकलूज",
+     "15:30",
+     "",
+     "Nashik",
+     "नाशिक"
+    ],
+    [
+     "Jat",
+     "जत",
+     "00:30 09:30",
+     "",
+     "Pune (city)",
+     "पुणे"
+    ],
+    [
+     "Akkalkot",
+     "अक्कलकोट",
+     "06:15 14:30"
+    ],
+    [
+     "Atpadi",
+     "आटपाडी",
+     "14:00"
+    ],
+    [
+     "Latur",
+     "लातूर",
+     "07:30"
+    ],
+    [
+     "Ausa",
+     "औसा",
+     "10:30",
+     "",
+     "Satara",
+     "सातारा"
+    ],
+    [
+     "Nanded",
+     "नांदेड",
+     "10:00",
+     "",
+     "Satara",
+     "सातारा"
+    ]
+   ]
+  }
+ ]
+}

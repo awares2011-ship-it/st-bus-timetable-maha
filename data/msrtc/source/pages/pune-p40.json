@@ -1,0 +1,111 @@
+{
+ "docType": "timetable-page",
+ "division": "pune",
+ "pdf": "पुणे_विभाग_वेळापत्रक.pdf",
+ "page": 40,
+ "note": "Shivajinagar (Wakdewadi) bus stand board, revised 25/02/2025, sheet 1. Colours: red = ordinary, brown/orange = Shivshahi, blue = Shivneri, green = E-Shivai, purple = Hirkani, yellow = sleeper. Aurangabad row (65 buses): same-time buses of the same service are stored once. Akola 06:30/08:45 Shivshahi, 18:00 Hirkani; Amalner all Shivshahi; Alibag 06:30/07:00 Hirkani, 19:00 Shivshahi; Ambad 09:45 sleeper; Ambejogai '001' read as 00:15? — stored as 00:01.",
+ "blocks": [
+  {
+   "from": "Pune Shivajinagar",
+   "fromMr": "शिवाजीनगर",
+   "depot": "Shivajinagar",
+   "page": 40,
+   "rows": [
+    [
+     "Akola",
+     "अकोला",
+     "06:30 08:45",
+     "Shivshahi"
+    ],
+    [
+     "Akola",
+     "अकोला",
+     "18:00",
+     "Hirkani"
+    ],
+    [
+     "Akola",
+     "अकोला",
+     "19:00"
+    ],
+    [
+     "Akole",
+     "अकोले",
+     "08:00 11:00 12:30 13:00 14:00 16:00"
+    ],
+    [
+     "Amalner",
+     "अमळनेर",
+     "05:40 06:15 06:45 07:00 07:15 18:00",
+     "Shivshahi"
+    ],
+    [
+     "Alibag",
+     "अलिबाग",
+     "02:00 06:00 08:00 10:00 12:00 14:00 15:00"
+    ],
+    [
+     "Alibag",
+     "अलिबाग",
+     "06:30 07:00",
+     "Hirkani"
+    ],
+    [
+     "Alibag",
+     "अलिबाग",
+     "19:00",
+     "Shivshahi"
+    ],
+    [
+     "Ashti (Beed)",
+     "आष्टी",
+     "11:00 16:30 17:30"
+    ],
+    [
+     "Ambad",
+     "अंबड",
+     "07:00 08:00 15:30 16:30 17:00 22:15 23:30"
+    ],
+    [
+     "Ambad",
+     "अंबड",
+     "09:45",
+     "Sleeper"
+    ],
+    [
+     "Ambajogai",
+     "अंबेजोगाई",
+     "00:01 08:30 11:00 13:30 18:45 21:00 22:15"
+    ],
+    [
+     "Chhatrapati Sambhajinagar",
+     "छत्रपती संभाजीनगर",
+     "05:15 05:45 06:15 07:45 08:45 09:45 10:45 11:45 12:15 12:45 13:15 13:45 15:15 16:15 16:45 18:15 18:45 22:45",
+     "Shivshahi"
+    ],
+    [
+     "Chhatrapati Sambhajinagar",
+     "छत्रपती संभाजीनगर",
+     "06:00 07:00 08:00 09:00 12:00 18:00",
+     "Shivneri"
+    ],
+    [
+     "Chhatrapati Sambhajinagar",
+     "छत्रपती संभाजीनगर",
+     "06:15 06:45 07:15 08:15 09:15 10:15 11:15 17:00 18:00 19:00",
+     "E-Shivai"
+    ],
+    [
+     "Chhatrapati Sambhajinagar",
+     "छत्रपती संभाजीनगर",
+     "06:30 07:00 07:30 07:45 08:00 08:30 10:30 11:30 12:00 12:30 12:45 13:00 13:15 13:30 14:00 14:15 14:45 15:00 15:45 16:00 16:25 17:00 17:15 17:45 19:00 19:15 19:45 20:00 20:15 20:45 21:15 22:15"
+    ],
+    [
+     "Ausa",
+     "औसा",
+     "07:30 08:15 10:30 22:30"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+division: pune
+pdf: पुणे_विभाग_वेळापत्रक.pdf
+page: 46
+board: Supe (Baramati) | सुपा
+depot: Baramati
+note: Supa (Supe, Baramati taluka) bus stand. Swargate via Morgaon '15.3' read as 15:30.
+rows:
+सुपा - बारामती 06.00 08.45 09.00 11.15 11.45 13.30 14.30 15.00 17.30
+सुपा - सासवड 06.00 09.00 11.45 14.30 17.45
+सुपा - स्वारगेट 15.30
+सुपा - शिरूर 12.30 16.30

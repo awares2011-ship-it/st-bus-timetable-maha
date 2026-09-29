@@ -1,0 +1,73 @@
+{
+ "_note": "Bus stands that belong to the same city. A search for the city covers every stand; each result still shows which stand the bus leaves from.",
+ "pune": {
+  "name": "Pune (all stands)",
+  "nameMr": "पुणे (सर्व स्थानके)",
+  "stops": [
+   "pune-swargate",
+   "pune-shivajinagar",
+   "pune-station",
+   "vallabhnagar-pune",
+   "pimpri-chinchwad",
+   "chinchwad",
+   "pune-city"
+  ]
+ },
+ "mumbai": {
+  "name": "Mumbai (Central, Dadar, Parel)",
+  "nameMr": "मुंबई (सेंट्रल, दादर, परळ)",
+  "stops": [
+   "mumbai-central",
+   "mumbai",
+   "dadar",
+   "dadar-mumbai",
+   "parel",
+   "mumbai-parel"
+  ]
+ },
+ "thane": {
+  "name": "Thane (all stands)",
+  "nameMr": "ठाणे (सर्व स्थानके)",
+  "stops": [
+   "thane",
+   "thane-khopat",
+   "thane-vandana",
+   "thane-station"
+  ]
+ },
+ "kolhapur": {
+  "name": "Kolhapur (all stands)",
+  "nameMr": "कोल्हापूर (सर्व स्थानके)",
+  "stops": [
+   "kolhapur",
+   "rankala",
+   "sambhajinagar-kolhapur"
+  ]
+ },
+ "solapur": {
+  "name": "Solapur (all stands)",
+  "nameMr": "सोलापूर (सर्व स्थानके)",
+  "stops": [
+   "solapur",
+   "solapur-railway-station"
+  ]
+ },
+ "nanded": {
+  "name": "Nanded (all stands)",
+  "nameMr": "नांदेड (सर्व स्थानके)",
+  "stops": [
+   "nanded",
+   "nanded-sc"
+  ]
+ },
+ "nashik": {
+  "name": "Nashik (all stands)",
+  "nameMr": "नाशिक (सर्व स्थानके)",
+  "stops": [
+   "nashik",
+   "nashik-mahamarg",
+   "nashik-mela",
+   "satpur"
+  ]
+ }
+}

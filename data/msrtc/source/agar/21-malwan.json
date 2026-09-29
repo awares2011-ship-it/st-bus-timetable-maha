@@ -1,0 +1,1680 @@
+{
+ "division": "sindhudurg",
+ "docType": "timetable",
+ "note": "Transcribed from MSRTC Sindhudurg Vibhag Malwan bus sthanak timetable. Departures from Malwan. Unverified.",
+ "trips": [
+  {
+   "from": "Malwan",
+   "to": "Pendur",
+   "service": "Ordinary",
+   "departure": "04:50",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Pendur",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Pendur",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Pendur",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "13:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "04:50",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "22:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "23:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Gaganbawada",
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Phonda",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "21:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "11:50",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "07:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "19:10",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "12:20",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "07:10",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "10:50",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Devgad",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "06:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "12:50",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Panaji",
+   "service": "Ordinary",
+   "departure": "17:50",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Achra",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Achra",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Achra",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Achra",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Achra",
+   "service": "Ordinary",
+   "departure": "10:25",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Achra",
+   "service": "Ordinary",
+   "departure": "15:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Ajganni",
+   "service": "Ordinary",
+   "departure": "06:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Ajganni",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Ajganni",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Ajganni",
+   "service": "Ordinary",
+   "departure": "14:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Ajganni",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Ajganni",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Ajganni",
+   "service": "Ordinary",
+   "departure": "15:05",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Ajganni",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Masare",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Masare",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Masare",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Masare",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Masare",
+   "service": "Ordinary",
+   "departure": "18:05",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Masare",
+   "service": "Ordinary",
+   "departure": "06:50",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Masare",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Masare",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Masare",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Masare",
+   "service": "Ordinary",
+   "departure": "14:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Anganewadi",
+   "service": "Ordinary",
+   "departure": "15:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Anganewadi",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Anganewadi",
+   "service": "Ordinary",
+   "departure": "07:20",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Anganewadi",
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Belane Anganewadi",
+   "service": "Ordinary",
+   "departure": "07:20",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Belane Anganewadi",
+   "service": "Ordinary",
+   "departure": "11:20",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "20:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "08:20",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "09:20",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "13:05",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "16:50",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Nerurpar",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Nerurpar",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Nerurpar",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Nerurpar",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Nerurpar",
+   "service": "Ordinary",
+   "departure": "19:40",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "07:05",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "08:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "15:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "18:20",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "19:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dhampur",
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "05:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "08:50",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Achra",
+   "service": "Ordinary",
+   "departure": "07:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Achra",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Achra",
+   "service": "Ordinary",
+   "departure": "13:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Achra",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Achra",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Achra",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Mhapan",
+   "service": "Ordinary",
+   "departure": "08:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Mhapan",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Mhapan",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Mhapan",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Ambegaon",
+   "service": "Ordinary",
+   "departure": "17:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Ambegaon",
+   "service": "Ordinary",
+   "departure": "10:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Sawantwadi",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kunkeshwar",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kunkeshwar",
+   "service": "Ordinary",
+   "departure": "08:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "05:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "09:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "10:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "12:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "14:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "16:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "17:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "17:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "19:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "07:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "09:55",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "10:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "12:50",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "13:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "14:40",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "16:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "17:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "18:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "19:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deulwada",
+   "service": "Ordinary",
+   "departure": "20:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "06:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "08:55",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal Chowke",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal Chowke",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kasal Chowke",
+   "service": "Ordinary",
+   "departure": "12:20",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deoli",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deoli",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deoli",
+   "service": "Ordinary",
+   "departure": "12:20",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deoli Wayari",
+   "service": "Ordinary",
+   "departure": "06:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deoli Wayari",
+   "service": "Ordinary",
+   "departure": "09:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deoli Wayari",
+   "service": "Ordinary",
+   "departure": "12:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Deoli Wayari",
+   "service": "Ordinary",
+   "departure": "17:10",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Salel",
+   "service": "Ordinary",
+   "departure": "09:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Microwave",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dangmode",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dangmode",
+   "service": "Ordinary",
+   "departure": "11:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dangmode",
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dangmode",
+   "service": "Ordinary",
+   "departure": "07:10",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dangmode",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dangmode",
+   "service": "Ordinary",
+   "departure": "14:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dangmode Kandalgaon",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Dangmode Kandalgaon",
+   "service": "Ordinary",
+   "departure": "18:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Bagayat Amdos",
+   "service": "Ordinary",
+   "departure": "13:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Bagayat Amdos",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Bagayat Amdos",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Bagayat Amdos",
+   "service": "Ordinary",
+   "departure": "15:05",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Bagayat Amdos",
+   "service": "Ordinary",
+   "departure": "18:50",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kerwada Mhapan",
+   "service": "Ordinary",
+   "departure": "16:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kerwada Mhapan",
+   "service": "Ordinary",
+   "departure": "08:50",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kudopi",
+   "service": "Ordinary",
+   "departure": "16:45",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Kudopi",
+   "service": "Ordinary",
+   "departure": "08:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Oros",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Oros",
+   "service": "Ordinary",
+   "departure": "09:05",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Oros",
+   "service": "Ordinary",
+   "departure": "12:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Oros",
+   "service": "Ordinary",
+   "departure": "11:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Oros",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Oros",
+   "service": "Ordinary",
+   "departure": "14:40",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Oros",
+   "service": "Ordinary",
+   "departure": "19:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Belane",
+   "service": "Ordinary",
+   "departure": "18:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Belane",
+   "service": "Ordinary",
+   "departure": "07:15",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Mitbav",
+   "service": "Ordinary",
+   "departure": "11:30",
+   "days": "DAILY",
+   "depot": "Malwan"
+  },
+  {
+   "from": "Malwan",
+   "to": "Mitbav",
+   "service": "Ordinary",
+   "departure": "15:00",
+   "days": "DAILY",
+   "depot": "Malwan"
+  }
+ ],
+ "unverified": true
+}

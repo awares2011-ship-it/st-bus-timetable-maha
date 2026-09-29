@@ -1,0 +1,1927 @@
+[
+  {
+    "id": "pune-swargate",
+    "name": "Pune Swargate",
+    "nameMr": "पुणे स्वारगेट",
+    "nameHi": "पुणे स्वारगेट",
+    "aliases": [
+      "Swargate",
+      "Pune",
+      "Pune ST",
+      "Poona",
+      "Swargate Bus Stand"
+    ],
+    "division": "pune",
+    "district": "Pune",
+    "type": "station",
+    "depot": "swargate",
+    "lat": 18.4996,
+    "lng": 73.8586
+  },
+  {
+    "id": "pune-shivajinagar",
+    "name": "Pune Shivajinagar",
+    "nameMr": "पुणे शिवाजीनगर",
+    "nameHi": "पुणे शिवाजीनगर",
+    "aliases": [
+      "Shivajinagar",
+      "Shivaji Nagar",
+      "Pune Shivaji Nagar"
+    ],
+    "division": "pune",
+    "district": "Pune",
+    "type": "station",
+    "depot": "shivajinagar",
+    "lat": 18.5308,
+    "lng": 73.8475
+  },
+  {
+    "id": "pune-station",
+    "name": "Pune Station",
+    "nameMr": "पुणे स्टेशन",
+    "nameHi": "पुणे स्टेशन",
+    "aliases": [
+      "Pune Railway Station",
+      "Pune Rly Stn",
+      "Pune Bus Station"
+    ],
+    "division": "pune",
+    "district": "Pune",
+    "type": "station",
+    "depot": "shivajinagar"
+  },
+  {
+    "id": "baramati",
+    "name": "Baramati",
+    "nameMr": "बारामती",
+    "nameHi": "बारामती",
+    "aliases": [
+      "Baramati ST"
+    ],
+    "division": "pune",
+    "district": "Pune",
+    "type": "station",
+    "depot": "baramati"
+  },
+  {
+    "id": "mumbai-central",
+    "name": "Mumbai Central",
+    "nameMr": "मुंबई सेंट्रल",
+    "nameHi": "मुंबई सेंट्रल",
+    "aliases": [
+      "Mumbai",
+      "Bombay Central",
+      "Mumbai ST",
+      "Mumbai Central Bus Stand"
+    ],
+    "division": "mumbai",
+    "district": "Mumbai",
+    "type": "station",
+    "depot": "mumbai-central",
+    "lat": 18.9691,
+    "lng": 72.8193
+  },
+  {
+    "id": "dadar",
+    "name": "Mumbai Dadar",
+    "nameMr": "मुंबई दादर",
+    "nameHi": "मुंबई दादर",
+    "aliases": [
+      "Dadar",
+      "Dadar ST",
+      "Dadar East"
+    ],
+    "division": "mumbai",
+    "district": "Mumbai",
+    "type": "station",
+    "depot": "parel",
+    "lat": 19.0186,
+    "lng": 72.8449
+  },
+  {
+    "id": "borivali",
+    "name": "Borivali",
+    "nameMr": "बोरिवली",
+    "nameHi": "बोरीवली",
+    "aliases": [
+      "Borivali East",
+      "Borivli"
+    ],
+    "division": "mumbai",
+    "district": "Mumbai Suburban",
+    "type": "station"
+  },
+  {
+    "id": "thane",
+    "name": "Thane",
+    "nameMr": "ठाणे",
+    "nameHi": "ठाणे",
+    "aliases": [
+      "Thane ST",
+      "Thane Station"
+    ],
+    "division": "thane",
+    "district": "Thane",
+    "type": "station",
+    "depot": "thane"
+  },
+  {
+    "id": "panvel",
+    "name": "Panvel",
+    "nameMr": "पनवेल",
+    "nameHi": "पनवेल",
+    "aliases": [
+      "Panvel ST",
+      "New Panvel"
+    ],
+    "division": "thane",
+    "district": "Raigad",
+    "type": "station",
+    "depot": "panvel"
+  },
+  {
+    "id": "kalyan",
+    "name": "Kalyan",
+    "nameMr": "कल्याण",
+    "nameHi": "कल्याण",
+    "aliases": [
+      "Kalyan ST"
+    ],
+    "division": "thane",
+    "district": "Thane",
+    "type": "station"
+  },
+  {
+    "id": "satara",
+    "name": "Satara",
+    "nameMr": "सातारा",
+    "nameHi": "सातारा",
+    "aliases": [
+      "Satara ST",
+      "Satara CBS",
+      "Satara Bus Stand"
+    ],
+    "division": "satara",
+    "district": "Satara",
+    "type": "station",
+    "depot": "satara",
+    "lat": 17.6805,
+    "lng": 73.9933
+  },
+  {
+    "id": "karad",
+    "name": "Karad",
+    "nameMr": "कराड",
+    "nameHi": "कराड",
+    "aliases": [
+      "Karad ST"
+    ],
+    "division": "satara",
+    "district": "Satara",
+    "type": "station",
+    "depot": "karad"
+  },
+  {
+    "id": "wai",
+    "name": "Wai",
+    "nameMr": "वाई",
+    "nameHi": "वाई",
+    "aliases": [
+      "Wai ST"
+    ],
+    "division": "satara",
+    "district": "Satara",
+    "type": "station"
+  },
+  {
+    "id": "mahabaleshwar",
+    "name": "Mahabaleshwar",
+    "nameMr": "महाबळेश्वर",
+    "nameHi": "महाबलेश्वर",
+    "aliases": [
+      "Mahabaleshwar ST"
+    ],
+    "division": "satara",
+    "district": "Satara",
+    "type": "station"
+  },
+  {
+    "id": "phaltan",
+    "name": "Phaltan",
+    "nameMr": "फलटण",
+    "nameHi": "फलटण",
+    "aliases": [
+      "Phaltan ST"
+    ],
+    "division": "satara",
+    "district": "Satara",
+    "type": "station"
+  },
+  {
+    "id": "kolhapur",
+    "name": "Kolhapur",
+    "nameMr": "कोल्हापूर",
+    "nameHi": "कोल्हापुर",
+    "aliases": [
+      "Kolhapur ST",
+      "Kolhapur CBS",
+      "Kolhapur Central Bus Stand"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "kolhapur",
+    "lat": 16.705,
+    "lng": 74.2433
+  },
+  {
+    "id": "ichalkaranji",
+    "name": "Ichalkaranji",
+    "nameMr": "इचलकरंजी",
+    "nameHi": "इचलकरंजी",
+    "aliases": [
+      "Ichalkaranji ST"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station"
+  },
+  {
+    "id": "gadhinglaj",
+    "name": "Gadhinglaj",
+    "nameMr": "गडहिंग्लज",
+    "nameHi": "गडहिंग्लज",
+    "aliases": [
+      "Gadhinglaj ST",
+      "Gadhinglaz"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "gadhinglaj"
+  },
+  {
+    "id": "sangli",
+    "name": "Sangli",
+    "nameMr": "सांगली",
+    "nameHi": "सांगली",
+    "aliases": [
+      "Sangli ST"
+    ],
+    "division": "sangli",
+    "district": "Sangli",
+    "type": "station",
+    "depot": "sangli"
+  },
+  {
+    "id": "miraj",
+    "name": "Miraj",
+    "nameMr": "मिरज",
+    "nameHi": "मिरज",
+    "aliases": [
+      "Miraj ST"
+    ],
+    "division": "sangli",
+    "district": "Sangli",
+    "type": "station"
+  },
+  {
+    "id": "vita",
+    "name": "Vita",
+    "nameMr": "विटा",
+    "nameHi": "विटा",
+    "aliases": [],
+    "division": "sangli",
+    "district": "Sangli",
+    "type": "station"
+  },
+  {
+    "id": "solapur",
+    "name": "Solapur",
+    "nameMr": "सोलापूर",
+    "nameHi": "सोलापुर",
+    "aliases": [
+      "Solapur ST",
+      "Sholapur"
+    ],
+    "division": "solapur",
+    "district": "Solapur",
+    "type": "station",
+    "depot": "solapur",
+    "lat": 17.6599,
+    "lng": 75.9064
+  },
+  {
+    "id": "pandharpur",
+    "name": "Pandharpur",
+    "nameMr": "पंढरपूर",
+    "nameHi": "पंढरपुर",
+    "aliases": [
+      "Pandharpur ST",
+      "Pandarpur"
+    ],
+    "division": "solapur",
+    "district": "Solapur",
+    "type": "station",
+    "depot": "pandharpur"
+  },
+  {
+    "id": "akkalkot",
+    "name": "Akkalkot",
+    "nameMr": "अक्कलकोट",
+    "nameHi": "अक्कलकोट",
+    "aliases": [],
+    "division": "solapur",
+    "district": "Solapur",
+    "type": "station"
+  },
+  {
+    "id": "ahilyanagar",
+    "name": "Ahilyanagar",
+    "nameMr": "अहिल्यानगर",
+    "nameHi": "अहिल्यानगर",
+    "aliases": [
+      "Ahmednagar",
+      "Nagar",
+      "Ahmadnagar",
+      "Ahilyanagar ST"
+    ],
+    "division": "ahilyanagar",
+    "district": "Ahilyanagar",
+    "type": "station",
+    "depot": "ahilyanagar"
+  },
+  {
+    "id": "shirdi",
+    "name": "Shirdi",
+    "nameMr": "शिर्डी",
+    "nameHi": "शिरडी",
+    "aliases": [
+      "Shirdi ST",
+      "Sai Nagar Shirdi"
+    ],
+    "division": "ahilyanagar",
+    "district": "Ahilyanagar",
+    "type": "station",
+    "depot": "shirdi",
+    "lat": 19.7645,
+    "lng": 74.4779
+  },
+  {
+    "id": "shrirampur",
+    "name": "Shrirampur",
+    "nameMr": "श्रीरामपूर",
+    "nameHi": "श्रीरामपुर",
+    "aliases": [
+      "Shrirampur ST"
+    ],
+    "division": "ahilyanagar",
+    "district": "Ahilyanagar",
+    "type": "station"
+  },
+  {
+    "id": "nashik",
+    "name": "Nashik",
+    "nameMr": "नाशिक",
+    "nameHi": "नासिक",
+    "aliases": [
+      "Nasik",
+      "Nashik CBS",
+      "Nashik ST",
+      "Nashik Road"
+    ],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station",
+    "depot": "nashik",
+    "lat": 19.9975,
+    "lng": 73.7898
+  },
+  {
+    "id": "malegaon",
+    "name": "Malegaon",
+    "nameMr": "मालेगाव",
+    "nameHi": "मालेगांव",
+    "aliases": [
+      "Malegaon ST"
+    ],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station"
+  },
+  {
+    "id": "sinnar",
+    "name": "Sinnar",
+    "nameMr": "सिन्नर",
+    "nameHi": "सिन्नर",
+    "aliases": [],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station"
+  },
+  {
+    "id": "nagpur",
+    "name": "Nagpur",
+    "nameMr": "नागपूर",
+    "nameHi": "नागपुर",
+    "aliases": [
+      "Nagpur ST",
+      "Nagpur Ganeshpeth",
+      "Ganeshpeth"
+    ],
+    "division": "nagpur",
+    "district": "Nagpur",
+    "type": "station",
+    "depot": "nagpur",
+    "lat": 21.1458,
+    "lng": 79.0882
+  },
+  {
+    "id": "wardha",
+    "name": "Wardha",
+    "nameMr": "वर्धा",
+    "nameHi": "वर्धा",
+    "aliases": [
+      "Wardha ST"
+    ],
+    "division": "nagpur",
+    "district": "Wardha",
+    "type": "station"
+  },
+  {
+    "id": "sambhajinagar",
+    "name": "Chhatrapati Sambhajinagar",
+    "nameMr": "छत्रपती संभाजीनगर",
+    "nameHi": "छत्रपति संभाजीनगर",
+    "aliases": [
+      "Aurangabad",
+      "Sambhajinagar",
+      "Aurangabad ST",
+      "CSN"
+    ],
+    "division": "sambhajinagar",
+    "district": "Chhatrapati Sambhajinagar",
+    "type": "station",
+    "depot": "sambhajinagar",
+    "lat": 19.8762,
+    "lng": 75.3433
+  },
+  {
+    "id": "jalna",
+    "name": "Jalna",
+    "nameMr": "जालना",
+    "nameHi": "जालना",
+    "aliases": [
+      "Jalna ST"
+    ],
+    "division": "sambhajinagar",
+    "district": "Jalna",
+    "type": "station"
+  },
+  {
+    "id": "beed",
+    "name": "Beed",
+    "nameMr": "बीड",
+    "nameHi": "बीड",
+    "aliases": [
+      "Beed ST",
+      "Beed"
+    ],
+    "division": "sambhajinagar",
+    "district": "Beed",
+    "type": "station"
+  },
+  {
+    "id": "ratnagiri",
+    "name": "Ratnagiri",
+    "nameMr": "रत्नागिरी",
+    "nameHi": "रत्नागिरी",
+    "aliases": [
+      "Ratnagiri ST"
+    ],
+    "division": "ratnagiri",
+    "district": "Ratnagiri",
+    "type": "station",
+    "depot": "ratnagiri"
+  },
+  {
+    "id": "chiplun",
+    "name": "Chiplun",
+    "nameMr": "चिपळूण",
+    "nameHi": "चिपलून",
+    "aliases": [
+      "Chiplun ST"
+    ],
+    "division": "ratnagiri",
+    "district": "Ratnagiri",
+    "type": "station"
+  },
+  {
+    "id": "kagal",
+    "name": "Kagal",
+    "nameMr": "कागल",
+    "nameHi": "कागल",
+    "aliases": [
+      "Kagal ST"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "kagal"
+  },
+  {
+    "id": "ajara",
+    "name": "Ajara",
+    "nameMr": "आजरा",
+    "nameHi": "आजरा",
+    "aliases": [
+      "Ajara ST"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "ajara"
+  },
+  {
+    "id": "chandgad",
+    "name": "Chandgad",
+    "nameMr": "चंदगड",
+    "nameHi": "चंदगड",
+    "aliases": [
+      "Chandgad ST",
+      "Chandgarh"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "chandgad"
+  },
+  {
+    "id": "gargoti",
+    "name": "Gargoti",
+    "nameMr": "गारगोटी",
+    "nameHi": "गारगोटी",
+    "aliases": [
+      "Gargoti ST"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "gargoti"
+  },
+  {
+    "id": "kodoli",
+    "name": "Kodoli",
+    "nameMr": "कोडोली",
+    "nameHi": "कोडोली",
+    "aliases": [
+      "Kodoli ST"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "kodoli"
+  },
+  {
+    "id": "vadgaon",
+    "name": "Vadgaon",
+    "nameMr": "वडगांव",
+    "nameHi": "वडगांव",
+    "aliases": [
+      "Vadgaon ST",
+      "Vadgaon Kolhapur"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "vadgaon"
+  },
+  {
+    "id": "hatkanangle",
+    "name": "Hatkanangle",
+    "nameMr": "हातकणंगले",
+    "nameHi": "हातकणंगले",
+    "aliases": [
+      "Hatkanangle ST",
+      "Hatkanangale"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "hatkanangle"
+  },
+  {
+    "id": "rankala",
+    "name": "Rankala",
+    "nameMr": "रंकाळा",
+    "nameHi": "रंकाळा",
+    "aliases": [
+      "Rankala ST",
+      "Rankala Bus Stand"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "rankala"
+  },
+  {
+    "id": "malkapur",
+    "name": "Malkapur",
+    "nameMr": "मलकापूर",
+    "nameHi": "मलकापूर",
+    "aliases": [
+      "Malkapur ST",
+      "Malkapur Kolhapur"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "malkapur"
+  },
+  {
+    "id": "panhala",
+    "name": "Panhala",
+    "nameMr": "पन्हाळा",
+    "nameHi": "पन्हाळा",
+    "aliases": [
+      "Panhala ST",
+      "Panhala Bus Stand"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "panhala"
+  },
+  {
+    "id": "wathar",
+    "name": "Wathar",
+    "nameMr": "वाठार",
+    "nameHi": "वाठार",
+    "aliases": [
+      "Wathar ST"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "wathar"
+  },
+  {
+    "id": "nrusinhwadi",
+    "name": "Nrusinhwadi",
+    "nameMr": "नृसिंहवाडी",
+    "nameHi": "नृसिंहवाडी",
+    "aliases": [
+      "Nrusinhwadi ST",
+      "Narsinhwadi",
+      "Nrusinhawadi"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "nrusinhwadi"
+  },
+  {
+    "id": "radhanagari",
+    "name": "Radhanagari",
+    "nameMr": "राधानगरी",
+    "nameHi": "राधानगरी",
+    "aliases": [
+      "Radhanagari ST"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "radhanagari"
+  },
+  {
+    "id": "shirol",
+    "name": "Shirol",
+    "nameMr": "शिरोळ",
+    "nameHi": "शिरोळ",
+    "aliases": [
+      "Shirol ST"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "shirol"
+  },
+  {
+    "id": "jaysingpur",
+    "name": "Jaysingpur",
+    "nameMr": "जयसिंगपूर",
+    "nameHi": "जयसिंगपुर",
+    "aliases": [
+      "Jaysingpur ST",
+      "Jaisingpur"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "jaysingpur"
+  },
+  {
+    "id": "kurundwad",
+    "name": "Kurundwad",
+    "nameMr": "कुरुंदवाड",
+    "nameHi": "कुरुंदवाड",
+    "aliases": [
+      "Kurundwad ST",
+      "Kurundvad"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "kurundwad"
+  },
+  {
+    "id": "gaganbawada",
+    "name": "Gaganbawada",
+    "nameMr": "गगनबावडा",
+    "nameHi": "गगनबावडा",
+    "aliases": [
+      "Gaganbawada ST",
+      "Gaganbavada"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "gaganbawada"
+  },
+  {
+    "id": "hupari",
+    "name": "Hupari",
+    "nameMr": "हुपरी",
+    "nameHi": "हुपरी",
+    "aliases": [
+      "Hupari ST"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station",
+    "depot": "hupari"
+  },
+  {
+    "id": "sambhajinagar-kolhapur",
+    "name": "Sambhajinagar",
+    "nameMr": "संभाजीनगर",
+    "nameHi": "संभाजीनगर",
+    "aliases": [
+      "Sambhajinagar Kolhapur",
+      "Sambhajinagar Bus Sthanak"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station"
+  },
+  {
+    "id": "murgud",
+    "name": "Murgud",
+    "nameMr": "मुरगूड",
+    "nameHi": "मुरगूड",
+    "aliases": [
+      "Murgud ST"
+    ],
+    "division": "kolhapur",
+    "district": "Kolhapur",
+    "type": "station"
+  },
+  {
+    "id": "tasgaon",
+    "name": "Tasgaon",
+    "nameMr": "तासगांव",
+    "nameHi": "तासगांव",
+    "aliases": [
+      "Tasgaon ST",
+      "Mauje Tasgaon"
+    ],
+    "division": "sangli",
+    "district": "Sangli",
+    "type": "station"
+  },
+  {
+    "id": "jat",
+    "name": "Jat",
+    "nameMr": "जत",
+    "nameHi": "जत",
+    "aliases": [
+      "Jat ST",
+      "Jath"
+    ],
+    "division": "sangli",
+    "district": "Sangli",
+    "type": "station"
+  },
+  {
+    "id": "atpadi",
+    "name": "Atpadi",
+    "nameMr": "आटपाडी",
+    "nameHi": "आटपाडी",
+    "aliases": [
+      "Atpadi ST",
+      "Atpati"
+    ],
+    "division": "sangli",
+    "district": "Sangli",
+    "type": "station"
+  },
+  {
+    "id": "palus",
+    "name": "Palus",
+    "nameMr": "पलूस",
+    "nameHi": "पलूस",
+    "aliases": [
+      "Palus ST"
+    ],
+    "division": "sangli",
+    "district": "Sangli",
+    "type": "station"
+  },
+  {
+    "id": "shirala",
+    "name": "Shirala",
+    "nameMr": "शिराळा",
+    "nameHi": "शिराळा",
+    "aliases": [
+      "Shirala ST"
+    ],
+    "division": "sangli",
+    "district": "Sangli",
+    "type": "station"
+  },
+  {
+    "id": "islampur",
+    "name": "Islampur",
+    "nameMr": "इस्लामपूर",
+    "nameHi": "इस्लामपुर",
+    "aliases": [
+      "Islampur ST",
+      "Islampur Sangli"
+    ],
+    "division": "sangli",
+    "district": "Sangli",
+    "type": "station"
+  },
+  {
+    "id": "ashta",
+    "name": "Ashta",
+    "nameMr": "आष्टा",
+    "nameHi": "आष्टा",
+    "aliases": [
+      "Ashta ST",
+      "Ashta Sangli"
+    ],
+    "division": "sangli",
+    "district": "Sangli",
+    "type": "station"
+  },
+  {
+    "id": "vaduj",
+    "name": "Vaduj",
+    "nameMr": "वडूज",
+    "nameHi": "वडूज",
+    "aliases": [
+      "Vaduj ST"
+    ],
+    "division": "satara",
+    "district": "Satara",
+    "type": "station"
+  },
+  {
+    "id": "dahiwadi",
+    "name": "Dahiwadi",
+    "nameMr": "दहिवडी",
+    "nameHi": "दहिवडी",
+    "aliases": [
+      "Dahiwadi ST"
+    ],
+    "division": "satara",
+    "district": "Satara",
+    "type": "station"
+  },
+  {
+    "id": "mhaswad",
+    "name": "Mhaswad",
+    "nameMr": "म्हसवड",
+    "nameHi": "म्हसवड",
+    "aliases": [
+      "Mhaswad ST"
+    ],
+    "division": "satara",
+    "district": "Satara",
+    "type": "station"
+  },
+  {
+    "id": "daund",
+    "name": "Daund",
+    "nameMr": "दौंड",
+    "nameHi": "दौंड",
+    "aliases": [
+      "Daund ST"
+    ],
+    "division": "pune",
+    "district": "Pune",
+    "type": "station"
+  },
+  {
+    "id": "nigdi",
+    "name": "Nigdi",
+    "nameMr": "निगडी",
+    "nameHi": "निगडी",
+    "aliases": [
+      "Nigdi ST",
+      "Vallabhnagar"
+    ],
+    "division": "pune",
+    "district": "Pune",
+    "type": "station"
+  },
+  {
+    "id": "pimpri-chinchwad",
+    "name": "Pimpri Chinchwad",
+    "nameMr": "पिंपरी चिंचवड",
+    "nameHi": "पिंपरी चिंचवड",
+    "aliases": [
+      "Pimpri",
+      "Chinchwad",
+      "Pimpri Chinchwad ST"
+    ],
+    "division": "pune",
+    "district": "Pune",
+    "type": "station"
+  },
+  {
+    "id": "pathardi",
+    "name": "Pathardi",
+    "nameMr": "पाथर्डी",
+    "nameHi": "पाथर्डी",
+    "aliases": [
+      "Pathardi ST"
+    ],
+    "division": "ahilyanagar",
+    "district": "Ahilyanagar",
+    "type": "station"
+  },
+  {
+    "id": "jamkhed",
+    "name": "Jamkhed",
+    "nameMr": "जामखेड",
+    "nameHi": "जामखेड",
+    "aliases": [
+      "Jamkhed ST"
+    ],
+    "division": "ahilyanagar",
+    "district": "Ahilyanagar",
+    "type": "station"
+  },
+  {
+    "id": "bhum",
+    "name": "Bhum",
+    "nameMr": "भूम",
+    "nameHi": "भूम",
+    "aliases": [
+      "Bhum ST"
+    ],
+    "division": "solapur",
+    "district": "Dharashiv",
+    "type": "station"
+  },
+  {
+    "id": "akaluj",
+    "name": "Akaluj",
+    "nameMr": "अकलूज",
+    "nameHi": "अकलूज",
+    "aliases": [
+      "Akaluj ST"
+    ],
+    "division": "solapur",
+    "district": "Solapur",
+    "type": "station"
+  },
+  {
+    "id": "bijapur",
+    "name": "Bijapur",
+    "nameMr": "विजापूर",
+    "nameHi": "विजापुर",
+    "aliases": [
+      "Vijapur",
+      "Vijayapur",
+      "Vijayapura",
+      "Bijapur ST"
+    ],
+    "division": "solapur",
+    "district": "Vijayapura",
+    "type": "station"
+  },
+  {
+    "id": "nanded",
+    "name": "Nanded",
+    "nameMr": "नांदेड",
+    "nameHi": "नांदेड",
+    "aliases": [
+      "Nanded ST"
+    ],
+    "division": "sambhajinagar",
+    "district": "Nanded",
+    "type": "station"
+  },
+  {
+    "id": "parbhani",
+    "name": "Parbhani",
+    "nameMr": "परभणी",
+    "nameHi": "परभणी",
+    "aliases": [
+      "Parbhani ST"
+    ],
+    "division": "sambhajinagar",
+    "district": "Parbhani",
+    "type": "station"
+  },
+  {
+    "id": "hingoli",
+    "name": "Hingoli",
+    "nameMr": "हिंगोली",
+    "nameHi": "हिंगोली",
+    "aliases": [
+      "Hingoli ST"
+    ],
+    "division": "sambhajinagar",
+    "district": "Hingoli",
+    "type": "station"
+  },
+  {
+    "id": "majalgaon",
+    "name": "Majalgaon",
+    "nameMr": "माजलगाव",
+    "nameHi": "माजलगाव",
+    "aliases": [
+      "Majalgaon ST"
+    ],
+    "division": "sambhajinagar",
+    "district": "Beed",
+    "type": "station"
+  },
+  {
+    "id": "ambajogai",
+    "name": "Ambajogai",
+    "nameMr": "अंबेजोगाई",
+    "nameHi": "अंबेजोगाई",
+    "aliases": [
+      "Ambajogai ST",
+      "Ambejogai"
+    ],
+    "division": "sambhajinagar",
+    "district": "Beed",
+    "type": "station"
+  },
+  {
+    "id": "parel",
+    "name": "Parel",
+    "nameMr": "परेल",
+    "nameHi": "परेल",
+    "aliases": [
+      "Parel ST",
+      "Mumbai Parel"
+    ],
+    "division": "mumbai",
+    "district": "Mumbai",
+    "type": "station",
+    "depot": "parel"
+  },
+  {
+    "id": "panaji",
+    "name": "Panaji",
+    "nameMr": "पणजी",
+    "nameHi": "पणजी",
+    "aliases": [
+      "Panaji ST",
+      "Panjim",
+      "Panji",
+      "Goa",
+      "Gova"
+    ],
+    "division": "kolhapur",
+    "district": "North Goa",
+    "type": "station"
+  },
+  {
+    "id": "belgaum",
+    "name": "Belgaum",
+    "nameMr": "बेळगाव",
+    "nameHi": "बेलगाम",
+    "aliases": [
+      "Belgaum ST",
+      "Belagavi",
+      "Belgaon"
+    ],
+    "division": "kolhapur",
+    "district": "Belagavi",
+    "type": "station"
+  },
+  {
+    "id": "hubli",
+    "name": "Hubli",
+    "nameMr": "हुबळी",
+    "nameHi": "हुबली",
+    "aliases": [
+      "Hubli ST",
+      "Hubballi"
+    ],
+    "division": "kolhapur",
+    "district": "Dharwad",
+    "type": "station"
+  },
+  {
+    "id": "bangalore",
+    "name": "Bangalore",
+    "nameMr": "बेंगलोर",
+    "nameHi": "बेंगलोर",
+    "aliases": [
+      "Bangalore ST",
+      "Bengaluru"
+    ],
+    "division": "kolhapur",
+    "district": "Bengaluru Urban",
+    "type": "station"
+  },
+  {
+    "id": "nipani",
+    "name": "Nipani",
+    "nameMr": "निपाणी",
+    "nameHi": "निपाणी",
+    "aliases": [
+      "Nipani ST"
+    ],
+    "division": "kolhapur",
+    "district": "Belagavi",
+    "type": "station"
+  },
+  {
+    "id": "jamkhandi",
+    "name": "Jamkhandi",
+    "nameMr": "जमखंडी",
+    "nameHi": "जमखंडी",
+    "aliases": [
+      "Jamkhandi ST"
+    ],
+    "division": "kolhapur",
+    "district": "Bagalkote",
+    "type": "station"
+  },
+  {
+    "id": "vengurla",
+    "name": "Vengurla",
+    "nameMr": "वेंगुर्ला",
+    "nameHi": "वेंगुर्ला",
+    "aliases": [
+      "Vengurla ST"
+    ],
+    "division": "ratnagiri",
+    "district": "Sindhudurg",
+    "type": "station"
+  },
+  {
+    "id": "sawantwadi",
+    "name": "Sawantwadi",
+    "nameMr": "सावंतवाडी",
+    "nameHi": "सावंतवाडी",
+    "aliases": [
+      "Sawantwadi ST",
+      "Savantwadi"
+    ],
+    "division": "ratnagiri",
+    "district": "Sindhudurg",
+    "type": "station"
+  },
+  {
+    "id": "kankavli",
+    "name": "Kankavli",
+    "nameMr": "कणकवली",
+    "nameHi": "कणकवली",
+    "aliases": [
+      "Kankavli ST",
+      "Kanakvali"
+    ],
+    "division": "ratnagiri",
+    "district": "Sindhudurg",
+    "type": "station"
+  },
+  {
+    "id": "devgad",
+    "name": "Devgad",
+    "nameMr": "देवगड",
+    "nameHi": "देवगड",
+    "aliases": [
+      "Devgad ST",
+      "Devgarh"
+    ],
+    "division": "ratnagiri",
+    "district": "Sindhudurg",
+    "type": "station"
+  },
+  {
+    "id": "malvan",
+    "name": "Malvan",
+    "nameMr": "मालवण",
+    "nameHi": "मालवण",
+    "aliases": [
+      "Malvan ST",
+      "Malwan"
+    ],
+    "division": "ratnagiri",
+    "district": "Sindhudurg",
+    "type": "station"
+  },
+  {
+    "id": "vijaydurg",
+    "name": "Vijaydurg",
+    "nameMr": "विजयदुर्ग",
+    "nameHi": "विजयदुर्ग",
+    "aliases": [
+      "Vijaydurg ST",
+      "Vijaydurg"
+    ],
+    "division": "ratnagiri",
+    "district": "Sindhudurg",
+    "type": "station"
+  },
+  {
+    "id": "kudal",
+    "name": "Kudal",
+    "nameMr": "कुडाळ",
+    "nameHi": "कुडाळ",
+    "aliases": [
+      "Kudal ST"
+    ],
+    "division": "ratnagiri",
+    "district": "Sindhudurg",
+    "type": "station"
+  },
+  {
+    "id": "rajapur",
+    "name": "Rajapur",
+    "nameMr": "राजापूर",
+    "nameHi": "राजापूर",
+    "aliases": [
+      "Rajapur ST"
+    ],
+    "division": "ratnagiri",
+    "district": "Ratnagiri",
+    "type": "station"
+  },
+  {
+    "id": "lanja",
+    "name": "Lanja",
+    "nameMr": "लांजा",
+    "nameHi": "लांजा",
+    "aliases": [
+      "Lanja ST"
+    ],
+    "division": "ratnagiri",
+    "district": "Ratnagiri",
+    "type": "station"
+  },
+  {
+    "id": "ganpatipule",
+    "name": "Ganpatipule",
+    "nameMr": "गणपतीपुळे",
+    "nameHi": "गणपतीपुळे",
+    "aliases": [
+      "Ganpatipule ST"
+    ],
+    "division": "ratnagiri",
+    "district": "Ratnagiri",
+    "type": "station"
+  },
+  {
+    "id": "sangameshwar",
+    "name": "Sangameshwar",
+    "nameMr": "संगमेश्वर",
+    "nameHi": "संगमेश्वर",
+    "aliases": [
+      "Sangameshwar ST"
+    ],
+    "division": "ratnagiri",
+    "district": "Ratnagiri",
+    "type": "station"
+  },
+  {
+    "id": "talegaon",
+    "name": "Talegaon",
+    "nameMr": "तळेगाव",
+    "nameHi": "तळेगाव",
+    "aliases": [
+      "Talegaon ST",
+      "Talegav"
+    ],
+    "division": "pune",
+    "district": "Pune",
+    "type": "station"
+  },
+  {
+    "id": "sankeshwar",
+    "name": "Sankeshwar",
+    "nameMr": "संखेश्वर",
+    "nameHi": "संखेश्वर",
+    "aliases": [],
+    "division": "kolhapur",
+    "district": "Belagavi",
+    "type": "station"
+  },
+  {
+    "id": "malshiras",
+    "name": "Malshiras",
+    "nameMr": "माळशिरस",
+    "nameHi": "माळशिरस",
+    "aliases": [
+      "Malshiras ST"
+    ],
+    "division": "solapur",
+    "district": "Solapur",
+    "type": "station"
+  },
+  {
+    "id": "chikodi",
+    "name": "Chikodi",
+    "nameMr": "चिक्कोडी",
+    "nameHi": "चिक्कोडी",
+    "aliases": [
+      "Chikodi ST"
+    ],
+    "division": "kolhapur",
+    "district": "Belagavi",
+    "type": "station"
+  },
+  {
+    "id": "pendur",
+    "name": "Pendur",
+    "nameMr": "पेंडूर",
+    "nameHi": "पेंडूर",
+    "aliases": [],
+    "division": "ratnagiri",
+    "district": "Sindhudurg",
+    "type": "station"
+  },
+  {
+    "id": "kasal",
+    "name": "Kasal",
+    "nameMr": "कसाल",
+    "nameHi": "कसाल",
+    "aliases": [],
+    "division": "ratnagiri",
+    "district": "Sindhudurg",
+    "type": "station"
+  },
+  {
+    "id": "phonda",
+    "name": "Phonda",
+    "nameMr": "फोंडा",
+    "nameHi": "फोंडा",
+    "aliases": [],
+    "division": "ratnagiri",
+    "district": "Sindhudurg",
+    "type": "station"
+  },
+  {
+    "id": "shiroda",
+    "name": "Shiroda",
+    "nameMr": "शिरोडा",
+    "nameHi": "शिरोडा",
+    "aliases": [],
+    "division": "ratnagiri",
+    "district": "Sindhudurg",
+    "type": "station"
+  },
+  {
+    "id": "redi",
+    "name": "Redi",
+    "nameMr": "रेडी",
+    "nameHi": "रेडी",
+    "aliases": [],
+    "division": "ratnagiri",
+    "district": "Sindhudurg",
+    "type": "station"
+  },
+  {
+    "id": "aaronda",
+    "name": "Aaronda",
+    "nameMr": "आरोंदा",
+    "nameHi": "आरोंदा",
+    "aliases": [],
+    "division": "ratnagiri",
+    "district": "Sindhudurg",
+    "type": "station"
+  },
+  {
+    "id": "mumbai",
+    "name": "Mumbai",
+    "nameMr": "मुंबई",
+    "nameHi": "मुंबई",
+    "aliases": [
+      "Mumbai Central",
+      "Bombay",
+      "Mumbai ST",
+      "Mumbai Bus Stand"
+    ],
+    "division": "mumbai",
+    "district": "Mumbai",
+    "type": "station",
+    "depot": "mumbai-busstand",
+    "lat": 18.9691,
+    "lng": 72.8193
+  },
+  {
+    "id": "uran",
+    "name": "Uran",
+    "nameMr": "उरण",
+    "nameHi": "उरण",
+    "aliases": [
+      "Uran ST"
+    ],
+    "division": "mumbai",
+    "district": "Raigad",
+    "type": "station",
+    "depot": "uran"
+  },
+  {
+    "id": "dombivali",
+    "name": "Dombivali",
+    "nameMr": "डोंबिवली",
+    "nameHi": "डोंबिवली",
+    "aliases": [
+      "Dombivli"
+    ],
+    "division": "thane",
+    "district": "Thane",
+    "type": "station"
+  },
+  {
+    "id": "nalasopara",
+    "name": "Nalasopara",
+    "nameMr": "नालासोपारा",
+    "nameHi": "नालासोपारा",
+    "aliases": [
+      "Nala Sopara"
+    ],
+    "division": "thane",
+    "district": "Palghar",
+    "type": "station"
+  },
+  {
+    "id": "vasai",
+    "name": "Vasai",
+    "nameMr": "वसई",
+    "nameHi": "वसई",
+    "aliases": [
+      "Vasai ST"
+    ],
+    "division": "thane",
+    "district": "Palghar",
+    "type": "station"
+  },
+  {
+    "id": "palghar",
+    "name": "Palghar",
+    "nameMr": "पालघर",
+    "nameHi": "पालघर",
+    "aliases": [
+      "Palghar ST"
+    ],
+    "division": "thane",
+    "district": "Palghar",
+    "type": "station"
+  },
+  {
+    "id": "boisar",
+    "name": "Boisar",
+    "nameMr": "बोईसर",
+    "nameHi": "बोईसर",
+    "aliases": [],
+    "division": "thane",
+    "district": "Palghar",
+    "type": "station"
+  },
+  {
+    "id": "bhivandi",
+    "name": "Bhivandi",
+    "nameMr": "भिवंडी",
+    "nameHi": "भिवंडी",
+    "aliases": [],
+    "division": "thane",
+    "district": "Thane",
+    "type": "station"
+  },
+  {
+    "id": "nirra",
+    "name": "Nirra",
+    "nameMr": "निरा",
+    "nameHi": "निरा",
+    "aliases": [
+      "Nira ST"
+    ],
+    "division": "pune",
+    "district": "Pune",
+    "type": "station",
+    "depot": "nirra"
+  },
+  {
+    "id": "bhor",
+    "name": "Bhor",
+    "nameMr": "भोर",
+    "nameHi": "भोर",
+    "aliases": [
+      "Bhor ST"
+    ],
+    "division": "pune",
+    "district": "Pune",
+    "type": "station",
+    "depot": "bhor"
+  },
+  {
+    "id": "bhimashankhar",
+    "name": "Bhimashankhar",
+    "nameMr": "भीमाशंकर",
+    "nameHi": "भीमाशंकर",
+    "aliases": [],
+    "division": "pune",
+    "district": "Pune",
+    "type": "station",
+    "depot": "bhimashankhar"
+  },
+  {
+    "id": "supa",
+    "name": "Supa",
+    "nameMr": "सुपा",
+    "nameHi": "सुपा",
+    "aliases": [
+      "Supa ST"
+    ],
+    "division": "pune",
+    "district": "Pune",
+    "type": "station",
+    "depot": "supa"
+  },
+  {
+    "id": "barshi",
+    "name": "Barshi",
+    "nameMr": "बार्शी",
+    "nameHi": "बार्शी",
+    "aliases": [
+      "Barshi ST"
+    ],
+    "division": "solapur",
+    "district": "Solapur",
+    "type": "station"
+  },
+  {
+    "id": "tuljapur",
+    "name": "Tuljapur",
+    "nameMr": "तुळजापूर",
+    "nameHi": "तुळजापुर",
+    "aliases": [
+      "Tuljapur ST"
+    ],
+    "division": "solapur",
+    "district": "Dharashiv",
+    "type": "station"
+  },
+  {
+    "id": "dharashiv",
+    "name": "Dharashiv",
+    "nameMr": "धाराशीव",
+    "nameHi": "धाराशिव",
+    "aliases": [
+      "Osmanabad",
+      "Osmanabad ST"
+    ],
+    "division": "solapur",
+    "district": "Dharashiv",
+    "type": "station"
+  },
+  {
+    "id": "latur",
+    "name": "Latur",
+    "nameMr": "लातूर",
+    "nameHi": "लातूर",
+    "aliases": [
+      "Latur ST"
+    ],
+    "division": "solapur",
+    "district": "Latur",
+    "type": "station"
+  },
+  {
+    "id": "trimbakeshwar",
+    "name": "Trimbakeshwar",
+    "nameMr": "त्र्यंबकेश्वर",
+    "nameHi": "त्र्यंबकेश्वर",
+    "aliases": [
+      "Trimbak",
+      "Tryambakeshwar"
+    ],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station",
+    "depot": "trimbak",
+    "lat": 19.9323,
+    "lng": 73.5305
+  },
+  {
+    "id": "igatpuri",
+    "name": "Igatpuri",
+    "nameMr": "इगतपुरी",
+    "nameHi": "इगतपुरी",
+    "aliases": [
+      "Igatpuri ST"
+    ],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station",
+    "depot": "igatpuri",
+    "lat": 19.6959,
+    "lng": 73.5556
+  },
+  {
+    "id": "ghoti",
+    "name": "Ghoti",
+    "nameMr": "घोटी",
+    "nameHi": "घोटी",
+    "aliases": [
+      "Ghoti ST"
+    ],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station",
+    "depot": "ghoti"
+  },
+  {
+    "id": "satana",
+    "name": "Satana",
+    "nameMr": "सटाणा",
+    "nameHi": "सटाणा",
+    "aliases": [
+      "Satana ST"
+    ],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station",
+    "depot": "satana"
+  },
+  {
+    "id": "manmad",
+    "name": "Manmad",
+    "nameMr": "मनमाड",
+    "nameHi": "मनमाड",
+    "aliases": [
+      "Manmad ST"
+    ],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station",
+    "depot": "manmad",
+    "lat": 20.2614,
+    "lng": 74.4376
+  },
+  {
+    "id": "nandgaon",
+    "name": "Nandgaon",
+    "nameMr": "नांदगाव",
+    "nameHi": "नांदगांव",
+    "aliases": [
+      "Nandgaon ST"
+    ],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station",
+    "depot": "nandgaon"
+  },
+  {
+    "id": "chandwad",
+    "name": "Chandwad",
+    "nameMr": "चांदवड",
+    "nameHi": "चांदवड",
+    "aliases": [
+      "Chandwad ST"
+    ],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station",
+    "depot": "chandwad"
+  },
+  {
+    "id": "dindori",
+    "name": "Dindori",
+    "nameMr": "दिंडोरी",
+    "nameHi": "दिंडोरी",
+    "aliases": [
+      "Dindori ST"
+    ],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station",
+    "depot": "dindori"
+  },
+  {
+    "id": "kalvan",
+    "name": "Kalvan",
+    "nameMr": "कळवण",
+    "nameHi": "कळवण",
+    "aliases": [
+      "Kalwan"
+    ],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station",
+    "depot": "kalvan"
+  },
+  {
+    "id": "lasalgaon",
+    "name": "Lasalgaon",
+    "nameMr": "लासलगाव",
+    "nameHi": "लासलगाव",
+    "aliases": [
+      "Lasalgaon ST"
+    ],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station",
+    "depot": "lasalgaon"
+  },
+  {
+    "id": "vinchur",
+    "name": "Vinchur",
+    "nameMr": "विंचूर",
+    "nameHi": "विंचूर",
+    "aliases": [
+      "Nifad"
+    ],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station",
+    "depot": "vinchur"
+  },
+  {
+    "id": "yeola",
+    "name": "Yeola",
+    "nameMr": "येवला",
+    "nameHi": "येवला",
+    "aliases": [
+      "Yeola ST"
+    ],
+    "division": "nashik",
+    "district": "Nashik",
+    "type": "station"
+  },
+  {
+    "id": "nandurbar",
+    "name": "Nandurbar",
+    "nameMr": "नंदुरबार",
+    "nameHi": "नंदुरबार",
+    "aliases": [
+      "Nandurbar ST"
+    ],
+    "division": "nashik",
+    "district": "Nandurbar",
+    "type": "station"
+  },
+  {
+    "id": "dhule",
+    "name": "Dhule",
+    "nameMr": "धुळे",
+    "nameHi": "धुले",
+    "aliases": [
+      "Dhule ST"
+    ],
+    "division": "nashik",
+    "district": "Dhule",
+    "type": "station"
+  },
+  {
+    "id": "jalgaon",
+    "name": "Jalgaon",
+    "nameMr": "जळगाव",
+    "nameHi": "जलगाव",
+    "aliases": [
+      "Jalgaon ST"
+    ],
+    "division": "nashik",
+    "district": "Jalgaon",
+    "type": "station"
+  },
+  {
+    "id": "mahad",
+    "name": "Mahad",
+    "nameMr": "महाड",
+    "nameHi": "महाड",
+    "aliases": [
+      "Mahad ST"
+    ],
+    "division": "ratnagiri",
+    "district": "Raigad",
+    "type": "station",
+    "depot": "mahad-highway"
+  },
+  {
+    "id": "alibag",
+    "name": "Alibag",
+    "nameMr": "अलिबाग",
+    "nameHi": "अलिबाग",
+    "aliases": [
+      "Alibag ST",
+      "Alibaug"
+    ],
+    "division": "ratnagiri",
+    "district": "Raigad",
+    "type": "station"
+  },
+  {
+    "id": "murud",
+    "name": "Murud",
+    "nameMr": "मुरुड",
+    "nameHi": "मुरुड",
+    "aliases": [
+      "Murud ST"
+    ],
+    "division": "ratnagiri",
+    "district": "Raigad",
+    "type": "station"
+  },
+  {
+    "id": "shrivardhun",
+    "name": "Shrivardhun",
+    "nameMr": "श्रीवर्धन",
+    "nameHi": "श्रीवर्धन",
+    "aliases": [
+      "Shrivardhan"
+    ],
+    "division": "ratnagiri",
+    "district": "Raigad",
+    "type": "station"
+  },
+  {
+    "id": "dapoli",
+    "name": "Dapoli",
+    "nameMr": "दापोली",
+    "nameHi": "दापोली",
+    "aliases": [
+      "Dapoli ST"
+    ],
+    "division": "ratnagiri",
+    "district": "Ratnagiri",
+    "type": "station"
+  },
+  {
+    "id": "khed-ratnagiri",
+    "name": "Khed",
+    "nameMr": "खेड",
+    "nameHi": "खेड",
+    "aliases": [
+      "Khed ST"
+    ],
+    "division": "ratnagiri",
+    "district": "Ratnagiri",
+    "type": "station"
+  },
+  {
+    "id": "surat",
+    "name": "Surat",
+    "nameMr": "सुरत",
+    "nameHi": "सूरत",
+    "aliases": [],
+    "division": "nashik",
+    "district": "Gujarat",
+    "type": "station"
+  },
+  {
+    "id": "hyderabad",
+    "name": "Hyderabad",
+    "nameMr": "हैदराबाद",
+    "nameHi": "हैदराबाद",
+    "aliases": [],
+    "division": "solapur",
+    "district": "Telangana",
+    "type": "station"
+  },
+  {
+    "id": "gulbarga",
+    "name": "Gulbarga",
+    "nameMr": "गुलबर्गा",
+    "nameHi": "गुलबर्गा",
+    "aliases": [
+      "Kalaburagi"
+    ],
+    "division": "solapur",
+    "district": "Karnataka",
+    "type": "station"
+  },
+  {
+    "id": "bidar",
+    "name": "Bidar",
+    "nameMr": "बिदर",
+    "nameHi": "बीदर",
+    "aliases": [],
+    "division": "solapur",
+    "district": "Karnataka",
+    "type": "station"
+  }
+]
