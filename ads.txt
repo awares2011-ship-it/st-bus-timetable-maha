@@ -1,0 +1,7 @@
+# ads.txt for ST Bus Timetable Maha
+# Publisher: ST Bus Timetable Maha
+# Contact: support@stbustimetablemaha.com
+# Last Updated: September 7, 2026
+
+# Google AdMob
+google.com, pub-1607968585289432, DIRECT, f08c47fec0942fa0
